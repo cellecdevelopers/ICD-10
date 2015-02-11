@@ -1,0 +1,748 @@
+E00.0@Congenital iodine-deficiency syndrome, neurological type
+E00.1@Congenital iodine-deficiency syndrome, myxedematous type
+E00.2@Congenital iodine-deficiency syndrome, mixed type
+E00.9@Congenital iodine-deficiency syndrome, unspecified
+#
+E01.0@Iodine-deficiency related diffuse (endemic) goiter
+E01.1@Iodine-deficiency related multinodular (endemic) goiter
+E01.2@Iodine-deficiency related (endemic) goiter, unspecified
+E01.8@Oth iodine-deficiency related thyroid disord and allied cond
+#
+E02.@Subclinical iodine-deficiency hypothyroidism
+#
+E03.0@Congenital hypothyroidism with diffuse goiter
+E03.1@Congenital hypothyroidism without goiter
+E03.2@Hypothyroidism due to meds and oth exogenous substances
+E03.3@Postinfectious hypothyroidism
+E03.4@Atrophy of thyroid (acquired)
+E03.5@Myxedema coma
+E03.8@Other specified hypothyroidism
+E03.9@Hypothyroidism, unspecified
+#
+E04.0@Nontoxic diffuse goiter
+E04.1@Nontoxic single thyroid nodule
+E04.2@Nontoxic multinodular goiter
+E04.8@Other specified nontoxic goiter
+E04.9@Nontoxic goiter, unspecified
+#
+E05.00@Thyrotoxicosis w diffuse goiter w/o thyrotoxic crisis
+E05.01@Thyrotoxicosis w diffuse goiter w thyrotoxic crisis or storm
+E05.10@Thyrotxcosis w toxic sing thyroid nodule w/o thyrotxc crisis
+E05.11@Thyrotxcosis w toxic single thyroid nodule w thyrotxc crisis
+E05.20@Thyrotxcosis w toxic multinod goiter w/o thyrotoxic crisis
+E05.21@Thyrotxcosis w toxic multinodular goiter w thyrotoxic crisis
+E05.30@Thyrotxcosis from ectopic thyroid tissue w/o thyrotxc crisis
+E05.31@Thyrotxcosis from ectopic thyroid tissue w thyrotoxic crisis
+E05.40@Thyrotoxicosis factitia without thyrotoxic crisis or storm
+E05.41@Thyrotoxicosis factitia with thyrotoxic crisis or storm
+E05.80@Other thyrotoxicosis without thyrotoxic crisis or storm
+E05.81@Other thyrotoxicosis with thyrotoxic crisis or storm
+E05.90@Thyrotoxicosis, unsp without thyrotoxic crisis or storm
+E05.91@Thyrotoxicosis, unspecified with thyrotoxic crisis or storm
+#
+E06.0@Acute thyroiditis
+E06.1@Subacute thyroiditis
+E06.2@Chronic thyroiditis with transient thyrotoxicosis
+E06.3@Autoimmune thyroiditis
+E06.4@Drug-induced thyroiditis
+E06.5@Other chronic thyroiditis
+E06.9@Thyroiditis, unspecified
+#
+E07.0@Hypersecretion of calcitonin
+E07.1@Dyshormogenetic goiter
+E07.81@Sick-euthyroid syndrome
+E07.89@Other specified disorders of thyroid
+E07.9@Disorder of thyroid, unspecified
+#
+E08.00@Diab d/t undrl cond w hyprosm w/o nonket hyprgly-hypros coma
+E08.01@Diabetes due to underlying condition w hyprosm w coma
+E08.10@Diabetes due to underlying condition w ketoacidosis w/o coma
+E08.11@Diabetes due to underlying condition w ketoacidosis w coma
+E08.21@Diabetes due to underlying condition w diabetic nephropathy
+E08.22@Diabetes due to undrl cond w diabetic chronic kidney disease
+E08.29@Diabetes due to undrl condition w oth diabetic kidney comp
+E08.311@Diab due to undrl cond w unsp diabetic rtnop w macular edema
+E08.319@Diab due to undrl cond w unsp diab rtnop w/o macular edema
+E08.321@Diab d/t undrl cond w mild nonprlf diab rtnop w mclr edema
+E08.329@Diab d/t undrl cond w mild nonprlf diab rtnop w/o mclr edema
+E08.331@Diab due to undrl cond w mod nonprlf diab rtnop w mclr edema
+E08.339@Diab d/t undrl cond w mod nonprlf diab rtnop w/o mclr edema
+E08.341@Diab d/t undrl cond w severe nonprlf diab rtnop w mclr edema
+E08.349@Diab d/t undrl cond w sev nonprlf diab rtnop w/o mclr edema
+E08.351@Diab due to undrl cond w prolif diab rtnop w macular edema
+E08.359@Diab due to undrl cond w prolif diab rtnop w/o macular edema
+E08.36@Diabetes due to underlying condition w diabetic cataract
+E08.39@Diabetes due to undrl condition w oth diabetic opth comp
+E08.40@Diabetes due to underlying condition w diabetic neurop, unsp
+E08.41@Diabetes due to undrl condition w diabetic mononeuropathy
+E08.42@Diabetes due to underlying condition w diabetic polyneurop
+E08.43@Diab due to undrl cond w diabetic autonm (poly)neuropathy
+E08.44@Diabetes due to underlying condition w diabetic amyotrophy
+E08.49@Diabetes due to undrl condition w oth diabetic neuro comp
+E08.51@Diab due to undrl cond w diab prph angiopath w/o gangrene
+E08.52@Diab due to undrl cond w diabetic prph angiopath w gangrene
+E08.59@Diabetes due to underlying condition w oth circulatory comp
+E08.610@Diabetes due to undrl cond w diabetic neuropathic arthrop
+E08.618@Diabetes due to underlying condition w oth diabetic arthrop
+E08.620@Diabetes due to underlying condition w diabetic dermatitis
+E08.621@Diabetes mellitus due to underlying condition w foot ulcer
+E08.622@Diabetes due to underlying condition w oth skin ulcer
+E08.628@Diabetes due to underlying condition w oth skin comp
+E08.630@Diabetes due to underlying condition w periodontal disease
+E08.638@Diabetes due to underlying condition w oth oral comp
+E08.641@Diabetes due to underlying condition w hypoglycemia w coma
+E08.649@Diabetes due to underlying condition w hypoglycemia w/o coma
+E08.65@Diabetes due to underlying condition w hyperglycemia
+E08.69@Diabetes due to underlying condition w oth complication
+E08.8@Diabetes due to underlying condition w unsp complications
+E08.9@Diabetes due to underlying condition w/o complications
+#
+E09.00@Drug/chem diab w hyprosm w/o nonket hyprgly-hypros coma
+E09.01@Drug/chem diabetes mellitus w hyperosmolarity w coma
+E09.10@Drug/chem diabetes mellitus w ketoacidosis w/o coma
+E09.11@Drug/chem diabetes mellitus w ketoacidosis w coma
+E09.21@Drug/chem diabetes mellitus w diabetic nephropathy
+E09.22@Drug/chem diabetes w diabetic chronic kidney disease
+E09.29@Drug/chem diabetes w oth diabetic kidney complication
+E09.311@Drug/chem diabetes w unsp diabetic rtnop w macular edema
+E09.319@Drug/chem diabetes w unsp diabetic rtnop w/o macular edema
+E09.321@Drug/chem diab w mild nonprlf diabetic rtnop w macular edema
+E09.329@Drug/chem diab w mild nonprlf diab rtnop w/o macular edema
+E09.331@Drug/chem diab w moderate nonprlf diab rtnop w macular edema
+E09.339@Drug/chem diab w mod nonprlf diab rtnop w/o macular edema
+E09.341@Drug/chem diab w severe nonprlf diab rtnop w macular edema
+E09.349@Drug/chem diab w severe nonprlf diab rtnop w/o macular edema
+E09.351@Drug/chem diabetes w prolif diabetic rtnop w macular edema
+E09.359@Drug/chem diabetes w prolif diabetic rtnop w/o macular edema
+E09.36@Drug/chem diabetes mellitus w diabetic cataract
+E09.39@Drug/chem diabetes w oth diabetic ophthalmic complication
+E09.40@Drug/chem diabetes w neuro comp w diabetic neuropathy, unsp
+E09.41@Drug/chem diabetes w neuro comp w diabetic mononeuropathy
+E09.42@Drug/chem diabetes w neurological comp w diabetic polyneurop
+E09.43@Drug/chem diab w neuro comp w diab autonm (poly)neuropathy
+E09.44@Drug/chem diabetes w neurological comp w diabetic amyotrophy
+E09.49@Drug/chem diabetes w neuro comp w oth diabetic neuro comp
+E09.51@Drug/chem diabetes w diabetic prph angiopath w/o gangrene
+E09.52@Drug/chem diabetes w diabetic prph angiopath w gangrene
+E09.59@Drug/chem diabetes mellitus w oth circulatory complications
+E09.610@Drug/chem diabetes w diabetic neuropathic arthropathy
+E09.618@Drug/chem diabetes mellitus w oth diabetic arthropathy
+E09.620@Drug/chem diabetes mellitus w diabetic dermatitis
+E09.621@Drug or chemical induced diabetes mellitus with foot ulcer
+E09.622@Drug or chemical induced diabetes mellitus w oth skin ulcer
+E09.628@Drug/chem diabetes mellitus w oth skin complications
+E09.630@Drug/chem diabetes mellitus w periodontal disease
+E09.638@Drug/chem diabetes mellitus w oth oral complications
+E09.641@Drug/chem diabetes mellitus w hypoglycemia w coma
+E09.649@Drug/chem diabetes mellitus w hypoglycemia w/o coma
+E09.65@Drug or chemical induced diabetes mellitus w hyperglycemia
+E09.69@Drug/chem diabetes mellitus w oth complication
+E09.8@Drug/chem diabetes mellitus w unsp complications
+E09.9@Drug or chemical induced diabetes mellitus w/o complications
+#
+E10.10@Type 1 diabetes mellitus with ketoacidosis without coma
+E10.11@Type 1 diabetes mellitus with ketoacidosis with coma
+E10.21@Type 1 diabetes mellitus with diabetic nephropathy
+E10.22@Type 1 diabetes mellitus w diabetic chronic kidney disease
+E10.29@Type 1 diabetes mellitus w oth diabetic kidney complication
+E10.311@Type 1 diabetes w unsp diabetic retinopathy w macular edema
+E10.319@Type 1 diabetes w unsp diabetic rtnop w/o macular edema
+E10.321@Type 1 diab w mild nonprlf diabetic rtnop w macular edema
+E10.329@Type 1 diab w mild nonprlf diabetic rtnop w/o macular edema
+E10.331@Type 1 diab w moderate nonprlf diab rtnop w macular edema
+E10.339@Type 1 diab w moderate nonprlf diab rtnop w/o macular edema
+E10.341@Type 1 diab w severe nonprlf diabetic rtnop w macular edema
+E10.349@Type 1 diab w severe nonprlf diab rtnop w/o macular edema
+E10.351@Type 1 diabetes w prolif diabetic rtnop w macular edema
+E10.359@Type 1 diabetes w prolif diabetic rtnop w/o macular edema
+E10.36@Type 1 diabetes mellitus with diabetic cataract
+E10.39@Type 1 diabetes w oth diabetic ophthalmic complication
+E10.40@Type 1 diabetes mellitus with diabetic neuropathy, unsp
+E10.41@Type 1 diabetes mellitus with diabetic mononeuropathy
+E10.42@Type 1 diabetes mellitus with diabetic polyneuropathy
+E10.43@Type 1 diabetes w diabetic autonomic (poly)neuropathy
+E10.44@Type 1 diabetes mellitus with diabetic amyotrophy
+E10.49@Type 1 diabetes w oth diabetic neurological complication
+E10.51@Type 1 diabetes w diabetic peripheral angiopath w/o gangrene
+E10.52@Type 1 diabetes w diabetic peripheral angiopathy w gangrene
+E10.59@Type 1 diabetes mellitus with oth circulatory complications
+E10.610@Type 1 diabetes mellitus w diabetic neuropathic arthropathy
+E10.618@Type 1 diabetes mellitus with other diabetic arthropathy
+E10.620@Type 1 diabetes mellitus with diabetic dermatitis
+E10.621@Type 1 diabetes mellitus with foot ulcer
+E10.622@Type 1 diabetes mellitus with other skin ulcer
+E10.628@Type 1 diabetes mellitus with other skin complications
+E10.630@Type 1 diabetes mellitus with periodontal disease
+E10.638@Type 1 diabetes mellitus with other oral complications
+E10.641@Type 1 diabetes mellitus with hypoglycemia with coma
+E10.649@Type 1 diabetes mellitus with hypoglycemia without coma
+E10.65@Type 1 diabetes mellitus with hyperglycemia
+E10.69@Type 1 diabetes mellitus with other specified complication
+E10.8@Type 1 diabetes mellitus with unspecified complications
+E10.9@Type 1 diabetes mellitus without complications
+#
+E11.00@Type 2 diab w hyprosm w/o nonket hyprgly-hypros coma (NKHHC)
+E11.01@Type 2 diabetes mellitus with hyperosmolarity with coma
+E11.21@Type 2 diabetes mellitus with diabetic nephropathy
+E11.22@Type 2 diabetes mellitus w diabetic chronic kidney disease
+E11.29@Type 2 diabetes mellitus w oth diabetic kidney complication
+E11.311@Type 2 diabetes w unsp diabetic retinopathy w macular edema
+E11.319@Type 2 diabetes w unsp diabetic rtnop w/o macular edema
+E11.321@Type 2 diab w mild nonprlf diabetic rtnop w macular edema
+E11.329@Type 2 diab w mild nonprlf diabetic rtnop w/o macular edema
+E11.331@Type 2 diab w moderate nonprlf diab rtnop w macular edema
+E11.339@Type 2 diab w moderate nonprlf diab rtnop w/o macular edema
+E11.341@Type 2 diab w severe nonprlf diabetic rtnop w macular edema
+E11.349@Type 2 diab w severe nonprlf diab rtnop w/o macular edema
+E11.351@Type 2 diabetes w prolif diabetic rtnop w macular edema
+E11.359@Type 2 diabetes w prolif diabetic rtnop w/o macular edema
+E11.36@Type 2 diabetes mellitus with diabetic cataract
+E11.39@Type 2 diabetes w oth diabetic ophthalmic complication
+E11.40@Type 2 diabetes mellitus with diabetic neuropathy, unsp
+E11.41@Type 2 diabetes mellitus with diabetic mononeuropathy
+E11.42@Type 2 diabetes mellitus with diabetic polyneuropathy
+E11.43@Type 2 diabetes w diabetic autonomic (poly)neuropathy
+E11.44@Type 2 diabetes mellitus with diabetic amyotrophy
+E11.49@Type 2 diabetes w oth diabetic neurological complication
+E11.51@Type 2 diabetes w diabetic peripheral angiopath w/o gangrene
+E11.52@Type 2 diabetes w diabetic peripheral angiopathy w gangrene
+E11.59@Type 2 diabetes mellitus with oth circulatory complications
+E11.610@Type 2 diabetes mellitus w diabetic neuropathic arthropathy
+E11.618@Type 2 diabetes mellitus with other diabetic arthropathy
+E11.620@Type 2 diabetes mellitus with diabetic dermatitis
+E11.621@Type 2 diabetes mellitus with foot ulcer
+E11.622@Type 2 diabetes mellitus with other skin ulcer
+E11.628@Type 2 diabetes mellitus with other skin complications
+E11.630@Type 2 diabetes mellitus with periodontal disease
+E11.638@Type 2 diabetes mellitus with other oral complications
+E11.641@Type 2 diabetes mellitus with hypoglycemia with coma
+E11.649@Type 2 diabetes mellitus with hypoglycemia without coma
+E11.65@Type 2 diabetes mellitus with hyperglycemia
+E11.69@Type 2 diabetes mellitus with other specified complication
+E11.8@Type 2 diabetes mellitus with unspecified complications
+E11.9@Type 2 diabetes mellitus without complications
+#
+E13.00@Oth diab w hyprosm w/o nonket hyprgly-hypros coma (NKHHC)
+E13.01@Oth diabetes mellitus with hyperosmolarity with coma
+E13.10@Oth diabetes mellitus with ketoacidosis without coma
+E13.11@Oth diabetes mellitus with ketoacidosis with coma
+E13.21@Other specified diabetes mellitus with diabetic nephropathy
+E13.22@Oth diabetes mellitus with diabetic chronic kidney disease
+E13.29@Oth diabetes mellitus with oth diabetic kidney complication
+E13.311@Oth diabetes w unsp diabetic retinopathy w macular edema
+E13.319@Oth diabetes w unsp diabetic retinopathy w/o macular edema
+E13.321@Oth diabetes w mild nonprlf diabetic rtnop w macular edema
+E13.329@Oth diabetes w mild nonprlf diabetic rtnop w/o macular edema
+E13.331@Oth diab w moderate nonprlf diabetic rtnop w macular edema
+E13.339@Oth diab w moderate nonprlf diabetic rtnop w/o macular edema
+E13.341@Oth diabetes w severe nonprlf diabetic rtnop w macular edema
+E13.349@Oth diab w severe nonprlf diabetic rtnop w/o macular edema
+E13.351@Oth diabetes w prolif diabetic retinopathy w macular edema
+E13.359@Oth diabetes w prolif diabetic retinopathy w/o macular edema
+E13.36@Other specified diabetes mellitus with diabetic cataract
+E13.39@Oth diabetes mellitus w oth diabetic ophthalmic complication
+E13.40@Oth diabetes mellitus with diabetic neuropathy, unspecified
+E13.41@Oth diabetes mellitus with diabetic mononeuropathy
+E13.42@Oth diabetes mellitus with diabetic polyneuropathy
+E13.43@Oth diabetes mellitus w diabetic autonomic (poly)neuropathy
+E13.44@Other specified diabetes mellitus with diabetic amyotrophy
+E13.49@Oth diabetes w oth diabetic neurological complication
+E13.51@Oth diabetes w diabetic peripheral angiopathy w/o gangrene
+E13.52@Oth diabetes w diabetic peripheral angiopathy w gangrene
+E13.59@Oth diabetes mellitus with other circulatory complications
+E13.610@Oth diabetes mellitus with diabetic neuropathic arthropathy
+E13.618@Oth diabetes mellitus with other diabetic arthropathy
+E13.620@Other specified diabetes mellitus with diabetic dermatitis
+E13.621@Other specified diabetes mellitus with foot ulcer
+E13.622@Other specified diabetes mellitus with other skin ulcer
+E13.628@Oth diabetes mellitus with other skin complications
+E13.630@Other specified diabetes mellitus with periodontal disease
+E13.638@Oth diabetes mellitus with other oral complications
+E13.641@Oth diabetes mellitus with hypoglycemia with coma
+E13.649@Oth diabetes mellitus with hypoglycemia without coma
+E13.65@Other specified diabetes mellitus with hyperglycemia
+E13.69@Oth diabetes mellitus with other specified complication
+E13.8@Oth diabetes mellitus with unspecified complications
+E13.9@Other specified diabetes mellitus without complications
+#
+E15.@Nondiabetic hypoglycemic coma
+#
+E16.0@Drug-induced hypoglycemia without coma
+E16.1@Other hypoglycemia
+E16.2@Hypoglycemia, unspecified
+E16.3@Increased secretion of glucagon
+E16.4@Increased secretion of gastrin
+E16.8@Other specified disorders of pancreatic internal secretion
+E16.9@Disorder of pancreatic internal secretion, unspecified
+#
+E20.0@Idiopathic hypoparathyroidism
+E20.1@Pseudohypoparathyroidism
+E20.8@Other hypoparathyroidism
+E20.9@Hypoparathyroidism, unspecified
+#
+E21.0@Primary hyperparathyroidism
+E21.1@Secondary hyperparathyroidism, not elsewhere classified
+E21.2@Other hyperparathyroidism
+E21.3@Hyperparathyroidism, unspecified
+E21.4@Other specified disorders of parathyroid gland
+E21.5@Disorder of parathyroid gland, unspecified
+#
+E22.0@Acromegaly and pituitary gigantism
+E22.1@Hyperprolactinemia
+E22.2@Syndrome of inappropriate secretion of antidiuretic hormone
+E22.8@Other hyperfunction of pituitary gland
+E22.9@Hyperfunction of pituitary gland, unspecified
+#
+E23.0@Hypopituitarism
+E23.1@Drug-induced hypopituitarism
+E23.2@Diabetes insipidus
+E23.3@Hypothalamic dysfunction, not elsewhere classified
+E23.6@Other disorders of pituitary gland
+E23.7@Disorder of pituitary gland, unspecified
+#
+E24.0@Pituitary-dependent Cushing's disease
+E24.1@Nelson's syndrome
+E24.2@Drug-induced Cushing's syndrome
+E24.3@Ectopic ACTH syndrome
+E24.4@Alcohol-induced pseudo-Cushing's syndrome
+E24.8@Other Cushing's syndrome
+E24.9@Cushing's syndrome, unspecified
+#
+E25.0@Congenital adrenogenital disorders assoc w enzyme deficiency
+E25.8@Other adrenogenital disorders
+E25.9@Adrenogenital disorder, unspecified
+#
+E26.01@Conn's syndrome
+E26.02@Glucocorticoid-remediable aldosteronism
+E26.09@Other primary hyperaldosteronism
+E26.1@Secondary hyperaldosteronism
+E26.81@Bartter's syndrome
+E26.89@Other hyperaldosteronism
+E26.9@Hyperaldosteronism, unspecified
+#
+E27.0@Other adrenocortical overactivity
+E27.1@Primary adrenocortical insufficiency
+E27.2@Addisonian crisis
+E27.3@Drug-induced adrenocortical insufficiency
+E27.40@Unspecified adrenocortical insufficiency
+E27.49@Other adrenocortical insufficiency
+E27.5@Adrenomedullary hyperfunction
+E27.8@Other specified disorders of adrenal gland
+E27.9@Disorder of adrenal gland, unspecified
+#
+E28.0@Estrogen excess
+E28.1@Androgen excess
+E28.2@Polycystic ovarian syndrome
+E28.310@Symptomatic premature menopause
+E28.319@Asymptomatic premature menopause
+E28.39@Other primary ovarian failure
+E28.8@Other ovarian dysfunction
+E28.9@Ovarian dysfunction, unspecified
+#
+E29.0@Testicular hyperfunction
+E29.1@Testicular hypofunction
+E29.8@Other testicular dysfunction
+E29.9@Testicular dysfunction, unspecified
+#
+E30.0@Delayed puberty
+E30.1@Precocious puberty
+E30.8@Other disorders of puberty
+E30.9@Disorder of puberty, unspecified
+#
+E31.0@Autoimmune polyglandular failure
+E31.1@Polyglandular hyperfunction
+E31.20@Multiple endocrine neoplasia [MEN] syndrome, unspecified
+E31.21@Multiple endocrine neoplasia [MEN] type I
+E31.22@Multiple endocrine neoplasia [MEN] type IIA
+E31.23@Multiple endocrine neoplasia [MEN] type IIB
+E31.8@Other polyglandular dysfunction
+E31.9@Polyglandular dysfunction, unspecified
+#
+E32.0@Persistent hyperplasia of thymus
+E32.1@Abscess of thymus
+E32.8@Other diseases of thymus
+E32.9@Disease of thymus, unspecified
+#
+E34.0@Carcinoid syndrome
+E34.1@Other hypersecretion of intestinal hormones
+E34.2@Ectopic hormone secretion, not elsewhere classified
+E34.3@Short stature due to endocrine disorder
+E34.4@Constitutional tall stature
+E34.50@Androgen insensitivity syndrome, unspecified
+E34.51@Complete androgen insensitivity syndrome
+E34.52@Partial androgen insensitivity syndrome
+E34.8@Other specified endocrine disorders
+E34.9@Endocrine disorder, unspecified
+#
+E35.@Disorders of endocrine glands in diseases classd elswhr
+#
+E36.01@Intraop hemor/hemtom of endo sys org comp an endo sys proc
+E36.02@Intraop hemor/hemtom of an endo sys org comp oth procedure
+E36.11@Acc pnctr & lac of an endo sys org during an endo sys proc
+E36.12@Acc pnctr & lac of an endo sys org during oth procedure
+E36.8@Other intraoperative complications of endocrine system
+#
+E40.@Kwashiorkor
+#
+E41.@Nutritional marasmus
+#
+E42.@Marasmic kwashiorkor
+#
+E43.@Unspecified severe protein-calorie malnutrition
+#
+E44.0@Moderate protein-calorie malnutrition
+E44.1@Mild protein-calorie malnutrition
+#
+E45.@Retarded development following protein-calorie malnutrition
+#
+E46.@Unspecified protein-calorie malnutrition
+#
+E50.0@Vitamin A deficiency with conjunctival xerosis
+E50.1@Vitamin A deficiency w Bitot's spot and conjunctival xerosis
+E50.2@Vitamin A deficiency with corneal xerosis
+E50.3@Vitamin A deficiency with corneal ulceration and xerosis
+E50.4@Vitamin A deficiency with keratomalacia
+E50.5@Vitamin A deficiency with night blindness
+E50.6@Vitamin A deficiency with xerophthalmic scars of cornea
+E50.7@Other ocular manifestations of vitamin A deficiency
+E50.8@Other manifestations of vitamin A deficiency
+E50.9@Vitamin A deficiency, unspecified
+#
+E51.11@Dry beriberi
+E51.12@Wet beriberi
+E51.2@Wernicke's encephalopathy
+E51.8@Other manifestations of thiamine deficiency
+E51.9@Thiamine deficiency, unspecified
+#
+E52.@Niacin deficiency [pellagra]
+#
+E53.0@Riboflavin deficiency
+E53.1@Pyridoxine deficiency
+E53.8@Deficiency of other specified B group vitamins
+E53.9@Vitamin B deficiency, unspecified
+#
+E54.@Ascorbic acid deficiency
+#
+E55.0@Rickets, active
+E55.9@Vitamin D deficiency, unspecified
+#
+E56.0@Deficiency of vitamin E
+E56.1@Deficiency of vitamin K
+E56.8@Deficiency of other vitamins
+#
+E56.9@Vitamin deficiency, unspecified
+#
+E58.@Dietary calcium deficiency
+#
+E59.@Dietary selenium deficiency
+#
+E60.@Dietary zinc deficiency
+#
+E61.0@Copper deficiency
+E61.1@Iron deficiency
+E61.2@Magnesium deficiency
+E61.3@Manganese deficiency
+E61.4@Chromium deficiency
+E61.5@Molybdenum deficiency
+E61.6@Vanadium deficiency
+E61.7@Deficiency of multiple nutrient elements
+E61.8@Deficiency of other specified nutrient elements
+E61.9@Deficiency of nutrient element, unspecified
+#
+E63.0@Essential fatty acid [EFA] deficiency
+E63.1@Imbalance of constituents of food intake
+E63.8@Other specified nutritional deficiencies
+E63.9@Nutritional deficiency, unspecified
+#
+E64.0@Sequelae of protein-calorie malnutrition
+E64.1@Sequelae of vitamin A deficiency
+E64.2@Sequelae of vitamin C deficiency
+E64.3@Sequelae of rickets
+E64.8@Sequelae of other nutritional deficiencies
+E64.9@Sequelae of unspecified nutritional deficiency
+#
+E65.@Localized adiposity
+#
+E66.01@Morbid (severe) obesity due to excess calories
+E66.09@Other obesity due to excess calories
+E66.1@Drug-induced obesity
+E66.2@Morbid (severe) obesity with alveolar hypoventilation
+E66.3@Overweight
+E66.8@Other obesity
+E66.9@Obesity, unspecified
+#
+E67.0@Hypervitaminosis A
+E67.1@Hypercarotinemia
+E67.2@Megavitamin-B6 syndrome
+E67.3@Hypervitaminosis D
+E67.8@Other specified hyperalimentation
+#
+E68.@Sequelae of hyperalimentation
+#
+E70.0@Classical phenylketonuria
+E70.1@Other hyperphenylalaninemias
+E70.20@Disorder of tyrosine metabolism, unspecified
+E70.21@Tyrosinemia
+E70.29@Other disorders of tyrosine metabolism
+E70.30@Albinism, unspecified
+E70.310@X-linked ocular albinism
+E70.311@Autosomal recessive ocular albinism
+E70.318@Other ocular albinism
+E70.319@Ocular albinism, unspecified
+E70.320@Tyrosinase negative oculocutaneous albinism
+E70.321@Tyrosinase positive oculocutaneous albinism
+E70.328@Other oculocutaneous albinism
+E70.329@Oculocutaneous albinism, unspecified
+E70.330@Chediak-Higashi syndrome
+E70.331@Hermansky-Pudlak syndrome
+E70.338@Other albinism with hematologic abnormality
+E70.339@Albinism with hematologic abnormality, unspecified
+E70.39@Other specified albinism
+E70.40@Disorders of histidine metabolism, unspecified
+E70.41@Histidinemia
+E70.49@Other disorders of histidine metabolism
+E70.5@Disorders of tryptophan metabolism
+E70.8@Other disorders of aromatic amino-acid metabolism
+E70.9@Disorder of aromatic amino-acid metabolism, unspecified
+#
+E71.0@Maple-syrup-urine disease
+E71.110@Isovaleric acidemia
+E71.111@3-methylglutaconic aciduria
+E71.118@Other branched-chain organic acidurias
+E71.120@Methylmalonic acidemia
+E71.121@Propionic acidemia
+E71.128@Other disorders of propionate metabolism
+E71.19@Other disorders of branched-chain amino-acid metabolism
+E71.2@Disorder of branched-chain amino-acid metabolism, unsp
+E71.30@Disorder of fatty-acid metabolism, unspecified
+E71.310@Long chain/very long chain acyl CoA dehydrogenase deficiency
+E71.311@Medium chain acyl CoA dehydrogenase deficiency
+E71.312@Short chain acyl CoA dehydrogenase deficiency
+E71.313@Glutaric aciduria type II
+E71.314@Muscle carnitine palmitoyltransferase deficiency
+E71.318@Other disorders of fatty-acid oxidation
+E71.32@Disorders of ketone metabolism
+E71.39@Other disorders of fatty-acid metabolism
+E71.40@Disorder of carnitine metabolism, unspecified
+E71.41@Primary carnitine deficiency
+E71.42@Carnitine deficiency due to inborn errors of metabolism
+E71.43@Iatrogenic carnitine deficiency
+E71.440@Ruvalcaba-Myhre-Smith syndrome
+E71.448@Other secondary carnitine deficiency
+E71.50@Peroxisomal disorder, unspecified
+E71.510@Zellweger syndrome
+E71.511@Neonatal adrenoleukodystrophy
+E71.518@Other disorders of peroxisome biogenesis
+E71.520@Childhood cerebral X-linked adrenoleukodystrophy
+E71.521@Adolescent X-linked adrenoleukodystrophy
+E71.522@Adrenomyeloneuropathy
+E71.528@Other X-linked adrenoleukodystrophy
+E71.529@X-linked adrenoleukodystrophy, unspecified type
+E71.53@Other group 2 peroxisomal disorders
+E71.540@Rhizomelic chondrodysplasia punctata
+E71.541@Zellweger-like syndrome
+E71.542@Other group 3 peroxisomal disorders
+E71.548@Other peroxisomal disorders
+#
+E72.00@Disorders of amino-acid transport, unspecified
+E72.01@Cystinuria
+E72.02@Hartnup's disease
+E72.03@Lowe's syndrome
+E72.04@Cystinosis
+E72.09@Other disorders of amino-acid transport
+E72.10@Disorders of sulfur-bearing amino-acid metabolism, unsp
+E72.11@Homocystinuria
+E72.12@Methylenetetrahydrofolate reductase deficiency
+E72.19@Other disorders of sulfur-bearing amino-acid metabolism
+E72.20@Disorder of urea cycle metabolism, unspecified
+E72.21@Argininemia
+E72.22@Arginosuccinic aciduria
+E72.23@Citrullinemia
+E72.29@Other disorders of urea cycle metabolism
+E72.3@Disorders of lysine and hydroxylysine metabolism
+E72.4@Disorders of ornithine metabolism
+E72.50@Disorder of glycine metabolism, unspecified
+E72.51@Non-ketotic hyperglycinemia
+E72.52@Trimethylaminuria
+E72.53@Hyperoxaluria
+E72.59@Other disorders of glycine metabolism
+E72.8@Other specified disorders of amino-acid metabolism
+E72.9@Disorder of amino-acid metabolism, unspecified
+#
+E73.0@Congenital lactase deficiency
+E73.1@Secondary lactase deficiency
+E73.8@Other lactose intolerance
+E73.9@Lactose intolerance, unspecified
+#
+E74.00@Glycogen storage disease, unspecified
+E74.01@von Gierke disease
+E74.02@Pompe disease
+E74.03@Cori disease
+E74.04@McArdle disease
+E74.09@Other glycogen storage disease
+E74.10@Disorder of fructose metabolism, unspecified
+E74.11@Essential fructosuria
+E74.12@Hereditary fructose intolerance
+E74.19@Other disorders of fructose metabolism
+E74.20@Disorders of galactose metabolism, unspecified
+E74.21@Galactosemia
+E74.29@Other disorders of galactose metabolism
+E74.31@Sucrase-isomaltase deficiency
+E74.39@Other disorders of intestinal carbohydrate absorption
+E74.4@Disorders of pyruvate metabolism and gluconeogenesis
+E74.8@Other specified disorders of carbohydrate metabolism
+E74.9@Disorder of carbohydrate metabolism, unspecified
+#
+E75.00@GM2 gangliosidosis, unspecified
+E75.01@Sandhoff disease
+E75.02@Tay-Sachs disease
+E75.09@Other GM2 gangliosidosis
+E75.10@Unspecified gangliosidosis
+E75.11@Mucolipidosis IV
+E75.19@Other gangliosidosis
+E75.21@Fabry (-Anderson) disease
+E75.22@Gaucher disease
+E75.23@Krabbe disease
+E75.240@Niemann-Pick disease type A
+E75.241@Niemann-Pick disease type B
+E75.242@Niemann-Pick disease type C
+E75.243@Niemann-Pick disease type D
+E75.248@Other Niemann-Pick disease
+E75.249@Niemann-Pick disease, unspecified
+E75.25@Metachromatic leukodystrophy
+E75.29@Other sphingolipidosis
+E75.3@Sphingolipidosis, unspecified
+E75.4@Neuronal ceroid lipofuscinosis
+E75.5@Other lipid storage disorders
+E75.6@Lipid storage disorder, unspecified
+#
+E76.01@Hurler's syndrome
+E76.02@Hurler-Scheie syndrome
+E76.03@Scheie's syndrome
+E76.1@Mucopolysaccharidosis, type II
+E76.210@Morquio A mucopolysaccharidoses
+E76.211@Morquio B mucopolysaccharidoses
+E76.219@Morquio mucopolysaccharidoses, unspecified
+E76.22@Sanfilippo mucopolysaccharidoses
+E76.29@Other mucopolysaccharidoses
+E76.3@Mucopolysaccharidosis, unspecified
+E76.8@Other disorders of glucosaminoglycan metabolism
+E76.9@Glucosaminoglycan metabolism disorder, unspecified
+#
+E77.0@Defects in post-translational mod of lysosomal enzymes
+E77.1@Defects in glycoprotein degradation
+E77.8@Other disorders of glycoprotein metabolism
+E77.9@Disorder of glycoprotein metabolism, unspecified
+#
+E78.0@Pure hypercholesterolemia
+E78.1@Pure hyperglyceridemia
+E78.2@Mixed hyperlipidemia
+E78.3@Hyperchylomicronemia
+E78.4@Other hyperlipidemia
+E78.5@Hyperlipidemia, unspecified
+E78.6@Lipoprotein deficiency
+E78.70@Disorder of bile acid and cholesterol metabolism, unsp
+E78.71@Barth syndrome
+E78.72@Smith-Lemli-Opitz syndrome
+E78.79@Other disorders of bile acid and cholesterol metabolism
+E78.81@Lipoid dermatoarthritis
+E78.89@Other lipoprotein metabolism disorders
+E78.9@Disorder of lipoprotein metabolism, unspecified
+#
+E79.0@Hyperuricemia w/o signs of inflam arthrit and tophaceous dis
+E79.1@Lesch-Nyhan syndrome
+E79.2@Myoadenylate deaminase deficiency
+E79.8@Other disorders of purine and pyrimidine metabolism
+E79.9@Disorder of purine and pyrimidine metabolism, unspecified
+#
+E80.0@Hereditary erythropoietic porphyria
+E80.1@Porphyria cutanea tarda
+E80.20@Unspecified porphyria
+E80.21@Acute intermittent (hepatic) porphyria
+E80.29@Other porphyria
+E80.3@Defects of catalase and peroxidase
+E80.4@Gilbert syndrome
+E80.5@Crigler-Najjar syndrome
+E80.6@Other disorders of bilirubin metabolism
+E80.7@Disorder of bilirubin metabolism, unspecified
+#
+E83.00@Disorder of copper metabolism, unspecified
+E83.01@Wilson's disease
+E83.09@Other disorders of copper metabolism
+E83.10@Disorder of iron metabolism, unspecified
+E83.110@Hereditary hemochromatosis
+E83.111@Hemochromatosis due to repeated red blood cell transfusions
+E83.118@Other hemochromatosis
+E83.119@Hemochromatosis, unspecified
+E83.19@Other disorders of iron metabolism
+E83.2@Disorders of zinc metabolism
+E83.30@Disorder of phosphorus metabolism, unspecified
+E83.31@Familial hypophosphatemia
+E83.32@Hereditary vitamin D-dependent rickets (type 1) (type 2)
+E83.39@Other disorders of phosphorus metabolism
+E83.40@Disorders of magnesium metabolism, unspecified
+E83.41@Hypermagnesemia
+E83.42@Hypomagnesemia
+E83.49@Other disorders of magnesium metabolism
+E83.50@Unspecified disorder of calcium metabolism
+E83.51@Hypocalcemia
+E83.52@Hypercalcemia
+E83.59@Other disorders of calcium metabolism
+E83.81@Hungry bone syndrome
+E83.89@Other disorders of mineral metabolism
+E83.9@Disorder of mineral metabolism, unspecified
+#
+E84.0@Cystic fibrosis with pulmonary manifestations
+E84.11@Meconium ileus in cystic fibrosis
+E84.19@Cystic fibrosis with other intestinal manifestations
+E84.8@Cystic fibrosis with other manifestations
+E84.9@Cystic fibrosis, unspecified
+#
+E85.0@Non-neuropathic heredofamilial amyloidosis
+E85.1@Neuropathic heredofamilial amyloidosis
+E85.2@Heredofamilial amyloidosis, unspecified
+E85.3@Secondary systemic amyloidosis
+E85.4@Organ-limited amyloidosis
+E85.8@Other amyloidosis
+E85.9@Amyloidosis, unspecified
+#
+E86.0@Dehydration
+E86.1@Hypovolemia
+E86.9@Volume depletion, unspecified
+#
+E87.0@Hyperosmolality and hypernatremia
+E87.1@Hypo-osmolality and hyponatremia
+E87.2@Acidosis
+E87.3@Alkalosis
+E87.4@Mixed disorder of acid-base balance
+E87.5@Hyperkalemia
+E87.6@Hypokalemia
+E87.70@Fluid overload, unspecified
+E87.71@Transfusion associated circulatory overload
+E87.79@Other fluid overload
+E87.8@Oth disorders of electrolyte and fluid balance, NEC
+#
+E88.01@Alpha-1-antitrypsin deficiency
+E88.09@Oth disorders of plasma-protein metabolism, NEC
+E88.1@Lipodystrophy, not elsewhere classified
+E88.2@Lipomatosis, not elsewhere classified
+E88.3@Tumor lysis syndrome
+E88.40@Mitochondrial metabolism disorder, unspecified
+E88.41@MELAS syndrome
+E88.42@MERRF syndrome
+E88.49@Other mitochondrial metabolism disorders
+E88.81@Metabolic syndrome
+E88.89@Other specified metabolic disorders
+E88.9@Metabolic disorder, unspecified
+#
+E89.0@Postprocedural hypothyroidism
+E89.1@Postprocedural hypoinsulinemia
+E89.2@Postprocedural hypoparathyroidism
+E89.3@Postprocedural hypopituitarism
+E89.40@Asymptomatic postprocedural ovarian failure
+E89.41@Symptomatic postprocedural ovarian failure
+E89.5@Postprocedural testicular hypofunction
+E89.6@Postprocedural adrenocortical (-medullary) hypofunction
+E89.810@Postproc hemor/hemtom of endo sys org fol an endo sys proc
+E89.811@Postproc hemor/hemtom of an endo sys org fol oth procedure
+E89.89@Oth postproc endocrine and metabolic comp and disorders

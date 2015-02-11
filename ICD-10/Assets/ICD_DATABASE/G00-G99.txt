@@ -1,0 +1,657 @@
+G00.0@Hemophilus meningitis
+G00.1@Pneumococcal meningitis
+G00.2@Streptococcal meningitis
+G00.3@Staphylococcal meningitis
+G00.8@Other bacterial meningitis
+G00.9@Bacterial meningitis, unspecified
+#
+G01.@Meningitis in bacterial diseases classified elsewhere
+#
+G02.@Meningitis in oth infec/parastc diseases classd elswhr
+#
+G03.0@Nonpyogenic meningitis
+G03.1@Chronic meningitis
+G03.2@Benign recurrent meningitis [Mollaret]
+G03.8@Meningitis due to other specified causes
+G03.9@Meningitis, unspecified
+#
+G04.00@Acute disseminated encephalitis and encephalomyelitis, unsp
+G04.01@Postinfect acute dissem encephalitis and encephalomyelitis
+G04.02@Postimmun ac dissem encphlts, myelitis and encephalomyelitis
+G04.1@Tropical spastic paraplegia
+G04.2@Bacterial meningoencephalitis and meningomyelitis, NEC
+G04.30@Acute necrotizing hemorrhagic encephalopathy, unspecified
+G04.31@Postinfectious acute necrotizing hemorrhagic encephalopathy
+G04.32@Postimmun acute necrotizing hemorrhagic encephalopathy
+G04.39@Other acute necrotizing hemorrhagic encephalopathy
+G04.81@Other encephalitis and encephalomyelitis
+G04.89@Other myelitis
+G04.90@Encephalitis and encephalomyelitis, unspecified
+G04.91@Myelitis, unspecified
+#
+G05.3@Encephalitis and encephalomyelitis in diseases classd elswhr
+G05.4@Myelitis in diseases classified elsewhere
+#
+G06.0@Intracranial abscess and granuloma
+G06.1@Intraspinal abscess and granuloma
+G06.2@Extradural and subdural abscess, unspecified
+#
+G07.@Intcrn & intraspinal abscs & granuloma in dis classd elswhr
+#
+G08.@Intracranial and intraspinal phlebitis and thrombophlebitis
+#
+G09.@Sequelae of inflammatory diseases of central nervous system
+#
+G10.@Huntington's disease
+#
+G11.0@Congenital nonprogressive ataxia
+G11.1@Early-onset cerebellar ataxia
+G11.2@Late-onset cerebellar ataxia
+G11.3@Cerebellar ataxia with defective DNA repair
+G11.4@Hereditary spastic paraplegia
+G11.8@Other hereditary ataxias
+G11.9@Hereditary ataxia, unspecified
+#
+G12.0@Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]
+G12.1@Other inherited spinal muscular atrophy
+G12.20@Motor neuron disease, unspecified
+G12.21@Amyotrophic lateral sclerosis
+G12.22@Progressive bulbar palsy
+G12.29@Other motor neuron disease
+G12.8@Other spinal muscular atrophies and related syndromes
+G12.9@Spinal muscular atrophy, unspecified
+#
+G13.0@Paraneoplastic neuromyopathy and neuropathy
+G13.1@Oth systemic atrophy aff cnsl in neoplastic disease
+G13.2@Systemic atrophy primarily affecting the cnsl in myxedema
+G13.8@Systemic atrophy aff cnsl in oth diseases classd elswhr
+#
+G14.@Postpolio syndrome
+#
+G20.@Parkinson's disease
+#
+G21.0@Malignant neuroleptic syndrome
+G21.11@Neuroleptic induced parkinsonism
+G21.19@Other drug induced secondary parkinsonism
+G21.2@Secondary parkinsonism due to other external agents
+G21.3@Postencephalitic parkinsonism
+G21.4@Vascular parkinsonism
+G21.8@Other secondary parkinsonism
+G21.9@Secondary parkinsonism, unspecified
+#
+G23.0@Hallervorden-Spatz disease
+G23.1@Progressive supranuclear ophthalmoplegia
+G23.2@Striatonigral degeneration
+G23.8@Other specified degenerative diseases of basal ganglia
+G23.9@Degenerative disease of basal ganglia, unspecified
+#
+G24.01@Drug induced subacute dyskinesia
+G24.02@Drug induced acute dystonia
+G24.09@Other drug induced dystonia
+G24.1@Genetic torsion dystonia
+G24.2@Idiopathic nonfamilial dystonia
+G24.3@Spasmodic torticollis
+G24.4@Idiopathic orofacial dystonia
+G24.5@Blepharospasm
+G24.8@Other dystonia
+G24.9@Dystonia, unspecified
+#
+G25.0@Essential tremor
+G25.1@Drug-induced tremor
+G25.2@Other specified forms of tremor
+G25.3@Myoclonus
+G25.4@Drug-induced chorea
+G25.5@Other chorea
+G25.61@Drug induced tics
+G25.69@Other tics of organic origin
+G25.70@Drug induced movement disorder, unspecified
+G25.71@Drug induced akathisia
+G25.79@Other drug induced movement disorders
+G25.81@Restless legs syndrome
+G25.82@Stiff-man syndrome
+G25.83@Benign shuddering attacks
+G25.89@Other specified extrapyramidal and movement disorders
+G25.9@Extrapyramidal and movement disorder, unspecified
+#
+G26.@Extrapyramidal and movement disord in diseases classd elswhr
+#
+G30.0@Alzheimer's disease with early onset
+G30.1@Alzheimer's disease with late onset
+G30.8@Other Alzheimer's disease
+G30.9@Alzheimer's disease, unspecified
+#
+G31.01@Pick's disease
+G31.09@Other frontotemporal dementia
+G31.1@Senile degeneration of brain, not elsewhere classified
+G31.2@Degeneration of nervous system due to alcohol
+G31.81@Alpers disease
+G31.82@Leigh's disease
+G31.83@Dementia with Lewy bodies
+G31.84@Mild cognitive impairment, so stated
+G31.85@Corticobasal degeneration
+G31.89@Other specified degenerative diseases of nervous system
+G31.9@Degenerative disease of nervous system, unspecified
+#
+G32.0@Subac comb degeneration of spinal cord in dis classd elswhr
+G32.81@Cerebellar ataxia in diseases classified elsewhere
+G32.89@Oth degeneratv disord of nervous sys in dis classd elswhr
+#
+G35.@Multiple sclerosis
+#
+G36.0@Neuromyelitis optica [Devic]
+G36.1@Acute and subacute hemorrhagic leukoencephalitis [Hurst]
+G36.8@Other specified acute disseminated demyelination
+G36.9@Acute disseminated demyelination, unspecified
+#
+G37.0@Diffuse sclerosis of central nervous system
+G37.1@Central demyelination of corpus callosum
+G37.2@Central pontine myelinolysis
+G37.3@Acute transverse myelitis in demyelinating disease of cnsl
+G37.4@Subacute necrotizing myelitis of central nervous system
+G37.5@Concentric sclerosis [Balo] of central nervous system
+G37.8@Oth demyelinating diseases of central nervous system
+G37.9@Demyelinating disease of central nervous system, unspecified
+#
+G40.001@Local-rel idio epi w seiz of loc onst, not ntrct, w stat epi
+G40.009@Local-rel idio epi w seiz of loc onst,not ntrct,w/o stat epi
+G40.011@Local-rel idio epi w seiz of loc onset, ntrct, w stat epi
+G40.019@Local-rel idio epi w seiz of loc onset, ntrct, w/o stat epi
+G40.101@Local-rel symptc epi w simp part seiz, not ntrct, w stat epi
+G40.109@Local-rel symptc epi w simp prt seiz,not ntrct, w/o stat epi
+G40.111@Local-rel symptc epi w simple part seiz, ntrct, w stat epi
+G40.119@Local-rel symptc epi w simple part seiz, ntrct, w/o stat epi
+G40.201@Local-rel symptc epi w cmplx prt seiz, not ntrct, w stat epi
+G40.209@Local-rel symptc epi w cmplx prt seiz,not ntrct,w/o stat epi
+G40.211@Local-rel symptc epi w cmplx partial seiz, ntrct, w stat epi
+G40.219@Local-rel symptc epi w cmplx part seiz, ntrct, w/o stat epi
+G40.301@Gen idiopathic epilepsy, not intractable, w stat epi
+G40.309@Gen idiopathic epilepsy, not intractable, w/o stat epi
+G40.311@Generalized idiopathic epilepsy, intractable, w stat epi
+G40.319@Generalized idiopathic epilepsy, intractable, w/o stat epi
+G40.A01@Absence epileptic syndrome, not intractable, w stat epi
+G40.A09@Absence epileptic syndrome, not intractable, w/o stat epi
+G40.A11@Absence epileptic syndrome, intractable, w stat epi
+G40.A19@Absence epileptic syndrome, intractable, w/o stat epi
+G40.B01@Juvenile myoclonic epilepsy, not intractable, w stat epi
+G40.B09@Juvenile myoclonic epilepsy, not intractable, w/o stat epi
+G40.B11@Juvenile myoclonic epilepsy, intractable, w stat epi
+G40.B19@Juvenile myoclonic epilepsy, intractable, w/o stat epi
+G40.401@Oth generalized epilepsy, not intractable, w stat epi
+G40.409@Oth generalized epilepsy, not intractable, w/o stat epi
+G40.411@Oth generalized epilepsy, intractable, w status epilepticus
+G40.419@Oth generalized epilepsy, intractable, w/o stat epi
+G40.501@Epileptic seiz rel to extrn causes, not ntrct, w stat epi
+G40.509@Epileptic seiz rel to extrn causes, not ntrct, w/o stat epi
+G40.801@Other epilepsy, not intractable, with status epilepticus
+G40.802@Other epilepsy, not intractable, without status epilepticus
+G40.803@Other epilepsy, intractable, with status epilepticus
+G40.804@Other epilepsy, intractable, without status epilepticus
+G40.811@Lennox-Gastaut syndrome, not intractable, w stat epi
+G40.812@Lennox-Gastaut syndrome, not intractable, w/o stat epi
+G40.813@Lennox-Gastaut syndrome, intractable, w status epilepticus
+G40.814@Lennox-Gastaut syndrome, intractable, w/o status epilepticus
+G40.821@Epileptic spasms, not intractable, with status epilepticus
+G40.822@Epileptic spasms, not intractable, w/o status epilepticus
+G40.823@Epileptic spasms, intractable, with status epilepticus
+G40.824@Epileptic spasms, intractable, without status epilepticus
+G40.89@Other seizures
+G40.901@Epilepsy, unsp, not intractable, with status epilepticus
+G40.909@Epilepsy, unsp, not intractable, without status epilepticus
+G40.911@Epilepsy, unspecified, intractable, with status epilepticus
+G40.919@Epilepsy, unsp, intractable, without status epilepticus
+#
+G43.001@Migraine w/o aura, not intractable, with status migrainosus
+G43.009@Migraine w/o aura, not intractable, w/o status migrainosus
+G43.011@Migraine without aura, intractable, with status migrainosus
+G43.019@Migraine w/o aura, intractable, without status migrainosus
+G43.101@Migraine with aura, not intractable, with status migrainosus
+G43.109@Migraine with aura, not intractable, w/o status migrainosus
+G43.111@Migraine with aura, intractable, with status migrainosus
+G43.119@Migraine with aura, intractable, without status migrainosus
+G43.401@Hemiplegic migraine, not intractable, w status migrainosus
+G43.409@Hemiplegic migraine, not intractable, w/o status migrainosus
+G43.411@Hemiplegic migraine, intractable, with status migrainosus
+G43.419@Hemiplegic migraine, intractable, without status migrainosus
+G43.501@Perst migraine aura w/o cereb infrc, not ntrct, w stat migr
+G43.509@Perst migrn aura w/o cereb infrc, not ntrct, w/o stat migr
+G43.511@Perst migraine aura w/o cerebral infrc, ntrct, w stat migr
+G43.519@Perst migraine aura w/o cerebral infrc, ntrct, w/o stat migr
+G43.601@Perst migraine aura w cerebral infrc, not ntrct, w stat migr
+G43.609@Perst migraine aura w cereb infrc, not ntrct, w/o stat migr
+G43.611@Perst migraine aura w cerebral infrc, ntrct, w stat migr
+G43.619@Perst migraine aura w cerebral infrc, ntrct, w/o stat migr
+G43.701@Chronic migraine w/o aura, not intractable, w stat migr
+G43.709@Chronic migraine w/o aura, not intractable, w/o stat migr
+G43.711@Chronic migraine w/o aura, intractable, w status migrainosus
+G43.719@Chronic migraine w/o aura, intractable, w/o stat migr
+G43.A0@Cyclical vomiting, not intractable
+G43.A1@Cyclical vomiting, intractable
+G43.B0@Ophthalmoplegic migraine, not intractable
+G43.B1@Ophthalmoplegic migraine, intractable
+G43.C0@Periodic headache syndromes in chld/adlt, not intractable
+G43.C1@Periodic headache syndromes in child or adult, intractable
+G43.D0@Abdominal migraine, not intractable
+G43.D1@Abdominal migraine, intractable
+G43.801@Other migraine, not intractable, with status migrainosus
+G43.809@Other migraine, not intractable, without status migrainosus
+G43.811@Other migraine, intractable, with status migrainosus
+G43.819@Other migraine, intractable, without status migrainosus
+G43.821@Menstrual migraine, not intractable, with status migrainosus
+G43.829@Menstrual migraine, not intractable, w/o status migrainosus
+G43.831@Menstrual migraine, intractable, with status migrainosus
+G43.839@Menstrual migraine, intractable, without status migrainosus
+G43.901@Migraine, unsp, not intractable, with status migrainosus
+G43.909@Migraine, unsp, not intractable, without status migrainosus
+G43.911@Migraine, unspecified, intractable, with status migrainosus
+G43.919@Migraine, unsp, intractable, without status migrainosus
+#
+G44.001@Cluster headache syndrome, unspecified, intractable
+G44.009@Cluster headache syndrome, unspecified, not intractable
+G44.011@Episodic cluster headache, intractable
+G44.019@Episodic cluster headache, not intractable
+G44.021@Chronic cluster headache, intractable
+G44.029@Chronic cluster headache, not intractable
+G44.031@Episodic paroxysmal hemicrania, intractable
+G44.039@Episodic paroxysmal hemicrania, not intractable
+G44.041@Chronic paroxysmal hemicrania, intractable
+G44.049@Chronic paroxysmal hemicrania, not intractable
+G44.051@Shrt lst unil nerlgif hdache w cnjnct inject/tear, ntrct
+G44.059@Shrt lst unil nerlgif hdache w cnjnct inject/tear, not ntrct
+G44.091@Other trigeminal autonomic cephalgias (TAC), intractable
+G44.099@Other trigeminal autonomic cephalgias (TAC), not intractable
+G44.1@Vascular headache, not elsewhere classified
+G44.201@Tension-type headache, unspecified, intractable
+G44.209@Tension-type headache, unspecified, not intractable
+G44.211@Episodic tension-type headache, intractable
+G44.219@Episodic tension-type headache, not intractable
+G44.221@Chronic tension-type headache, intractable
+G44.229@Chronic tension-type headache, not intractable
+G44.301@Post-traumatic headache, unspecified, intractable
+G44.309@Post-traumatic headache, unspecified, not intractable
+G44.311@Acute post-traumatic headache, intractable
+G44.319@Acute post-traumatic headache, not intractable
+G44.321@Chronic post-traumatic headache, intractable
+G44.329@Chronic post-traumatic headache, not intractable
+G44.40@Drug-induced headache, NEC, not intractable
+G44.41@Drug-induced headache, not elsewhere classified, intractable
+G44.51@Hemicrania continua
+G44.52@New daily persistent headache (NDPH)
+G44.53@Primary thunderclap headache
+G44.59@Other complicated headache syndrome
+G44.81@Hypnic headache
+G44.82@Headache associated with sexual activity
+G44.83@Primary cough headache
+G44.84@Primary exertional headache
+G44.85@Primary stabbing headache
+G44.89@Other headache syndrome
+G45.0@Vertebro-basilar artery syndrome
+G45.1@Carotid artery syndrome (hemispheric)
+G45.2@Multiple and bilateral precerebral artery syndromes
+G45.3@Amaurosis fugax
+G45.4@Transient global amnesia
+G45.8@Oth transient cerebral ischemic attacks and related synd
+G45.9@Transient cerebral ischemic attack, unspecified
+#
+G46.0@Middle cerebral artery syndrome
+G46.1@Anterior cerebral artery syndrome
+G46.2@Posterior cerebral artery syndrome
+G46.3@Brain stem stroke syndrome
+G46.4@Cerebellar stroke syndrome
+G46.5@Pure motor lacunar syndrome
+G46.6@Pure sensory lacunar syndrome
+G46.7@Other lacunar syndromes
+G46.8@Oth vascular syndromes of brain in cerebrovascular diseases
+#
+G47.00@Insomnia, unspecified
+G47.01@Insomnia due to medical condition
+G47.09@Other insomnia
+G47.10@Hypersomnia, unspecified
+G47.11@Idiopathic hypersomnia with long sleep time
+G47.12@Idiopathic hypersomnia without long sleep time
+G47.13@Recurrent hypersomnia
+G47.14@Hypersomnia due to medical condition
+G47.19@Other hypersomnia
+G47.20@Circadian rhythm sleep disorder, unspecified type
+G47.21@Circadian rhythm sleep disorder, delayed sleep phase type
+G47.22@Circadian rhythm sleep disorder, advanced sleep phase type
+G47.23@Circadian rhythm sleep disorder, irregular sleep wake type
+G47.24@Circadian rhythm sleep disorder, free running type
+G47.25@Circadian rhythm sleep disorder, jet lag type
+G47.26@Circadian rhythm sleep disorder, shift work type
+G47.27@Circadian rhythm sleep disorder in conditions classd elswhr
+G47.29@Other circadian rhythm sleep disorder
+G47.30@Sleep apnea, unspecified
+G47.31@Primary central sleep apnea
+G47.32@High altitude periodic breathing
+G47.33@Obstructive sleep apnea (adult) (pediatric)
+G47.34@Idio sleep related nonobstructive alveolar hypoventilation
+G47.35@Congenital central alveolar hypoventilation syndrome
+G47.36@Sleep related hypoventilation in conditions classd elswhr
+G47.37@Central sleep apnea in conditions classified elsewhere
+G47.39@Other sleep apnea
+G47.411@Narcolepsy with cataplexy
+G47.419@Narcolepsy without cataplexy
+G47.421@Narcolepsy in conditions classified elsewhere with cataplexy
+G47.429@Narcolepsy in conditions classified elsewhere w/o cataplexy
+G47.50@Parasomnia, unspecified
+G47.51@Confusional arousals
+G47.52@REM sleep behavior disorder
+G47.53@Recurrent isolated sleep paralysis
+G47.54@Parasomnia in conditions classified elsewhere
+G47.59@Other parasomnia
+G47.61@Periodic limb movement disorder
+G47.62@Sleep related leg cramps
+G47.63@Sleep related bruxism
+G47.69@Other sleep related movement disorders
+G47.8@Other sleep disorders
+G47.9@Sleep disorder, unspecified
+#
+G50.0@Trigeminal neuralgia
+G50.1@Atypical facial pain
+G50.8@Other disorders of trigeminal nerve
+G50.9@Disorder of trigeminal nerve, unspecified
+#
+G51.0@Bell's palsy
+G51.1@Geniculate ganglionitis
+G51.2@Melkersson's syndrome
+G51.3@Clonic hemifacial spasm
+G51.4@Facial myokymia
+G51.8@Other disorders of facial nerve
+G51.9@Disorder of facial nerve, unspecified
+#
+G52.0@Disorders of olfactory nerve
+G52.1@Disorders of glossopharyngeal nerve
+G52.2@Disorders of vagus nerve
+G52.3@Disorders of hypoglossal nerve
+G52.7@Disorders of multiple cranial nerves
+G52.8@Disorders of other specified cranial nerves
+G52.9@Cranial nerve disorder, unspecified
+#
+G53.@Cranial nerve disorders in diseases classified elsewhere
+#
+G54.0@Brachial plexus disorders
+G54.1@Lumbosacral plexus disorders
+G54.2@Cervical root disorders, not elsewhere classified
+G54.3@Thoracic root disorders, not elsewhere classified
+G54.4@Lumbosacral root disorders, not elsewhere classified
+G54.5@Neuralgic amyotrophy
+G54.6@Phantom limb syndrome with pain
+G54.7@Phantom limb syndrome without pain
+G54.8@Other nerve root and plexus disorders
+G54.9@Nerve root and plexus disorder, unspecified
+#
+G55.@Nerve root and plexus compressions in diseases classd elswhr
+#
+G56.00@Carpal tunnel syndrome, unspecified upper limb
+G56.01@Carpal tunnel syndrome, right upper limb
+G56.02@Carpal tunnel syndrome, left upper limb
+G56.10@Other lesions of median nerve, unspecified upper limb
+G56.11@Other lesions of median nerve, right upper limb
+G56.12@Other lesions of median nerve, left upper limb
+G56.20@Lesion of ulnar nerve, unspecified upper limb
+G56.21@Lesion of ulnar nerve, right upper limb
+G56.22@Lesion of ulnar nerve, left upper limb
+G56.30@Lesion of radial nerve, unspecified upper limb
+G56.31@Lesion of radial nerve, right upper limb
+G56.32@Lesion of radial nerve, left upper limb
+G56.40@Causalgia of unspecified upper limb
+G56.41@Causalgia of right upper limb
+G56.42@Causalgia of left upper limb
+G56.80@Other specified mononeuropathies of unspecified upper limb
+G56.81@Other specified mononeuropathies of right upper limb
+G56.82@Other specified mononeuropathies of left upper limb
+G56.90@Unspecified mononeuropathy of unspecified upper limb
+G56.91@Unspecified mononeuropathy of right upper limb
+G56.92@Unspecified mononeuropathy of left upper limb
+#
+G57.00@Lesion of sciatic nerve, unspecified lower limb
+G57.01@Lesion of sciatic nerve, right lower limb
+G57.02@Lesion of sciatic nerve, left lower limb
+G57.10@Meralgia paresthetica, unspecified lower limb
+G57.11@Meralgia paresthetica, right lower limb
+G57.12@Meralgia paresthetica, left lower limb
+G57.20@Lesion of femoral nerve, unspecified lower limb
+G57.21@Lesion of femoral nerve, right lower limb
+G57.22@Lesion of femoral nerve, left lower limb
+G57.30@Lesion of lateral popliteal nerve, unspecified lower limb
+G57.31@Lesion of lateral popliteal nerve, right lower limb
+G57.32@Lesion of lateral popliteal nerve, left lower limb
+G57.40@Lesion of medial popliteal nerve, unspecified lower limb
+G57.41@Lesion of medial popliteal nerve, right lower limb
+G57.42@Lesion of medial popliteal nerve, left lower limb
+G57.50@Tarsal tunnel syndrome, unspecified lower limb
+G57.51@Tarsal tunnel syndrome, right lower limb
+G57.52@Tarsal tunnel syndrome, left lower limb
+G57.60@Lesion of plantar nerve, unspecified lower limb
+G57.61@Lesion of plantar nerve, right lower limb
+G57.62@Lesion of plantar nerve, left lower limb
+G57.70@Causalgia of unspecified lower limb
+G57.71@Causalgia of right lower limb
+G57.72@Causalgia of left lower limb
+G57.80@Other specified mononeuropathies of unspecified lower limb
+G57.81@Other specified mononeuropathies of right lower limb
+G57.82@Other specified mononeuropathies of left lower limb
+G57.90@Unspecified mononeuropathy of unspecified lower limb
+G57.91@Unspecified mononeuropathy of right lower limb
+G57.92@Unspecified mononeuropathy of left lower limb
+#
+G58.0@Intercostal neuropathy
+G58.7@Mononeuritis multiplex
+G58.8@Other specified mononeuropathies
+G58.9@Mononeuropathy, unspecified
+#
+G59.@Mononeuropathy in diseases classified elsewhere
+#
+G60.0@Hereditary motor and sensory neuropathy
+G60.1@Refsum's disease
+G60.2@Neuropathy in association with hereditary ataxia
+G60.3@Idiopathic progressive neuropathy
+G60.8@Other hereditary and idiopathic neuropathies
+G60.9@Hereditary and idiopathic neuropathy, unspecified
+#
+G61.0@Guillain-Barre syndrome
+G61.1@Serum neuropathy
+G61.81@Chronic inflammatory demyelinating polyneuritis
+G61.89@Other inflammatory polyneuropathies
+G61.9@Inflammatory polyneuropathy, unspecified
+#
+G62.0@Drug-induced polyneuropathy
+G62.1@Alcoholic polyneuropathy
+G62.2@Polyneuropathy due to other toxic agents
+G62.81@Critical illness polyneuropathy
+G62.82@Radiation-induced polyneuropathy
+G62.89@Other specified polyneuropathies
+G62.9@Polyneuropathy, unspecified
+#
+G63.@Polyneuropathy in diseases classified elsewhere
+#
+G64.@Other disorders of peripheral nervous system
+#
+G65.0@Sequelae of Guillain-Barre syndrome
+G65.1@Sequelae of other inflammatory polyneuropathy
+G65.2@Sequelae of toxic polyneuropathy
+#
+G70.00@Myasthenia gravis without (acute) exacerbation
+G70.01@Myasthenia gravis with (acute) exacerbation
+G70.1@Toxic myoneural disorders
+G70.2@Congenital and developmental myasthenia
+G70.80@Lambert-Eaton syndrome, unspecified
+G70.81@Lambert-Eaton syndrome in disease classified elsewhere
+G70.89@Other specified myoneural disorders
+G70.9@Myoneural disorder, unspecified
+#
+G71.0@Muscular dystrophy
+G71.11@Myotonic muscular dystrophy
+G71.12@Myotonia congenita
+G71.13@Myotonic chondrodystrophy
+G71.14@Drug induced myotonia
+G71.19@Other specified myotonic disorders
+G71.2@Congenital myopathies
+G71.3@Mitochondrial myopathy, not elsewhere classified
+G71.8@Other primary disorders of muscles
+G71.9@Primary disorder of muscle, unspecified
+#
+G72.0@Drug-induced myopathy
+G72.1@Alcoholic myopathy
+G72.2@Myopathy due to other toxic agents
+G72.3@Periodic paralysis
+G72.41@Inclusion body myositis [IBM]
+G72.49@Oth inflammatory and immune myopathies, NEC
+G72.81@Critical illness myopathy
+G72.89@Other specified myopathies
+G72.9@Myopathy, unspecified
+#
+G73.1@Lambert-Eaton syndrome in neoplastic disease
+G73.3@Myasthenic syndromes in other diseases classified elsewhere
+G73.7@Myopathy in diseases classified elsewhere
+#
+G80.0@Spastic quadriplegic cerebral palsy
+G80.1@Spastic diplegic cerebral palsy
+G80.2@Spastic hemiplegic cerebral palsy
+G80.3@Athetoid cerebral palsy
+G80.4@Ataxic cerebral palsy
+G80.8@Other cerebral palsy
+G80.9@Cerebral palsy, unspecified
+#
+G81.00@Flaccid hemiplegia affecting unspecified side
+G81.01@Flaccid hemiplegia affecting right dominant side
+G81.02@Flaccid hemiplegia affecting left dominant side
+G81.03@Flaccid hemiplegia affecting right nondominant side
+G81.04@Flaccid hemiplegia affecting left nondominant side
+G81.10@Spastic hemiplegia affecting unspecified side
+G81.11@Spastic hemiplegia affecting right dominant side
+G81.12@Spastic hemiplegia affecting left dominant side
+G81.13@Spastic hemiplegia affecting right nondominant side
+G81.14@Spastic hemiplegia affecting left nondominant side
+G81.90@Hemiplegia, unspecified affecting unspecified side
+G81.91@Hemiplegia, unspecified affecting right dominant side
+G81.92@Hemiplegia, unspecified affecting left dominant side
+G81.93@Hemiplegia, unspecified affecting right nondominant side
+G81.94@Hemiplegia, unspecified affecting left nondominant side
+#
+G82.20@Paraplegia, unspecified
+G82.21@Paraplegia, complete
+G82.22@Paraplegia, incomplete
+G82.50@Quadriplegia, unspecified
+G82.51@Quadriplegia, C1-C4 complete
+G82.52@Quadriplegia, C1-C4 incomplete
+G82.53@Quadriplegia, C5-C7 complete
+G82.54@Quadriplegia, C5-C7 incomplete
+#
+G83.0@Diplegia of upper limbs
+G83.10@Monoplegia of lower limb affecting unspecified side
+G83.11@Monoplegia of lower limb affecting right dominant side
+G83.12@Monoplegia of lower limb affecting left dominant side
+G83.13@Monoplegia of lower limb affecting right nondominant side
+G83.14@Monoplegia of lower limb affecting left nondominant side
+G83.20@Monoplegia of upper limb affecting unspecified side
+G83.21@Monoplegia of upper limb affecting right dominant side
+G83.22@Monoplegia of upper limb affecting left dominant side
+G83.23@Monoplegia of upper limb affecting right nondominant side
+G83.24@Monoplegia of upper limb affecting left nondominant side
+G83.30@Monoplegia, unspecified affecting unspecified side
+G83.31@Monoplegia, unspecified affecting right dominant side
+G83.32@Monoplegia, unspecified affecting left dominant side
+G83.33@Monoplegia, unspecified affecting right nondominant side
+G83.34@Monoplegia, unspecified affecting left nondominant side
+G83.4@Cauda equina syndrome
+G83.5@Locked-in state
+G83.81@Brown-Sequard syndrome
+G83.82@Anterior cord syndrome
+G83.83@Posterior cord syndrome
+G83.84@Todd's paralysis (postepileptic)
+G83.89@Other specified paralytic syndromes
+G83.9@Paralytic syndrome, unspecified
+#
+G89.0@Central pain syndrome
+G89.11@Acute pain due to trauma
+G89.12@Acute post-thoracotomy pain
+G89.18@Other acute postprocedural pain
+G89.21@Chronic pain due to trauma
+G89.22@Chronic post-thoracotomy pain
+G89.28@Other chronic postprocedural pain
+G89.29@Other chronic pain
+G89.3@Neoplasm related pain (acute) (chronic)
+G89.4@Chronic pain syndrome
+#
+G90.01@Carotid sinus syncope
+G90.09@Other idiopathic peripheral autonomic neuropathy
+G90.1@Familial dysautonomia [Riley-Day]
+G90.2@Horner's syndrome
+G90.3@Multi-system degeneration of the autonomic nervous system
+G90.4@Autonomic dysreflexia
+G90.50@Complex regional pain syndrome I, unspecified
+G90.511@Complex regional pain syndrome I of right upper limb
+G90.512@Complex regional pain syndrome I of left upper limb
+G90.513@Complex regional pain syndrome I of upper limb, bilateral
+G90.519@Complex regional pain syndrome I of unspecified upper limb
+G90.521@Complex regional pain syndrome I of right lower limb
+G90.522@Complex regional pain syndrome I of left lower limb
+G90.523@Complex regional pain syndrome I of lower limb, bilateral
+G90.529@Complex regional pain syndrome I of unspecified lower limb
+G90.59@Complex regional pain syndrome I of other specified site
+G90.8@Other disorders of autonomic nervous system
+G90.9@Disorder of the autonomic nervous system, unspecified
+#
+G91.0@Communicating hydrocephalus
+G91.1@Obstructive hydrocephalus
+G91.2@(Idiopathic) normal pressure hydrocephalus
+G91.3@Post-traumatic hydrocephalus, unspecified
+G91.4@Hydrocephalus in diseases classified elsewhere
+G91.8@Other hydrocephalus
+G91.9@Hydrocephalus, unspecified
+#
+G92.@Toxic encephalopathy
+#
+G93.0@Cerebral cysts
+G93.1@Anoxic brain damage, not elsewhere classified
+G93.2@Benign intracranial hypertension
+G93.3@Postviral fatigue syndrome
+G93.40@Encephalopathy, unspecified
+G93.41@Metabolic encephalopathy
+G93.49@Other encephalopathy
+G93.5@Compression of brain
+G93.6@Cerebral edema
+G93.7@Reye's syndrome
+G93.81@Temporal sclerosis
+G93.82@Brain death
+G93.89@Other specified disorders of brain
+G93.9@Disorder of brain, unspecified
+#
+G94.@Other disorders of brain in diseases classified elsewhere
+#
+G95.0@Syringomyelia and syringobulbia
+G95.11@Acute infarction of spinal cord (embolic) (nonembolic)
+G95.19@Other vascular myelopathies
+G95.20@Unspecified cord compression
+G95.29@Other cord compression
+G95.81@Conus medullaris syndrome
+G95.89@Other specified diseases of spinal cord
+G95.9@Disease of spinal cord, unspecified
+#
+G96.0@Cerebrospinal fluid leak
+G96.11@Dural tear
+G96.12@Meningeal adhesions (cerebral) (spinal)
+G96.19@Other disorders of meninges, not elsewhere classified
+G96.8@Other specified disorders of central nervous system
+G96.9@Disorder of central nervous system, unspecified
+#
+G97.0@Cerebrospinal fluid leak from spinal puncture
+G97.1@Other reaction to spinal and lumbar puncture
+G97.2@Intracranial hypotension following ventricular shunting
+G97.31@Intraop hemor/hemtom of a nervous sys org comp nrv sys proc
+G97.32@Intraop hemor/hemtom of a nervous sys org comp oth procedure
+G97.41@Accidental puncture or laceration of dura during a procedure
+G97.48@Acc pnctr & lac of nervous sys org during a nervous sys proc
+G97.49@Acc pnctr & lac of nervous sys org during oth procedure
+G97.51@Postproc hemor/hemtom of a nrv sys org fol a nrv sys proc
+G97.52@Postproc hemor/hemtom of a nervous sys org fol oth procedure
+G97.81@Other intraoperative complications of nervous system
+G97.82@Oth postproc complications and disorders of nervous sys
+#
+G98.0@Neurogenic arthritis, not elsewhere classified
+G98.8@Other disorders of nervous system
+#
+G99.0@Autonomic neuropathy in diseases classified elsewhere
+G99.2@Myelopathy in diseases classified elsewhere
+G99.8@Oth disrd of nervous system in diseases classified elsewhere

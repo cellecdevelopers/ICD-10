@@ -1,0 +1,378 @@
+T66.XXXA@Radiation sickness, unspecified, initial encounter
+T66.XXXD@Radiation sickness, unspecified, subsequent encounter
+T66.XXXS@Radiation sickness, unspecified, sequela
+T67.0XXA@Heatstroke and sunstroke, initial encounter
+T67.0XXD@Heatstroke and sunstroke, subsequent encounter
+T67.0XXS@Heatstroke and sunstroke, sequela
+T67.1XXA@Heat syncope, initial encounter
+T67.1XXD@Heat syncope, subsequent encounter
+T67.1XXS@Heat syncope, sequela
+T67.2XXA@Heat cramp, initial encounter
+T67.2XXD@Heat cramp, subsequent encounter
+T67.2XXS@Heat cramp, sequela
+T67.3XXA@Heat exhaustion, anhydrotic, initial encounter
+T67.3XXD@Heat exhaustion, anhydrotic, subsequent encounter
+T67.3XXS@Heat exhaustion, anhydrotic, sequela
+T67.4XXA@Heat exhaustion due to salt depletion, initial encounter
+T67.4XXD@Heat exhaustion due to salt depletion, subsequent encounter
+T67.4XXS@Heat exhaustion due to salt depletion, sequela
+T67.5XXA@Heat exhaustion, unspecified, initial encounter
+T67.5XXD@Heat exhaustion, unspecified, subsequent encounter
+T67.5XXS@Heat exhaustion, unspecified, sequela
+T67.6XXA@Heat fatigue, transient, initial encounter
+T67.6XXD@Heat fatigue, transient, subsequent encounter
+T67.6XXS@Heat fatigue, transient, sequela
+T67.7XXA@Heat edema, initial encounter
+T67.7XXD@Heat edema, subsequent encounter
+T67.7XXS@Heat edema, sequela
+T67.8XXA@Other effects of heat and light, initial encounter
+T67.8XXD@Other effects of heat and light, subsequent encounter
+T67.8XXS@Other effects of heat and light, sequela
+T67.9XXA@Effect of heat and light, unspecified, initial encounter
+T67.9XXD@Effect of heat and light, unspecified, subsequent encounter
+T67.9XXS@Effect of heat and light, unspecified, sequela
+T68.XXXA@Hypothermia, initial encounter
+T68.XXXD@Hypothermia, subsequent encounter
+T68.XXXS@Hypothermia, sequela
+T69.011A@Immersion hand, right hand, initial encounter
+T69.011D@Immersion hand, right hand, subsequent encounter
+T69.011S@Immersion hand, right hand, sequela
+T69.012A@Immersion hand, left hand, initial encounter
+T69.012D@Immersion hand, left hand, subsequent encounter
+T69.012S@Immersion hand, left hand, sequela
+T69.019A@Immersion hand, unspecified hand, initial encounter
+T69.019D@Immersion hand, unspecified hand, subsequent encounter
+T69.019S@Immersion hand, unspecified hand, sequela
+T69.021A@Immersion foot, right foot, initial encounter
+T69.021D@Immersion foot, right foot, subsequent encounter
+T69.021S@Immersion foot, right foot, sequela
+T69.022A@Immersion foot, left foot, initial encounter
+T69.022D@Immersion foot, left foot, subsequent encounter
+T69.022S@Immersion foot, left foot, sequela
+T69.029A@Immersion foot, unspecified foot, initial encounter
+T69.029D@Immersion foot, unspecified foot, subsequent encounter
+T69.029S@Immersion foot, unspecified foot, sequela
+T69.1XXA@Chilblains, initial encounter
+T69.1XXD@Chilblains, subsequent encounter
+T69.1XXS@Chilblains, sequela
+T69.8XXA@Other specified effects of reduced temperature, init encntr
+T69.8XXD@Other specified effects of reduced temperature, subs encntr
+T69.8XXS@Other specified effects of reduced temperature, sequela
+T69.9XXA@Effect of reduced temperature, unspecified, init encntr
+T69.9XXD@Effect of reduced temperature, unspecified, subs encntr
+T69.9XXS@Effect of reduced temperature, unspecified, sequela
+T70.0XXA@Otitic barotrauma, initial encounter
+T70.0XXD@Otitic barotrauma, subsequent encounter
+T70.0XXS@Otitic barotrauma, sequela
+T70.1XXA@Sinus barotrauma, initial encounter
+T70.1XXD@Sinus barotrauma, subsequent encounter
+T70.1XXS@Sinus barotrauma, sequela
+T70.20XA@Unspecified effects of high altitude, initial encounter
+T70.20XD@Unspecified effects of high altitude, subsequent encounter
+T70.20XS@Unspecified effects of high altitude, sequela
+T70.29XA@Other effects of high altitude, initial encounter
+T70.29XD@Other effects of high altitude, subsequent encounter
+T70.29XS@Other effects of high altitude, sequela
+T70.3XXA@Caisson disease [decompression sickness], initial encounter
+T70.3XXD@Caisson disease, subsequent encounter
+T70.3XXS@Caisson disease [decompression sickness], sequela
+T70.4XXA@Effects of high-pressure fluids, initial encounter
+T70.4XXD@Effects of high-pressure fluids, subsequent encounter
+T70.4XXS@Effects of high-pressure fluids, sequela
+T70.8XXA@Oth effects of air pressure and water pressure, init encntr
+T70.8XXD@Oth effects of air pressure and water pressure, subs encntr
+T70.8XXS@Other effects of air pressure and water pressure, sequela
+T70.9XXA@Effect of air pressure and water pressure, unsp, init encntr
+T70.9XXD@Effect of air pressure and water pressure, unsp, subs encntr
+T70.9XXS@Effect of air pressure and water pressure, unsp, sequela
+T71.111A@Asphyx due to smothering under pillow, accidental, init
+T71.111D@Asphyx due to smothering under pillow, accidental, subs
+T71.111S@Asphyx due to smothering under pillow, accidental, sequela
+T71.112A@Asphyxiation due to smothering under pillow, self-harm, init
+T71.112D@Asphyxiation due to smothering under pillow, self-harm, subs
+T71.112S@Asphyx due to smothering under pillow, self-harm, sequela
+T71.113A@Asphyxiation due to smothering under pillow, assault, init
+T71.113D@Asphyxiation due to smothering under pillow, assault, subs
+T71.113S@Asphyx due to smothering under pillow, assault, sequela
+T71.114A@Asphyx due to smothering under pillow, undetermined, init
+T71.114D@Asphyx due to smothering under pillow, undetermined, subs
+T71.114S@Asphyx due to smothering under pillow, undetermined, sequela
+T71.121A@Asphyxiation due to plastic bag, accidental, init encntr
+T71.121D@Asphyxiation due to plastic bag, accidental, subs encntr
+T71.121S@Asphyxiation due to plastic bag, accidental, sequela
+T71.122A@Asphyxiation due to plastic bag, intentional self-harm, init
+T71.122D@Asphyxiation due to plastic bag, intentional self-harm, subs
+T71.122S@Asphyxiation due to plastic bag, self-harm, sequela
+T71.123A@Asphyxiation due to plastic bag, assault, initial encounter
+T71.123D@Asphyxiation due to plastic bag, assault, subs encntr
+T71.123S@Asphyxiation due to plastic bag, assault, sequela
+T71.124A@Asphyxiation due to plastic bag, undetermined, init encntr
+T71.124D@Asphyxiation due to plastic bag, undetermined, subs encntr
+T71.124S@Asphyxiation due to plastic bag, undetermined, sequela
+T71.131A@Asphyx due to being trapped in bed linens, accidental, init
+T71.131D@Asphyx due to being trapped in bed linens, accidental, subs
+T71.131S@Asphyx due to being trapped in bed linens, acc, sequela
+T71.132A@Asphyx due to being trapped in bed linens, self-harm, init
+T71.132D@Asphyx due to being trapped in bed linens, self-harm, subs
+T71.132S@Asphyx due to being trapped in bed linens, slf-hrm, sequela
+T71.133A@Asphyx due to being trapped in bed linens, assault, init
+T71.133D@Asphyx due to being trapped in bed linens, assault, subs
+T71.133S@Asphyx due to being trapped in bed linens, assault, sequela
+T71.134A@Asphyx due to being trapped in bed linens, undet, init
+T71.134D@Asphyx due to being trapped in bed linens, undet, subs
+T71.134S@Asphyx due to being trapped in bed linens, undet, sequela
+T71.141A@Asphyx due to smothr under another person's body, acc, init
+T71.141D@Asphyx due to smothr under another person's body, acc, subs
+T71.141S@Asphyx due to smothr under another person's body, acc, sqla
+T71.143A@Asphyx d/t smothr under another person's body, asslt, init
+T71.143D@Asphyx d/t smothr under another person's body, asslt, subs
+T71.143S@Asphyx d/t smothr under another person's body, asslt, sqla
+T71.144A@Asphyx d/t smothr under another person's body, undet, init
+T71.144D@Asphyx d/t smothr under another person's body, undet, subs
+T71.144S@Asphyx d/t smothr under another person's body, undet, sqla
+T71.151A@Asphyx due to smothering in furniture, accidental, init
+T71.151D@Asphyx due to smothering in furniture, accidental, subs
+T71.151S@Asphyx due to smothering in furniture, accidental, sequela
+T71.152A@Asphyxiation due to smothering in furniture, self-harm, init
+T71.152D@Asphyxiation due to smothering in furniture, self-harm, subs
+T71.152S@Asphyx due to smothering in furniture, self-harm, sequela
+T71.153A@Asphyxiation due to smothering in furniture, assault, init
+T71.153D@Asphyxiation due to smothering in furniture, assault, subs
+T71.153S@Asphyx due to smothering in furniture, assault, sequela
+T71.154A@Asphyx due to smothering in furniture, undetermined, init
+T71.154D@Asphyx due to smothering in furniture, undetermined, subs
+T71.154S@Asphyx due to smothering in furniture, undetermined, sequela
+T71.161A@Asphyxiation due to hanging, accidental, initial encounter
+T71.161D@Asphyxiation due to hanging, accidental, subs encntr
+T71.161S@Asphyxiation due to hanging, accidental, sequela
+T71.162A@Asphyxiation due to hanging, intentional self-harm, init
+T71.162D@Asphyxiation due to hanging, intentional self-harm, subs
+T71.162S@Asphyxiation due to hanging, intentional self-harm, sequela
+T71.163A@Asphyxiation due to hanging, assault, initial encounter
+T71.163D@Asphyxiation due to hanging, assault, subsequent encounter
+T71.163S@Asphyxiation due to hanging, assault, sequela
+T71.164A@Asphyxiation due to hanging, undetermined, initial encounter
+T71.164D@Asphyxiation due to hanging, undetermined, subs encntr
+T71.164S@Asphyxiation due to hanging, undetermined, sequela
+T71.191A@Asphyx d/t mech threat to breathe d/t oth cause, acc, init
+T71.191D@Asphyx d/t mech threat to breathe d/t oth cause, acc, subs
+T71.191S@Asphyx d/t mech threat to breathe d/t oth cause, acc, sqla
+T71.192A@Asphyx d/t mech thrt to breathe d/t oth cause, slf-hrm, init
+T71.192D@Asphyx d/t mech thrt to breathe d/t oth cause, slf-hrm, subs
+T71.192S@Asphyx d/t mech thrt to breathe d/t oth cause, slf-hrm, sqla
+T71.193A@Asphyx d/t mech threat to breathe d/t oth cause, asslt, init
+T71.193D@Asphyx d/t mech threat to breathe d/t oth cause, asslt, subs
+T71.193S@Asphyx d/t mech threat to breathe d/t oth cause, asslt, sqla
+T71.194A@Asphyx d/t mech threat to breathe d/t oth cause, undet, init
+T71.194D@Asphyx d/t mech threat to breathe d/t oth cause, undet, subs
+T71.194S@Asphyx d/t mech threat to breathe d/t oth cause, undet, sqla
+T71.20XA@Asphyx d/t sys oxy defic d/t low oxy in air unsp cause, init
+T71.20XD@Asphyx d/t sys oxy defic d/t low oxy in air unsp cause, subs
+T71.20XS@Asphyx d/t sys oxy defic d/t low oxy in air unsp cause, sqla
+T71.21XA@Asphyxiation due to cave-in or falling earth, init encntr
+T71.21XD@Asphyxiation due to cave-in or falling earth, subs encntr
+T71.21XS@Asphyxiation due to cave-in or falling earth, sequela
+T71.221A@Asphyx due to being trapped in a car trunk, accidental, init
+T71.221D@Asphyx due to being trapped in a car trunk, accidental, subs
+T71.221S@Asphyx due to being trapped in a car trunk, acc, sequela
+T71.222A@Asphyx due to being trapped in a car trunk, self-harm, init
+T71.222D@Asphyx due to being trapped in a car trunk, self-harm, subs
+T71.222S@Asphyx due to being trapped in a car trunk, slf-hrm, sequela
+T71.223A@Asphyx due to being trapped in a car trunk, assault, init
+T71.223D@Asphyx due to being trapped in a car trunk, assault, subs
+T71.223S@Asphyx due to being trapped in a car trunk, assault, sequela
+T71.224A@Asphyx due to being trapped in a car trunk, undet, init
+T71.224D@Asphyx due to being trapped in a car trunk, undet, subs
+T71.224S@Asphyx due to being trapped in a car trunk, undet, sequela
+T71.231A@Asphyx due to being trap in a (discarded) refrig, acc, init
+T71.231D@Asphyx due to being trap in a (discarded) refrig, acc, subs
+T71.231S@Asphyx due to being trap in a (discarded) refrig, acc, sqla
+T71.232A@Asphyx d/t being trap in a (discarded) refrig, slf-hrm, init
+T71.232D@Asphyx d/t being trap in a (discarded) refrig, slf-hrm, subs
+T71.232S@Asphyx d/t being trap in a (discarded) refrig, slf-hrm, sqla
+T71.233A@Asphyx d/t being trap in a (discarded) refrig, asslt, init
+T71.233D@Asphyx d/t being trap in a (discarded) refrig, asslt, subs
+T71.233S@Asphyx d/t being trap in a (discarded) refrig, asslt, sqla
+T71.234A@Asphyx d/t being trap in a (discarded) refrig, undet, init
+T71.234D@Asphyx d/t being trap in a (discarded) refrig, undet, subs
+T71.234S@Asphyx d/t being trap in a (discarded) refrig, undet, sqla
+T71.29XA@Asphyx due to being trap in oth low oxygen environment, init
+T71.29XD@Asphyx due to being trap in oth low oxygen environment, subs
+T71.29XS@Asphyx due to being trap in oth low oxygen environment, sqla
+T71.9XXA@Asphyxiation due to unspecified cause, initial encounter
+T71.9XXD@Asphyxiation due to unspecified cause, subsequent encounter
+T71.9XXS@Asphyxiation due to unspecified cause, sequela
+T73.0XXA@Starvation, initial encounter
+T73.0XXD@Starvation, subsequent encounter
+T73.0XXS@Starvation, sequela
+T73.1XXA@Deprivation of water, initial encounter
+T73.1XXD@Deprivation of water, subsequent encounter
+T73.1XXS@Deprivation of water, sequela
+T73.2XXA@Exhaustion due to exposure, initial encounter
+T73.2XXD@Exhaustion due to exposure, subsequent encounter
+T73.2XXS@Exhaustion due to exposure, sequela
+T73.3XXA@Exhaustion due to excessive exertion, initial encounter
+T73.3XXD@Exhaustion due to excessive exertion, subsequent encounter
+T73.3XXS@Exhaustion due to excessive exertion, sequela
+T73.8XXA@Other effects of deprivation, initial encounter
+T73.8XXD@Other effects of deprivation, subsequent encounter
+T73.8XXS@Other effects of deprivation, sequela
+T73.9XXA@Effect of deprivation, unspecified, initial encounter
+T73.9XXD@Effect of deprivation, unspecified, subsequent encounter
+T73.9XXS@Effect of deprivation, unspecified, sequela
+T74.01XA@Adult neglect or abandonment, confirmed, initial encounter
+T74.01XD@Adult neglect or abandonment, confirmed, subs encntr
+T74.01XS@Adult neglect or abandonment, confirmed, sequela
+T74.02XA@Child neglect or abandonment, confirmed, initial encounter
+T74.02XD@Child neglect or abandonment, confirmed, subs encntr
+T74.02XS@Child neglect or abandonment, confirmed, sequela
+T74.11XA@Adult physical abuse, confirmed, initial encounter
+T74.11XD@Adult physical abuse, confirmed, subsequent encounter
+T74.11XS@Adult physical abuse, confirmed, sequela
+T74.12XA@Child physical abuse, confirmed, initial encounter
+T74.12XD@Child physical abuse, confirmed, subsequent encounter
+T74.12XS@Child physical abuse, confirmed, sequela
+T74.21XA@Adult sexual abuse, confirmed, initial encounter
+T74.21XD@Adult sexual abuse, confirmed, subsequent encounter
+T74.21XS@Adult sexual abuse, confirmed, sequela
+T74.22XA@Child sexual abuse, confirmed, initial encounter
+T74.22XD@Child sexual abuse, confirmed, subsequent encounter
+T74.22XS@Child sexual abuse, confirmed, sequela
+T74.31XA@Adult psychological abuse, confirmed, initial encounter
+T74.31XD@Adult psychological abuse, confirmed, subsequent encounter
+T74.31XS@Adult psychological abuse, confirmed, sequela
+T74.32XA@Child psychological abuse, confirmed, initial encounter
+T74.32XD@Child psychological abuse, confirmed, subsequent encounter
+T74.32XS@Child psychological abuse, confirmed, sequela
+T74.4XXA@Shaken infant syndrome, initial encounter
+T74.4XXD@Shaken infant syndrome, subsequent encounter
+T74.4XXS@Shaken infant syndrome, sequela
+T74.91XA@Unspecified adult maltreatment, confirmed, initial encounter
+T74.91XD@Unspecified adult maltreatment, confirmed, subs encntr
+T74.91XS@Unspecified adult maltreatment, confirmed, sequela
+T74.92XA@Unspecified child maltreatment, confirmed, initial encounter
+T74.92XD@Unspecified child maltreatment, confirmed, subs encntr
+T74.92XS@Unspecified child maltreatment, confirmed, sequela
+T75.00XA@Unspecified effects of lightning, initial encounter
+T75.00XD@Unspecified effects of lightning, subsequent encounter
+T75.00XS@Unspecified effects of lightning, sequela
+T75.01XA@Shock due to being struck by lightning, initial encounter
+T75.01XD@Shock due to being struck by lightning, subsequent encounter
+T75.01XS@Shock due to being struck by lightning, sequela
+T75.09XA@Other effects of lightning, initial encounter
+T75.09XD@Other effects of lightning, subsequent encounter
+T75.09XS@Other effects of lightning, sequela
+T75.1XXA@Unsp effects of drowning and nonfatal submersion, init
+T75.1XXD@Unsp effects of drowning and nonfatal submersion, subs
+T75.1XXS@Unsp effects of drowning and nonfatal submersion, sequela
+T75.20XA@Unspecified effects of vibration, initial encounter
+T75.20XD@Unspecified effects of vibration, subsequent encounter
+T75.20XS@Unspecified effects of vibration, sequela
+T75.21XA@Pneumatic hammer syndrome, initial encounter
+T75.21XD@Pneumatic hammer syndrome, subsequent encounter
+T75.21XS@Pneumatic hammer syndrome, sequela
+T75.22XA@Traumatic vasospastic syndrome, initial encounter
+T75.22XD@Traumatic vasospastic syndrome, subsequent encounter
+T75.22XS@Traumatic vasospastic syndrome, sequela
+T75.23XA@Vertigo from infrasound, initial encounter
+T75.23XD@Vertigo from infrasound, subsequent encounter
+T75.23XS@Vertigo from infrasound, sequela
+T75.29XA@Other effects of vibration, initial encounter
+T75.29XD@Other effects of vibration, subsequent encounter
+T75.29XS@Other effects of vibration, sequela
+T75.3XXA@Motion sickness, initial encounter
+T75.3XXD@Motion sickness, subsequent encounter
+T75.3XXS@Motion sickness, sequela
+T75.4XXA@Electrocution, initial encounter
+T75.4XXD@Electrocution, subsequent encounter
+T75.4XXS@Electrocution, sequela
+T75.81XA@Effects of abnormal gravitation forces, initial encounter
+T75.81XD@Effects of abnormal gravitation forces, subsequent encounter
+T75.81XS@Effects of abnormal gravitation [G] forces, sequela
+T75.82XA@Effects of weightlessness, initial encounter
+T75.82XD@Effects of weightlessness, subsequent encounter
+T75.82XS@Effects of weightlessness, sequela
+T75.89XA@Other specified effects of external causes, init encntr
+T75.89XD@Other specified effects of external causes, subs encntr
+T75.89XS@Other specified effects of external causes, sequela
+T76.01XA@Adult neglect or abandonment, suspected, initial encounter
+T76.01XD@Adult neglect or abandonment, suspected, subs encntr
+T76.01XS@Adult neglect or abandonment, suspected, sequela
+T76.02XA@Child neglect or abandonment, suspected, initial encounter
+T76.02XD@Child neglect or abandonment, suspected, subs encntr
+T76.02XS@Child neglect or abandonment, suspected, sequela
+T76.11XA@Adult physical abuse, suspected, initial encounter
+T76.11XD@Adult physical abuse, suspected, subsequent encounter
+T76.11XS@Adult physical abuse, suspected, sequela
+T76.12XA@Child physical abuse, suspected, initial encounter
+T76.12XD@Child physical abuse, suspected, subsequent encounter
+T76.12XS@Child physical abuse, suspected, sequela
+T76.21XA@Adult sexual abuse, suspected, initial encounter
+T76.21XD@Adult sexual abuse, suspected, subsequent encounter
+T76.21XS@Adult sexual abuse, suspected, sequela
+T76.22XA@Child sexual abuse, suspected, initial encounter
+T76.22XD@Child sexual abuse, suspected, subsequent encounter
+T76.22XS@Child sexual abuse, suspected, sequela
+T76.31XA@Adult psychological abuse, suspected, initial encounter
+T76.31XD@Adult psychological abuse, suspected, subsequent encounter
+T76.31XS@Adult psychological abuse, suspected, sequela
+T76.32XA@Child psychological abuse, suspected, initial encounter
+T76.32XD@Child psychological abuse, suspected, subsequent encounter
+T76.32XS@Child psychological abuse, suspected, sequela
+T76.91XA@Unspecified adult maltreatment, suspected, initial encounter
+T76.91XD@Unspecified adult maltreatment, suspected, subs encntr
+T76.91XS@Unspecified adult maltreatment, suspected, sequela
+T76.92XA@Unspecified child maltreatment, suspected, initial encounter
+T76.92XD@Unspecified child maltreatment, suspected, subs encntr
+T76.92XS@Unspecified child maltreatment, suspected, sequela
+T78.00XA@Anaphylactic reaction due to unspecified food, init encntr
+T78.00XD@Anaphylactic reaction due to unspecified food, subs encntr
+T78.00XS@Anaphylactic reaction due to unspecified food, sequela
+T78.01XA@Anaphylactic reaction due to peanuts, initial encounter
+T78.01XD@Anaphylactic reaction due to peanuts, subsequent encounter
+T78.01XS@Anaphylactic reaction due to peanuts, sequela
+T78.02XA@Anaphylactic reaction due to shellfish (crustaceans), init
+T78.02XD@Anaphylactic reaction due to shellfish (crustaceans), subs
+T78.02XS@Anaphyl reaction due to shellfish (crustaceans), sequela
+T78.03XA@Anaphylactic reaction due to other fish, initial encounter
+T78.03XD@Anaphylactic reaction due to other fish, subs encntr
+T78.03XS@Anaphylactic reaction due to other fish, sequela
+T78.04XA@Anaphylactic reaction due to fruits and vegetables, init
+T78.04XD@Anaphylactic reaction due to fruits and vegetables, subs
+T78.04XS@Anaphylactic reaction due to fruits and vegetables, sequela
+T78.05XA@Anaphylactic reaction due to tree nuts and seeds, init
+T78.05XD@Anaphylactic reaction due to tree nuts and seeds, subs
+T78.05XS@Anaphylactic reaction due to tree nuts and seeds, sequela
+T78.06XA@Anaphylactic reaction due to food additives, init encntr
+T78.06XD@Anaphylactic reaction due to food additives, subs encntr
+T78.06XS@Anaphylactic reaction due to food additives, sequela
+T78.07XA@Anaphylactic reaction due to milk and dairy products, init
+T78.07XD@Anaphylactic reaction due to milk and dairy products, subs
+T78.07XS@Anaphyl reaction due to milk and dairy products, sequela
+T78.08XA@Anaphylactic reaction due to eggs, initial encounter
+T78.08XD@Anaphylactic reaction due to eggs, subsequent encounter
+T78.08XS@Anaphylactic reaction due to eggs, sequela
+T78.09XA@Anaphylactic reaction due to oth food products, init encntr
+T78.09XD@Anaphylactic reaction due to oth food products, subs encntr
+T78.09XS@Anaphylactic reaction due to other food products, sequela
+T78.1XXA@Oth adverse food reactions, not elsewhere classified, init
+T78.1XXD@Oth adverse food reactions, not elsewhere classified, subs
+T78.1XXS@Oth adverse food reactions, NEC, sequela
+T78.2XXA@Anaphylactic shock, unspecified, initial encounter
+T78.2XXD@Anaphylactic shock, unspecified, subsequent encounter
+T78.2XXS@Anaphylactic shock, unspecified, sequela
+T78.3XXA@Angioneurotic edema, initial encounter
+T78.3XXD@Angioneurotic edema, subsequent encounter
+T78.3XXS@Angioneurotic edema, sequela
+T78.40XA@Allergy, unspecified, initial encounter
+T78.40XD@Allergy, unspecified, subsequent encounter
+T78.40XS@Allergy, unspecified, sequela
+T78.41XA@Arthus phenomenon, initial encounter
+T78.41XD@Arthus phenomenon, subsequent encounter
+T78.41XS@Arthus phenomenon, sequela
+T78.49XA@Other allergy, initial encounter
+T78.49XD@Other allergy, subsequent encounter
+T78.49XS@Other allergy, sequela
+T78.8XXA@Other adverse effects, not elsewhere classified, init encntr
+T78.8XXD@Other adverse effects, not elsewhere classified, subs encntr
+T78.8XXS@Other adverse effects, not elsewhere classified, sequela

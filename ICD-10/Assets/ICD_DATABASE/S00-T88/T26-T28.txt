@@ -1,0 +1,168 @@
+T26.00XA@Burn of unspecified eyelid and periocular area, init encntr
+T26.00XD@Burn of unspecified eyelid and periocular area, subs encntr
+T26.00XS@Burn of unspecified eyelid and periocular area, sequela
+T26.01XA@Burn of right eyelid and periocular area, initial encounter
+T26.01XD@Burn of right eyelid and periocular area, subs encntr
+T26.01XS@Burn of right eyelid and periocular area, sequela
+T26.02XA@Burn of left eyelid and periocular area, initial encounter
+T26.02XD@Burn of left eyelid and periocular area, subs encntr
+T26.02XS@Burn of left eyelid and periocular area, sequela
+T26.10XA@Burn of cornea and conjunctival sac, unsp eye, init encntr
+T26.10XD@Burn of cornea and conjunctival sac, unsp eye, subs encntr
+T26.10XS@Burn of cornea and conjunctival sac, unsp eye, sequela
+T26.11XA@Burn of cornea and conjunctival sac, right eye, init encntr
+T26.11XD@Burn of cornea and conjunctival sac, right eye, subs encntr
+T26.11XS@Burn of cornea and conjunctival sac, right eye, sequela
+T26.12XA@Burn of cornea and conjunctival sac, left eye, init encntr
+T26.12XD@Burn of cornea and conjunctival sac, left eye, subs encntr
+T26.12XS@Burn of cornea and conjunctival sac, left eye, sequela
+T26.20XA@Burn w resulting rupture and dest of unsp eyeball, init
+T26.20XD@Burn w resulting rupture and dest of unsp eyeball, subs
+T26.20XS@Burn w resulting rupture and dest of unsp eyeball, sequela
+T26.21XA@Burn w resulting rupture and dest of right eyeball, init
+T26.21XD@Burn w resulting rupture and dest of right eyeball, subs
+T26.21XS@Burn w resulting rupture and dest of right eyeball, sequela
+T26.22XA@Burn w resulting rupture and dest of left eyeball, init
+T26.22XD@Burn w resulting rupture and dest of left eyeball, subs
+T26.22XS@Burn w resulting rupture and dest of left eyeball, sequela
+T26.30XA@Burns of oth parts of unsp eye and adnexa, init encntr
+T26.30XD@Burns of oth parts of unsp eye and adnexa, subs encntr
+T26.30XS@Burns of oth parts of unspecified eye and adnexa, sequela
+T26.31XA@Burns of oth parts of right eye and adnexa, init encntr
+T26.31XD@Burns of oth parts of right eye and adnexa, subs encntr
+T26.31XS@Burns of oth parts of right eye and adnexa, sequela
+T26.32XA@Burns of oth parts of left eye and adnexa, init encntr
+T26.32XD@Burns of oth parts of left eye and adnexa, subs encntr
+T26.32XS@Burns of oth parts of left eye and adnexa, sequela
+T26.40XA@Burn of unsp eye and adnexa, part unspecified, init encntr
+T26.40XD@Burn of unsp eye and adnexa, part unspecified, subs encntr
+T26.40XS@Burn of unsp eye and adnexa, part unspecified, sequela
+T26.41XA@Burn of right eye and adnexa, part unspecified, init encntr
+T26.41XD@Burn of right eye and adnexa, part unspecified, subs encntr
+T26.41XS@Burn of right eye and adnexa, part unspecified, sequela
+T26.42XA@Burn of left eye and adnexa, part unspecified, init encntr
+T26.42XD@Burn of left eye and adnexa, part unspecified, subs encntr
+T26.42XS@Burn of left eye and adnexa, part unspecified, sequela
+T26.50XA@Corrosion of unsp eyelid and periocular area, init encntr
+T26.50XD@Corrosion of unsp eyelid and periocular area, subs encntr
+T26.50XS@Corrosion of unspecified eyelid and periocular area, sequela
+T26.51XA@Corrosion of right eyelid and periocular area, init encntr
+T26.51XD@Corrosion of right eyelid and periocular area, subs encntr
+T26.51XS@Corrosion of right eyelid and periocular area, sequela
+T26.52XA@Corrosion of left eyelid and periocular area, init encntr
+T26.52XD@Corrosion of left eyelid and periocular area, subs encntr
+T26.52XS@Corrosion of left eyelid and periocular area, sequela
+T26.60XA@Corrosion of cornea and conjunctival sac, unsp eye, init
+T26.60XD@Corrosion of cornea and conjunctival sac, unsp eye, subs
+T26.60XS@Corrosion of cornea and conjunctival sac, unsp eye, sequela
+T26.61XA@Corrosion of cornea and conjunctival sac, right eye, init
+T26.61XD@Corrosion of cornea and conjunctival sac, right eye, subs
+T26.61XS@Corrosion of cornea and conjunctival sac, right eye, sequela
+T26.62XA@Corrosion of cornea and conjunctival sac, left eye, init
+T26.62XD@Corrosion of cornea and conjunctival sac, left eye, subs
+T26.62XS@Corrosion of cornea and conjunctival sac, left eye, sequela
+T26.70XA@Corrosion w resulting rupture and dest of unsp eyeball, init
+T26.70XD@Corrosion w resulting rupture and dest of unsp eyeball, subs
+T26.70XS@Corros w resulting rupture and dest of unsp eyeball, sequela
+T26.71XA@Corros w resulting rupture and dest of right eyeball, init
+T26.71XD@Corros w resulting rupture and dest of right eyeball, subs
+T26.71XS@Corros w rslt rupture and dest of right eyeball, sequela
+T26.72XA@Corrosion w resulting rupture and dest of left eyeball, init
+T26.72XD@Corrosion w resulting rupture and dest of left eyeball, subs
+T26.72XS@Corros w resulting rupture and dest of left eyeball, sequela
+T26.80XA@Corrosions of oth parts of unsp eye and adnexa, init encntr
+T26.80XD@Corrosions of oth parts of unsp eye and adnexa, subs encntr
+T26.80XS@Corrosions of oth parts of unsp eye and adnexa, sequela
+T26.81XA@Corrosions of oth parts of right eye and adnexa, init encntr
+T26.81XD@Corrosions of oth parts of right eye and adnexa, subs encntr
+T26.81XS@Corrosions of oth parts of right eye and adnexa, sequela
+T26.82XA@Corrosions of oth parts of left eye and adnexa, init encntr
+T26.82XD@Corrosions of oth parts of left eye and adnexa, subs encntr
+T26.82XS@Corrosions of oth parts of left eye and adnexa, sequela
+T26.90XA@Corrosion of unsp eye and adnexa, part unsp, init encntr
+T26.90XD@Corrosion of unsp eye and adnexa, part unsp, subs encntr
+T26.90XS@Corrosion of unsp eye and adnexa, part unspecified, sequela
+T26.91XA@Corrosion of right eye and adnexa, part unsp, init encntr
+T26.91XD@Corrosion of right eye and adnexa, part unsp, subs encntr
+T26.91XS@Corrosion of right eye and adnexa, part unspecified, sequela
+T26.92XA@Corrosion of left eye and adnexa, part unsp, init encntr
+T26.92XD@Corrosion of left eye and adnexa, part unsp, subs encntr
+T26.92XS@Corrosion of left eye and adnexa, part unspecified, sequela
+T27.0XXA@Burn of larynx and trachea, initial encounter
+T27.0XXD@Burn of larynx and trachea, subsequent encounter
+T27.0XXS@Burn of larynx and trachea, sequela
+T27.1XXA@Burn involving larynx and trachea with lung, init encntr
+T27.1XXD@Burn involving larynx and trachea with lung, subs encntr
+T27.1XXS@Burn involving larynx and trachea with lung, sequela
+T27.2XXA@Burn of other parts of respiratory tract, initial encounter
+T27.2XXD@Burn of other parts of respiratory tract, subs encntr
+T27.2XXS@Burn of other parts of respiratory tract, sequela
+T27.3XXA@Burn of respiratory tract, part unspecified, init encntr
+T27.3XXD@Burn of respiratory tract, part unspecified, subs encntr
+T27.3XXS@Burn of respiratory tract, part unspecified, sequela
+T27.4XXA@Corrosion of larynx and trachea, initial encounter
+T27.4XXD@Corrosion of larynx and trachea, subsequent encounter
+T27.4XXS@Corrosion of larynx and trachea, sequela
+T27.5XXA@Corrosion involving larynx and trachea w lung, init encntr
+T27.5XXD@Corrosion involving larynx and trachea w lung, subs encntr
+T27.5XXS@Corrosion involving larynx and trachea with lung, sequela
+T27.6XXA@Corrosion of other parts of respiratory tract, init encntr
+T27.6XXD@Corrosion of other parts of respiratory tract, subs encntr
+T27.6XXS@Corrosion of other parts of respiratory tract, sequela
+T27.7XXA@Corrosion of respiratory tract, part unsp, init encntr
+T27.7XXD@Corrosion of respiratory tract, part unsp, subs encntr
+T27.7XXS@Corrosion of respiratory tract, part unspecified, sequela
+T28.0XXA@Burn of mouth and pharynx, initial encounter
+T28.0XXD@Burn of mouth and pharynx, subsequent encounter
+T28.0XXS@Burn of mouth and pharynx, sequela
+T28.1XXA@Burn of esophagus, initial encounter
+T28.1XXD@Burn of esophagus, subsequent encounter
+T28.1XXS@Burn of esophagus, sequela
+T28.2XXA@Burn of other parts of alimentary tract, initial encounter
+T28.2XXD@Burn of other parts of alimentary tract, subs encntr
+T28.2XXS@Burn of other parts of alimentary tract, sequela
+T28.3XXA@Burn of internal genitourinary organs, initial encounter
+T28.3XXD@Burn of internal genitourinary organs, subsequent encounter
+T28.3XXS@Burn of internal genitourinary organs, sequela
+T28.40XA@Burn of unspecified internal organ, initial encounter
+T28.40XD@Burn of unspecified internal organ, subsequent encounter
+T28.40XS@Burn of unspecified internal organ, sequela
+T28.411A@Burn of right ear drum, initial encounter
+T28.411D@Burn of right ear drum, subsequent encounter
+T28.411S@Burn of right ear drum, sequela
+T28.412A@Burn of left ear drum, initial encounter
+T28.412D@Burn of left ear drum, subsequent encounter
+T28.412S@Burn of left ear drum, sequela
+T28.419A@Burn of unspecified ear drum, initial encounter
+T28.419D@Burn of unspecified ear drum, subsequent encounter
+T28.419S@Burn of unspecified ear drum, sequela
+T28.49XA@Burn of other internal organ, initial encounter
+T28.49XD@Burn of other internal organ, subsequent encounter
+T28.49XS@Burn of other internal organ, sequela
+T28.5XXA@Corrosion of mouth and pharynx, initial encounter
+T28.5XXD@Corrosion of mouth and pharynx, subsequent encounter
+T28.5XXS@Corrosion of mouth and pharynx, sequela
+T28.6XXA@Corrosion of esophagus, initial encounter
+T28.6XXD@Corrosion of esophagus, subsequent encounter
+T28.6XXS@Corrosion of esophagus, sequela
+T28.7XXA@Corrosion of other parts of alimentary tract, init encntr
+T28.7XXD@Corrosion of other parts of alimentary tract, subs encntr
+T28.7XXS@Corrosion of other parts of alimentary tract, sequela
+T28.8XXA@Corrosion of internal genitourinary organs, init encntr
+T28.8XXD@Corrosion of internal genitourinary organs, subs encntr
+T28.8XXS@Corrosion of internal genitourinary organs, sequela
+T28.90XA@Corrosions of unspecified internal organs, initial encounter
+T28.90XD@Corrosions of unspecified internal organs, subs encntr
+T28.90XS@Corrosions of unspecified internal organs, sequela
+T28.911A@Corrosions of right ear drum, initial encounter
+T28.911D@Corrosions of right ear drum, subsequent encounter
+T28.911S@Corrosions of right ear drum, sequela
+T28.912A@Corrosions of left ear drum, initial encounter
+T28.912D@Corrosions of left ear drum, subsequent encounter
+T28.912S@Corrosions of left ear drum, sequela
+T28.919A@Corrosions of unspecified ear drum, initial encounter
+T28.919D@Corrosions of unspecified ear drum, subsequent encounter
+T28.919S@Corrosions of unspecified ear drum, sequela
+T28.99XA@Corrosions of other internal organs, initial encounter
+T28.99XD@Corrosions of other internal organs, subsequent encounter
+T28.99XS@Corrosions of other internal organs, sequela

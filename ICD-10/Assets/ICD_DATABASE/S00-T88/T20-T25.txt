@@ -1,0 +1,2304 @@
+T20.00XA@Burn of unsp degree of head, face, and neck, unsp site, init
+T20.00XD@Burn of unsp degree of head, face, and neck, unsp site, subs
+T20.00XS@Burn unsp degree of head, face, and neck, unsp site, sequela
+T20.011A@Burn of unspecified degree of right ear, initial encounter
+T20.011D@Burn of unspecified degree of right ear, subs encntr
+T20.011S@Burn of unspecified degree of right ear, sequela
+T20.012A@Burn of unspecified degree of left ear, initial encounter
+T20.012D@Burn of unspecified degree of left ear, subsequent encounter
+T20.012S@Burn of unspecified degree of left ear, sequela
+T20.019A@Burn of unspecified degree of unspecified ear, init encntr
+T20.019D@Burn of unspecified degree of unspecified ear, subs encntr
+T20.019S@Burn of unspecified degree of unspecified ear, sequela
+T20.02XA@Burn of unspecified degree of lip(s), initial encounter
+T20.02XD@Burn of unspecified degree of lip(s), subsequent encounter
+T20.02XS@Burn of unspecified degree of lip(s), sequela
+T20.03XA@Burn of unspecified degree of chin, initial encounter
+T20.03XD@Burn of unspecified degree of chin, subsequent encounter
+T20.03XS@Burn of unspecified degree of chin, sequela
+T20.04XA@Burn of unspecified degree of nose (septum), init encntr
+T20.04XD@Burn of unspecified degree of nose (septum), subs encntr
+T20.04XS@Burn of unspecified degree of nose (septum), sequela
+T20.05XA@Burn of unspecified degree of scalp, initial encounter
+T20.05XD@Burn of unspecified degree of scalp, subsequent encounter
+T20.05XS@Burn of unspecified degree of scalp [any part], sequela
+T20.06XA@Burn of unsp degree of forehead and cheek, init encntr
+T20.06XD@Burn of unsp degree of forehead and cheek, subs encntr
+T20.06XS@Burn of unspecified degree of forehead and cheek, sequela
+T20.07XA@Burn of unspecified degree of neck, initial encounter
+T20.07XD@Burn of unspecified degree of neck, subsequent encounter
+T20.07XS@Burn of unspecified degree of neck, sequela
+T20.09XA@Burn of unsp deg mult sites of head, face, and neck, init
+T20.09XD@Burn of unsp deg mult sites of head, face, and neck, subs
+T20.09XS@Burn of unsp deg mult sites of head, face, and neck, sequela
+T20.10XA@Burn first degree of head, face, and neck, unsp site, init
+T20.10XD@Burn first degree of head, face, and neck, unsp site, subs
+T20.10XS@Burn first degree of head, face, and neck, unsp site, sqla
+T20.111A@Burn of first degree of right ear, initial encounter
+T20.111D@Burn of first degree of right ear, subsequent encounter
+T20.111S@Burn of first degree of right ear, sequela
+T20.112A@Burn of first degree of left ear, initial encounter
+T20.112D@Burn of first degree of left ear, subsequent encounter
+T20.112S@Burn of first degree of left ear, sequela
+T20.119A@Burn of first degree of unspecified ear, initial encounter
+T20.119D@Burn of first degree of unspecified ear, subs encntr
+T20.119S@Burn of first degree of unspecified ear, sequela
+T20.12XA@Burn of first degree of lip(s), initial encounter
+T20.12XD@Burn of first degree of lip(s), subsequent encounter
+T20.12XS@Burn of first degree of lip(s), sequela
+T20.13XA@Burn of first degree of chin, initial encounter
+T20.13XD@Burn of first degree of chin, subsequent encounter
+T20.13XS@Burn of first degree of chin, sequela
+T20.14XA@Burn of first degree of nose (septum), initial encounter
+T20.14XD@Burn of first degree of nose (septum), subsequent encounter
+T20.14XS@Burn of first degree of nose (septum), sequela
+T20.15XA@Burn of first degree of scalp [any part], initial encounter
+T20.15XD@Burn of first degree of scalp, subsequent encounter
+T20.15XS@Burn of first degree of scalp [any part], sequela
+T20.16XA@Burn of first degree of forehead and cheek, init encntr
+T20.16XD@Burn of first degree of forehead and cheek, subs encntr
+T20.16XS@Burn of first degree of forehead and cheek, sequela
+T20.17XA@Burn of first degree of neck, initial encounter
+T20.17XD@Burn of first degree of neck, subsequent encounter
+T20.17XS@Burn of first degree of neck, sequela
+T20.19XA@Burn of first deg mult sites of head, face, and neck, init
+T20.19XD@Burn of first deg mult sites of head, face, and neck, subs
+T20.19XS@Burn first deg mult sites of head, face, and neck, sequela
+T20.20XA@Burn second degree of head, face, and neck, unsp site, init
+T20.20XD@Burn second degree of head, face, and neck, unsp site, subs
+T20.20XS@Burn second degree of head, face, and neck, unsp site, sqla
+T20.211A@Burn of second degree of right ear, initial encounter
+T20.211D@Burn of second degree of right ear, subsequent encounter
+T20.211S@Burn of second degree of right ear, sequela
+T20.212A@Burn of second degree of left ear, initial encounter
+T20.212D@Burn of second degree of left ear, subsequent encounter
+T20.212S@Burn of second degree of left ear, sequela
+T20.219A@Burn of second degree of unspecified ear, initial encounter
+T20.219D@Burn of second degree of unspecified ear, subs encntr
+T20.219S@Burn of second degree of unspecified ear, sequela
+T20.22XA@Burn of second degree of lip(s), initial encounter
+T20.22XD@Burn of second degree of lip(s), subsequent encounter
+T20.22XS@Burn of second degree of lip(s), sequela
+T20.23XA@Burn of second degree of chin, initial encounter
+T20.23XD@Burn of second degree of chin, subsequent encounter
+T20.23XS@Burn of second degree of chin, sequela
+T20.24XA@Burn of second degree of nose (septum), initial encounter
+T20.24XD@Burn of second degree of nose (septum), subsequent encounter
+T20.24XS@Burn of second degree of nose (septum), sequela
+T20.25XA@Burn of second degree of scalp [any part], initial encounter
+T20.25XD@Burn of second degree of scalp, subsequent encounter
+T20.25XS@Burn of second degree of scalp [any part], sequela
+T20.26XA@Burn of second degree of forehead and cheek, init encntr
+T20.26XD@Burn of second degree of forehead and cheek, subs encntr
+T20.26XS@Burn of second degree of forehead and cheek, sequela
+T20.27XA@Burn of second degree of neck, initial encounter
+T20.27XD@Burn of second degree of neck, subsequent encounter
+T20.27XS@Burn of second degree of neck, sequela
+T20.29XA@Burn of 2nd deg mul sites of head, face, and neck, init
+T20.29XD@Burn of 2nd deg mul sites of head, face, and neck, subs
+T20.29XS@Burn of 2nd deg mul sites of head, face, and neck, sequela
+T20.30XA@Burn third degree of head, face, and neck, unsp site, init
+T20.30XD@Burn third degree of head, face, and neck, unsp site, subs
+T20.30XS@Burn third degree of head, face, and neck, unsp site, sqla
+T20.311A@Burn of third degree of right ear, initial encounter
+T20.311D@Burn of third degree of right ear, subsequent encounter
+T20.311S@Burn of third degree of right ear, sequela
+T20.312A@Burn of third degree of left ear, initial encounter
+T20.312D@Burn of third degree of left ear, subsequent encounter
+T20.312S@Burn of third degree of left ear, sequela
+T20.319A@Burn of third degree of unspecified ear, initial encounter
+T20.319D@Burn of third degree of unspecified ear, subs encntr
+T20.319S@Burn of third degree of unspecified ear, sequela
+T20.32XA@Burn of third degree of lip(s), initial encounter
+T20.32XD@Burn of third degree of lip(s), subsequent encounter
+T20.32XS@Burn of third degree of lip(s), sequela
+T20.33XA@Burn of third degree of chin, initial encounter
+T20.33XD@Burn of third degree of chin, subsequent encounter
+T20.33XS@Burn of third degree of chin, sequela
+T20.34XA@Burn of third degree of nose (septum), initial encounter
+T20.34XD@Burn of third degree of nose (septum), subsequent encounter
+T20.34XS@Burn of third degree of nose (septum), sequela
+T20.35XA@Burn of third degree of scalp [any part], initial encounter
+T20.35XD@Burn of third degree of scalp, subsequent encounter
+T20.35XS@Burn of third degree of scalp [any part], sequela
+T20.36XA@Burn of third degree of forehead and cheek, init encntr
+T20.36XD@Burn of third degree of forehead and cheek, subs encntr
+T20.36XS@Burn of third degree of forehead and cheek, sequela
+T20.37XA@Burn of third degree of neck, initial encounter
+T20.37XD@Burn of third degree of neck, subsequent encounter
+T20.37XS@Burn of third degree of neck, sequela
+T20.39XA@Burn of 3rd deg mu sites of head, face, and neck, init
+T20.39XD@Burn of 3rd deg mu sites of head, face, and neck, subs
+T20.39XS@Burn of 3rd deg mu sites of head, face, and neck, sequela
+T20.40XA@Corros unsp degree of head, face, and neck, unsp site, init
+T20.40XD@Corros unsp degree of head, face, and neck, unsp site, subs
+T20.40XS@Corros unsp degree of head, face, and neck, unsp site, sqla
+T20.411A@Corrosion of unspecified degree of right ear, init encntr
+T20.411D@Corrosion of unspecified degree of right ear, subs encntr
+T20.411S@Corrosion of unspecified degree of right ear, sequela
+T20.412A@Corrosion of unspecified degree of left ear, init encntr
+T20.412D@Corrosion of unspecified degree of left ear, subs encntr
+T20.412S@Corrosion of unspecified degree of left ear, sequela
+T20.419A@Corrosion of unsp degree of unspecified ear, init encntr
+T20.419D@Corrosion of unsp degree of unspecified ear, subs encntr
+T20.419S@Corrosion of unspecified degree of unspecified ear, sequela
+T20.42XA@Corrosion of unspecified degree of lip(s), initial encounter
+T20.42XD@Corrosion of unspecified degree of lip(s), subs encntr
+T20.42XS@Corrosion of unspecified degree of lip(s), sequela
+T20.43XA@Corrosion of unspecified degree of chin, initial encounter
+T20.43XD@Corrosion of unspecified degree of chin, subs encntr
+T20.43XS@Corrosion of unspecified degree of chin, sequela
+T20.44XA@Corrosion of unsp degree of nose (septum), init encntr
+T20.44XD@Corrosion of unsp degree of nose (septum), subs encntr
+T20.44XS@Corrosion of unspecified degree of nose (septum), sequela
+T20.45XA@Corrosion of unspecified degree of scalp, initial encounter
+T20.45XD@Corrosion of unspecified degree of scalp, subs encntr
+T20.45XS@Corrosion of unspecified degree of scalp [any part], sequela
+T20.46XA@Corrosion of unsp degree of forehead and cheek, init encntr
+T20.46XD@Corrosion of unsp degree of forehead and cheek, subs encntr
+T20.46XS@Corrosion of unsp degree of forehead and cheek, sequela
+T20.47XA@Corrosion of unspecified degree of neck, initial encounter
+T20.47XD@Corrosion of unspecified degree of neck, subs encntr
+T20.47XS@Corrosion of unspecified degree of neck, sequela
+T20.49XA@Corros unsp deg mult sites of head, face, and neck, init
+T20.49XD@Corros unsp deg mult sites of head, face, and neck, subs
+T20.49XS@Corros unsp deg mult sites of head, face, and neck, sequela
+T20.50XA@Corros first degree of head, face, and neck, unsp site, init
+T20.50XD@Corros first degree of head, face, and neck, unsp site, subs
+T20.50XS@Corros first degree of head, face, and neck, unsp site, sqla
+T20.511A@Corrosion of first degree of right ear, initial encounter
+T20.511D@Corrosion of first degree of right ear, subsequent encounter
+T20.511S@Corrosion of first degree of right ear, sequela
+T20.512A@Corrosion of first degree of left ear, initial encounter
+T20.512D@Corrosion of first degree of left ear, subsequent encounter
+T20.512S@Corrosion of first degree of left ear, sequela
+T20.519A@Corrosion of first degree of unspecified ear, init encntr
+T20.519D@Corrosion of first degree of unspecified ear, subs encntr
+T20.519S@Corrosion of first degree of unspecified ear, sequela
+T20.52XA@Corrosion of first degree of lip(s), initial encounter
+T20.52XD@Corrosion of first degree of lip(s), subsequent encounter
+T20.52XS@Corrosion of first degree of lip(s), sequela
+T20.53XA@Corrosion of first degree of chin, initial encounter
+T20.53XD@Corrosion of first degree of chin, subsequent encounter
+T20.53XS@Corrosion of first degree of chin, sequela
+T20.54XA@Corrosion of first degree of nose (septum), init encntr
+T20.54XD@Corrosion of first degree of nose (septum), subs encntr
+T20.54XS@Corrosion of first degree of nose (septum), sequela
+T20.55XA@Corrosion of first degree of scalp, initial encounter
+T20.55XD@Corrosion of first degree of scalp, subsequent encounter
+T20.55XS@Corrosion of first degree of scalp [any part], sequela
+T20.56XA@Corrosion of first degree of cheek, initial encounter
+T20.56XD@Corrosion of first degree of cheek, subsequent encounter
+T20.56XS@Corrosion of first degree of cheek, sequela
+T20.57XA@Corrosion of first degree of neck, initial encounter
+T20.57XD@Corrosion of first degree of neck, subsequent encounter
+T20.57XS@Corrosion of first degree of neck, sequela
+T20.59XA@Corros first deg mult sites of head, face, and neck, init
+T20.59XD@Corros first deg mult sites of head, face, and neck, subs
+T20.59XS@Corros first deg mult sites of head, face, and neck, sequela
+T20.60XA@Corros second deg of head, face, and neck, unsp site, init
+T20.60XD@Corros second deg of head, face, and neck, unsp site, subs
+T20.60XS@Corros second deg of head, face, and neck, unsp site, sqla
+T20.611A@Corrosion of second degree of right ear, initial encounter
+T20.611D@Corrosion of second degree of right ear, subs encntr
+T20.611S@Corrosion of second degree of right ear, sequela
+T20.612A@Corrosion of second degree of left ear, initial encounter
+T20.612D@Corrosion of second degree of left ear, subsequent encounter
+T20.612S@Corrosion of second degree of left ear, sequela
+T20.619A@Corrosion of second degree of unspecified ear, init encntr
+T20.619D@Corrosion of second degree of unspecified ear, subs encntr
+T20.619S@Corrosion of second degree of unspecified ear, sequela
+T20.62XA@Corrosion of second degree of lip(s), initial encounter
+T20.62XD@Corrosion of second degree of lip(s), subsequent encounter
+T20.62XS@Corrosion of second degree of lip(s), sequela
+T20.63XA@Corrosion of second degree of chin, initial encounter
+T20.63XD@Corrosion of second degree of chin, subsequent encounter
+T20.63XS@Corrosion of second degree of chin, sequela
+T20.64XA@Corrosion of second degree of nose (septum), init encntr
+T20.64XD@Corrosion of second degree of nose (septum), subs encntr
+T20.64XS@Corrosion of second degree of nose (septum), sequela
+T20.65XA@Corrosion of second degree of scalp, initial encounter
+T20.65XD@Corrosion of second degree of scalp, subsequent encounter
+T20.65XS@Corrosion of second degree of scalp [any part], sequela
+T20.66XA@Corrosion of second degree of forehead and cheek, init
+T20.66XD@Corrosion of second degree of forehead and cheek, subs
+T20.66XS@Corrosion of second degree of forehead and cheek, sequela
+T20.67XA@Corrosion of second degree of neck, initial encounter
+T20.67XD@Corrosion of second degree of neck, subsequent encounter
+T20.67XS@Corrosion of second degree of neck, sequela
+T20.69XA@Corrosion of 2nd deg mul sites of head, face, and neck, init
+T20.69XD@Corrosion of 2nd deg mul sites of head, face, and neck, subs
+T20.69XS@Corros 2nd deg mul sites of head, face, and neck, sequela
+T20.70XA@Corros third degree of head, face, and neck, unsp site, init
+T20.70XD@Corros third degree of head, face, and neck, unsp site, subs
+T20.70XS@Corros third degree of head, face, and neck, unsp site, sqla
+T20.711A@Corrosion of third degree of right ear, initial encounter
+T20.711D@Corrosion of third degree of right ear, subsequent encounter
+T20.711S@Corrosion of third degree of right ear, sequela
+T20.712A@Corrosion of third degree of left ear, initial encounter
+T20.712D@Corrosion of third degree of left ear, subsequent encounter
+T20.712S@Corrosion of third degree of left ear, sequela
+T20.719A@Corrosion of third degree of unspecified ear, init encntr
+T20.719D@Corrosion of third degree of unspecified ear, subs encntr
+T20.719S@Corrosion of third degree of unspecified ear, sequela
+T20.72XA@Corrosion of third degree of lip(s), initial encounter
+T20.72XD@Corrosion of third degree of lip(s), subsequent encounter
+T20.72XS@Corrosion of third degree of lip(s), sequela
+T20.73XA@Corrosion of third degree of chin, initial encounter
+T20.73XD@Corrosion of third degree of chin, subsequent encounter
+T20.73XS@Corrosion of third degree of chin, sequela
+T20.74XA@Corrosion of third degree of nose (septum), init encntr
+T20.74XD@Corrosion of third degree of nose (septum), subs encntr
+T20.74XS@Corrosion of third degree of nose (septum), sequela
+T20.75XA@Corrosion of third degree of scalp, initial encounter
+T20.75XD@Corrosion of third degree of scalp, subsequent encounter
+T20.75XS@Corrosion of third degree of scalp [any part], sequela
+T20.76XA@Corrosion of third degree of forehead and cheek, init encntr
+T20.76XD@Corrosion of third degree of forehead and cheek, subs encntr
+T20.76XS@Corrosion of third degree of forehead and cheek, sequela
+T20.77XA@Corrosion of third degree of neck, initial encounter
+T20.77XD@Corrosion of third degree of neck, subsequent encounter
+T20.77XS@Corrosion of third degree of neck, sequela
+T20.79XA@Corrosion of 3rd deg mu sites of head, face, and neck, init
+T20.79XD@Corrosion of 3rd deg mu sites of head, face, and neck, subs
+T20.79XS@Corros 3rd deg mu sites of head, face, and neck, sequela
+T21.00XA@Burn of unsp degree of trunk, unspecified site, init encntr
+T21.00XD@Burn of unsp degree of trunk, unspecified site, subs encntr
+T21.00XS@Burn of unsp degree of trunk, unspecified site, sequela
+T21.01XA@Burn of unspecified degree of chest wall, initial encounter
+T21.01XD@Burn of unspecified degree of chest wall, subs encntr
+T21.01XS@Burn of unspecified degree of chest wall, sequela
+T21.02XA@Burn of unspecified degree of abdominal wall, init encntr
+T21.02XD@Burn of unspecified degree of abdominal wall, subs encntr
+T21.02XS@Burn of unspecified degree of abdominal wall, sequela
+T21.03XA@Burn of unspecified degree of upper back, initial encounter
+T21.03XD@Burn of unspecified degree of upper back, subs encntr
+T21.03XS@Burn of unspecified degree of upper back, sequela
+T21.04XA@Burn of unspecified degree of lower back, initial encounter
+T21.04XD@Burn of unspecified degree of lower back, subs encntr
+T21.04XS@Burn of unspecified degree of lower back, sequela
+T21.05XA@Burn of unspecified degree of buttock, initial encounter
+T21.05XD@Burn of unspecified degree of buttock, subsequent encounter
+T21.05XS@Burn of unspecified degree of buttock, sequela
+T21.06XA@Burn of unsp degree of male genital region, init encntr
+T21.06XD@Burn of unsp degree of male genital region, subs encntr
+T21.06XS@Burn of unspecified degree of male genital region, sequela
+T21.07XA@Burn of unsp degree of female genital region, init encntr
+T21.07XD@Burn of unsp degree of female genital region, subs encntr
+T21.07XS@Burn of unspecified degree of female genital region, sequela
+T21.09XA@Burn of unsp degree of other site of trunk, init encntr
+T21.09XD@Burn of unsp degree of other site of trunk, subs encntr
+T21.09XS@Burn of unspecified degree of other site of trunk, sequela
+T21.10XA@Burn of first degree of trunk, unspecified site, init encntr
+T21.10XD@Burn of first degree of trunk, unspecified site, subs encntr
+T21.10XS@Burn of first degree of trunk, unspecified site, sequela
+T21.11XA@Burn of first degree of chest wall, initial encounter
+T21.11XD@Burn of first degree of chest wall, subsequent encounter
+T21.11XS@Burn of first degree of chest wall, sequela
+T21.12XA@Burn of first degree of abdominal wall, initial encounter
+T21.12XD@Burn of first degree of abdominal wall, subsequent encounter
+T21.12XS@Burn of first degree of abdominal wall, sequela
+T21.13XA@Burn of first degree of upper back, initial encounter
+T21.13XD@Burn of first degree of upper back, subsequent encounter
+T21.13XS@Burn of first degree of upper back, sequela
+T21.14XA@Burn of first degree of lower back, initial encounter
+T21.14XD@Burn of first degree of lower back, subsequent encounter
+T21.14XS@Burn of first degree of lower back, sequela
+T21.15XA@Burn of first degree of buttock, initial encounter
+T21.15XD@Burn of first degree of buttock, subsequent encounter
+T21.15XS@Burn of first degree of buttock, sequela
+T21.16XA@Burn of first degree of male genital region, init encntr
+T21.16XD@Burn of first degree of male genital region, subs encntr
+T21.16XS@Burn of first degree of male genital region, sequela
+T21.17XA@Burn of first degree of female genital region, init encntr
+T21.17XD@Burn of first degree of female genital region, subs encntr
+T21.17XS@Burn of first degree of female genital region, sequela
+T21.19XA@Burn of first degree of other site of trunk, init encntr
+T21.19XD@Burn of first degree of other site of trunk, subs encntr
+T21.19XS@Burn of first degree of other site of trunk, sequela
+T21.20XA@Burn of second degree of trunk, unsp site, init encntr
+T21.20XD@Burn of second degree of trunk, unsp site, subs encntr
+T21.20XS@Burn of second degree of trunk, unspecified site, sequela
+T21.21XA@Burn of second degree of chest wall, initial encounter
+T21.21XD@Burn of second degree of chest wall, subsequent encounter
+T21.21XS@Burn of second degree of chest wall, sequela
+T21.22XA@Burn of second degree of abdominal wall, initial encounter
+T21.22XD@Burn of second degree of abdominal wall, subs encntr
+T21.22XS@Burn of second degree of abdominal wall, sequela
+T21.23XA@Burn of second degree of upper back, initial encounter
+T21.23XD@Burn of second degree of upper back, subsequent encounter
+T21.23XS@Burn of second degree of upper back, sequela
+T21.24XA@Burn of second degree of lower back, initial encounter
+T21.24XD@Burn of second degree of lower back, subsequent encounter
+T21.24XS@Burn of second degree of lower back, sequela
+T21.25XA@Burn of second degree of buttock, initial encounter
+T21.25XD@Burn of second degree of buttock, subsequent encounter
+T21.25XS@Burn of second degree of buttock, sequela
+T21.26XA@Burn of second degree of male genital region, init encntr
+T21.26XD@Burn of second degree of male genital region, subs encntr
+T21.26XS@Burn of second degree of male genital region, sequela
+T21.27XA@Burn of second degree of female genital region, init encntr
+T21.27XD@Burn of second degree of female genital region, subs encntr
+T21.27XS@Burn of second degree of female genital region, sequela
+T21.29XA@Burn of second degree of other site of trunk, init encntr
+T21.29XD@Burn of second degree of other site of trunk, subs encntr
+T21.29XS@Burn of second degree of other site of trunk, sequela
+T21.30XA@Burn of third degree of trunk, unspecified site, init encntr
+T21.30XD@Burn of third degree of trunk, unspecified site, subs encntr
+T21.30XS@Burn of third degree of trunk, unspecified site, sequela
+T21.31XA@Burn of third degree of chest wall, initial encounter
+T21.31XD@Burn of third degree of chest wall, subsequent encounter
+T21.31XS@Burn of third degree of chest wall, sequela
+T21.32XA@Burn of third degree of abdominal wall, initial encounter
+T21.32XD@Burn of third degree of abdominal wall, subsequent encounter
+T21.32XS@Burn of third degree of abdominal wall, sequela
+T21.33XA@Burn of third degree of upper back, initial encounter
+T21.33XD@Burn of third degree of upper back, subsequent encounter
+T21.33XS@Burn of third degree of upper back, sequela
+T21.34XA@Burn of third degree of lower back, initial encounter
+T21.34XD@Burn of third degree of lower back, subsequent encounter
+T21.34XS@Burn of third degree of lower back, sequela
+T21.35XA@Burn of third degree of buttock, initial encounter
+T21.35XD@Burn of third degree of buttock, subsequent encounter
+T21.35XS@Burn of third degree of buttock, sequela
+T21.36XA@Burn of third degree of male genital region, init encntr
+T21.36XD@Burn of third degree of male genital region, subs encntr
+T21.36XS@Burn of third degree of male genital region, sequela
+T21.37XA@Burn of third degree of female genital region, init encntr
+T21.37XD@Burn of third degree of female genital region, subs encntr
+T21.37XS@Burn of third degree of female genital region, sequela
+T21.39XA@Burn of third degree of other site of trunk, init encntr
+T21.39XD@Burn of third degree of other site of trunk, subs encntr
+T21.39XS@Burn of third degree of other site of trunk, sequela
+T21.40XA@Corrosion of unsp degree of trunk, unsp site, init encntr
+T21.40XD@Corrosion of unsp degree of trunk, unsp site, subs encntr
+T21.40XS@Corrosion of unsp degree of trunk, unspecified site, sequela
+T21.41XA@Corrosion of unspecified degree of chest wall, init encntr
+T21.41XD@Corrosion of unspecified degree of chest wall, subs encntr
+T21.41XS@Corrosion of unspecified degree of chest wall, sequela
+T21.42XA@Corrosion of unsp degree of abdominal wall, init encntr
+T21.42XD@Corrosion of unsp degree of abdominal wall, subs encntr
+T21.42XS@Corrosion of unspecified degree of abdominal wall, sequela
+T21.43XA@Corrosion of unspecified degree of upper back, init encntr
+T21.43XD@Corrosion of unspecified degree of upper back, subs encntr
+T21.43XS@Corrosion of unspecified degree of upper back, sequela
+T21.44XA@Corrosion of unspecified degree of lower back, init encntr
+T21.44XD@Corrosion of unspecified degree of lower back, subs encntr
+T21.44XS@Corrosion of unspecified degree of lower back, sequela
+T21.45XA@Corrosion of unspecified degree of buttock, init encntr
+T21.45XD@Corrosion of unspecified degree of buttock, subs encntr
+T21.45XS@Corrosion of unspecified degree of buttock, sequela
+T21.46XA@Corrosion of unsp degree of male genital region, init encntr
+T21.46XD@Corrosion of unsp degree of male genital region, subs encntr
+T21.46XS@Corrosion of unsp degree of male genital region, sequela
+T21.47XA@Corrosion of unsp degree of female genital region, init
+T21.47XD@Corrosion of unsp degree of female genital region, subs
+T21.47XS@Corrosion of unsp degree of female genital region, sequela
+T21.49XA@Corrosion of unsp degree of other site of trunk, init encntr
+T21.49XD@Corrosion of unsp degree of other site of trunk, subs encntr
+T21.49XS@Corrosion of unsp degree of other site of trunk, sequela
+T21.50XA@Corrosion of first degree of trunk, unsp site, init encntr
+T21.50XD@Corrosion of first degree of trunk, unsp site, subs encntr
+T21.50XS@Corrosion of first degree of trunk, unsp site, sequela
+T21.51XA@Corrosion of first degree of chest wall, initial encounter
+T21.51XD@Corrosion of first degree of chest wall, subs encntr
+T21.51XS@Corrosion of first degree of chest wall, sequela
+T21.52XA@Corrosion of first degree of abdominal wall, init encntr
+T21.52XD@Corrosion of first degree of abdominal wall, subs encntr
+T21.52XS@Corrosion of first degree of abdominal wall, sequela
+T21.53XA@Corrosion of first degree of upper back, initial encounter
+T21.53XD@Corrosion of first degree of upper back, subs encntr
+T21.53XS@Corrosion of first degree of upper back, sequela
+T21.54XA@Corrosion of first degree of lower back, initial encounter
+T21.54XD@Corrosion of first degree of lower back, subs encntr
+T21.54XS@Corrosion of first degree of lower back, sequela
+T21.55XA@Corrosion of first degree of buttock, initial encounter
+T21.55XD@Corrosion of first degree of buttock, subsequent encounter
+T21.55XS@Corrosion of first degree of buttock, sequela
+T21.56XA@Corrosion of first degree of male genital region, init
+T21.56XD@Corrosion of first degree of male genital region, subs
+T21.56XS@Corrosion of first degree of male genital region, sequela
+T21.57XA@Corrosion of first degree of female genital region, init
+T21.57XD@Corrosion of first degree of female genital region, subs
+T21.57XS@Corrosion of first degree of female genital region, sequela
+T21.59XA@Corrosion of first degree of oth site of trunk, init encntr
+T21.59XD@Corrosion of first degree of oth site of trunk, subs encntr
+T21.59XS@Corrosion of first degree of other site of trunk, sequela
+T21.60XA@Corrosion of second degree of trunk, unsp site, init encntr
+T21.60XD@Corrosion of second degree of trunk, unsp site, subs encntr
+T21.60XS@Corrosion of second degree of trunk, unsp site, sequela
+T21.61XA@Corrosion of second degree of chest wall, initial encounter
+T21.61XD@Corrosion of second degree of chest wall, subs encntr
+T21.61XS@Corrosion of second degree of chest wall, sequela
+T21.62XA@Corrosion of second degree of abdominal wall, init encntr
+T21.62XD@Corrosion of second degree of abdominal wall, subs encntr
+T21.62XS@Corrosion of second degree of abdominal wall, sequela
+T21.63XA@Corrosion of second degree of upper back, initial encounter
+T21.63XD@Corrosion of second degree of upper back, subs encntr
+T21.63XS@Corrosion of second degree of upper back, sequela
+T21.64XA@Corrosion of second degree of lower back, initial encounter
+T21.64XD@Corrosion of second degree of lower back, subs encntr
+T21.64XS@Corrosion of second degree of lower back, sequela
+T21.65XA@Corrosion of second degree of buttock, initial encounter
+T21.65XD@Corrosion of second degree of buttock, subsequent encounter
+T21.65XS@Corrosion of second degree of buttock, sequela
+T21.66XA@Corrosion of second degree of male genital region, init
+T21.66XD@Corrosion of second degree of male genital region, subs
+T21.66XS@Corrosion of second degree of male genital region, sequela
+T21.67XA@Corrosion of second degree of female genital region, init
+T21.67XD@Corrosion of second degree of female genital region, subs
+T21.67XS@Corrosion of second degree of female genital region, sequela
+T21.69XA@Corrosion of second degree of oth site of trunk, init encntr
+T21.69XD@Corrosion of second degree of oth site of trunk, subs encntr
+T21.69XS@Corrosion of second degree of other site of trunk, sequela
+T21.70XA@Corrosion of third degree of trunk, unsp site, init encntr
+T21.70XD@Corrosion of third degree of trunk, unsp site, subs encntr
+T21.70XS@Corrosion of third degree of trunk, unsp site, sequela
+T21.71XA@Corrosion of third degree of chest wall, initial encounter
+T21.71XD@Corrosion of third degree of chest wall, subs encntr
+T21.71XS@Corrosion of third degree of chest wall, sequela
+T21.72XA@Corrosion of third degree of abdominal wall, init encntr
+T21.72XD@Corrosion of third degree of abdominal wall, subs encntr
+T21.72XS@Corrosion of third degree of abdominal wall, sequela
+T21.73XA@Corrosion of third degree of upper back, initial encounter
+T21.73XD@Corrosion of third degree of upper back, subs encntr
+T21.73XS@Corrosion of third degree of upper back, sequela
+T21.74XA@Corrosion of third degree of lower back, initial encounter
+T21.74XD@Corrosion of third degree of lower back, subs encntr
+T21.74XS@Corrosion of third degree of lower back, sequela
+T21.75XA@Corrosion of third degree of buttock, initial encounter
+T21.75XD@Corrosion of third degree of buttock, subsequent encounter
+T21.75XS@Corrosion of third degree of buttock, sequela
+T21.76XA@Corrosion of third degree of male genital region, init
+T21.76XD@Corrosion of third degree of male genital region, subs
+T21.76XS@Corrosion of third degree of male genital region, sequela
+T21.77XA@Corrosion of third degree of female genital region, init
+T21.77XD@Corrosion of third degree of female genital region, subs
+T21.77XS@Corrosion of third degree of female genital region, sequela
+T21.79XA@Corrosion of third degree of oth site of trunk, init encntr
+T21.79XD@Corrosion of third degree of oth site of trunk, subs encntr
+T21.79XS@Corrosion of third degree of other site of trunk, sequela
+T22.00XA@Burn unsp deg of shldr/up lmb, ex wrs/hnd, unsp site, init
+T22.00XD@Burn unsp deg of shldr/up lmb, ex wrs/hnd, unsp site, subs
+T22.00XS@Burn unsp deg of shldr/up lmb, ex wrs/hnd, unsp site, sqla
+T22.011A@Burn of unspecified degree of right forearm, init encntr
+T22.011D@Burn of unspecified degree of right forearm, subs encntr
+T22.011S@Burn of unspecified degree of right forearm, sequela
+T22.012A@Burn of unspecified degree of left forearm, init encntr
+T22.012D@Burn of unspecified degree of left forearm, subs encntr
+T22.012S@Burn of unspecified degree of left forearm, sequela
+T22.019A@Burn of unsp degree of unspecified forearm, init encntr
+T22.019D@Burn of unsp degree of unspecified forearm, subs encntr
+T22.019S@Burn of unspecified degree of unspecified forearm, sequela
+T22.021A@Burn of unspecified degree of right elbow, initial encounter
+T22.021D@Burn of unspecified degree of right elbow, subs encntr
+T22.021S@Burn of unspecified degree of right elbow, sequela
+T22.022A@Burn of unspecified degree of left elbow, initial encounter
+T22.022D@Burn of unspecified degree of left elbow, subs encntr
+T22.022S@Burn of unspecified degree of left elbow, sequela
+T22.029A@Burn of unspecified degree of unspecified elbow, init encntr
+T22.029D@Burn of unspecified degree of unspecified elbow, subs encntr
+T22.029S@Burn of unspecified degree of unspecified elbow, sequela
+T22.031A@Burn of unspecified degree of right upper arm, init encntr
+T22.031D@Burn of unspecified degree of right upper arm, subs encntr
+T22.031S@Burn of unspecified degree of right upper arm, sequela
+T22.032A@Burn of unspecified degree of left upper arm, init encntr
+T22.032D@Burn of unspecified degree of left upper arm, subs encntr
+T22.032S@Burn of unspecified degree of left upper arm, sequela
+T22.039A@Burn of unsp degree of unspecified upper arm, init encntr
+T22.039D@Burn of unsp degree of unspecified upper arm, subs encntr
+T22.039S@Burn of unspecified degree of unspecified upper arm, sequela
+T22.041A@Burn of unspecified degree of right axilla, init encntr
+T22.041D@Burn of unspecified degree of right axilla, subs encntr
+T22.041S@Burn of unspecified degree of right axilla, sequela
+T22.042A@Burn of unspecified degree of left axilla, initial encounter
+T22.042D@Burn of unspecified degree of left axilla, subs encntr
+T22.042S@Burn of unspecified degree of left axilla, sequela
+T22.049A@Burn of unsp degree of unspecified axilla, init encntr
+T22.049D@Burn of unsp degree of unspecified axilla, subs encntr
+T22.049S@Burn of unspecified degree of unspecified axilla, sequela
+T22.051A@Burn of unspecified degree of right shoulder, init encntr
+T22.051D@Burn of unspecified degree of right shoulder, subs encntr
+T22.051S@Burn of unspecified degree of right shoulder, sequela
+T22.052A@Burn of unspecified degree of left shoulder, init encntr
+T22.052D@Burn of unspecified degree of left shoulder, subs encntr
+T22.052S@Burn of unspecified degree of left shoulder, sequela
+T22.059A@Burn of unsp degree of unspecified shoulder, init encntr
+T22.059D@Burn of unsp degree of unspecified shoulder, subs encntr
+T22.059S@Burn of unspecified degree of unspecified shoulder, sequela
+T22.061A@Burn of unsp degree of right scapular region, init encntr
+T22.061D@Burn of unsp degree of right scapular region, subs encntr
+T22.061S@Burn of unspecified degree of right scapular region, sequela
+T22.062A@Burn of unsp degree of left scapular region, init encntr
+T22.062D@Burn of unsp degree of left scapular region, subs encntr
+T22.062S@Burn of unspecified degree of left scapular region, sequela
+T22.069A@Burn of unsp degree of unsp scapular region, init encntr
+T22.069D@Burn of unsp degree of unsp scapular region, subs encntr
+T22.069S@Burn of unsp degree of unspecified scapular region, sequela
+T22.091A@Burn unsp deg mult sites of r shldr/up lmb, ex wrs/hnd, init
+T22.091D@Burn unsp deg mult sites of r shldr/up lmb, ex wrs/hnd, subs
+T22.091S@Burn unsp deg mult sites of r shldr/up lmb, ex wrs/hnd, sqla
+T22.092A@Burn unsp deg mult site of l shldr/up lmb, ex wrs/hnd, init
+T22.092D@Burn unsp deg mult site of l shldr/up lmb, ex wrs/hnd, subs
+T22.092S@Burn unsp deg mult site of l shldr/up lmb, ex wrs/hnd, sqla
+T22.099A@Burn unsp deg mult sites of shldr/up lmb, ex wrs/hnd, init
+T22.099D@Burn unsp deg mult sites of shldr/up lmb, ex wrs/hnd, subs
+T22.099S@Burn unsp deg mult sites of shldr/up lmb, ex wrs/hnd, sqla
+T22.10XA@Burn first deg of shldr/up lmb, ex wrs/hnd, unsp site, init
+T22.10XD@Burn first deg of shldr/up lmb, ex wrs/hnd, unsp site, subs
+T22.10XS@Burn first deg of shldr/up lmb, ex wrs/hnd, unsp site, sqla
+T22.111A@Burn of first degree of right forearm, initial encounter
+T22.111D@Burn of first degree of right forearm, subsequent encounter
+T22.111S@Burn of first degree of right forearm, sequela
+T22.112A@Burn of first degree of left forearm, initial encounter
+T22.112D@Burn of first degree of left forearm, subsequent encounter
+T22.112S@Burn of first degree of left forearm, sequela
+T22.119A@Burn of first degree of unspecified forearm, init encntr
+T22.119D@Burn of first degree of unspecified forearm, subs encntr
+T22.119S@Burn of first degree of unspecified forearm, sequela
+T22.121A@Burn of first degree of right elbow, initial encounter
+T22.121D@Burn of first degree of right elbow, subsequent encounter
+T22.121S@Burn of first degree of right elbow, sequela
+T22.122A@Burn of first degree of left elbow, initial encounter
+T22.122D@Burn of first degree of left elbow, subsequent encounter
+T22.122S@Burn of first degree of left elbow, sequela
+T22.129A@Burn of first degree of unspecified elbow, initial encounter
+T22.129D@Burn of first degree of unspecified elbow, subs encntr
+T22.129S@Burn of first degree of unspecified elbow, sequela
+T22.131A@Burn of first degree of right upper arm, initial encounter
+T22.131D@Burn of first degree of right upper arm, subs encntr
+T22.131S@Burn of first degree of right upper arm, sequela
+T22.132A@Burn of first degree of left upper arm, initial encounter
+T22.132D@Burn of first degree of left upper arm, subsequent encounter
+T22.132S@Burn of first degree of left upper arm, sequela
+T22.139A@Burn of first degree of unspecified upper arm, init encntr
+T22.139D@Burn of first degree of unspecified upper arm, subs encntr
+T22.139S@Burn of first degree of unspecified upper arm, sequela
+T22.141A@Burn of first degree of right axilla, initial encounter
+T22.141D@Burn of first degree of right axilla, subsequent encounter
+T22.141S@Burn of first degree of right axilla, sequela
+T22.142A@Burn of first degree of left axilla, initial encounter
+T22.142D@Burn of first degree of left axilla, subsequent encounter
+T22.142S@Burn of first degree of left axilla, sequela
+T22.149A@Burn of first degree of unspecified axilla, init encntr
+T22.149D@Burn of first degree of unspecified axilla, subs encntr
+T22.149S@Burn of first degree of unspecified axilla, sequela
+T22.151A@Burn of first degree of right shoulder, initial encounter
+T22.151D@Burn of first degree of right shoulder, subsequent encounter
+T22.151S@Burn of first degree of right shoulder, sequela
+T22.152A@Burn of first degree of left shoulder, initial encounter
+T22.152D@Burn of first degree of left shoulder, subsequent encounter
+T22.152S@Burn of first degree of left shoulder, sequela
+T22.159A@Burn of first degree of unspecified shoulder, init encntr
+T22.159D@Burn of first degree of unspecified shoulder, subs encntr
+T22.159S@Burn of first degree of unspecified shoulder, sequela
+T22.161A@Burn of first degree of right scapular region, init encntr
+T22.161D@Burn of first degree of right scapular region, subs encntr
+T22.161S@Burn of first degree of right scapular region, sequela
+T22.162A@Burn of first degree of left scapular region, init encntr
+T22.162D@Burn of first degree of left scapular region, subs encntr
+T22.162S@Burn of first degree of left scapular region, sequela
+T22.169A@Burn of first degree of unsp scapular region, init encntr
+T22.169D@Burn of first degree of unsp scapular region, subs encntr
+T22.169S@Burn of first degree of unspecified scapular region, sequela
+T22.191A@Burn 1st deg mult sites of r shldr/up lmb, ex wrs/hnd, init
+T22.191D@Burn 1st deg mult sites of r shldr/up lmb, ex wrs/hnd, subs
+T22.191S@Burn 1st deg mult sites of r shldr/up lmb, ex wrs/hnd, sqla
+T22.192A@Burn 1st deg mult site of l shldr/up lmb, ex wrs/hnd, init
+T22.192D@Burn 1st deg mult site of l shldr/up lmb, ex wrs/hnd, subs
+T22.192S@Burn 1st deg mult site of l shldr/up lmb, ex wrs/hnd, sqla
+T22.199A@Burn first deg mult sites of shldr/up lmb, ex wrs/hnd, init
+T22.199D@Burn first deg mult sites of shldr/up lmb, ex wrs/hnd, subs
+T22.199S@Burn first deg mult sites of shldr/up lmb, ex wrs/hnd, sqla
+T22.20XA@Burn second deg of shldr/up lmb, ex wrs/hnd, unsp site, init
+T22.20XD@Burn second deg of shldr/up lmb, ex wrs/hnd, unsp site, subs
+T22.20XS@Burn second deg of shldr/up lmb, ex wrs/hnd, unsp site, sqla
+T22.211A@Burn of second degree of right forearm, initial encounter
+T22.211D@Burn of second degree of right forearm, subsequent encounter
+T22.211S@Burn of second degree of right forearm, sequela
+T22.212A@Burn of second degree of left forearm, initial encounter
+T22.212D@Burn of second degree of left forearm, subsequent encounter
+T22.212S@Burn of second degree of left forearm, sequela
+T22.219A@Burn of second degree of unspecified forearm, init encntr
+T22.219D@Burn of second degree of unspecified forearm, subs encntr
+T22.219S@Burn of second degree of unspecified forearm, sequela
+T22.221A@Burn of second degree of right elbow, initial encounter
+T22.221D@Burn of second degree of right elbow, subsequent encounter
+T22.221S@Burn of second degree of right elbow, sequela
+T22.222A@Burn of second degree of left elbow, initial encounter
+T22.222D@Burn of second degree of left elbow, subsequent encounter
+T22.222S@Burn of second degree of left elbow, sequela
+T22.229A@Burn of second degree of unspecified elbow, init encntr
+T22.229D@Burn of second degree of unspecified elbow, subs encntr
+T22.229S@Burn of second degree of unspecified elbow, sequela
+T22.231A@Burn of second degree of right upper arm, initial encounter
+T22.231D@Burn of second degree of right upper arm, subs encntr
+T22.231S@Burn of second degree of right upper arm, sequela
+T22.232A@Burn of second degree of left upper arm, initial encounter
+T22.232D@Burn of second degree of left upper arm, subs encntr
+T22.232S@Burn of second degree of left upper arm, sequela
+T22.239A@Burn of second degree of unspecified upper arm, init encntr
+T22.239D@Burn of second degree of unspecified upper arm, subs encntr
+T22.239S@Burn of second degree of unspecified upper arm, sequela
+T22.241A@Burn of second degree of right axilla, initial encounter
+T22.241D@Burn of second degree of right axilla, subsequent encounter
+T22.241S@Burn of second degree of right axilla, sequela
+T22.242A@Burn of second degree of left axilla, initial encounter
+T22.242D@Burn of second degree of left axilla, subsequent encounter
+T22.242S@Burn of second degree of left axilla, sequela
+T22.249A@Burn of second degree of unspecified axilla, init encntr
+T22.249D@Burn of second degree of unspecified axilla, subs encntr
+T22.249S@Burn of second degree of unspecified axilla, sequela
+T22.251A@Burn of second degree of right shoulder, initial encounter
+T22.251D@Burn of second degree of right shoulder, subs encntr
+T22.251S@Burn of second degree of right shoulder, sequela
+T22.252A@Burn of second degree of left shoulder, initial encounter
+T22.252D@Burn of second degree of left shoulder, subsequent encounter
+T22.252S@Burn of second degree of left shoulder, sequela
+T22.259A@Burn of second degree of unspecified shoulder, init encntr
+T22.259D@Burn of second degree of unspecified shoulder, subs encntr
+T22.259S@Burn of second degree of unspecified shoulder, sequela
+T22.261A@Burn of second degree of right scapular region, init encntr
+T22.261D@Burn of second degree of right scapular region, subs encntr
+T22.261S@Burn of second degree of right scapular region, sequela
+T22.262A@Burn of second degree of left scapular region, init encntr
+T22.262D@Burn of second degree of left scapular region, subs encntr
+T22.262S@Burn of second degree of left scapular region, sequela
+T22.269A@Burn of second degree of unsp scapular region, init encntr
+T22.269D@Burn of second degree of unsp scapular region, subs encntr
+T22.269S@Burn of second degree of unsp scapular region, sequela
+T22.291A@Burn 2nd deg mul sites of r shldr/up lmb, ex wrs/hnd, init
+T22.291D@Burn 2nd deg mul sites of r shldr/up lmb, ex wrs/hnd, subs
+T22.291S@Burn 2nd deg mul sites of r shldr/up lmb, ex wrs/hnd, sqla
+T22.292A@Burn 2nd deg mul site of left shldr/up lmb, ex wrs/hnd, init
+T22.292D@Burn 2nd deg mul site of left shldr/up lmb, ex wrs/hnd, subs
+T22.292S@Burn 2nd deg mul site of left shldr/up lmb, ex wrs/hnd, sqla
+T22.299A@Burn 2nd deg mul sites of shldr/up lmb, except wrs/hnd, init
+T22.299D@Burn 2nd deg mul sites of shldr/up lmb, except wrs/hnd, subs
+T22.299S@Burn 2nd deg mul sites of shldr/up lmb, except wrs/hnd, sqla
+T22.30XA@Burn third deg of shldr/up lmb, ex wrs/hnd, unsp site, init
+T22.30XD@Burn third deg of shldr/up lmb, ex wrs/hnd, unsp site, subs
+T22.30XS@Burn third deg of shldr/up lmb, ex wrs/hnd, unsp site, sqla
+T22.311A@Burn of third degree of right forearm, initial encounter
+T22.311D@Burn of third degree of right forearm, subsequent encounter
+T22.311S@Burn of third degree of right forearm, sequela
+T22.312A@Burn of third degree of left forearm, initial encounter
+T22.312D@Burn of third degree of left forearm, subsequent encounter
+T22.312S@Burn of third degree of left forearm, sequela
+T22.319A@Burn of third degree of unspecified forearm, init encntr
+T22.319D@Burn of third degree of unspecified forearm, subs encntr
+T22.319S@Burn of third degree of unspecified forearm, sequela
+T22.321A@Burn of third degree of right elbow, initial encounter
+T22.321D@Burn of third degree of right elbow, subsequent encounter
+T22.321S@Burn of third degree of right elbow, sequela
+T22.322A@Burn of third degree of left elbow, initial encounter
+T22.322D@Burn of third degree of left elbow, subsequent encounter
+T22.322S@Burn of third degree of left elbow, sequela
+T22.329A@Burn of third degree of unspecified elbow, initial encounter
+T22.329D@Burn of third degree of unspecified elbow, subs encntr
+T22.329S@Burn of third degree of unspecified elbow, sequela
+T22.331A@Burn of third degree of right upper arm, initial encounter
+T22.331D@Burn of third degree of right upper arm, subs encntr
+T22.331S@Burn of third degree of right upper arm, sequela
+T22.332A@Burn of third degree of left upper arm, initial encounter
+T22.332D@Burn of third degree of left upper arm, subsequent encounter
+T22.332S@Burn of third degree of left upper arm, sequela
+T22.339A@Burn of third degree of unspecified upper arm, init encntr
+T22.339D@Burn of third degree of unspecified upper arm, subs encntr
+T22.339S@Burn of third degree of unspecified upper arm, sequela
+T22.341A@Burn of third degree of right axilla, initial encounter
+T22.341D@Burn of third degree of right axilla, subsequent encounter
+T22.341S@Burn of third degree of right axilla, sequela
+T22.342A@Burn of third degree of left axilla, initial encounter
+T22.342D@Burn of third degree of left axilla, subsequent encounter
+T22.342S@Burn of third degree of left axilla, sequela
+T22.349A@Burn of third degree of unspecified axilla, init encntr
+T22.349D@Burn of third degree of unspecified axilla, subs encntr
+T22.349S@Burn of third degree of unspecified axilla, sequela
+T22.351A@Burn of third degree of right shoulder, initial encounter
+T22.351D@Burn of third degree of right shoulder, subsequent encounter
+T22.351S@Burn of third degree of right shoulder, sequela
+T22.352A@Burn of third degree of left shoulder, initial encounter
+T22.352D@Burn of third degree of left shoulder, subsequent encounter
+T22.352S@Burn of third degree of left shoulder, sequela
+T22.359A@Burn of third degree of unspecified shoulder, init encntr
+T22.359D@Burn of third degree of unspecified shoulder, subs encntr
+T22.359S@Burn of third degree of unspecified shoulder, sequela
+T22.361A@Burn of third degree of right scapular region, init encntr
+T22.361D@Burn of third degree of right scapular region, subs encntr
+T22.361S@Burn of third degree of right scapular region, sequela
+T22.362A@Burn of third degree of left scapular region, init encntr
+T22.362D@Burn of third degree of left scapular region, subs encntr
+T22.362S@Burn of third degree of left scapular region, sequela
+T22.369A@Burn of third degree of unsp scapular region, init encntr
+T22.369D@Burn of third degree of unsp scapular region, subs encntr
+T22.369S@Burn of third degree of unspecified scapular region, sequela
+T22.391A@Burn 3rd deg mu sites of r shldr/up lmb, ex wrs/hnd, init
+T22.391D@Burn 3rd deg mu sites of r shldr/up lmb, ex wrs/hnd, subs
+T22.391S@Burn 3rd deg mu sites of r shldr/up lmb, ex wrs/hnd, sqla
+T22.392A@Burn 3rd deg mu sites of left shldr/up lmb, ex wrs/hnd, init
+T22.392D@Burn 3rd deg mu sites of left shldr/up lmb, ex wrs/hnd, subs
+T22.392S@Burn 3rd deg mu sites of left shldr/up lmb, ex wrs/hnd, sqla
+T22.399A@Burn 3rd deg mu sites of shldr/up lmb, except wrs/hnd, init
+T22.399D@Burn 3rd deg mu sites of shldr/up lmb, except wrs/hnd, subs
+T22.399S@Burn 3rd deg mu sites of shldr/up lmb, except wrs/hnd, sqla
+T22.40XA@Corros unsp deg of shldr/up lmb, ex wrs/hnd, unsp site, init
+T22.40XD@Corros unsp deg of shldr/up lmb, ex wrs/hnd, unsp site, subs
+T22.40XS@Corros unsp deg of shldr/up lmb, ex wrs/hnd, unsp site, sqla
+T22.411A@Corrosion of unsp degree of right forearm, init encntr
+T22.411D@Corrosion of unsp degree of right forearm, subs encntr
+T22.411S@Corrosion of unspecified degree of right forearm, sequela
+T22.412A@Corrosion of unspecified degree of left forearm, init encntr
+T22.412D@Corrosion of unspecified degree of left forearm, subs encntr
+T22.412S@Corrosion of unspecified degree of left forearm, sequela
+T22.419A@Corrosion of unsp degree of unspecified forearm, init encntr
+T22.419D@Corrosion of unsp degree of unspecified forearm, subs encntr
+T22.419S@Corrosion of unsp degree of unspecified forearm, sequela
+T22.421A@Corrosion of unspecified degree of right elbow, init encntr
+T22.421D@Corrosion of unspecified degree of right elbow, subs encntr
+T22.421S@Corrosion of unspecified degree of right elbow, sequela
+T22.422A@Corrosion of unspecified degree of left elbow, init encntr
+T22.422D@Corrosion of unspecified degree of left elbow, subs encntr
+T22.422S@Corrosion of unspecified degree of left elbow, sequela
+T22.429A@Corrosion of unsp degree of unspecified elbow, init encntr
+T22.429D@Corrosion of unsp degree of unspecified elbow, subs encntr
+T22.429S@Corrosion of unsp degree of unspecified elbow, sequela
+T22.431A@Corrosion of unsp degree of right upper arm, init encntr
+T22.431D@Corrosion of unsp degree of right upper arm, subs encntr
+T22.431S@Corrosion of unspecified degree of right upper arm, sequela
+T22.432A@Corrosion of unsp degree of left upper arm, init encntr
+T22.432D@Corrosion of unsp degree of left upper arm, subs encntr
+T22.432S@Corrosion of unspecified degree of left upper arm, sequela
+T22.439A@Corrosion of unsp degree of unsp upper arm, init encntr
+T22.439D@Corrosion of unsp degree of unsp upper arm, subs encntr
+T22.439S@Corrosion of unsp degree of unspecified upper arm, sequela
+T22.441A@Corrosion of unspecified degree of right axilla, init encntr
+T22.441D@Corrosion of unspecified degree of right axilla, subs encntr
+T22.441S@Corrosion of unspecified degree of right axilla, sequela
+T22.442A@Corrosion of unspecified degree of left axilla, init encntr
+T22.442D@Corrosion of unspecified degree of left axilla, subs encntr
+T22.442S@Corrosion of unspecified degree of left axilla, sequela
+T22.449A@Corrosion of unsp degree of unspecified axilla, init encntr
+T22.449D@Corrosion of unsp degree of unspecified axilla, subs encntr
+T22.449S@Corrosion of unsp degree of unspecified axilla, sequela
+T22.451A@Corrosion of unsp degree of right shoulder, init encntr
+T22.451D@Corrosion of unsp degree of right shoulder, subs encntr
+T22.451S@Corrosion of unspecified degree of right shoulder, sequela
+T22.452A@Corrosion of unsp degree of left shoulder, init encntr
+T22.452D@Corrosion of unsp degree of left shoulder, subs encntr
+T22.452S@Corrosion of unspecified degree of left shoulder, sequela
+T22.459A@Corrosion of unsp degree of unsp shoulder, init encntr
+T22.459D@Corrosion of unsp degree of unsp shoulder, subs encntr
+T22.459S@Corrosion of unsp degree of unspecified shoulder, sequela
+T22.461A@Corrosion of unsp degree of right scapular region, init
+T22.461D@Corrosion of unsp degree of right scapular region, subs
+T22.461S@Corrosion of unsp degree of right scapular region, sequela
+T22.462A@Corrosion of unsp degree of left scapular region, init
+T22.462D@Corrosion of unsp degree of left scapular region, subs
+T22.462S@Corrosion of unsp degree of left scapular region, sequela
+T22.469A@Corrosion of unsp degree of unsp scapular region, init
+T22.469D@Corrosion of unsp degree of unsp scapular region, subs
+T22.469S@Corrosion of unsp degree of unsp scapular region, sequela
+T22.491A@Corros unsp deg mult site of r shldr/up lmb,ex wrs/hnd, init
+T22.491D@Corros unsp deg mult site of r shldr/up lmb,ex wrs/hnd, subs
+T22.491S@Corros unsp deg mult site of r shldr/up lmb,ex wrs/hnd, sqla
+T22.492A@Corros unsp deg mult site of l shldr/up lmb,ex wrs/hnd, init
+T22.492D@Corros unsp deg mult site of l shldr/up lmb,ex wrs/hnd, subs
+T22.492S@Corros unsp deg mult site of l shldr/up lmb,ex wrs/hnd, sqla
+T22.499A@Corros unsp deg mult sites of shldr/up lmb, ex wrs/hnd, init
+T22.499D@Corros unsp deg mult sites of shldr/up lmb, ex wrs/hnd, subs
+T22.499S@Corros unsp deg mult sites of shldr/up lmb, ex wrs/hnd, sqla
+T22.50XA@Corros first deg of shldr/up lmb, ex wrs/hnd unsp site, init
+T22.50XD@Corros first deg of shldr/up lmb, ex wrs/hnd unsp site, subs
+T22.50XS@Corros first deg of shldr/up lmb, ex wrs/hnd unsp site, sqla
+T22.511A@Corrosion of first degree of right forearm, init encntr
+T22.511D@Corrosion of first degree of right forearm, subs encntr
+T22.511S@Corrosion of first degree of right forearm, sequela
+T22.512A@Corrosion of first degree of left forearm, initial encounter
+T22.512D@Corrosion of first degree of left forearm, subs encntr
+T22.512S@Corrosion of first degree of left forearm, sequela
+T22.519A@Corrosion of first degree of unsp forearm, init encntr
+T22.519D@Corrosion of first degree of unsp forearm, subs encntr
+T22.519S@Corrosion of first degree of unspecified forearm, sequela
+T22.521A@Corrosion of first degree of right elbow, initial encounter
+T22.521D@Corrosion of first degree of right elbow, subs encntr
+T22.521S@Corrosion of first degree of right elbow, sequela
+T22.522A@Corrosion of first degree of left elbow, initial encounter
+T22.522D@Corrosion of first degree of left elbow, subs encntr
+T22.522S@Corrosion of first degree of left elbow, sequela
+T22.529A@Corrosion of first degree of unspecified elbow, init encntr
+T22.529D@Corrosion of first degree of unspecified elbow, subs encntr
+T22.529S@Corrosion of first degree of unspecified elbow, sequela
+T22.531A@Corrosion of first degree of right upper arm, init encntr
+T22.531D@Corrosion of first degree of right upper arm, subs encntr
+T22.531S@Corrosion of first degree of right upper arm, sequela
+T22.532A@Corrosion of first degree of left upper arm, init encntr
+T22.532D@Corrosion of first degree of left upper arm, subs encntr
+T22.532S@Corrosion of first degree of left upper arm, sequela
+T22.539A@Corrosion of first degree of unsp upper arm, init encntr
+T22.539D@Corrosion of first degree of unsp upper arm, subs encntr
+T22.539S@Corrosion of first degree of unspecified upper arm, sequela
+T22.541A@Corrosion of first degree of right axilla, initial encounter
+T22.541D@Corrosion of first degree of right axilla, subs encntr
+T22.541S@Corrosion of first degree of right axilla, sequela
+T22.542A@Corrosion of first degree of left axilla, initial encounter
+T22.542D@Corrosion of first degree of left axilla, subs encntr
+T22.542S@Corrosion of first degree of left axilla, sequela
+T22.549A@Corrosion of first degree of unspecified axilla, init encntr
+T22.549D@Corrosion of first degree of unspecified axilla, subs encntr
+T22.549S@Corrosion of first degree of unspecified axilla, sequela
+T22.551A@Corrosion of first degree of right shoulder, init encntr
+T22.551D@Corrosion of first degree of right shoulder, subs encntr
+T22.551S@Corrosion of first degree of right shoulder, sequela
+T22.552A@Corrosion of first degree of left shoulder, init encntr
+T22.552D@Corrosion of first degree of left shoulder, subs encntr
+T22.552S@Corrosion of first degree of left shoulder, sequela
+T22.559A@Corrosion of first degree of unsp shoulder, init encntr
+T22.559D@Corrosion of first degree of unsp shoulder, subs encntr
+T22.559S@Corrosion of first degree of unspecified shoulder, sequela
+T22.561A@Corrosion of first degree of right scapular region, init
+T22.561D@Corrosion of first degree of right scapular region, subs
+T22.561S@Corrosion of first degree of right scapular region, sequela
+T22.562A@Corrosion of first degree of left scapular region, init
+T22.562D@Corrosion of first degree of left scapular region, subs
+T22.562S@Corrosion of first degree of left scapular region, sequela
+T22.569A@Corrosion of first degree of unsp scapular region, init
+T22.569D@Corrosion of first degree of unsp scapular region, subs
+T22.569S@Corrosion of first degree of unsp scapular region, sequela
+T22.591A@Corros 1st deg mult site of r shldr/up lmb, ex wrs/hnd, init
+T22.591D@Corros 1st deg mult site of r shldr/up lmb, ex wrs/hnd, subs
+T22.591S@Corros 1st deg mult site of r shldr/up lmb, ex wrs/hnd, sqla
+T22.592A@Corros 1st deg mult site of l shldr/up lmb, ex wrs/hnd, init
+T22.592D@Corros 1st deg mult site of l shldr/up lmb, ex wrs/hnd, subs
+T22.592S@Corros 1st deg mult site of l shldr/up lmb, ex wrs/hnd, sqla
+T22.599A@Corros 1st deg mult sites of shldr/up lmb, ex wrs/hnd, init
+T22.599D@Corros 1st deg mult sites of shldr/up lmb, ex wrs/hnd, subs
+T22.599S@Corros 1st deg mult sites of shldr/up lmb, ex wrs/hnd, sqla
+T22.60XA@Corros 2nd deg of shldr/up lmb, ex wrs/hnd, unsp site, init
+T22.60XD@Corros 2nd deg of shldr/up lmb, ex wrs/hnd, unsp site, subs
+T22.60XS@Corros 2nd deg of shldr/up lmb, ex wrs/hnd, unsp site, sqla
+T22.611A@Corrosion of second degree of right forearm, init encntr
+T22.611D@Corrosion of second degree of right forearm, subs encntr
+T22.611S@Corrosion of second degree of right forearm, sequela
+T22.612A@Corrosion of second degree of left forearm, init encntr
+T22.612D@Corrosion of second degree of left forearm, subs encntr
+T22.612S@Corrosion of second degree of left forearm, sequela
+T22.619A@Corrosion of second degree of unsp forearm, init encntr
+T22.619D@Corrosion of second degree of unsp forearm, subs encntr
+T22.619S@Corrosion of second degree of unspecified forearm, sequela
+T22.621A@Corrosion of second degree of right elbow, initial encounter
+T22.621D@Corrosion of second degree of right elbow, subs encntr
+T22.621S@Corrosion of second degree of right elbow, sequela
+T22.622A@Corrosion of second degree of left elbow, initial encounter
+T22.622D@Corrosion of second degree of left elbow, subs encntr
+T22.622S@Corrosion of second degree of left elbow, sequela
+T22.629A@Corrosion of second degree of unspecified elbow, init encntr
+T22.629D@Corrosion of second degree of unspecified elbow, subs encntr
+T22.629S@Corrosion of second degree of unspecified elbow, sequela
+T22.631A@Corrosion of second degree of right upper arm, init encntr
+T22.631D@Corrosion of second degree of right upper arm, subs encntr
+T22.631S@Corrosion of second degree of right upper arm, sequela
+T22.632A@Corrosion of second degree of left upper arm, init encntr
+T22.632D@Corrosion of second degree of left upper arm, subs encntr
+T22.632S@Corrosion of second degree of left upper arm, sequela
+T22.639A@Corrosion of second degree of unsp upper arm, init encntr
+T22.639D@Corrosion of second degree of unsp upper arm, subs encntr
+T22.639S@Corrosion of second degree of unspecified upper arm, sequela
+T22.641A@Corrosion of second degree of right axilla, init encntr
+T22.641D@Corrosion of second degree of right axilla, subs encntr
+T22.641S@Corrosion of second degree of right axilla, sequela
+T22.642A@Corrosion of second degree of left axilla, initial encounter
+T22.642D@Corrosion of second degree of left axilla, subs encntr
+T22.642S@Corrosion of second degree of left axilla, sequela
+T22.649A@Corrosion of second degree of unsp axilla, init encntr
+T22.649D@Corrosion of second degree of unsp axilla, subs encntr
+T22.649S@Corrosion of second degree of unspecified axilla, sequela
+T22.651A@Corrosion of second degree of right shoulder, init encntr
+T22.651D@Corrosion of second degree of right shoulder, subs encntr
+T22.651S@Corrosion of second degree of right shoulder, sequela
+T22.652A@Corrosion of second degree of left shoulder, init encntr
+T22.652D@Corrosion of second degree of left shoulder, subs encntr
+T22.652S@Corrosion of second degree of left shoulder, sequela
+T22.659A@Corrosion of second degree of unsp shoulder, init encntr
+T22.659D@Corrosion of second degree of unsp shoulder, subs encntr
+T22.659S@Corrosion of second degree of unspecified shoulder, sequela
+T22.661A@Corrosion of second degree of right scapular region, init
+T22.661D@Corrosion of second degree of right scapular region, subs
+T22.661S@Corrosion of second degree of right scapular region, sequela
+T22.662A@Corrosion of second degree of left scapular region, init
+T22.662D@Corrosion of second degree of left scapular region, subs
+T22.662S@Corrosion of second degree of left scapular region, sequela
+T22.669A@Corrosion of second degree of unsp scapular region, init
+T22.669D@Corrosion of second degree of unsp scapular region, subs
+T22.669S@Corrosion of second degree of unsp scapular region, sequela
+T22.691A@Corros 2nd deg mul sites of r shldr/up lmb, ex wrs/hnd, init
+T22.691D@Corros 2nd deg mul sites of r shldr/up lmb, ex wrs/hnd, subs
+T22.691S@Corros 2nd deg mul sites of r shldr/up lmb, ex wrs/hnd, sqla
+T22.692A@Corros 2nd deg mul site of l shldr/up lmb, ex wrs/hnd, init
+T22.692D@Corros 2nd deg mul site of l shldr/up lmb, ex wrs/hnd, subs
+T22.692S@Corros 2nd deg mul site of l shldr/up lmb, ex wrs/hnd, sqla
+T22.699A@Corros 2nd deg mul sites of shldr/up lmb, ex wrs/hnd, init
+T22.699D@Corros 2nd deg mul sites of shldr/up lmb, ex wrs/hnd, subs
+T22.699S@Corros 2nd deg mul sites of shldr/up lmb, ex wrs/hnd, sqla
+T22.70XA@Corros 3rd deg of shldr/up lmb, ex wrs/hnd, unsp site, init
+T22.70XD@Corros 3rd deg of shldr/up lmb, ex wrs/hnd, unsp site, subs
+T22.70XS@Corros 3rd deg of shldr/up lmb, ex wrs/hnd, unsp site, sqla
+T22.711A@Corrosion of third degree of right forearm, init encntr
+T22.711D@Corrosion of third degree of right forearm, subs encntr
+T22.711S@Corrosion of third degree of right forearm, sequela
+T22.712A@Corrosion of third degree of left forearm, initial encounter
+T22.712D@Corrosion of third degree of left forearm, subs encntr
+T22.712S@Corrosion of third degree of left forearm, sequela
+T22.719A@Corrosion of third degree of unsp forearm, init encntr
+T22.719D@Corrosion of third degree of unsp forearm, subs encntr
+T22.719S@Corrosion of third degree of unspecified forearm, sequela
+T22.721A@Corrosion of third degree of right elbow, initial encounter
+T22.721D@Corrosion of third degree of right elbow, subs encntr
+T22.721S@Corrosion of third degree of right elbow, sequela
+T22.722A@Corrosion of third degree of left elbow, initial encounter
+T22.722D@Corrosion of third degree of left elbow, subs encntr
+T22.722S@Corrosion of third degree of left elbow, sequela
+T22.729A@Corrosion of third degree of unspecified elbow, init encntr
+T22.729D@Corrosion of third degree of unspecified elbow, subs encntr
+T22.729S@Corrosion of third degree of unspecified elbow, sequela
+T22.731A@Corrosion of third degree of right upper arm, init encntr
+T22.731D@Corrosion of third degree of right upper arm, subs encntr
+T22.731S@Corrosion of third degree of right upper arm, sequela
+T22.732A@Corrosion of third degree of left upper arm, init encntr
+T22.732D@Corrosion of third degree of left upper arm, subs encntr
+T22.732S@Corrosion of third degree of left upper arm, sequela
+T22.739A@Corrosion of third degree of unsp upper arm, init encntr
+T22.739D@Corrosion of third degree of unsp upper arm, subs encntr
+T22.739S@Corrosion of third degree of unspecified upper arm, sequela
+T22.741A@Corrosion of third degree of right axilla, initial encounter
+T22.741D@Corrosion of third degree of right axilla, subs encntr
+T22.741S@Corrosion of third degree of right axilla, sequela
+T22.742A@Corrosion of third degree of left axilla, initial encounter
+T22.742D@Corrosion of third degree of left axilla, subs encntr
+T22.742S@Corrosion of third degree of left axilla, sequela
+T22.749A@Corrosion of third degree of unspecified axilla, init encntr
+T22.749D@Corrosion of third degree of unspecified axilla, subs encntr
+T22.749S@Corrosion of third degree of unspecified axilla, sequela
+T22.751A@Corrosion of third degree of right shoulder, init encntr
+T22.751D@Corrosion of third degree of right shoulder, subs encntr
+T22.751S@Corrosion of third degree of right shoulder, sequela
+T22.752A@Corrosion of third degree of left shoulder, init encntr
+T22.752D@Corrosion of third degree of left shoulder, subs encntr
+T22.752S@Corrosion of third degree of left shoulder, sequela
+T22.759A@Corrosion of third degree of unsp shoulder, init encntr
+T22.759D@Corrosion of third degree of unsp shoulder, subs encntr
+T22.759S@Corrosion of third degree of unspecified shoulder, sequela
+T22.761A@Corrosion of third degree of right scapular region, init
+T22.761D@Corrosion of third degree of right scapular region, subs
+T22.761S@Corrosion of third degree of right scapular region, sequela
+T22.762A@Corrosion of third degree of left scapular region, init
+T22.762D@Corrosion of third degree of left scapular region, subs
+T22.762S@Corrosion of third degree of left scapular region, sequela
+T22.769A@Corrosion of third degree of unsp scapular region, init
+T22.769D@Corrosion of third degree of unsp scapular region, subs
+T22.769S@Corrosion of third degree of unsp scapular region, sequela
+T22.791A@Corros 3rd deg mu sites of r shldr/up lmb, ex wrs/hnd, init
+T22.791D@Corros 3rd deg mu sites of r shldr/up lmb, ex wrs/hnd, subs
+T22.791S@Corros 3rd deg mu sites of r shldr/up lmb, ex wrs/hnd, sqla
+T22.792A@Corros 3rd deg mu site of l shldr/up lmb, ex wrs/hnd, init
+T22.792D@Corros 3rd deg mu site of l shldr/up lmb, ex wrs/hnd, subs
+T22.792S@Corros 3rd deg mu site of l shldr/up lmb, ex wrs/hnd, sqla
+T22.799A@Corros 3rd deg mu sites of shldr/up lmb, ex wrs/hnd, init
+T22.799D@Corros 3rd deg mu sites of shldr/up lmb, ex wrs/hnd, subs
+T22.799S@Corros 3rd deg mu sites of shldr/up lmb, ex wrs/hnd, sqla
+T23.001A@Burn of unsp degree of right hand, unsp site, init encntr
+T23.001D@Burn of unsp degree of right hand, unsp site, subs encntr
+T23.001S@Burn of unsp degree of right hand, unspecified site, sequela
+T23.002A@Burn of unsp degree of left hand, unsp site, init encntr
+T23.002D@Burn of unsp degree of left hand, unsp site, subs encntr
+T23.002S@Burn of unsp degree of left hand, unspecified site, sequela
+T23.009A@Burn of unsp degree of unsp hand, unsp site, init encntr
+T23.009D@Burn of unsp degree of unsp hand, unsp site, subs encntr
+T23.009S@Burn of unsp degree of unsp hand, unspecified site, sequela
+T23.011A@Burn of unsp degree of right thumb (nail), init encntr
+T23.011D@Burn of unsp degree of right thumb (nail), subs encntr
+T23.011S@Burn of unspecified degree of right thumb (nail), sequela
+T23.012A@Burn of unspecified degree of left thumb (nail), init encntr
+T23.012D@Burn of unspecified degree of left thumb (nail), subs encntr
+T23.012S@Burn of unspecified degree of left thumb (nail), sequela
+T23.019A@Burn of unsp degree of unspecified thumb (nail), init encntr
+T23.019D@Burn of unsp degree of unspecified thumb (nail), subs encntr
+T23.019S@Burn of unsp degree of unspecified thumb (nail), sequela
+T23.021A@Burn unsp degree of single r finger except thumb, init
+T23.021D@Burn unsp degree of single r finger except thumb, subs
+T23.021S@Burn unsp degree of single r finger except thumb, sqla
+T23.022A@Burn unsp degree of single l finger except thumb, init
+T23.022D@Burn unsp degree of single l finger except thumb, subs
+T23.022S@Burn unsp degree of single l finger except thumb, sqla
+T23.029A@Burn unsp degree of unsp single finger except thumb, init
+T23.029D@Burn unsp degree of unsp single finger except thumb, subs
+T23.029S@Burn unsp degree of unsp single finger except thumb, sqla
+T23.031A@Burn unsp deg mult right fingers (nail), not inc thumb, init
+T23.031D@Burn unsp deg mult right fingers (nail), not inc thumb, subs
+T23.031S@Burn unsp deg mult right fngr (nail), not inc thumb, sequela
+T23.032A@Burn unsp deg mult left fingers (nail), not inc thumb, init
+T23.032D@Burn unsp deg mult left fingers (nail), not inc thumb, subs
+T23.032S@Burn unsp deg mult left fngr (nail), not inc thumb, sequela
+T23.039A@Burn unsp degree of unsp mult fngr, not inc thumb, init
+T23.039D@Burn unsp degree of unsp mult fngr, not inc thumb, subs
+T23.039S@Burn unsp degree of unsp mult fngr, not inc thumb, sqla
+T23.041A@Burn of unsp deg mult right fingers (nail), inc thumb, init
+T23.041D@Burn of unsp deg mult right fingers (nail), inc thumb, subs
+T23.041S@Burn unsp deg mult right fingers (nail), inc thumb, sequela
+T23.042A@Burn of unsp deg mult left fingers (nail), inc thumb, init
+T23.042D@Burn of unsp deg mult left fingers (nail), inc thumb, subs
+T23.042S@Burn unsp deg mult left fingers (nail), inc thumb, sequela
+T23.049A@Burn unsp degree of unsp mult fngr (nail), inc thumb, init
+T23.049D@Burn unsp degree of unsp mult fngr (nail), inc thumb, subs
+T23.049S@Burn unsp degree of unsp mult fngr (nail), inc thumb, sqla
+T23.051A@Burn of unspecified degree of right palm, initial encounter
+T23.051D@Burn of unspecified degree of right palm, subs encntr
+T23.051S@Burn of unspecified degree of right palm, sequela
+T23.052A@Burn of unspecified degree of left palm, initial encounter
+T23.052D@Burn of unspecified degree of left palm, subs encntr
+T23.052S@Burn of unspecified degree of left palm, sequela
+T23.059A@Burn of unspecified degree of unspecified palm, init encntr
+T23.059D@Burn of unspecified degree of unspecified palm, subs encntr
+T23.059S@Burn of unspecified degree of unspecified palm, sequela
+T23.061A@Burn of unsp degree of back of right hand, init encntr
+T23.061D@Burn of unsp degree of back of right hand, subs encntr
+T23.061S@Burn of unspecified degree of back of right hand, sequela
+T23.062A@Burn of unspecified degree of back of left hand, init encntr
+T23.062D@Burn of unspecified degree of back of left hand, subs encntr
+T23.062S@Burn of unspecified degree of back of left hand, sequela
+T23.069A@Burn of unsp degree of back of unspecified hand, init encntr
+T23.069D@Burn of unsp degree of back of unspecified hand, subs encntr
+T23.069S@Burn of unsp degree of back of unspecified hand, sequela
+T23.071A@Burn of unspecified degree of right wrist, initial encounter
+T23.071D@Burn of unspecified degree of right wrist, subs encntr
+T23.071S@Burn of unspecified degree of right wrist, sequela
+T23.072A@Burn of unspecified degree of left wrist, initial encounter
+T23.072D@Burn of unspecified degree of left wrist, subs encntr
+T23.072S@Burn of unspecified degree of left wrist, sequela
+T23.079A@Burn of unspecified degree of unspecified wrist, init encntr
+T23.079D@Burn of unspecified degree of unspecified wrist, subs encntr
+T23.079S@Burn of unspecified degree of unspecified wrist, sequela
+T23.091A@Burn of unsp deg mult sites of right wrist and hand, init
+T23.091D@Burn of unsp deg mult sites of right wrist and hand, subs
+T23.091S@Burn of unsp deg mult sites of right wrist and hand, sequela
+T23.092A@Burn of unsp deg mult sites of left wrist and hand, init
+T23.092D@Burn of unsp deg mult sites of left wrist and hand, subs
+T23.092S@Burn of unsp deg mult sites of left wrist and hand, sequela
+T23.099A@Burn of unsp deg mult sites of unsp wrist and hand, init
+T23.099D@Burn of unsp deg mult sites of unsp wrist and hand, subs
+T23.099S@Burn of unsp deg mult sites of unsp wrist and hand, sequela
+T23.101A@Burn of first degree of right hand, unsp site, init encntr
+T23.101D@Burn of first degree of right hand, unsp site, subs encntr
+T23.101S@Burn of first degree of right hand, unsp site, sequela
+T23.102A@Burn of first degree of left hand, unsp site, init encntr
+T23.102D@Burn of first degree of left hand, unsp site, subs encntr
+T23.102S@Burn of first degree of left hand, unspecified site, sequela
+T23.109A@Burn of first degree of unsp hand, unsp site, init encntr
+T23.109D@Burn of first degree of unsp hand, unsp site, subs encntr
+T23.109S@Burn of first degree of unsp hand, unspecified site, sequela
+T23.111A@Burn of first degree of right thumb (nail), init encntr
+T23.111D@Burn of first degree of right thumb (nail), subs encntr
+T23.111S@Burn of first degree of right thumb (nail), sequela
+T23.112A@Burn of first degree of left thumb (nail), initial encounter
+T23.112D@Burn of first degree of left thumb (nail), subs encntr
+T23.112S@Burn of first degree of left thumb (nail), sequela
+T23.119A@Burn of first degree of unsp thumb (nail), init encntr
+T23.119D@Burn of first degree of unsp thumb (nail), subs encntr
+T23.119S@Burn of first degree of unspecified thumb (nail), sequela
+T23.121A@Burn first degree of single r finger except thumb, init
+T23.121D@Burn first degree of single r finger except thumb, subs
+T23.121S@Burn first degree of single r finger except thumb, sqla
+T23.122A@Burn first degree of single l finger except thumb, init
+T23.122D@Burn first degree of single l finger except thumb, subs
+T23.122S@Burn first degree of single l finger except thumb, sqla
+T23.129A@Burn first degree of unsp single finger except thumb, init
+T23.129D@Burn first degree of unsp single finger except thumb, subs
+T23.129S@Burn first degree of unsp single finger except thumb, sqla
+T23.131A@Burn first deg mult right fngr (nail), not inc thumb, init
+T23.131D@Burn first deg mult right fngr (nail), not inc thumb, subs
+T23.131S@Burn first deg mult right fngr (nail), not inc thumb, sqla
+T23.132A@Burn first deg mult left fingers (nail), not inc thumb, init
+T23.132D@Burn first deg mult left fingers (nail), not inc thumb, subs
+T23.132S@Burn first deg mult left fngr (nail), not inc thumb, sequela
+T23.139A@Burn first degree of unsp mult fngr, not inc thumb, init
+T23.139D@Burn first degree of unsp mult fngr, not inc thumb, subs
+T23.139S@Burn first degree of unsp mult fngr, not inc thumb, sqla
+T23.141A@Burn of first deg mult right fingers (nail), inc thumb, init
+T23.141D@Burn of first deg mult right fingers (nail), inc thumb, subs
+T23.141S@Burn first deg mult right fingers (nail), inc thumb, sequela
+T23.142A@Burn of first deg mult left fingers (nail), inc thumb, init
+T23.142D@Burn of first deg mult left fingers (nail), inc thumb, subs
+T23.142S@Burn first deg mult left fingers (nail), inc thumb, sequela
+T23.149A@Burn first degree of unsp mult fngr (nail), inc thumb, init
+T23.149D@Burn first degree of unsp mult fngr (nail), inc thumb, subs
+T23.149S@Burn first degree of unsp mult fngr (nail), inc thumb, sqla
+T23.151A@Burn of first degree of right palm, initial encounter
+T23.151D@Burn of first degree of right palm, subsequent encounter
+T23.151S@Burn of first degree of right palm, sequela
+T23.152A@Burn of first degree of left palm, initial encounter
+T23.152D@Burn of first degree of left palm, subsequent encounter
+T23.152S@Burn of first degree of left palm, sequela
+T23.159A@Burn of first degree of unspecified palm, initial encounter
+T23.159D@Burn of first degree of unspecified palm, subs encntr
+T23.159S@Burn of first degree of unspecified palm, sequela
+T23.161A@Burn of first degree of back of right hand, init encntr
+T23.161D@Burn of first degree of back of right hand, subs encntr
+T23.161S@Burn of first degree of back of right hand, sequela
+T23.162A@Burn of first degree of back of left hand, initial encounter
+T23.162D@Burn of first degree of back of left hand, subs encntr
+T23.162S@Burn of first degree of back of left hand, sequela
+T23.169A@Burn of first degree of back of unsp hand, init encntr
+T23.169D@Burn of first degree of back of unsp hand, subs encntr
+T23.169S@Burn of first degree of back of unspecified hand, sequela
+T23.171A@Burn of first degree of right wrist, initial encounter
+T23.171D@Burn of first degree of right wrist, subsequent encounter
+T23.171S@Burn of first degree of right wrist, sequela
+T23.172A@Burn of first degree of left wrist, initial encounter
+T23.172D@Burn of first degree of left wrist, subsequent encounter
+T23.172S@Burn of first degree of left wrist, sequela
+T23.179A@Burn of first degree of unspecified wrist, initial encounter
+T23.179D@Burn of first degree of unspecified wrist, subs encntr
+T23.179S@Burn of first degree of unspecified wrist, sequela
+T23.191A@Burn of first deg mult sites of right wrist and hand, init
+T23.191D@Burn of first deg mult sites of right wrist and hand, subs
+T23.191S@Burn of first deg mult sites of right wrs/hnd, sequela
+T23.192A@Burn of first deg mult sites of left wrist and hand, init
+T23.192D@Burn of first deg mult sites of left wrist and hand, subs
+T23.192S@Burn of first deg mult sites of left wrist and hand, sequela
+T23.199A@Burn of first deg mult sites of unsp wrist and hand, init
+T23.199D@Burn of first deg mult sites of unsp wrist and hand, subs
+T23.199S@Burn of first deg mult sites of unsp wrist and hand, sequela
+T23.201A@Burn of second degree of right hand, unsp site, init encntr
+T23.201D@Burn of second degree of right hand, unsp site, subs encntr
+T23.201S@Burn of second degree of right hand, unsp site, sequela
+T23.202A@Burn of second degree of left hand, unsp site, init encntr
+T23.202D@Burn of second degree of left hand, unsp site, subs encntr
+T23.202S@Burn of second degree of left hand, unsp site, sequela
+T23.209A@Burn of second degree of unsp hand, unsp site, init encntr
+T23.209D@Burn of second degree of unsp hand, unsp site, subs encntr
+T23.209S@Burn of second degree of unsp hand, unsp site, sequela
+T23.211A@Burn of second degree of right thumb (nail), init encntr
+T23.211D@Burn of second degree of right thumb (nail), subs encntr
+T23.211S@Burn of second degree of right thumb (nail), sequela
+T23.212A@Burn of second degree of left thumb (nail), init encntr
+T23.212D@Burn of second degree of left thumb (nail), subs encntr
+T23.212S@Burn of second degree of left thumb (nail), sequela
+T23.219A@Burn of second degree of unsp thumb (nail), init encntr
+T23.219D@Burn of second degree of unsp thumb (nail), subs encntr
+T23.219S@Burn of second degree of unspecified thumb (nail), sequela
+T23.221A@Burn second degree of single r finger except thumb, init
+T23.221D@Burn second degree of single r finger except thumb, subs
+T23.221S@Burn second degree of single r finger except thumb, sqla
+T23.222A@Burn second degree of single l finger except thumb, init
+T23.222D@Burn second degree of single l finger except thumb, subs
+T23.222S@Burn second degree of single l finger except thumb, sqla
+T23.229A@Burn second degree of unsp single finger except thumb, init
+T23.229D@Burn second degree of unsp single finger except thumb, subs
+T23.229S@Burn second degree of unsp single finger except thumb, sqla
+T23.231A@Burn 2nd deg mul right fingers (nail), not inc thumb, init
+T23.231D@Burn 2nd deg mul right fingers (nail), not inc thumb, subs
+T23.231S@Burn 2nd deg mul right fngr (nail), not inc thumb, sequela
+T23.232A@Burn of 2nd deg mul left fingers (nail), not inc thumb, init
+T23.232D@Burn of 2nd deg mul left fingers (nail), not inc thumb, subs
+T23.232S@Burn 2nd deg mul left fingers (nail), not inc thumb, sequela
+T23.239A@Burn second degree of unsp mult fngr, not inc thumb, init
+T23.239D@Burn second degree of unsp mult fngr, not inc thumb, subs
+T23.239S@Burn second degree of unsp mult fngr, not inc thumb, sqla
+T23.241A@Burn of 2nd deg mul right fingers (nail), inc thumb, init
+T23.241D@Burn of 2nd deg mul right fingers (nail), inc thumb, subs
+T23.241S@Burn of 2nd deg mul right fingers (nail), inc thumb, sequela
+T23.242A@Burn of 2nd deg mul left fingers (nail), inc thumb, init
+T23.242D@Burn of 2nd deg mul left fingers (nail), inc thumb, subs
+T23.242S@Burn of 2nd deg mul left fingers (nail), inc thumb, sequela
+T23.249A@Burn second degree of unsp mult fngr (nail), inc thumb, init
+T23.249D@Burn second degree of unsp mult fngr (nail), inc thumb, subs
+T23.249S@Burn second degree of unsp mult fngr (nail), inc thumb, sqla
+T23.251A@Burn of second degree of right palm, initial encounter
+T23.251D@Burn of second degree of right palm, subsequent encounter
+T23.251S@Burn of second degree of right palm, sequela
+T23.252A@Burn of second degree of left palm, initial encounter
+T23.252D@Burn of second degree of left palm, subsequent encounter
+T23.252S@Burn of second degree of left palm, sequela
+T23.259A@Burn of second degree of unspecified palm, initial encounter
+T23.259D@Burn of second degree of unspecified palm, subs encntr
+T23.259S@Burn of second degree of unspecified palm, sequela
+T23.261A@Burn of second degree of back of right hand, init encntr
+T23.261D@Burn of second degree of back of right hand, subs encntr
+T23.261S@Burn of second degree of back of right hand, sequela
+T23.262A@Burn of second degree of back of left hand, init encntr
+T23.262D@Burn of second degree of back of left hand, subs encntr
+T23.262S@Burn of second degree of back of left hand, sequela
+T23.269A@Burn of second degree of back of unsp hand, init encntr
+T23.269D@Burn of second degree of back of unsp hand, subs encntr
+T23.269S@Burn of second degree of back of unspecified hand, sequela
+T23.271A@Burn of second degree of right wrist, initial encounter
+T23.271D@Burn of second degree of right wrist, subsequent encounter
+T23.271S@Burn of second degree of right wrist, sequela
+T23.272A@Burn of second degree of left wrist, initial encounter
+T23.272D@Burn of second degree of left wrist, subsequent encounter
+T23.272S@Burn of second degree of left wrist, sequela
+T23.279A@Burn of second degree of unspecified wrist, init encntr
+T23.279D@Burn of second degree of unspecified wrist, subs encntr
+T23.279S@Burn of second degree of unspecified wrist, sequela
+T23.291A@Burn of 2nd deg mul sites of right wrist and hand, init
+T23.291D@Burn of 2nd deg mul sites of right wrist and hand, subs
+T23.291S@Burn of 2nd deg mul sites of right wrist and hand, sequela
+T23.292A@Burn of 2nd deg mul sites of left wrist and hand, init
+T23.292D@Burn of 2nd deg mul sites of left wrist and hand, subs
+T23.292S@Burn of 2nd deg mul sites of left wrist and hand, sequela
+T23.299A@Burn of 2nd deg mul sites of unsp wrist and hand, init
+T23.299D@Burn of 2nd deg mul sites of unsp wrist and hand, subs
+T23.299S@Burn of 2nd deg mul sites of unsp wrist and hand, sequela
+T23.301A@Burn of third degree of right hand, unsp site, init encntr
+T23.301D@Burn of third degree of right hand, unsp site, subs encntr
+T23.301S@Burn of third degree of right hand, unsp site, sequela
+T23.302A@Burn of third degree of left hand, unsp site, init encntr
+T23.302D@Burn of third degree of left hand, unsp site, subs encntr
+T23.302S@Burn of third degree of left hand, unspecified site, sequela
+T23.309A@Burn of third degree of unsp hand, unsp site, init encntr
+T23.309D@Burn of third degree of unsp hand, unsp site, subs encntr
+T23.309S@Burn of third degree of unsp hand, unspecified site, sequela
+T23.311A@Burn of third degree of right thumb (nail), init encntr
+T23.311D@Burn of third degree of right thumb (nail), subs encntr
+T23.311S@Burn of third degree of right thumb (nail), sequela
+T23.312A@Burn of third degree of left thumb (nail), initial encounter
+T23.312D@Burn of third degree of left thumb (nail), subs encntr
+T23.312S@Burn of third degree of left thumb (nail), sequela
+T23.319A@Burn of third degree of unsp thumb (nail), init encntr
+T23.319D@Burn of third degree of unsp thumb (nail), subs encntr
+T23.319S@Burn of third degree of unspecified thumb (nail), sequela
+T23.321A@Burn third degree of single r finger except thumb, init
+T23.321D@Burn third degree of single r finger except thumb, subs
+T23.321S@Burn third degree of single r finger except thumb, sqla
+T23.322A@Burn third degree of single l finger except thumb, init
+T23.322D@Burn third degree of single l finger except thumb, subs
+T23.322S@Burn third degree of single l finger except thumb, sqla
+T23.329A@Burn third degree of unsp single finger except thumb, init
+T23.329D@Burn third degree of unsp single finger except thumb, subs
+T23.329S@Burn third degree of unsp single finger except thumb, sqla
+T23.331A@Burn of 3rd deg mu right fingers (nail), not inc thumb, init
+T23.331D@Burn of 3rd deg mu right fingers (nail), not inc thumb, subs
+T23.331S@Burn 3rd deg mu right fingers (nail), not inc thumb, sequela
+T23.332A@Burn of 3rd deg mu left fingers (nail), not inc thumb, init
+T23.332D@Burn of 3rd deg mu left fingers (nail), not inc thumb, subs
+T23.332S@Burn 3rd deg mu left fingers (nail), not inc thumb, sequela
+T23.339A@Burn third degree of unsp mult fngr, not inc thumb, init
+T23.339D@Burn third degree of unsp mult fngr, not inc thumb, subs
+T23.339S@Burn third degree of unsp mult fngr, not inc thumb, sqla
+T23.341A@Burn of 3rd deg mu right fingers (nail), inc thumb, init
+T23.341D@Burn of 3rd deg mu right fingers (nail), inc thumb, subs
+T23.341S@Burn of 3rd deg mu right fingers (nail), inc thumb, sequela
+T23.342A@Burn of 3rd deg mu left fingers (nail), inc thumb, init
+T23.342D@Burn of 3rd deg mu left fingers (nail), inc thumb, subs
+T23.342S@Burn of 3rd deg mu left fingers (nail), inc thumb, sequela
+T23.349A@Burn third degree of unsp mult fngr (nail), inc thumb, init
+T23.349D@Burn third degree of unsp mult fngr (nail), inc thumb, subs
+T23.349S@Burn third degree of unsp mult fngr (nail), inc thumb, sqla
+T23.351A@Burn of third degree of right palm, initial encounter
+T23.351D@Burn of third degree of right palm, subsequent encounter
+T23.351S@Burn of third degree of right palm, sequela
+T23.352A@Burn of third degree of left palm, initial encounter
+T23.352D@Burn of third degree of left palm, subsequent encounter
+T23.352S@Burn of third degree of left palm, sequela
+T23.359A@Burn of third degree of unspecified palm, initial encounter
+T23.359D@Burn of third degree of unspecified palm, subs encntr
+T23.359S@Burn of third degree of unspecified palm, sequela
+T23.361A@Burn of third degree of back of right hand, init encntr
+T23.361D@Burn of third degree of back of right hand, subs encntr
+T23.361S@Burn of third degree of back of right hand, sequela
+T23.362A@Burn of third degree of back of left hand, initial encounter
+T23.362D@Burn of third degree of back of left hand, subs encntr
+T23.362S@Burn of third degree of back of left hand, sequela
+T23.369A@Burn of third degree of back of unsp hand, init encntr
+T23.369D@Burn of third degree of back of unsp hand, subs encntr
+T23.369S@Burn of third degree of back of unspecified hand, sequela
+T23.371A@Burn of third degree of right wrist, initial encounter
+T23.371D@Burn of third degree of right wrist, subsequent encounter
+T23.371S@Burn of third degree of right wrist, sequela
+T23.372A@Burn of third degree of left wrist, initial encounter
+T23.372D@Burn of third degree of left wrist, subsequent encounter
+T23.372S@Burn of third degree of left wrist, sequela
+T23.379A@Burn of third degree of unspecified wrist, initial encounter
+T23.379D@Burn of third degree of unspecified wrist, subs encntr
+T23.379S@Burn of third degree of unspecified wrist, sequela
+T23.391A@Burn of 3rd deg mu sites of right wrist and hand, init
+T23.391D@Burn of 3rd deg mu sites of right wrist and hand, subs
+T23.391S@Burn of 3rd deg mu sites of right wrist and hand, sequela
+T23.392A@Burn of 3rd deg mu sites of left wrist and hand, init
+T23.392D@Burn of 3rd deg mu sites of left wrist and hand, subs
+T23.392S@Burn of 3rd deg mu sites of left wrist and hand, sequela
+T23.399A@Burn of 3rd deg mu sites of unsp wrist and hand, init
+T23.399D@Burn of 3rd deg mu sites of unsp wrist and hand, subs
+T23.399S@Burn of 3rd deg mu sites of unsp wrist and hand, sequela
+T23.401A@Corrosion of unsp degree of right hand, unsp site, init
+T23.401D@Corrosion of unsp degree of right hand, unsp site, subs
+T23.401S@Corrosion of unsp degree of right hand, unsp site, sequela
+T23.402A@Corrosion of unsp degree of left hand, unsp site, init
+T23.402D@Corrosion of unsp degree of left hand, unsp site, subs
+T23.402S@Corrosion of unsp degree of left hand, unsp site, sequela
+T23.409A@Corrosion of unsp degree of unsp hand, unsp site, init
+T23.409D@Corrosion of unsp degree of unsp hand, unsp site, subs
+T23.409S@Corrosion of unsp degree of unsp hand, unsp site, sequela
+T23.411A@Corrosion of unsp degree of right thumb (nail), init encntr
+T23.411D@Corrosion of unsp degree of right thumb (nail), subs encntr
+T23.411S@Corrosion of unsp degree of right thumb (nail), sequela
+T23.412A@Corrosion of unsp degree of left thumb (nail), init encntr
+T23.412D@Corrosion of unsp degree of left thumb (nail), subs encntr
+T23.412S@Corrosion of unsp degree of left thumb (nail), sequela
+T23.419A@Corrosion of unsp degree of unsp thumb (nail), init encntr
+T23.419D@Corrosion of unsp degree of unsp thumb (nail), subs encntr
+T23.419S@Corrosion of unsp degree of unsp thumb (nail), sequela
+T23.421A@Corros unsp degree of single r finger except thumb, init
+T23.421D@Corros unsp degree of single r finger except thumb, subs
+T23.421S@Corros unsp degree of single r finger except thumb, sqla
+T23.422A@Corros unsp degree of single l finger except thumb, init
+T23.422D@Corros unsp degree of single l finger except thumb, subs
+T23.422S@Corros unsp degree of single l finger except thumb, sqla
+T23.429A@Corros unsp degree of unsp single finger except thumb, init
+T23.429D@Corros unsp degree of unsp single finger except thumb, subs
+T23.429S@Corros unsp degree of unsp single finger except thumb, sqla
+T23.431A@Corros unsp deg mult right fngr (nail), not inc thumb, init
+T23.431D@Corros unsp deg mult right fngr (nail), not inc thumb, subs
+T23.431S@Corros unsp deg mult right fngr (nail), not inc thumb, sqla
+T23.432A@Corros unsp deg mult left fngr (nail), not inc thumb, init
+T23.432D@Corros unsp deg mult left fngr (nail), not inc thumb, subs
+T23.432S@Corros unsp deg mult left fngr (nail), not inc thumb, sqla
+T23.439A@Corros unsp degree of unsp mult fngr, not inc thumb, init
+T23.439D@Corros unsp degree of unsp mult fngr, not inc thumb, subs
+T23.439S@Corros unsp degree of unsp mult fngr, not inc thumb, sqla
+T23.441A@Corros unsp deg mult right fingers (nail), inc thumb, init
+T23.441D@Corros unsp deg mult right fingers (nail), inc thumb, subs
+T23.441S@Corros unsp deg mult right fngr (nail), inc thumb, sequela
+T23.442A@Corros unsp deg mult left fingers (nail), inc thumb, init
+T23.442D@Corros unsp deg mult left fingers (nail), inc thumb, subs
+T23.442S@Corros unsp deg mult left fingers (nail), inc thumb, sequela
+T23.449A@Corros unsp degree of unsp mult fngr (nail), inc thumb, init
+T23.449D@Corros unsp degree of unsp mult fngr (nail), inc thumb, subs
+T23.449S@Corros unsp degree of unsp mult fngr (nail), inc thumb, sqla
+T23.451A@Corrosion of unspecified degree of right palm, init encntr
+T23.451D@Corrosion of unspecified degree of right palm, subs encntr
+T23.451S@Corrosion of unspecified degree of right palm, sequela
+T23.452A@Corrosion of unspecified degree of left palm, init encntr
+T23.452D@Corrosion of unspecified degree of left palm, subs encntr
+T23.452S@Corrosion of unspecified degree of left palm, sequela
+T23.459A@Corrosion of unsp degree of unspecified palm, init encntr
+T23.459D@Corrosion of unsp degree of unspecified palm, subs encntr
+T23.459S@Corrosion of unspecified degree of unspecified palm, sequela
+T23.461A@Corrosion of unsp degree of back of right hand, init encntr
+T23.461D@Corrosion of unsp degree of back of right hand, subs encntr
+T23.461S@Corrosion of unsp degree of back of right hand, sequela
+T23.462A@Corrosion of unsp degree of back of left hand, init encntr
+T23.462D@Corrosion of unsp degree of back of left hand, subs encntr
+T23.462S@Corrosion of unsp degree of back of left hand, sequela
+T23.469A@Corrosion of unsp degree of back of unsp hand, init encntr
+T23.469D@Corrosion of unsp degree of back of unsp hand, subs encntr
+T23.469S@Corrosion of unsp degree of back of unsp hand, sequela
+T23.471A@Corrosion of unspecified degree of right wrist, init encntr
+T23.471D@Corrosion of unspecified degree of right wrist, subs encntr
+T23.471S@Corrosion of unspecified degree of right wrist, sequela
+T23.472A@Corrosion of unspecified degree of left wrist, init encntr
+T23.472D@Corrosion of unspecified degree of left wrist, subs encntr
+T23.472S@Corrosion of unspecified degree of left wrist, sequela
+T23.479A@Corrosion of unsp degree of unspecified wrist, init encntr
+T23.479D@Corrosion of unsp degree of unspecified wrist, subs encntr
+T23.479S@Corrosion of unsp degree of unspecified wrist, sequela
+T23.491A@Corrosion of unsp deg mult sites of right wrs/hnd, init
+T23.491D@Corrosion of unsp deg mult sites of right wrs/hnd, subs
+T23.491S@Corrosion of unsp deg mult sites of right wrs/hnd, sequela
+T23.492A@Corrosion of unsp deg mult sites of left wrs/hnd, init
+T23.492D@Corrosion of unsp deg mult sites of left wrs/hnd, subs
+T23.492S@Corrosion of unsp deg mult sites of left wrs/hnd, sequela
+T23.499A@Corrosion of unsp deg mult sites of unsp wrs/hnd, init
+T23.499D@Corrosion of unsp deg mult sites of unsp wrs/hnd, subs
+T23.499S@Corrosion of unsp deg mult sites of unsp wrs/hnd, sequela
+T23.501A@Corrosion of first degree of right hand, unsp site, init
+T23.501D@Corrosion of first degree of right hand, unsp site, subs
+T23.501S@Corrosion of first degree of right hand, unsp site, sequela
+T23.502A@Corrosion of first degree of left hand, unsp site, init
+T23.502D@Corrosion of first degree of left hand, unsp site, subs
+T23.502S@Corrosion of first degree of left hand, unsp site, sequela
+T23.509A@Corrosion of first degree of unsp hand, unsp site, init
+T23.509D@Corrosion of first degree of unsp hand, unsp site, subs
+T23.509S@Corrosion of first degree of unsp hand, unsp site, sequela
+T23.511A@Corrosion of first degree of right thumb (nail), init encntr
+T23.511D@Corrosion of first degree of right thumb (nail), subs encntr
+T23.511S@Corrosion of first degree of right thumb (nail), sequela
+T23.512A@Corrosion of first degree of left thumb (nail), init encntr
+T23.512D@Corrosion of first degree of left thumb (nail), subs encntr
+T23.512S@Corrosion of first degree of left thumb (nail), sequela
+T23.519A@Corrosion of first degree of unsp thumb (nail), init encntr
+T23.519D@Corrosion of first degree of unsp thumb (nail), subs encntr
+T23.519S@Corrosion of first degree of unsp thumb (nail), sequela
+T23.521A@Corros first degree of single r finger except thumb, init
+T23.521D@Corros first degree of single r finger except thumb, subs
+T23.521S@Corros first degree of single r finger except thumb, sqla
+T23.522A@Corros first degree of single l finger except thumb, init
+T23.522D@Corros first degree of single l finger except thumb, subs
+T23.522S@Corros first degree of single l finger except thumb, sqla
+T23.529A@Corros first degree of unsp single finger except thumb, init
+T23.529D@Corros first degree of unsp single finger except thumb, subs
+T23.529S@Corros first degree of unsp single finger except thumb, sqla
+T23.531A@Corros first deg mult right fngr (nail), not inc thumb, init
+T23.531D@Corros first deg mult right fngr (nail), not inc thumb, subs
+T23.531S@Corros first deg mult right fngr (nail), not inc thumb, sqla
+T23.532A@Corros first deg mult left fngr (nail), not inc thumb, init
+T23.532D@Corros first deg mult left fngr (nail), not inc thumb, subs
+T23.532S@Corros first deg mult left fngr (nail), not inc thumb, sqla
+T23.539A@Corros first degree of unsp mult fngr, not inc thumb, init
+T23.539D@Corros first degree of unsp mult fngr, not inc thumb, subs
+T23.539S@Corros first degree of unsp mult fngr, not inc thumb, sqla
+T23.541A@Corros first deg mult right fingers (nail), inc thumb, init
+T23.541D@Corros first deg mult right fingers (nail), inc thumb, subs
+T23.541S@Corros first deg mult right fngr (nail), inc thumb, sequela
+T23.542A@Corros first deg mult left fingers (nail), inc thumb, init
+T23.542D@Corros first deg mult left fingers (nail), inc thumb, subs
+T23.542S@Corros first deg mult left fngr (nail), inc thumb, sequela
+T23.549A@Corros first degree of unsp mult fngr, inc thumb, init
+T23.549D@Corros first degree of unsp mult fngr, inc thumb, subs
+T23.549S@Corros first degree of unsp mult fngr, inc thumb, sqla
+T23.551A@Corrosion of first degree of right palm, initial encounter
+T23.551D@Corrosion of first degree of right palm, subs encntr
+T23.551S@Corrosion of first degree of right palm, sequela
+T23.552A@Corrosion of first degree of left palm, initial encounter
+T23.552D@Corrosion of first degree of left palm, subsequent encounter
+T23.552S@Corrosion of first degree of left palm, sequela
+T23.559A@Corrosion of first degree of unspecified palm, init encntr
+T23.559D@Corrosion of first degree of unspecified palm, subs encntr
+T23.559S@Corrosion of first degree of unspecified palm, sequela
+T23.561A@Corrosion of first degree of back of right hand, init encntr
+T23.561D@Corrosion of first degree of back of right hand, subs encntr
+T23.561S@Corrosion of first degree of back of right hand, sequela
+T23.562A@Corrosion of first degree of back of left hand, init encntr
+T23.562D@Corrosion of first degree of back of left hand, subs encntr
+T23.562S@Corrosion of first degree of back of left hand, sequela
+T23.569A@Corrosion of first degree of back of unsp hand, init encntr
+T23.569D@Corrosion of first degree of back of unsp hand, subs encntr
+T23.569S@Corrosion of first degree of back of unsp hand, sequela
+T23.571A@Corrosion of first degree of right wrist, initial encounter
+T23.571D@Corrosion of first degree of right wrist, subs encntr
+T23.571S@Corrosion of first degree of right wrist, sequela
+T23.572A@Corrosion of first degree of left wrist, initial encounter
+T23.572D@Corrosion of first degree of left wrist, subs encntr
+T23.572S@Corrosion of first degree of left wrist, sequela
+T23.579A@Corrosion of first degree of unspecified wrist, init encntr
+T23.579D@Corrosion of first degree of unspecified wrist, subs encntr
+T23.579S@Corrosion of first degree of unspecified wrist, sequela
+T23.591A@Corrosion of first deg mult sites of right wrs/hnd, init
+T23.591D@Corrosion of first deg mult sites of right wrs/hnd, subs
+T23.591S@Corrosion of first deg mult sites of right wrs/hnd, sequela
+T23.592A@Corrosion of first deg mult sites of left wrs/hnd, init
+T23.592D@Corrosion of first deg mult sites of left wrs/hnd, subs
+T23.592S@Corrosion of first deg mult sites of left wrs/hnd, sequela
+T23.599A@Corrosion of first deg mult sites of unsp wrs/hnd, init
+T23.599D@Corrosion of first deg mult sites of unsp wrs/hnd, subs
+T23.599S@Corrosion of first deg mult sites of unsp wrs/hnd, sequela
+T23.601A@Corrosion of second degree of right hand, unsp site, init
+T23.601D@Corrosion of second degree of right hand, unsp site, subs
+T23.601S@Corrosion of second degree of right hand, unsp site, sequela
+T23.602A@Corrosion of second degree of left hand, unsp site, init
+T23.602D@Corrosion of second degree of left hand, unsp site, subs
+T23.602S@Corrosion of second degree of left hand, unsp site, sequela
+T23.609A@Corrosion of second degree of unsp hand, unsp site, init
+T23.609D@Corrosion of second degree of unsp hand, unsp site, subs
+T23.609S@Corrosion of second degree of unsp hand, unsp site, sequela
+T23.611A@Corrosion of second degree of right thumb (nail), init
+T23.611D@Corrosion of second degree of right thumb (nail), subs
+T23.611S@Corrosion of second degree of right thumb (nail), sequela
+T23.612A@Corrosion of second degree of left thumb (nail), init encntr
+T23.612D@Corrosion of second degree of left thumb (nail), subs encntr
+T23.612S@Corrosion of second degree of left thumb (nail), sequela
+T23.619A@Corrosion of second degree of unsp thumb (nail), init encntr
+T23.619D@Corrosion of second degree of unsp thumb (nail), subs encntr
+T23.619S@Corrosion of second degree of unsp thumb (nail), sequela
+T23.621A@Corros second degree of single r finger except thumb, init
+T23.621D@Corros second degree of single r finger except thumb, subs
+T23.621S@Corros second degree of single r finger except thumb, sqla
+T23.622A@Corros second degree of single l finger except thumb, init
+T23.622D@Corros second degree of single l finger except thumb, subs
+T23.622S@Corros second degree of single l finger except thumb, sqla
+T23.629A@Corros second deg of unsp single finger except thumb, init
+T23.629D@Corros second deg of unsp single finger except thumb, subs
+T23.629S@Corros second deg of unsp single finger except thumb, sqla
+T23.631A@Corros 2nd deg mul right fingers (nail), not inc thumb, init
+T23.631D@Corros 2nd deg mul right fingers (nail), not inc thumb, subs
+T23.631S@Corros 2nd deg mul right fngr (nail), not inc thumb, sequela
+T23.632A@Corros 2nd deg mul left fingers (nail), not inc thumb, init
+T23.632D@Corros 2nd deg mul left fingers (nail), not inc thumb, subs
+T23.632S@Corros 2nd deg mul left fngr (nail), not inc thumb, sequela
+T23.639A@Corros second degree of unsp mult fngr, not inc thumb, init
+T23.639D@Corros second degree of unsp mult fngr, not inc thumb, subs
+T23.639S@Corros second degree of unsp mult fngr, not inc thumb, sqla
+T23.641A@Corros 2nd deg mul right fingers (nail), inc thumb, init
+T23.641D@Corros 2nd deg mul right fingers (nail), inc thumb, subs
+T23.641S@Corros 2nd deg mul right fingers (nail), inc thumb, sequela
+T23.642A@Corros 2nd deg mul left fingers (nail), inc thumb, init
+T23.642D@Corros 2nd deg mul left fingers (nail), inc thumb, subs
+T23.642S@Corros 2nd deg mul left fingers (nail), inc thumb, sequela
+T23.649A@Corros second degree of unsp mult fngr, inc thumb, init
+T23.649D@Corros second degree of unsp mult fngr, inc thumb, subs
+T23.649S@Corros second degree of unsp mult fngr, inc thumb, sqla
+T23.651A@Corrosion of second degree of right palm, initial encounter
+T23.651D@Corrosion of second degree of right palm, subs encntr
+T23.651S@Corrosion of second degree of right palm, sequela
+T23.652A@Corrosion of second degree of left palm, initial encounter
+T23.652D@Corrosion of second degree of left palm, subs encntr
+T23.652S@Corrosion of second degree of left palm, sequela
+T23.659A@Corrosion of second degree of unspecified palm, init encntr
+T23.659D@Corrosion of second degree of unspecified palm, subs encntr
+T23.659S@Corrosion of second degree of unspecified palm, sequela
+T23.661A@Corrosion of second degree back of right hand, init encntr
+T23.661D@Corrosion of second degree back of right hand, subs encntr
+T23.661S@Corrosion of second degree back of right hand, sequela
+T23.662A@Corrosion of second degree back of left hand, init encntr
+T23.662D@Corrosion of second degree back of left hand, subs encntr
+T23.662S@Corrosion of second degree back of left hand, sequela
+T23.669A@Corrosion of second degree back of unsp hand, init encntr
+T23.669D@Corrosion of second degree back of unsp hand, subs encntr
+T23.669S@Corrosion of second degree back of unspecified hand, sequela
+T23.671A@Corrosion of second degree of right wrist, initial encounter
+T23.671D@Corrosion of second degree of right wrist, subs encntr
+T23.671S@Corrosion of second degree of right wrist, sequela
+T23.672A@Corrosion of second degree of left wrist, initial encounter
+T23.672D@Corrosion of second degree of left wrist, subs encntr
+T23.672S@Corrosion of second degree of left wrist, sequela
+T23.679A@Corrosion of second degree of unspecified wrist, init encntr
+T23.679D@Corrosion of second degree of unspecified wrist, subs encntr
+T23.679S@Corrosion of second degree of unspecified wrist, sequela
+T23.691A@Corrosion of 2nd deg mul sites of right wrist and hand, init
+T23.691D@Corrosion of 2nd deg mul sites of right wrist and hand, subs
+T23.691S@Corrosion of 2nd deg mul sites of right wrs/hnd, sequela
+T23.692A@Corrosion of 2nd deg mul sites of left wrist and hand, init
+T23.692D@Corrosion of 2nd deg mul sites of left wrist and hand, subs
+T23.692S@Corrosion of 2nd deg mul sites of left wrs/hnd, sequela
+T23.699A@Corrosion of 2nd deg mul sites of unsp wrist and hand, init
+T23.699D@Corrosion of 2nd deg mul sites of unsp wrist and hand, subs
+T23.699S@Corrosion of 2nd deg mul sites of unsp wrs/hnd, sequela
+T23.701A@Corrosion of third degree of right hand, unsp site, init
+T23.701D@Corrosion of third degree of right hand, unsp site, subs
+T23.701S@Corrosion of third degree of right hand, unsp site, sequela
+T23.702A@Corrosion of third degree of left hand, unsp site, init
+T23.702D@Corrosion of third degree of left hand, unsp site, subs
+T23.702S@Corrosion of third degree of left hand, unsp site, sequela
+T23.709A@Corrosion of third degree of unsp hand, unsp site, init
+T23.709D@Corrosion of third degree of unsp hand, unsp site, subs
+T23.709S@Corrosion of third degree of unsp hand, unsp site, sequela
+T23.711A@Corrosion of third degree of right thumb (nail), init encntr
+T23.711D@Corrosion of third degree of right thumb (nail), subs encntr
+T23.711S@Corrosion of third degree of right thumb (nail), sequela
+T23.712A@Corrosion of third degree of left thumb (nail), init encntr
+T23.712D@Corrosion of third degree of left thumb (nail), subs encntr
+T23.712S@Corrosion of third degree of left thumb (nail), sequela
+T23.719A@Corrosion of third degree of unsp thumb (nail), init encntr
+T23.719D@Corrosion of third degree of unsp thumb (nail), subs encntr
+T23.719S@Corrosion of third degree of unsp thumb (nail), sequela
+T23.721A@Corros third degree of single r finger except thumb, init
+T23.721D@Corros third degree of single r finger except thumb, subs
+T23.721S@Corros third degree of single r finger except thumb, sqla
+T23.722A@Corros third degree of single l finger except thumb, init
+T23.722D@Corros third degree of single l finger except thumb, subs
+T23.722S@Corros third degree of single l finger except thumb, sqla
+T23.729A@Corros third degree of unsp single finger except thumb, init
+T23.729D@Corros third degree of unsp single finger except thumb, subs
+T23.729S@Corros third degree of unsp single finger except thumb, sqla
+T23.731A@Corros 3rd deg mu right fingers (nail), not inc thumb, init
+T23.731D@Corros 3rd deg mu right fingers (nail), not inc thumb, subs
+T23.731S@Corros 3rd deg mu right fngr (nail), not inc thumb, sequela
+T23.732A@Corros 3rd deg mu left fingers (nail), not inc thumb, init
+T23.732D@Corros 3rd deg mu left fingers (nail), not inc thumb, subs
+T23.732S@Corros 3rd deg mu left fngr (nail), not inc thumb, sequela
+T23.739A@Corros third degree of unsp mult fngr, not inc thumb, init
+T23.739D@Corros third degree of unsp mult fngr, not inc thumb, subs
+T23.739S@Corros third degree of unsp mult fngr, not inc thumb, sqla
+T23.741A@Corros 3rd deg mu right fingers (nail), inc thumb, init
+T23.741D@Corros 3rd deg mu right fingers (nail), inc thumb, subs
+T23.741S@Corros 3rd deg mu right fingers (nail), inc thumb, sequela
+T23.742A@Corros 3rd deg mu left fingers (nail), including thumb, init
+T23.742D@Corros 3rd deg mu left fingers (nail), including thumb, subs
+T23.742S@Corros 3rd deg mu left fingers (nail), inc thumb, sequela
+T23.749A@Corros third degree of unsp mult fngr, inc thumb, init
+T23.749D@Corros third degree of unsp mult fngr, inc thumb, subs
+T23.749S@Corros third degree of unsp mult fngr, inc thumb, sqla
+T23.751A@Corrosion of third degree of right palm, initial encounter
+T23.751D@Corrosion of third degree of right palm, subs encntr
+T23.751S@Corrosion of third degree of right palm, sequela
+T23.752A@Corrosion of third degree of left palm, initial encounter
+T23.752D@Corrosion of third degree of left palm, subsequent encounter
+T23.752S@Corrosion of third degree of left palm, sequela
+T23.759A@Corrosion of third degree of unspecified palm, init encntr
+T23.759D@Corrosion of third degree of unspecified palm, subs encntr
+T23.759S@Corrosion of third degree of unspecified palm, sequela
+T23.761A@Corrosion of third degree of back of right hand, init encntr
+T23.761D@Corrosion of third degree of back of right hand, subs encntr
+T23.761S@Corrosion of third degree of back of right hand, sequela
+T23.762A@Corrosion of third degree of back of left hand, init encntr
+T23.762D@Corrosion of third degree of back of left hand, subs encntr
+T23.762S@Corrosion of third degree of back of left hand, sequela
+T23.769A@Corrosion of third degree back of unsp hand, init encntr
+T23.769D@Corrosion of third degree back of unsp hand, subs encntr
+T23.769S@Corrosion of third degree back of unspecified hand, sequela
+T23.771A@Corrosion of third degree of right wrist, initial encounter
+T23.771D@Corrosion of third degree of right wrist, subs encntr
+T23.771S@Corrosion of third degree of right wrist, sequela
+T23.772A@Corrosion of third degree of left wrist, initial encounter
+T23.772D@Corrosion of third degree of left wrist, subs encntr
+T23.772S@Corrosion of third degree of left wrist, sequela
+T23.779A@Corrosion of third degree of unspecified wrist, init encntr
+T23.779D@Corrosion of third degree of unspecified wrist, subs encntr
+T23.779S@Corrosion of third degree of unspecified wrist, sequela
+T23.791A@Corrosion of 3rd deg mu sites of right wrist and hand, init
+T23.791D@Corrosion of 3rd deg mu sites of right wrist and hand, subs
+T23.791S@Corrosion of 3rd deg mu sites of right wrs/hnd, sequela
+T23.792A@Corrosion of 3rd deg mu sites of left wrist and hand, init
+T23.792D@Corrosion of 3rd deg mu sites of left wrist and hand, subs
+T23.792S@Corrosion of 3rd deg mu sites of left wrs/hnd, sequela
+T23.799A@Corrosion of 3rd deg mu sites of unsp wrist and hand, init
+T23.799D@Corrosion of 3rd deg mu sites of unsp wrist and hand, subs
+T23.799S@Corrosion of 3rd deg mu sites of unsp wrs/hnd, sequela
+T24.001A@Burn unsp deg of unsp site right lower limb, ex ank/ft, init
+T24.001D@Burn unsp deg of unsp site right lower limb, ex ank/ft, subs
+T24.001S@Burn unsp deg of unsp site right lower limb, ex ank/ft, sqla
+T24.002A@Burn unsp deg of unsp site left lower limb, ex ank/ft, init
+T24.002D@Burn unsp deg of unsp site left lower limb, ex ank/ft, subs
+T24.002S@Burn unsp deg of unsp site left lower limb, ex ank/ft, sqla
+T24.009A@Burn unsp deg of unsp site unsp lower limb, ex ank/ft, init
+T24.009D@Burn unsp deg of unsp site unsp lower limb, ex ank/ft, subs
+T24.009S@Burn unsp deg of unsp site unsp lower limb, ex ank/ft, sqla
+T24.011A@Burn of unspecified degree of right thigh, initial encounter
+T24.011D@Burn of unspecified degree of right thigh, subs encntr
+T24.011S@Burn of unspecified degree of right thigh, sequela
+T24.012A@Burn of unspecified degree of left thigh, initial encounter
+T24.012D@Burn of unspecified degree of left thigh, subs encntr
+T24.012S@Burn of unspecified degree of left thigh, sequela
+T24.019A@Burn of unspecified degree of unspecified thigh, init encntr
+T24.019D@Burn of unspecified degree of unspecified thigh, subs encntr
+T24.019S@Burn of unspecified degree of unspecified thigh, sequela
+T24.021A@Burn of unspecified degree of right knee, initial encounter
+T24.021D@Burn of unspecified degree of right knee, subs encntr
+T24.021S@Burn of unspecified degree of right knee, sequela
+T24.022A@Burn of unspecified degree of left knee, initial encounter
+T24.022D@Burn of unspecified degree of left knee, subs encntr
+T24.022S@Burn of unspecified degree of left knee, sequela
+T24.029A@Burn of unspecified degree of unspecified knee, init encntr
+T24.029D@Burn of unspecified degree of unspecified knee, subs encntr
+T24.029S@Burn of unspecified degree of unspecified knee, sequela
+T24.031A@Burn of unspecified degree of right lower leg, init encntr
+T24.031D@Burn of unspecified degree of right lower leg, subs encntr
+T24.031S@Burn of unspecified degree of right lower leg, sequela
+T24.032A@Burn of unspecified degree of left lower leg, init encntr
+T24.032D@Burn of unspecified degree of left lower leg, subs encntr
+T24.032S@Burn of unspecified degree of left lower leg, sequela
+T24.039A@Burn of unsp degree of unspecified lower leg, init encntr
+T24.039D@Burn of unsp degree of unspecified lower leg, subs encntr
+T24.039S@Burn of unspecified degree of unspecified lower leg, sequela
+T24.091A@Burn unsp deg mult sites of right low limb, ex ank/ft, init
+T24.091D@Burn unsp deg mult sites of right low limb, ex ank/ft, subs
+T24.091S@Burn unsp deg mult sites of right low limb, ex ank/ft, sqla
+T24.092A@Burn unsp deg mult sites of left lower limb, ex ank/ft, init
+T24.092D@Burn unsp deg mult sites of left lower limb, ex ank/ft, subs
+T24.092S@Burn unsp deg mult sites of left lower limb, ex ank/ft, sqla
+T24.099A@Burn unsp deg mult sites of unsp lower limb, ex ank/ft, init
+T24.099D@Burn unsp deg mult sites of unsp lower limb, ex ank/ft, subs
+T24.099S@Burn unsp deg mult sites of unsp lower limb, ex ank/ft, sqla
+T24.101A@Burn 1st deg of unsp site right lower limb, ex ank/ft, init
+T24.101D@Burn 1st deg of unsp site right lower limb, ex ank/ft, subs
+T24.101S@Burn 1st deg of unsp site right lower limb, ex ank/ft, sqla
+T24.102A@Burn first deg of unsp site left lower limb, ex ank/ft, init
+T24.102D@Burn first deg of unsp site left lower limb, ex ank/ft, subs
+T24.102S@Burn first deg of unsp site left lower limb, ex ank/ft, sqla
+T24.109A@Burn first deg of unsp site unsp lower limb, ex ank/ft, init
+T24.109D@Burn first deg of unsp site unsp lower limb, ex ank/ft, subs
+T24.109S@Burn first deg of unsp site unsp lower limb, ex ank/ft, sqla
+T24.111A@Burn of first degree of right thigh, initial encounter
+T24.111D@Burn of first degree of right thigh, subsequent encounter
+T24.111S@Burn of first degree of right thigh, sequela
+T24.112A@Burn of first degree of left thigh, initial encounter
+T24.112D@Burn of first degree of left thigh, subsequent encounter
+T24.112S@Burn of first degree of left thigh, sequela
+T24.119A@Burn of first degree of unspecified thigh, initial encounter
+T24.119D@Burn of first degree of unspecified thigh, subs encntr
+T24.119S@Burn of first degree of unspecified thigh, sequela
+T24.121A@Burn of first degree of right knee, initial encounter
+T24.121D@Burn of first degree of right knee, subsequent encounter
+T24.121S@Burn of first degree of right knee, sequela
+T24.122A@Burn of first degree of left knee, initial encounter
+T24.122D@Burn of first degree of left knee, subsequent encounter
+T24.122S@Burn of first degree of left knee, sequela
+T24.129A@Burn of first degree of unspecified knee, initial encounter
+T24.129D@Burn of first degree of unspecified knee, subs encntr
+T24.129S@Burn of first degree of unspecified knee, sequela
+T24.131A@Burn of first degree of right lower leg, initial encounter
+T24.131D@Burn of first degree of right lower leg, subs encntr
+T24.131S@Burn of first degree of right lower leg, sequela
+T24.132A@Burn of first degree of left lower leg, initial encounter
+T24.132D@Burn of first degree of left lower leg, subsequent encounter
+T24.132S@Burn of first degree of left lower leg, sequela
+T24.139A@Burn of first degree of unspecified lower leg, init encntr
+T24.139D@Burn of first degree of unspecified lower leg, subs encntr
+T24.139S@Burn of first degree of unspecified lower leg, sequela
+T24.191A@Burn 1st deg mult sites of right lower limb, ex ank/ft, init
+T24.191D@Burn 1st deg mult sites of right lower limb, ex ank/ft, subs
+T24.191S@Burn 1st deg mult sites of right lower limb, ex ank/ft, sqla
+T24.192A@Burn 1st deg mult sites of left lower limb, ex ank/ft, init
+T24.192D@Burn 1st deg mult sites of left lower limb, ex ank/ft, subs
+T24.192S@Burn 1st deg mult sites of left lower limb, ex ank/ft, sqla
+T24.199A@Burn 1st deg mult sites of unsp lower limb, ex ank/ft, init
+T24.199D@Burn 1st deg mult sites of unsp lower limb, ex ank/ft, subs
+T24.199S@Burn 1st deg mult sites of unsp lower limb, ex ank/ft, sqla
+T24.201A@Burn 2nd deg of unsp site right lower limb, ex ank/ft, init
+T24.201D@Burn 2nd deg of unsp site right lower limb, ex ank/ft, subs
+T24.201S@Burn 2nd deg of unsp site right lower limb, ex ank/ft, sqla
+T24.202A@Burn 2nd deg of unsp site left lower limb, ex ank/ft, init
+T24.202D@Burn 2nd deg of unsp site left lower limb, ex ank/ft, subs
+T24.202S@Burn 2nd deg of unsp site left lower limb, ex ank/ft, sqla
+T24.209A@Burn 2nd deg of unsp site unsp lower limb, ex ank/ft, init
+T24.209D@Burn 2nd deg of unsp site unsp lower limb, ex ank/ft, subs
+T24.209S@Burn 2nd deg of unsp site unsp lower limb, ex ank/ft, sqla
+T24.211A@Burn of second degree of right thigh, initial encounter
+T24.211D@Burn of second degree of right thigh, subsequent encounter
+T24.211S@Burn of second degree of right thigh, sequela
+T24.212A@Burn of second degree of left thigh, initial encounter
+T24.212D@Burn of second degree of left thigh, subsequent encounter
+T24.212S@Burn of second degree of left thigh, sequela
+T24.219A@Burn of second degree of unspecified thigh, init encntr
+T24.219D@Burn of second degree of unspecified thigh, subs encntr
+T24.219S@Burn of second degree of unspecified thigh, sequela
+T24.221A@Burn of second degree of right knee, initial encounter
+T24.221D@Burn of second degree of right knee, subsequent encounter
+T24.221S@Burn of second degree of right knee, sequela
+T24.222A@Burn of second degree of left knee, initial encounter
+T24.222D@Burn of second degree of left knee, subsequent encounter
+T24.222S@Burn of second degree of left knee, sequela
+T24.229A@Burn of second degree of unspecified knee, initial encounter
+T24.229D@Burn of second degree of unspecified knee, subs encntr
+T24.229S@Burn of second degree of unspecified knee, sequela
+T24.231A@Burn of second degree of right lower leg, initial encounter
+T24.231D@Burn of second degree of right lower leg, subs encntr
+T24.231S@Burn of second degree of right lower leg, sequela
+T24.232A@Burn of second degree of left lower leg, initial encounter
+T24.232D@Burn of second degree of left lower leg, subs encntr
+T24.232S@Burn of second degree of left lower leg, sequela
+T24.239A@Burn of second degree of unspecified lower leg, init encntr
+T24.239D@Burn of second degree of unspecified lower leg, subs encntr
+T24.239S@Burn of second degree of unspecified lower leg, sequela
+T24.291A@Burn 2nd deg mul sites of right lower limb, ex ank/ft, init
+T24.291D@Burn 2nd deg mul sites of right lower limb, ex ank/ft, subs
+T24.291S@Burn 2nd deg mul sites of right lower limb, ex ank/ft, sqla
+T24.292A@Burn 2nd deg mul sites of left lower limb, ex ank/ft, init
+T24.292D@Burn 2nd deg mul sites of left lower limb, ex ank/ft, subs
+T24.292S@Burn 2nd deg mul sites of left lower limb, ex ank/ft, sqla
+T24.299A@Burn 2nd deg mul sites of unsp lower limb, ex ank/ft, init
+T24.299D@Burn 2nd deg mul sites of unsp lower limb, ex ank/ft, subs
+T24.299S@Burn 2nd deg mul sites of unsp lower limb, ex ank/ft, sqla
+T24.301A@Burn third deg of unsp site right low limb, ex ank/ft, init
+T24.301D@Burn third deg of unsp site right low limb, ex ank/ft, subs
+T24.301S@Burn third deg of unsp site right low limb, ex ank/ft, sqla
+T24.302A@Burn third deg of unsp site left lower limb, ex ank/ft, init
+T24.302D@Burn third deg of unsp site left lower limb, ex ank/ft, subs
+T24.302S@Burn third deg of unsp site left lower limb, ex ank/ft, sqla
+T24.309A@Burn third deg of unsp site unsp lower limb, ex ank/ft, init
+T24.309D@Burn third deg of unsp site unsp lower limb, ex ank/ft, subs
+T24.309S@Burn third deg of unsp site unsp lower limb, ex ank/ft, sqla
+T24.311A@Burn of third degree of right thigh, initial encounter
+T24.311D@Burn of third degree of right thigh, subsequent encounter
+T24.311S@Burn of third degree of right thigh, sequela
+T24.312A@Burn of third degree of left thigh, initial encounter
+T24.312D@Burn of third degree of left thigh, subsequent encounter
+T24.312S@Burn of third degree of left thigh, sequela
+T24.319A@Burn of third degree of unspecified thigh, initial encounter
+T24.319D@Burn of third degree of unspecified thigh, subs encntr
+T24.319S@Burn of third degree of unspecified thigh, sequela
+T24.321A@Burn of third degree of right knee, initial encounter
+T24.321D@Burn of third degree of right knee, subsequent encounter
+T24.321S@Burn of third degree of right knee, sequela
+T24.322A@Burn of third degree of left knee, initial encounter
+T24.322D@Burn of third degree of left knee, subsequent encounter
+T24.322S@Burn of third degree of left knee, sequela
+T24.329A@Burn of third degree of unspecified knee, initial encounter
+T24.329D@Burn of third degree of unspecified knee, subs encntr
+T24.329S@Burn of third degree of unspecified knee, sequela
+T24.331A@Burn of third degree of right lower leg, initial encounter
+T24.331D@Burn of third degree of right lower leg, subs encntr
+T24.331S@Burn of third degree of right lower leg, sequela
+T24.332A@Burn of third degree of left lower leg, initial encounter
+T24.332D@Burn of third degree of left lower leg, subsequent encounter
+T24.332S@Burn of third degree of left lower leg, sequela
+T24.339A@Burn of third degree of unspecified lower leg, init encntr
+T24.339D@Burn of third degree of unspecified lower leg, subs encntr
+T24.339S@Burn of third degree of unspecified lower leg, sequela
+T24.391A@Burn 3rd deg mu sites of right lower limb, ex ank/ft, init
+T24.391D@Burn 3rd deg mu sites of right lower limb, ex ank/ft, subs
+T24.391S@Burn 3rd deg mu sites of right lower limb, ex ank/ft, sqla
+T24.392A@Burn 3rd deg mu sites of left lower limb, ex ank/ft, init
+T24.392D@Burn 3rd deg mu sites of left lower limb, ex ank/ft, subs
+T24.392S@Burn 3rd deg mu sites of left lower limb, ex ank/ft, sqla
+T24.399A@Burn 3rd deg mu sites of unsp lower limb, ex ank/ft, init
+T24.399D@Burn 3rd deg mu sites of unsp lower limb, ex ank/ft, subs
+T24.399S@Burn 3rd deg mu sites of unsp lower limb, ex ank/ft, sqla
+T24.401A@Corros unsp deg of unsp site right low limb, ex ank/ft, init
+T24.401D@Corros unsp deg of unsp site right low limb, ex ank/ft, subs
+T24.401S@Corros unsp deg of unsp site right low limb, ex ank/ft, sqla
+T24.402A@Corros unsp deg of unsp site left low limb, ex ank/ft, init
+T24.402D@Corros unsp deg of unsp site left low limb, ex ank/ft, subs
+T24.402S@Corros unsp deg of unsp site left low limb, ex ank/ft, sqla
+T24.409A@Corros unsp deg of unsp site unsp low limb, ex ank/ft, init
+T24.409D@Corros unsp deg of unsp site unsp low limb, ex ank/ft, subs
+T24.409S@Corros unsp deg of unsp site unsp low limb, ex ank/ft, sqla
+T24.411A@Corrosion of unspecified degree of right thigh, init encntr
+T24.411D@Corrosion of unspecified degree of right thigh, subs encntr
+T24.411S@Corrosion of unspecified degree of right thigh, sequela
+T24.412A@Corrosion of unspecified degree of left thigh, init encntr
+T24.412D@Corrosion of unspecified degree of left thigh, subs encntr
+T24.412S@Corrosion of unspecified degree of left thigh, sequela
+T24.419A@Corrosion of unsp degree of unspecified thigh, init encntr
+T24.419D@Corrosion of unsp degree of unspecified thigh, subs encntr
+T24.419S@Corrosion of unsp degree of unspecified thigh, sequela
+T24.421A@Corrosion of unspecified degree of right knee, init encntr
+T24.421D@Corrosion of unspecified degree of right knee, subs encntr
+T24.421S@Corrosion of unspecified degree of right knee, sequela
+T24.422A@Corrosion of unspecified degree of left knee, init encntr
+T24.422D@Corrosion of unspecified degree of left knee, subs encntr
+T24.422S@Corrosion of unspecified degree of left knee, sequela
+T24.429A@Corrosion of unsp degree of unspecified knee, init encntr
+T24.429D@Corrosion of unsp degree of unspecified knee, subs encntr
+T24.429S@Corrosion of unspecified degree of unspecified knee, sequela
+T24.431A@Corrosion of unsp degree of right lower leg, init encntr
+T24.431D@Corrosion of unsp degree of right lower leg, subs encntr
+T24.431S@Corrosion of unspecified degree of right lower leg, sequela
+T24.432A@Corrosion of unsp degree of left lower leg, init encntr
+T24.432D@Corrosion of unsp degree of left lower leg, subs encntr
+T24.432S@Corrosion of unspecified degree of left lower leg, sequela
+T24.439A@Corrosion of unsp degree of unsp lower leg, init encntr
+T24.439D@Corrosion of unsp degree of unsp lower leg, subs encntr
+T24.439S@Corrosion of unsp degree of unspecified lower leg, sequela
+T24.491A@Corros unsp deg mult sites of r low limb, ex ank/ft, init
+T24.491D@Corros unsp deg mult sites of r low limb, ex ank/ft, subs
+T24.491S@Corros unsp deg mult sites of r low limb, ex ank/ft, sqla
+T24.492A@Corros unsp deg mult sites of left low limb, ex ank/ft, init
+T24.492D@Corros unsp deg mult sites of left low limb, ex ank/ft, subs
+T24.492S@Corros unsp deg mult sites of left low limb, ex ank/ft, sqla
+T24.499A@Corros unsp deg mult sites of unsp low limb, ex ank/ft, init
+T24.499D@Corros unsp deg mult sites of unsp low limb, ex ank/ft, subs
+T24.499S@Corros unsp deg mult sites of unsp low limb, ex ank/ft, sqla
+T24.501A@Corros 1st deg of unsp site right low limb, ex ank/ft, init
+T24.501D@Corros 1st deg of unsp site right low limb, ex ank/ft, subs
+T24.501S@Corros 1st deg of unsp site right low limb, ex ank/ft, sqla
+T24.502A@Corros 1st deg of unsp site left lower limb, ex ank/ft, init
+T24.502D@Corros 1st deg of unsp site left lower limb, ex ank/ft, subs
+T24.502S@Corros 1st deg of unsp site left lower limb, ex ank/ft, sqla
+T24.509A@Corros 1st deg of unsp site unsp lower limb, ex ank/ft, init
+T24.509D@Corros 1st deg of unsp site unsp lower limb, ex ank/ft, subs
+T24.509S@Corros 1st deg of unsp site unsp lower limb, ex ank/ft, sqla
+T24.511A@Corrosion of first degree of right thigh, initial encounter
+T24.511D@Corrosion of first degree of right thigh, subs encntr
+T24.511S@Corrosion of first degree of right thigh, sequela
+T24.512A@Corrosion of first degree of left thigh, initial encounter
+T24.512D@Corrosion of first degree of left thigh, subs encntr
+T24.512S@Corrosion of first degree of left thigh, sequela
+T24.519A@Corrosion of first degree of unspecified thigh, init encntr
+T24.519D@Corrosion of first degree of unspecified thigh, subs encntr
+T24.519S@Corrosion of first degree of unspecified thigh, sequela
+T24.521A@Corrosion of first degree of right knee, initial encounter
+T24.521D@Corrosion of first degree of right knee, subs encntr
+T24.521S@Corrosion of first degree of right knee, sequela
+T24.522A@Corrosion of first degree of left knee, initial encounter
+T24.522D@Corrosion of first degree of left knee, subsequent encounter
+T24.522S@Corrosion of first degree of left knee, sequela
+T24.529A@Corrosion of first degree of unspecified knee, init encntr
+T24.529D@Corrosion of first degree of unspecified knee, subs encntr
+T24.529S@Corrosion of first degree of unspecified knee, sequela
+T24.531A@Corrosion of first degree of right lower leg, init encntr
+T24.531D@Corrosion of first degree of right lower leg, subs encntr
+T24.531S@Corrosion of first degree of right lower leg, sequela
+T24.532A@Corrosion of first degree of left lower leg, init encntr
+T24.532D@Corrosion of first degree of left lower leg, subs encntr
+T24.532S@Corrosion of first degree of left lower leg, sequela
+T24.539A@Corrosion of first degree of unsp lower leg, init encntr
+T24.539D@Corrosion of first degree of unsp lower leg, subs encntr
+T24.539S@Corrosion of first degree of unspecified lower leg, sequela
+T24.591A@Corros 1st deg mult sites of right low limb, ex ank/ft, init
+T24.591D@Corros 1st deg mult sites of right low limb, ex ank/ft, subs
+T24.591S@Corros 1st deg mult sites of right low limb, ex ank/ft, sqla
+T24.592A@Corros 1st deg mult sites of left low limb, ex ank/ft, init
+T24.592D@Corros 1st deg mult sites of left low limb, ex ank/ft, subs
+T24.592S@Corros 1st deg mult sites of left low limb, ex ank/ft, sqla
+T24.599A@Corros 1st deg mult sites of unsp low limb, ex ank/ft, init
+T24.599D@Corros 1st deg mult sites of unsp low limb, ex ank/ft, subs
+T24.599S@Corros 1st deg mult sites of unsp low limb, ex ank/ft, sqla
+T24.601A@Corros 2nd deg of unsp site right low limb, ex ank/ft, init
+T24.601D@Corros 2nd deg of unsp site right low limb, ex ank/ft, subs
+T24.601S@Corros 2nd deg of unsp site right low limb, ex ank/ft, sqla
+T24.602A@Corros 2nd deg of unsp site left lower limb, ex ank/ft, init
+T24.602D@Corros 2nd deg of unsp site left lower limb, ex ank/ft, subs
+T24.602S@Corros 2nd deg of unsp site left lower limb, ex ank/ft, sqla
+T24.609A@Corros 2nd deg of unsp site unsp lower limb, ex ank/ft, init
+T24.609D@Corros 2nd deg of unsp site unsp lower limb, ex ank/ft, subs
+T24.609S@Corros 2nd deg of unsp site unsp lower limb, ex ank/ft, sqla
+T24.611A@Corrosion of second degree of right thigh, initial encounter
+T24.611D@Corrosion of second degree of right thigh, subs encntr
+T24.611S@Corrosion of second degree of right thigh, sequela
+T24.612A@Corrosion of second degree of left thigh, initial encounter
+T24.612D@Corrosion of second degree of left thigh, subs encntr
+T24.612S@Corrosion of second degree of left thigh, sequela
+T24.619A@Corrosion of second degree of unspecified thigh, init encntr
+T24.619D@Corrosion of second degree of unspecified thigh, subs encntr
+T24.619S@Corrosion of second degree of unspecified thigh, sequela
+T24.621A@Corrosion of second degree of right knee, initial encounter
+T24.621D@Corrosion of second degree of right knee, subs encntr
+T24.621S@Corrosion of second degree of right knee, sequela
+T24.622A@Corrosion of second degree of left knee, initial encounter
+T24.622D@Corrosion of second degree of left knee, subs encntr
+T24.622S@Corrosion of second degree of left knee, sequela
+T24.629A@Corrosion of second degree of unspecified knee, init encntr
+T24.629D@Corrosion of second degree of unspecified knee, subs encntr
+T24.629S@Corrosion of second degree of unspecified knee, sequela
+T24.631A@Corrosion of second degree of right lower leg, init encntr
+T24.631D@Corrosion of second degree of right lower leg, subs encntr
+T24.631S@Corrosion of second degree of right lower leg, sequela
+T24.632A@Corrosion of second degree of left lower leg, init encntr
+T24.632D@Corrosion of second degree of left lower leg, subs encntr
+T24.632S@Corrosion of second degree of left lower leg, sequela
+T24.639A@Corrosion of second degree of unsp lower leg, init encntr
+T24.639D@Corrosion of second degree of unsp lower leg, subs encntr
+T24.639S@Corrosion of second degree of unspecified lower leg, sequela
+T24.691A@Corros 2nd deg mul sites of right low limb, ex ank/ft, init
+T24.691D@Corros 2nd deg mul sites of right low limb, ex ank/ft, subs
+T24.691S@Corros 2nd deg mul sites of right low limb, ex ank/ft, sqla
+T24.692A@Corros 2nd deg mul sites of left lower limb, ex ank/ft, init
+T24.692D@Corros 2nd deg mul sites of left lower limb, ex ank/ft, subs
+T24.692S@Corros 2nd deg mul sites of left lower limb, ex ank/ft, sqla
+T24.699A@Corros 2nd deg mul sites of unsp lower limb, ex ank/ft, init
+T24.699D@Corros 2nd deg mul sites of unsp lower limb, ex ank/ft, subs
+T24.699S@Corros 2nd deg mul sites of unsp lower limb, ex ank/ft, sqla
+T24.701A@Corros third deg of unsp site r low limb, ex ank/ft, init
+T24.701D@Corros third deg of unsp site r low limb, ex ank/ft, subs
+T24.701S@Corros third deg of unsp site r low limb, ex ank/ft, sqla
+T24.702A@Corros third deg of unsp site left low limb, ex ank/ft, init
+T24.702D@Corros third deg of unsp site left low limb, ex ank/ft, subs
+T24.702S@Corros third deg of unsp site left low limb, ex ank/ft, sqla
+T24.709A@Corros third deg of unsp site unsp low limb, ex ank/ft, init
+T24.709D@Corros third deg of unsp site unsp low limb, ex ank/ft, subs
+T24.709S@Corros third deg of unsp site unsp low limb, ex ank/ft, sqla
+T24.711A@Corrosion of third degree of right thigh, initial encounter
+T24.711D@Corrosion of third degree of right thigh, subs encntr
+T24.711S@Corrosion of third degree of right thigh, sequela
+T24.712A@Corrosion of third degree of left thigh, initial encounter
+T24.712D@Corrosion of third degree of left thigh, subs encntr
+T24.712S@Corrosion of third degree of left thigh, sequela
+T24.719A@Corrosion of third degree of unspecified thigh, init encntr
+T24.719D@Corrosion of third degree of unspecified thigh, subs encntr
+T24.719S@Corrosion of third degree of unspecified thigh, sequela
+T24.721A@Corrosion of third degree of right knee, initial encounter
+T24.721D@Corrosion of third degree of right knee, subs encntr
+T24.721S@Corrosion of third degree of right knee, sequela
+T24.722A@Corrosion of third degree of left knee, initial encounter
+T24.722D@Corrosion of third degree of left knee, subsequent encounter
+T24.722S@Corrosion of third degree of left knee, sequela
+T24.729A@Corrosion of third degree of unspecified knee, init encntr
+T24.729D@Corrosion of third degree of unspecified knee, subs encntr
+T24.729S@Corrosion of third degree of unspecified knee, sequela
+T24.731A@Corrosion of third degree of right lower leg, init encntr
+T24.731D@Corrosion of third degree of right lower leg, subs encntr
+T24.731S@Corrosion of third degree of right lower leg, sequela
+T24.732A@Corrosion of third degree of left lower leg, init encntr
+T24.732D@Corrosion of third degree of left lower leg, subs encntr
+T24.732S@Corrosion of third degree of left lower leg, sequela
+T24.739A@Corrosion of third degree of unsp lower leg, init encntr
+T24.739D@Corrosion of third degree of unsp lower leg, subs encntr
+T24.739S@Corrosion of third degree of unspecified lower leg, sequela
+T24.791A@Corros 3rd deg mu sites of right lower limb, ex ank/ft, init
+T24.791D@Corros 3rd deg mu sites of right lower limb, ex ank/ft, subs
+T24.791S@Corros 3rd deg mu sites of right lower limb, ex ank/ft, sqla
+T24.792A@Corros 3rd deg mu sites of left lower limb, ex ank/ft, init
+T24.792D@Corros 3rd deg mu sites of left lower limb, ex ank/ft, subs
+T24.792S@Corros 3rd deg mu sites of left lower limb, ex ank/ft, sqla
+T24.799A@Corros 3rd deg mu sites of unsp lower limb, ex ank/ft, init
+T24.799D@Corros 3rd deg mu sites of unsp lower limb, ex ank/ft, subs
+T24.799S@Corros 3rd deg mu sites of unsp lower limb, ex ank/ft, sqla
+T25.011A@Burn of unspecified degree of right ankle, initial encounter
+T25.011D@Burn of unspecified degree of right ankle, subs encntr
+T25.011S@Burn of unspecified degree of right ankle, sequela
+T25.012A@Burn of unspecified degree of left ankle, initial encounter
+T25.012D@Burn of unspecified degree of left ankle, subs encntr
+T25.012S@Burn of unspecified degree of left ankle, sequela
+T25.019A@Burn of unspecified degree of unspecified ankle, init encntr
+T25.019D@Burn of unspecified degree of unspecified ankle, subs encntr
+T25.019S@Burn of unspecified degree of unspecified ankle, sequela
+T25.021A@Burn of unspecified degree of right foot, initial encounter
+T25.021D@Burn of unspecified degree of right foot, subs encntr
+T25.021S@Burn of unspecified degree of right foot, sequela
+T25.022A@Burn of unspecified degree of left foot, initial encounter
+T25.022D@Burn of unspecified degree of left foot, subs encntr
+T25.022S@Burn of unspecified degree of left foot, sequela
+T25.029A@Burn of unspecified degree of unspecified foot, init encntr
+T25.029D@Burn of unspecified degree of unspecified foot, subs encntr
+T25.029S@Burn of unspecified degree of unspecified foot, sequela
+T25.031A@Burn of unsp degree of right toe(s) (nail), init encntr
+T25.031D@Burn of unsp degree of right toe(s) (nail), subs encntr
+T25.031S@Burn of unspecified degree of right toe(s) (nail), sequela
+T25.032A@Burn of unsp degree of left toe(s) (nail), init encntr
+T25.032D@Burn of unsp degree of left toe(s) (nail), subs encntr
+T25.032S@Burn of unspecified degree of left toe(s) (nail), sequela
+T25.039A@Burn of unsp degree of unsp toe(s) (nail), init encntr
+T25.039D@Burn of unsp degree of unsp toe(s) (nail), subs encntr
+T25.039S@Burn of unsp degree of unspecified toe(s) (nail), sequela
+T25.091A@Burn of unsp deg mult sites of right ankle and foot, init
+T25.091D@Burn of unsp deg mult sites of right ankle and foot, subs
+T25.091S@Burn of unsp deg mult sites of right ankle and foot, sequela
+T25.092A@Burn of unsp deg mult sites of left ankle and foot, init
+T25.092D@Burn of unsp deg mult sites of left ankle and foot, subs
+T25.092S@Burn of unsp deg mult sites of left ankle and foot, sequela
+T25.099A@Burn of unsp deg mult sites of unsp ankle and foot, init
+T25.099D@Burn of unsp deg mult sites of unsp ankle and foot, subs
+T25.099S@Burn of unsp deg mult sites of unsp ankle and foot, sequela
+T25.111A@Burn of first degree of right ankle, initial encounter
+T25.111D@Burn of first degree of right ankle, subsequent encounter
+T25.111S@Burn of first degree of right ankle, sequela
+T25.112A@Burn of first degree of left ankle, initial encounter
+T25.112D@Burn of first degree of left ankle, subsequent encounter
+T25.112S@Burn of first degree of left ankle, sequela
+T25.119A@Burn of first degree of unspecified ankle, initial encounter
+T25.119D@Burn of first degree of unspecified ankle, subs encntr
+T25.119S@Burn of first degree of unspecified ankle, sequela
+T25.121A@Burn of first degree of right foot, initial encounter
+T25.121D@Burn of first degree of right foot, subsequent encounter
+T25.121S@Burn of first degree of right foot, sequela
+T25.122A@Burn of first degree of left foot, initial encounter
+T25.122D@Burn of first degree of left foot, subsequent encounter
+T25.122S@Burn of first degree of left foot, sequela
+T25.129A@Burn of first degree of unspecified foot, initial encounter
+T25.129D@Burn of first degree of unspecified foot, subs encntr
+T25.129S@Burn of first degree of unspecified foot, sequela
+T25.131A@Burn of first degree of right toe(s) (nail), init encntr
+T25.131D@Burn of first degree of right toe(s) (nail), subs encntr
+T25.131S@Burn of first degree of right toe(s) (nail), sequela
+T25.132A@Burn of first degree of left toe(s) (nail), init encntr
+T25.132D@Burn of first degree of left toe(s) (nail), subs encntr
+T25.132S@Burn of first degree of left toe(s) (nail), sequela
+T25.139A@Burn of first degree of unsp toe(s) (nail), init encntr
+T25.139D@Burn of first degree of unsp toe(s) (nail), subs encntr
+T25.139S@Burn of first degree of unspecified toe(s) (nail), sequela
+T25.191A@Burn of first deg mult sites of right ankle and foot, init
+T25.191D@Burn of first deg mult sites of right ankle and foot, subs
+T25.191S@Burn of first deg mult sites of right ank/ft, sequela
+T25.192A@Burn of first deg mult sites of left ankle and foot, init
+T25.192D@Burn of first deg mult sites of left ankle and foot, subs
+T25.192S@Burn of first deg mult sites of left ankle and foot, sequela
+T25.199A@Burn of first deg mult sites of unsp ankle and foot, init
+T25.199D@Burn of first deg mult sites of unsp ankle and foot, subs
+T25.199S@Burn of first deg mult sites of unsp ankle and foot, sequela
+T25.211A@Burn of second degree of right ankle, initial encounter
+T25.211D@Burn of second degree of right ankle, subsequent encounter
+T25.211S@Burn of second degree of right ankle, sequela
+T25.212A@Burn of second degree of left ankle, initial encounter
+T25.212D@Burn of second degree of left ankle, subsequent encounter
+T25.212S@Burn of second degree of left ankle, sequela
+T25.219A@Burn of second degree of unspecified ankle, init encntr
+T25.219D@Burn of second degree of unspecified ankle, subs encntr
+T25.219S@Burn of second degree of unspecified ankle, sequela
+T25.221A@Burn of second degree of right foot, initial encounter
+T25.221D@Burn of second degree of right foot, subsequent encounter
+T25.221S@Burn of second degree of right foot, sequela
+T25.222A@Burn of second degree of left foot, initial encounter
+T25.222D@Burn of second degree of left foot, subsequent encounter
+T25.222S@Burn of second degree of left foot, sequela
+T25.229A@Burn of second degree of unspecified foot, initial encounter
+T25.229D@Burn of second degree of unspecified foot, subs encntr
+T25.229S@Burn of second degree of unspecified foot, sequela
+T25.231A@Burn of second degree of right toe(s) (nail), init encntr
+T25.231D@Burn of second degree of right toe(s) (nail), subs encntr
+T25.231S@Burn of second degree of right toe(s) (nail), sequela
+T25.232A@Burn of second degree of left toe(s) (nail), init encntr
+T25.232D@Burn of second degree of left toe(s) (nail), subs encntr
+T25.232S@Burn of second degree of left toe(s) (nail), sequela
+T25.239A@Burn of second degree of unsp toe(s) (nail), init encntr
+T25.239D@Burn of second degree of unsp toe(s) (nail), subs encntr
+T25.239S@Burn of second degree of unspecified toe(s) (nail), sequela
+T25.291A@Burn of 2nd deg mul sites of right ankle and foot, init
+T25.291D@Burn of 2nd deg mul sites of right ankle and foot, subs
+T25.291S@Burn of 2nd deg mul sites of right ankle and foot, sequela
+T25.292A@Burn of 2nd deg mul sites of left ankle and foot, init
+T25.292D@Burn of 2nd deg mul sites of left ankle and foot, subs
+T25.292S@Burn of 2nd deg mul sites of left ankle and foot, sequela
+T25.299A@Burn of 2nd deg mul sites of unsp ankle and foot, init
+T25.299D@Burn of 2nd deg mul sites of unsp ankle and foot, subs
+T25.299S@Burn of 2nd deg mul sites of unsp ankle and foot, sequela
+T25.311A@Burn of third degree of right ankle, initial encounter
+T25.311D@Burn of third degree of right ankle, subsequent encounter
+T25.311S@Burn of third degree of right ankle, sequela
+T25.312A@Burn of third degree of left ankle, initial encounter
+T25.312D@Burn of third degree of left ankle, subsequent encounter
+T25.312S@Burn of third degree of left ankle, sequela
+T25.319A@Burn of third degree of unspecified ankle, initial encounter
+T25.319D@Burn of third degree of unspecified ankle, subs encntr
+T25.319S@Burn of third degree of unspecified ankle, sequela
+T25.321A@Burn of third degree of right foot, initial encounter
+T25.321D@Burn of third degree of right foot, subsequent encounter
+T25.321S@Burn of third degree of right foot, sequela
+T25.322A@Burn of third degree of left foot, initial encounter
+T25.322D@Burn of third degree of left foot, subsequent encounter
+T25.322S@Burn of third degree of left foot, sequela
+T25.329A@Burn of third degree of unspecified foot, initial encounter
+T25.329D@Burn of third degree of unspecified foot, subs encntr
+T25.329S@Burn of third degree of unspecified foot, sequela
+T25.331A@Burn of third degree of right toe(s) (nail), init encntr
+T25.331D@Burn of third degree of right toe(s) (nail), subs encntr
+T25.331S@Burn of third degree of right toe(s) (nail), sequela
+T25.332A@Burn of third degree of left toe(s) (nail), init encntr
+T25.332D@Burn of third degree of left toe(s) (nail), subs encntr
+T25.332S@Burn of third degree of left toe(s) (nail), sequela
+T25.339A@Burn of third degree of unsp toe(s) (nail), init encntr
+T25.339D@Burn of third degree of unsp toe(s) (nail), subs encntr
+T25.339S@Burn of third degree of unspecified toe(s) (nail), sequela
+T25.391A@Burn of 3rd deg mu sites of right ankle and foot, init
+T25.391D@Burn of 3rd deg mu sites of right ankle and foot, subs
+T25.391S@Burn of 3rd deg mu sites of right ankle and foot, sequela
+T25.392A@Burn of 3rd deg mu sites of left ankle and foot, init
+T25.392D@Burn of 3rd deg mu sites of left ankle and foot, subs
+T25.392S@Burn of 3rd deg mu sites of left ankle and foot, sequela
+T25.399A@Burn of 3rd deg mu sites of unsp ankle and foot, init
+T25.399D@Burn of 3rd deg mu sites of unsp ankle and foot, subs
+T25.399S@Burn of 3rd deg mu sites of unsp ankle and foot, sequela
+T25.411A@Corrosion of unspecified degree of right ankle, init encntr
+T25.411D@Corrosion of unspecified degree of right ankle, subs encntr
+T25.411S@Corrosion of unspecified degree of right ankle, sequela
+T25.412A@Corrosion of unspecified degree of left ankle, init encntr
+T25.412D@Corrosion of unspecified degree of left ankle, subs encntr
+T25.412S@Corrosion of unspecified degree of left ankle, sequela
+T25.419A@Corrosion of unsp degree of unspecified ankle, init encntr
+T25.419D@Corrosion of unsp degree of unspecified ankle, subs encntr
+T25.419S@Corrosion of unsp degree of unspecified ankle, sequela
+T25.421A@Corrosion of unspecified degree of right foot, init encntr
+T25.421D@Corrosion of unspecified degree of right foot, subs encntr
+T25.421S@Corrosion of unspecified degree of right foot, sequela
+T25.422A@Corrosion of unspecified degree of left foot, init encntr
+T25.422D@Corrosion of unspecified degree of left foot, subs encntr
+T25.422S@Corrosion of unspecified degree of left foot, sequela
+T25.429A@Corrosion of unsp degree of unspecified foot, init encntr
+T25.429D@Corrosion of unsp degree of unspecified foot, subs encntr
+T25.429S@Corrosion of unspecified degree of unspecified foot, sequela
+T25.431A@Corrosion of unsp degree of right toe(s) (nail), init encntr
+T25.431D@Corrosion of unsp degree of right toe(s) (nail), subs encntr
+T25.431S@Corrosion of unsp degree of right toe(s) (nail), sequela
+T25.432A@Corrosion of unsp degree of left toe(s) (nail), init encntr
+T25.432D@Corrosion of unsp degree of left toe(s) (nail), subs encntr
+T25.432S@Corrosion of unsp degree of left toe(s) (nail), sequela
+T25.439A@Corrosion of unsp degree of unsp toe(s) (nail), init encntr
+T25.439D@Corrosion of unsp degree of unsp toe(s) (nail), subs encntr
+T25.439S@Corrosion of unsp degree of unsp toe(s) (nail), sequela
+T25.491A@Corrosion of unsp deg mult sites of right ank/ft, init
+T25.491D@Corrosion of unsp deg mult sites of right ank/ft, subs
+T25.491S@Corrosion of unsp deg mult sites of right ank/ft, sequela
+T25.492A@Corrosion of unsp deg mult sites of left ank/ft, init
+T25.492D@Corrosion of unsp deg mult sites of left ank/ft, subs
+T25.492S@Corrosion of unsp deg mult sites of left ank/ft, sequela
+T25.499A@Corrosion of unsp deg mult sites of unsp ank/ft, init
+T25.499D@Corrosion of unsp deg mult sites of unsp ank/ft, subs
+T25.499S@Corrosion of unsp deg mult sites of unsp ank/ft, sequela
+T25.511A@Corrosion of first degree of right ankle, initial encounter
+T25.511D@Corrosion of first degree of right ankle, subs encntr
+T25.511S@Corrosion of first degree of right ankle, sequela
+T25.512A@Corrosion of first degree of left ankle, initial encounter
+T25.512D@Corrosion of first degree of left ankle, subs encntr
+T25.512S@Corrosion of first degree of left ankle, sequela
+T25.519A@Corrosion of first degree of unspecified ankle, init encntr
+T25.519D@Corrosion of first degree of unspecified ankle, subs encntr
+T25.519S@Corrosion of first degree of unspecified ankle, sequela
+T25.521A@Corrosion of first degree of right foot, initial encounter
+T25.521D@Corrosion of first degree of right foot, subs encntr
+T25.521S@Corrosion of first degree of right foot, sequela
+T25.522A@Corrosion of first degree of left foot, initial encounter
+T25.522D@Corrosion of first degree of left foot, subsequent encounter
+T25.522S@Corrosion of first degree of left foot, sequela
+T25.529A@Corrosion of first degree of unspecified foot, init encntr
+T25.529D@Corrosion of first degree of unspecified foot, subs encntr
+T25.529S@Corrosion of first degree of unspecified foot, sequela
+T25.531A@Corrosion of first degree of right toe(s) (nail), init
+T25.531D@Corrosion of first degree of right toe(s) (nail), subs
+T25.531S@Corrosion of first degree of right toe(s) (nail), sequela
+T25.532A@Corrosion of first degree of left toe(s) (nail), init encntr
+T25.532D@Corrosion of first degree of left toe(s) (nail), subs encntr
+T25.532S@Corrosion of first degree of left toe(s) (nail), sequela
+T25.539A@Corrosion of first degree of unsp toe(s) (nail), init encntr
+T25.539D@Corrosion of first degree of unsp toe(s) (nail), subs encntr
+T25.539S@Corrosion of first degree of unsp toe(s) (nail), sequela
+T25.591A@Corrosion of first deg mult sites of right ank/ft, init
+T25.591D@Corrosion of first deg mult sites of right ank/ft, subs
+T25.591S@Corrosion of first deg mult sites of right ank/ft, sequela
+T25.592A@Corrosion of first deg mult sites of left ank/ft, init
+T25.592D@Corrosion of first deg mult sites of left ank/ft, subs
+T25.592S@Corrosion of first deg mult sites of left ank/ft, sequela
+T25.599A@Corrosion of first deg mult sites of unsp ank/ft, init
+T25.599D@Corrosion of first deg mult sites of unsp ank/ft, subs
+T25.599S@Corrosion of first deg mult sites of unsp ank/ft, sequela
+T25.611A@Corrosion of second degree of right ankle, initial encounter
+T25.611D@Corrosion of second degree of right ankle, subs encntr
+T25.611S@Corrosion of second degree of right ankle, sequela
+T25.612A@Corrosion of second degree of left ankle, initial encounter
+T25.612D@Corrosion of second degree of left ankle, subs encntr
+T25.612S@Corrosion of second degree of left ankle, sequela
+T25.619A@Corrosion of second degree of unspecified ankle, init encntr
+T25.619D@Corrosion of second degree of unspecified ankle, subs encntr
+T25.619S@Corrosion of second degree of unspecified ankle, sequela
+T25.621A@Corrosion of second degree of right foot, initial encounter
+T25.621D@Corrosion of second degree of right foot, subs encntr
+T25.621S@Corrosion of second degree of right foot, sequela
+T25.622A@Corrosion of second degree of left foot, initial encounter
+T25.622D@Corrosion of second degree of left foot, subs encntr
+T25.622S@Corrosion of second degree of left foot, sequela
+T25.629A@Corrosion of second degree of unspecified foot, init encntr
+T25.629D@Corrosion of second degree of unspecified foot, subs encntr
+T25.629S@Corrosion of second degree of unspecified foot, sequela
+T25.631A@Corrosion of second degree of right toe(s) (nail), init
+T25.631D@Corrosion of second degree of right toe(s) (nail), subs
+T25.631S@Corrosion of second degree of right toe(s) (nail), sequela
+T25.632A@Corrosion of second degree of left toe(s) (nail), init
+T25.632D@Corrosion of second degree of left toe(s) (nail), subs
+T25.632S@Corrosion of second degree of left toe(s) (nail), sequela
+T25.639A@Corrosion of second degree of unsp toe(s) (nail), init
+T25.639D@Corrosion of second degree of unsp toe(s) (nail), subs
+T25.639S@Corrosion of second degree of unsp toe(s) (nail), sequela
+T25.691A@Corrosion of second degree of right ankle and foot, init
+T25.691D@Corrosion of second degree of right ankle and foot, subs
+T25.691S@Corrosion of second degree of right ankle and foot, sequela
+T25.692A@Corrosion of second degree of left ankle and foot, init
+T25.692D@Corrosion of second degree of left ankle and foot, subs
+T25.692S@Corrosion of second degree of left ankle and foot, sequela
+T25.699A@Corrosion of second degree of unsp ankle and foot, init
+T25.699D@Corrosion of second degree of unsp ankle and foot, subs
+T25.699S@Corrosion of second degree of unsp ankle and foot, sequela
+T25.711A@Corrosion of third degree of right ankle, initial encounter
+T25.711D@Corrosion of third degree of right ankle, subs encntr
+T25.711S@Corrosion of third degree of right ankle, sequela
+T25.712A@Corrosion of third degree of left ankle, initial encounter
+T25.712D@Corrosion of third degree of left ankle, subs encntr
+T25.712S@Corrosion of third degree of left ankle, sequela
+T25.719A@Corrosion of third degree of unspecified ankle, init encntr
+T25.719D@Corrosion of third degree of unspecified ankle, subs encntr
+T25.719S@Corrosion of third degree of unspecified ankle, sequela
+T25.721A@Corrosion of third degree of right foot, initial encounter
+T25.721D@Corrosion of third degree of right foot, subs encntr
+T25.721S@Corrosion of third degree of right foot, sequela
+T25.722A@Corrosion of third degree of left foot, initial encounter
+T25.722D@Corrosion of third degree of left foot, subsequent encounter
+T25.722S@Corrosion of third degree of left foot, sequela
+T25.729A@Corrosion of third degree of unspecified foot, init encntr
+T25.729D@Corrosion of third degree of unspecified foot, subs encntr
+T25.729S@Corrosion of third degree of unspecified foot, sequela
+T25.731A@Corrosion of third degree of right toe(s) (nail), init
+T25.731D@Corrosion of third degree of right toe(s) (nail), subs
+T25.731S@Corrosion of third degree of right toe(s) (nail), sequela
+T25.732A@Corrosion of third degree of left toe(s) (nail), init encntr
+T25.732D@Corrosion of third degree of left toe(s) (nail), subs encntr
+T25.732S@Corrosion of third degree of left toe(s) (nail), sequela
+T25.739A@Corrosion of third degree of unsp toe(s) (nail), init encntr
+T25.739D@Corrosion of third degree of unsp toe(s) (nail), subs encntr
+T25.739S@Corrosion of third degree of unsp toe(s) (nail), sequela
+T25.791A@Corrosion of 3rd deg mu sites of right ankle and foot, init
+T25.791D@Corrosion of 3rd deg mu sites of right ankle and foot, subs
+T25.791S@Corrosion of 3rd deg mu sites of right ank/ft, sequela
+T25.792A@Corrosion of 3rd deg mu sites of left ankle and foot, init
+T25.792D@Corrosion of 3rd deg mu sites of left ankle and foot, subs
+T25.792S@Corrosion of 3rd deg mu sites of left ank/ft, sequela
+T25.799A@Corrosion of 3rd deg mu sites of unsp ankle and foot, init
+T25.799D@Corrosion of 3rd deg mu sites of unsp ankle and foot, subs
+T25.799S@Corrosion of 3rd deg mu sites of unsp ank/ft, sequela

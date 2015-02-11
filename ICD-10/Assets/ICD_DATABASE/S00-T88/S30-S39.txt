@@ -1,0 +1,2544 @@
+S30.0XXA@Contusion of lower back and pelvis, initial encounter
+S30.0XXD@Contusion of lower back and pelvis, subsequent encounter
+S30.0XXS@Contusion of lower back and pelvis, sequela
+S30.1XXA@Contusion of abdominal wall, initial encounter
+S30.1XXD@Contusion of abdominal wall, subsequent encounter
+S30.1XXS@Contusion of abdominal wall, sequela
+S30.201A@Contusion of unsp external genital organ, male, init encntr
+S30.201D@Contusion of unsp external genital organ, male, subs encntr
+S30.201S@Contusion of unsp external genital organ, male, sequela
+S30.202A@Contusion of unsp external genital organ, female, init
+S30.202D@Contusion of unsp external genital organ, female, subs
+S30.202S@Contusion of unsp external genital organ, female, sequela
+S30.21XA@Contusion of penis, initial encounter
+S30.21XD@Contusion of penis, subsequent encounter
+S30.21XS@Contusion of penis, sequela
+S30.22XA@Contusion of scrotum and testes, initial encounter
+S30.22XD@Contusion of scrotum and testes, subsequent encounter
+S30.22XS@Contusion of scrotum and testes, sequela
+S30.23XA@Contusion of vagina and vulva, initial encounter
+S30.23XD@Contusion of vagina and vulva, subsequent encounter
+S30.23XS@Contusion of vagina and vulva, sequela
+S30.3XXA@Contusion of anus, initial encounter
+S30.3XXD@Contusion of anus, subsequent encounter
+S30.3XXS@Contusion of anus, sequela
+S30.810A@Abrasion of lower back and pelvis, initial encounter
+S30.810D@Abrasion of lower back and pelvis, subsequent encounter
+S30.810S@Abrasion of lower back and pelvis, sequela
+S30.811A@Abrasion of abdominal wall, initial encounter
+S30.811D@Abrasion of abdominal wall, subsequent encounter
+S30.811S@Abrasion of abdominal wall, sequela
+S30.812A@Abrasion of penis, initial encounter
+S30.812D@Abrasion of penis, subsequent encounter
+S30.812S@Abrasion of penis, sequela
+S30.813A@Abrasion of scrotum and testes, initial encounter
+S30.813D@Abrasion of scrotum and testes, subsequent encounter
+S30.813S@Abrasion of scrotum and testes, sequela
+S30.814A@Abrasion of vagina and vulva, initial encounter
+S30.814D@Abrasion of vagina and vulva, subsequent encounter
+S30.814S@Abrasion of vagina and vulva, sequela
+S30.815A@Abrasion of unsp external genital organs, male, init encntr
+S30.815D@Abrasion of unsp external genital organs, male, subs encntr
+S30.815S@Abrasion of unsp external genital organs, male, sequela
+S30.816A@Abrasion of unsp external genital organs, female, init
+S30.816D@Abrasion of unsp external genital organs, female, subs
+S30.816S@Abrasion of unsp external genital organs, female, sequela
+S30.817A@Abrasion of anus, initial encounter
+S30.817D@Abrasion of anus, subsequent encounter
+S30.817S@Abrasion of anus, sequela
+S30.820A@Blister (nonthermal) of lower back and pelvis, init encntr
+S30.820D@Blister (nonthermal) of lower back and pelvis, subs encntr
+S30.820S@Blister (nonthermal) of lower back and pelvis, sequela
+S30.821A@Blister (nonthermal) of abdominal wall, initial encounter
+S30.821D@Blister (nonthermal) of abdominal wall, subsequent encounter
+S30.821S@Blister (nonthermal) of abdominal wall, sequela
+S30.822A@Blister (nonthermal) of penis, initial encounter
+S30.822D@Blister (nonthermal) of penis, subsequent encounter
+S30.822S@Blister (nonthermal) of penis, sequela
+S30.823A@Blister (nonthermal) of scrotum and testes, init encntr
+S30.823D@Blister (nonthermal) of scrotum and testes, subs encntr
+S30.823S@Blister (nonthermal) of scrotum and testes, sequela
+S30.824A@Blister (nonthermal) of vagina and vulva, initial encounter
+S30.824D@Blister (nonthermal) of vagina and vulva, subs encntr
+S30.824S@Blister (nonthermal) of vagina and vulva, sequela
+S30.825A@Blister of unsp external genital organs, male, init
+S30.825D@Blister of unsp external genital organs, male, subs
+S30.825S@Blister of unsp external genital organs, male, sequela
+S30.826A@Blister of unsp external genital organs, female, init
+S30.826D@Blister of unsp external genital organs, female, subs
+S30.826S@Blister of unsp external genital organs, female, sequela
+S30.827A@Blister (nonthermal) of anus, initial encounter
+S30.827D@Blister (nonthermal) of anus, subsequent encounter
+S30.827S@Blister (nonthermal) of anus, sequela
+S30.840A@External constriction of lower back and pelvis, init encntr
+S30.840D@External constriction of lower back and pelvis, subs encntr
+S30.840S@External constriction of lower back and pelvis, sequela
+S30.841A@External constriction of abdominal wall, initial encounter
+S30.841D@External constriction of abdominal wall, subs encntr
+S30.841S@External constriction of abdominal wall, sequela
+S30.842A@External constriction of penis, initial encounter
+S30.842D@External constriction of penis, subsequent encounter
+S30.842S@External constriction of penis, sequela
+S30.843A@External constriction of scrotum and testes, init encntr
+S30.843D@External constriction of scrotum and testes, subs encntr
+S30.843S@External constriction of scrotum and testes, sequela
+S30.844A@External constriction of vagina and vulva, initial encounter
+S30.844D@External constriction of vagina and vulva, subs encntr
+S30.844S@External constriction of vagina and vulva, sequela
+S30.845A@Extrn constrict of unsp external genital organs, male, init
+S30.845D@Extrn constrict of unsp external genital organs, male, subs
+S30.845S@Extrn constrict of unsp extrn genital organs, male, sequela
+S30.846A@Extrn constrict of unsp extrn genital organs, female, init
+S30.846D@Extrn constrict of unsp extrn genital organs, female, subs
+S30.846S@Extrn constrict of unsp extrn gntl organs, female, sequela
+S30.850A@Superficial foreign body of lower back and pelvis, init
+S30.850D@Superficial foreign body of lower back and pelvis, subs
+S30.850S@Superficial foreign body of lower back and pelvis, sequela
+S30.851A@Superficial foreign body of abdominal wall, init encntr
+S30.851D@Superficial foreign body of abdominal wall, subs encntr
+S30.851S@Superficial foreign body of abdominal wall, sequela
+S30.852A@Superficial foreign body of penis, initial encounter
+S30.852D@Superficial foreign body of penis, subsequent encounter
+S30.852S@Superficial foreign body of penis, sequela
+S30.853A@Superficial foreign body of scrotum and testes, init encntr
+S30.853D@Superficial foreign body of scrotum and testes, subs encntr
+S30.853S@Superficial foreign body of scrotum and testes, sequela
+S30.854A@Superficial foreign body of vagina and vulva, init encntr
+S30.854D@Superficial foreign body of vagina and vulva, subs encntr
+S30.854S@Superficial foreign body of vagina and vulva, sequela
+S30.855A@Superficial fb of unsp external genital organs, male, init
+S30.855D@Superficial fb of unsp external genital organs, male, subs
+S30.855S@Superfic fb of unsp external genital organs, male, sequela
+S30.856A@Superficial fb of unsp external genital organs, female, init
+S30.856D@Superficial fb of unsp external genital organs, female, subs
+S30.856S@Superfic fb of unsp external genital organs, female, sequela
+S30.857A@Superficial foreign body of anus, initial encounter
+S30.857D@Superficial foreign body of anus, subsequent encounter
+S30.857S@Superficial foreign body of anus, sequela
+S30.860A@Insect bite (nonvenomous) of lower back and pelvis, init
+S30.860D@Insect bite (nonvenomous) of lower back and pelvis, subs
+S30.860S@Insect bite (nonvenomous) of lower back and pelvis, sequela
+S30.861A@Insect bite (nonvenomous) of abdominal wall, init encntr
+S30.861D@Insect bite (nonvenomous) of abdominal wall, subs encntr
+S30.861S@Insect bite (nonvenomous) of abdominal wall, sequela
+S30.862A@Insect bite (nonvenomous) of penis, initial encounter
+S30.862D@Insect bite (nonvenomous) of penis, subsequent encounter
+S30.862S@Insect bite (nonvenomous) of penis, sequela
+S30.863A@Insect bite (nonvenomous) of scrotum and testes, init encntr
+S30.863D@Insect bite (nonvenomous) of scrotum and testes, subs encntr
+S30.863S@Insect bite (nonvenomous) of scrotum and testes, sequela
+S30.864A@Insect bite (nonvenomous) of vagina and vulva, init encntr
+S30.864D@Insect bite (nonvenomous) of vagina and vulva, subs encntr
+S30.864S@Insect bite (nonvenomous) of vagina and vulva, sequela
+S30.865A@Insect bite of unsp external genital organs, male, init
+S30.865D@Insect bite of unsp external genital organs, male, subs
+S30.865S@Insect bite of unsp external genital organs, male, sequela
+S30.866A@Insect bite of unsp external genital organs, female, init
+S30.866D@Insect bite of unsp external genital organs, female, subs
+S30.866S@Insect bite of unsp external genital organs, female, sequela
+S30.867A@Insect bite (nonvenomous) of anus, initial encounter
+S30.867D@Insect bite (nonvenomous) of anus, subsequent encounter
+S30.867S@Insect bite (nonvenomous) of anus, sequela
+S30.870A@Other superficial bite of lower back and pelvis, init encntr
+S30.870D@Other superficial bite of lower back and pelvis, subs encntr
+S30.870S@Other superficial bite of lower back and pelvis, sequela
+S30.871A@Other superficial bite of abdominal wall, initial encounter
+S30.871D@Other superficial bite of abdominal wall, subs encntr
+S30.871S@Other superficial bite of abdominal wall, sequela
+S30.872A@Other superficial bite of penis, initial encounter
+S30.872D@Other superficial bite of penis, subsequent encounter
+S30.872S@Other superficial bite of penis, sequela
+S30.873A@Other superficial bite of scrotum and testes, init encntr
+S30.873D@Other superficial bite of scrotum and testes, subs encntr
+S30.873S@Other superficial bite of scrotum and testes, sequela
+S30.874A@Other superficial bite of vagina and vulva, init encntr
+S30.874D@Other superficial bite of vagina and vulva, subs encntr
+S30.874S@Other superficial bite of vagina and vulva, sequela
+S30.875A@Oth superfic bite of unsp extrn genital organs, male, init
+S30.875D@Oth superfic bite of unsp extrn genital organs, male, subs
+S30.875S@Oth superfic bite of unsp extrn gntl organs, male, sequela
+S30.876A@Oth superfic bite of unsp extrn genital organs, female, init
+S30.876D@Oth superfic bite of unsp extrn genital organs, female, subs
+S30.876S@Oth superfic bite of unsp extrn gntl organs, female, sequela
+S30.877A@Other superficial bite of anus, initial encounter
+S30.877D@Other superficial bite of anus, subsequent encounter
+S30.877S@Other superficial bite of anus, sequela
+S30.91XA@Unsp superficial injury of lower back and pelvis, init
+S30.91XD@Unsp superficial injury of lower back and pelvis, subs
+S30.91XS@Unsp superficial injury of lower back and pelvis, sequela
+S30.92XA@Unsp superficial injury of abdominal wall, init encntr
+S30.92XD@Unsp superficial injury of abdominal wall, subs encntr
+S30.92XS@Unspecified superficial injury of abdominal wall, sequela
+S30.93XA@Unspecified superficial injury of penis, initial encounter
+S30.93XD@Unspecified superficial injury of penis, subs encntr
+S30.93XS@Unspecified superficial injury of penis, sequela
+S30.94XA@Unsp superficial injury of scrotum and testes, init encntr
+S30.94XD@Unsp superficial injury of scrotum and testes, subs encntr
+S30.94XS@Unsp superficial injury of scrotum and testes, sequela
+S30.95XA@Unsp superficial injury of vagina and vulva, init encntr
+S30.95XD@Unsp superficial injury of vagina and vulva, subs encntr
+S30.95XS@Unspecified superficial injury of vagina and vulva, sequela
+S30.96XA@Unsp superfic inj unsp external genital organs, male, init
+S30.96XD@Unsp superfic inj unsp external genital organs, male, subs
+S30.96XS@Unsp superfic inj unsp extrn genital organs, male, sequela
+S30.97XA@Unsp superfic inj unsp external genital organs, female, init
+S30.97XD@Unsp superfic inj unsp external genital organs, female, subs
+S30.97XS@Unsp superfic inj unsp extrn genital organs, female, sequela
+S30.98XA@Unspecified superficial injury of anus, initial encounter
+S30.98XD@Unspecified superficial injury of anus, subsequent encounter
+S30.98XS@Unspecified superficial injury of anus, sequela
+S31.000A@Unsp opn wnd low back and pelv w/o penet retroperiton, init
+S31.000D@Unsp opn wnd low back and pelv w/o penet retroperiton, subs
+S31.000S@Unsp opn wnd low back and pelv w/o penet retroperiton, sqla
+S31.001A@Unsp opn wnd low back and pelvis w penet retroperiton, init
+S31.001D@Unsp opn wnd low back and pelvis w penet retroperiton, subs
+S31.001S@Unsp opn wnd low back and pelvis w penet retroperiton, sqla
+S31.010A@Lac w/o fb of low back and pelv w/o penet retroperiton, init
+S31.010D@Lac w/o fb of low back and pelv w/o penet retroperiton, subs
+S31.010S@Lac w/o fb of low back and pelv w/o penet retroperiton, sqla
+S31.011A@Lac w/o fb of low back and pelvis w penet retroperiton, init
+S31.011D@Lac w/o fb of low back and pelvis w penet retroperiton, subs
+S31.011S@Lac w/o fb of low back and pelvis w penet retroperiton, sqla
+S31.020A@Lac w fb of low back and pelvis w/o penet retroperiton, init
+S31.020D@Lac w fb of low back and pelvis w/o penet retroperiton, subs
+S31.020S@Lac w fb of low back and pelvis w/o penet retroperiton, sqla
+S31.021A@Lac w fb of lower back and pelvis w penet retroperiton, init
+S31.021D@Lac w fb of lower back and pelvis w penet retroperiton, subs
+S31.021S@Lac w fb of low back and pelvis w penet retroperiton, sqla
+S31.030A@Pnctr w/o fb of low back & pelv w/o penet retroperiton, init
+S31.030D@Pnctr w/o fb of low back & pelv w/o penet retroperiton, subs
+S31.030S@Pnctr w/o fb of low back & pelv w/o penet retroperiton, sqla
+S31.031A@Pnctr w/o fb of low back and pelv w penet retroperiton, init
+S31.031D@Pnctr w/o fb of low back and pelv w penet retroperiton, subs
+S31.031S@Pnctr w/o fb of low back and pelv w penet retroperiton, sqla
+S31.040A@Pnctr w fb of low back and pelv w/o penet retroperiton, init
+S31.040D@Pnctr w fb of low back and pelv w/o penet retroperiton, subs
+S31.040S@Pnctr w fb of low back and pelv w/o penet retroperiton, sqla
+S31.041A@Pnctr w fb of low back and pelvis w penet retroperiton, init
+S31.041D@Pnctr w fb of low back and pelvis w penet retroperiton, subs
+S31.041S@Pnctr w fb of low back and pelvis w penet retroperiton, sqla
+S31.050A@Open bite of low back and pelv w/o penet retroperiton, init
+S31.050D@Open bite of low back and pelv w/o penet retroperiton, subs
+S31.050S@Open bite of low back and pelv w/o penet retroperiton, sqla
+S31.051A@Open bite of low back and pelvis w penet retroperiton, init
+S31.051D@Open bite of low back and pelvis w penet retroperiton, subs
+S31.051S@Open bite of low back and pelvis w penet retroperiton, sqla
+S31.100A@Unsp opn wnd abd wall, r upper q w/o penet perit cav, init
+S31.100D@Unsp opn wnd abd wall, r upper q w/o penet perit cav, subs
+S31.100S@Unsp opn wnd abd wall, r upper q w/o penet perit cav, sqla
+S31.101A@Unsp opn wnd abd wall, l upr q w/o penet perit cav, init
+S31.101D@Unsp opn wnd abd wall, l upr q w/o penet perit cav, subs
+S31.101S@Unsp opn wnd abd wall, l upr q w/o penet perit cav, sequela
+S31.102A@Unsp opn wnd abd wall, epigst rgn w/o penet perit cav, init
+S31.102D@Unsp opn wnd abd wall, epigst rgn w/o penet perit cav, subs
+S31.102S@Unsp opn wnd abd wall, epigst rgn w/o penet perit cav, sqla
+S31.103A@Unsp opn wnd abd wall, right low q w/o penet perit cav, init
+S31.103D@Unsp opn wnd abd wall, right low q w/o penet perit cav, subs
+S31.103S@Unsp opn wnd abd wall, right low q w/o penet perit cav, sqla
+S31.104A@Unsp opn wnd abd wall, left low q w/o penet perit cav, init
+S31.104D@Unsp opn wnd abd wall, left low q w/o penet perit cav, subs
+S31.104S@Unsp opn wnd abd wall, left low q w/o penet perit cav, sqla
+S31.105A@Unsp opn wnd abd wall, periumb rgn w/o penet perit cav, init
+S31.105D@Unsp opn wnd abd wall, periumb rgn w/o penet perit cav, subs
+S31.105S@Unsp opn wnd abd wall, periumb rgn w/o penet perit cav, sqla
+S31.109A@Unsp opn wnd abd wall, unsp q w/o penet perit cav, init
+S31.109D@Unsp opn wnd abd wall, unsp q w/o penet perit cav, subs
+S31.109S@Unsp opn wnd abd wall, unsp q w/o penet perit cav, sequela
+S31.110A@Lac w/o fb of abd wall, r upper q w/o penet perit cav, init
+S31.110D@Lac w/o fb of abd wall, r upper q w/o penet perit cav, subs
+S31.110S@Lac w/o fb of abd wall, r upper q w/o penet perit cav, sqla
+S31.111A@Lac w/o fb of abd wall, l upr q w/o penet perit cav, init
+S31.111D@Lac w/o fb of abd wall, l upr q w/o penet perit cav, subs
+S31.111S@Lac w/o fb of abd wall, l upr q w/o penet perit cav, sequela
+S31.112A@Lac w/o fb of abd wall, epigst rgn w/o penet perit cav, init
+S31.112D@Lac w/o fb of abd wall, epigst rgn w/o penet perit cav, subs
+S31.112S@Lac w/o fb of abd wall, epigst rgn w/o penet perit cav, sqla
+S31.113A@Lac w/o fb of abd wall, r low q w/o penet perit cav, init
+S31.113D@Lac w/o fb of abd wall, r low q w/o penet perit cav, subs
+S31.113S@Lac w/o fb of abd wall, r low q w/o penet perit cav, sqla
+S31.114A@Lac w/o fb of abd wall, left low q w/o penet perit cav, init
+S31.114D@Lac w/o fb of abd wall, left low q w/o penet perit cav, subs
+S31.114S@Lac w/o fb of abd wall, left low q w/o penet perit cav, sqla
+S31.115A@Lac w/o fb of abd wl, periumb rgn w/o penet perit cav, init
+S31.115D@Lac w/o fb of abd wl, periumb rgn w/o penet perit cav, subs
+S31.115S@Lac w/o fb of abd wl, periumb rgn w/o penet perit cav, sqla
+S31.119A@Lac w/o fb of abd wall, unsp q w/o penet perit cav, init
+S31.119D@Lac w/o fb of abd wall, unsp q w/o penet perit cav, subs
+S31.119S@Lac w/o fb of abd wall, unsp q w/o penet perit cav, sequela
+S31.120A@Lacerat abd wall w fb, r upper q w/o penet perit cav, init
+S31.120D@Lacerat abd wall w fb, r upper q w/o penet perit cav, subs
+S31.120S@Lacerat abd wall w fb, r upper q w/o penet perit cav, sqla
+S31.121A@Lacerat abd wall w fb, l upr q w/o penet perit cav, init
+S31.121D@Lacerat abd wall w fb, l upr q w/o penet perit cav, subs
+S31.121S@Lacerat abd wall w fb, l upr q w/o penet perit cav, sequela
+S31.122A@Lacerat abd wall w fb, epigst rgn w/o penet perit cav, init
+S31.122D@Lacerat abd wall w fb, epigst rgn w/o penet perit cav, subs
+S31.122S@Lacerat abd wall w fb, epigst rgn w/o penet perit cav, sqla
+S31.123A@Lacerat abd wall w fb, right low q w/o penet perit cav, init
+S31.123D@Lacerat abd wall w fb, right low q w/o penet perit cav, subs
+S31.123S@Lacerat abd wall w fb, right low q w/o penet perit cav, sqla
+S31.124A@Lacerat abd wall w fb, left low q w/o penet perit cav, init
+S31.124D@Lacerat abd wall w fb, left low q w/o penet perit cav, subs
+S31.124S@Lacerat abd wall w fb, left low q w/o penet perit cav, sqla
+S31.125A@Lacerat abd wall w fb, periumb rgn w/o penet perit cav, init
+S31.125D@Lacerat abd wall w fb, periumb rgn w/o penet perit cav, subs
+S31.125S@Lacerat abd wall w fb, periumb rgn w/o penet perit cav, sqla
+S31.129A@Lacerat abd wall w fb, unsp q w/o penet perit cav, init
+S31.129D@Lacerat abd wall w fb, unsp q w/o penet perit cav, subs
+S31.129S@Lacerat abd wall w fb, unsp q w/o penet perit cav, sequela
+S31.130A@Pnctr of abd wall w/o fb, r upr q w/o penet perit cav, init
+S31.130D@Pnctr of abd wall w/o fb, r upr q w/o penet perit cav, subs
+S31.130S@Pnctr of abd wall w/o fb, r upr q w/o penet perit cav, sqla
+S31.131A@Pnctr of abd wall w/o fb, l upr q w/o penet perit cav, init
+S31.131D@Pnctr of abd wall w/o fb, l upr q w/o penet perit cav, subs
+S31.131S@Pnctr of abd wall w/o fb, l upr q w/o penet perit cav, sqla
+S31.132A@Pnctr of abd wl w/o fb, epigst rgn w/o penet perit cav, init
+S31.132D@Pnctr of abd wl w/o fb, epigst rgn w/o penet perit cav, subs
+S31.132S@Pnctr of abd wl w/o fb, epigst rgn w/o penet perit cav, sqla
+S31.133A@Pnctr of abd wall w/o fb, r low q w/o penet perit cav, init
+S31.133D@Pnctr of abd wall w/o fb, r low q w/o penet perit cav, subs
+S31.133S@Pnctr of abd wall w/o fb, r low q w/o penet perit cav, sqla
+S31.134A@Pnctr of abd wall w/o fb, l low q w/o penet perit cav, init
+S31.134D@Pnctr of abd wall w/o fb, l low q w/o penet perit cav, subs
+S31.134S@Pnctr of abd wall w/o fb, l low q w/o penet perit cav, sqla
+S31.135A@Pnctr of abd wl w/o fb,periumb rgn w/o penet perit cav, init
+S31.135D@Pnctr of abd wl w/o fb,periumb rgn w/o penet perit cav, subs
+S31.135S@Pnctr of abd wl w/o fb,periumb rgn w/o penet perit cav, sqla
+S31.139A@Pnctr of abd wall w/o fb, unsp q w/o penet perit cav, init
+S31.139D@Pnctr of abd wall w/o fb, unsp q w/o penet perit cav, subs
+S31.139S@Pnctr of abd wall w/o fb, unsp q w/o penet perit cav, sqla
+S31.140A@Pnctr of abd wall w fb, r upper q w/o penet perit cav, init
+S31.140D@Pnctr of abd wall w fb, r upper q w/o penet perit cav, subs
+S31.140S@Pnctr of abd wall w fb, r upper q w/o penet perit cav, sqla
+S31.141A@Pnctr of abd wall w fb, l upr q w/o penet perit cav, init
+S31.141D@Pnctr of abd wall w fb, l upr q w/o penet perit cav, subs
+S31.141S@Pnctr of abd wall w fb, l upr q w/o penet perit cav, sequela
+S31.142A@Pnctr of abd wall w fb, epigst rgn w/o penet perit cav, init
+S31.142D@Pnctr of abd wall w fb, epigst rgn w/o penet perit cav, subs
+S31.142S@Pnctr of abd wall w fb, epigst rgn w/o penet perit cav, sqla
+S31.143A@Pnctr of abd wall w fb, r low q w/o penet perit cav, init
+S31.143D@Pnctr of abd wall w fb, r low q w/o penet perit cav, subs
+S31.143S@Pnctr of abd wall w fb, r low q w/o penet perit cav, sqla
+S31.144A@Pnctr of abd wall w fb, left low q w/o penet perit cav, init
+S31.144D@Pnctr of abd wall w fb, left low q w/o penet perit cav, subs
+S31.144S@Pnctr of abd wall w fb, left low q w/o penet perit cav, sqla
+S31.145A@Pnctr of abd wl w fb, periumb rgn w/o penet perit cav, init
+S31.145D@Pnctr of abd wl w fb, periumb rgn w/o penet perit cav, subs
+S31.145S@Pnctr of abd wl w fb, periumb rgn w/o penet perit cav, sqla
+S31.149A@Pnctr of abd wall w fb, unsp q w/o penet perit cav, init
+S31.149D@Pnctr of abd wall w fb, unsp q w/o penet perit cav, subs
+S31.149S@Pnctr of abd wall w fb, unsp q w/o penet perit cav, sequela
+S31.150A@Open bite of abd wall, r upper q w/o penet perit cav, init
+S31.150D@Open bite of abd wall, r upper q w/o penet perit cav, subs
+S31.150S@Open bite of abd wall, r upper q w/o penet perit cav, sqla
+S31.151A@Open bite of abd wall, l upr q w/o penet perit cav, init
+S31.151D@Open bite of abd wall, l upr q w/o penet perit cav, subs
+S31.151S@Open bite of abd wall, l upr q w/o penet perit cav, sequela
+S31.152A@Open bite of abd wall, epigst rgn w/o penet perit cav, init
+S31.152D@Open bite of abd wall, epigst rgn w/o penet perit cav, subs
+S31.152S@Open bite of abd wall, epigst rgn w/o penet perit cav, sqla
+S31.153A@Open bite of abd wall, right low q w/o penet perit cav, init
+S31.153D@Open bite of abd wall, right low q w/o penet perit cav, subs
+S31.153S@Open bite of abd wall, right low q w/o penet perit cav, sqla
+S31.154A@Open bite of abd wall, left low q w/o penet perit cav, init
+S31.154D@Open bite of abd wall, left low q w/o penet perit cav, subs
+S31.154S@Open bite of abd wall, left low q w/o penet perit cav, sqla
+S31.155A@Open bite of abd wall, periumb rgn w/o penet perit cav, init
+S31.155D@Open bite of abd wall, periumb rgn w/o penet perit cav, subs
+S31.155S@Open bite of abd wall, periumb rgn w/o penet perit cav, sqla
+S31.159A@Open bite of abd wall, unsp q w/o penet perit cav, init
+S31.159D@Open bite of abd wall, unsp q w/o penet perit cav, subs
+S31.159S@Open bite of abd wall, unsp q w/o penet perit cav, sequela
+S31.20XA@Unspecified open wound of penis, initial encounter
+S31.20XD@Unspecified open wound of penis, subsequent encounter
+S31.20XS@Unspecified open wound of penis, sequela
+S31.21XA@Laceration without foreign body of penis, initial encounter
+S31.21XD@Laceration without foreign body of penis, subs encntr
+S31.21XS@Laceration without foreign body of penis, sequela
+S31.22XA@Laceration with foreign body of penis, initial encounter
+S31.22XD@Laceration with foreign body of penis, subsequent encounter
+S31.22XS@Laceration with foreign body of penis, sequela
+S31.23XA@Puncture wound without foreign body of penis, init encntr
+S31.23XD@Puncture wound without foreign body of penis, subs encntr
+S31.23XS@Puncture wound without foreign body of penis, sequela
+S31.24XA@Puncture wound with foreign body of penis, initial encounter
+S31.24XD@Puncture wound with foreign body of penis, subs encntr
+S31.24XS@Puncture wound with foreign body of penis, sequela
+S31.25XA@Open bite of penis, initial encounter
+S31.25XD@Open bite of penis, subsequent encounter
+S31.25XS@Open bite of penis, sequela
+S31.30XA@Unspecified open wound of scrotum and testes, init encntr
+S31.30XD@Unspecified open wound of scrotum and testes, subs encntr
+S31.30XS@Unspecified open wound of scrotum and testes, sequela
+S31.31XA@Laceration w/o foreign body of scrotum and testes, init
+S31.31XD@Laceration w/o foreign body of scrotum and testes, subs
+S31.31XS@Laceration w/o foreign body of scrotum and testes, sequela
+S31.32XA@Laceration w foreign body of scrotum and testes, init encntr
+S31.32XD@Laceration w foreign body of scrotum and testes, subs encntr
+S31.32XS@Laceration with foreign body of scrotum and testes, sequela
+S31.33XA@Puncture wound w/o foreign body of scrotum and testes, init
+S31.33XD@Puncture wound w/o foreign body of scrotum and testes, subs
+S31.33XS@Pnctr w/o foreign body of scrotum and testes, sequela
+S31.34XA@Puncture wound w foreign body of scrotum and testes, init
+S31.34XD@Puncture wound w foreign body of scrotum and testes, subs
+S31.34XS@Puncture wound w foreign body of scrotum and testes, sequela
+S31.35XA@Open bite of scrotum and testes, initial encounter
+S31.35XD@Open bite of scrotum and testes, subsequent encounter
+S31.35XS@Open bite of scrotum and testes, sequela
+S31.40XA@Unspecified open wound of vagina and vulva, init encntr
+S31.40XD@Unspecified open wound of vagina and vulva, subs encntr
+S31.40XS@Unspecified open wound of vagina and vulva, sequela
+S31.41XA@Laceration w/o foreign body of vagina and vulva, init encntr
+S31.41XD@Laceration w/o foreign body of vagina and vulva, subs encntr
+S31.41XS@Laceration without foreign body of vagina and vulva, sequela
+S31.42XA@Laceration w foreign body of vagina and vulva, init encntr
+S31.42XD@Laceration w foreign body of vagina and vulva, subs encntr
+S31.42XS@Laceration with foreign body of vagina and vulva, sequela
+S31.43XA@Puncture wound w/o foreign body of vagina and vulva, init
+S31.43XD@Puncture wound w/o foreign body of vagina and vulva, subs
+S31.43XS@Puncture wound w/o foreign body of vagina and vulva, sequela
+S31.44XA@Puncture wound w foreign body of vagina and vulva, init
+S31.44XD@Puncture wound w foreign body of vagina and vulva, subs
+S31.44XS@Puncture wound w foreign body of vagina and vulva, sequela
+S31.45XA@Open bite of vagina and vulva, initial encounter
+S31.45XD@Open bite of vagina and vulva, subsequent encounter
+S31.45XS@Open bite of vagina and vulva, sequela
+S31.501A@Unsp open wound of unsp external genital organs, male, init
+S31.501D@Unsp open wound of unsp external genital organs, male, subs
+S31.501S@Unsp opn wnd unsp external genital organs, male, sequela
+S31.502A@Unsp opn wnd unsp external genital organs, female, init
+S31.502D@Unsp opn wnd unsp external genital organs, female, subs
+S31.502S@Unsp opn wnd unsp external genital organs, female, sequela
+S31.511A@Lac w/o fb of unsp external genital organs, male, init
+S31.511D@Lac w/o fb of unsp external genital organs, male, subs
+S31.511S@Lac w/o fb of unsp external genital organs, male, sequela
+S31.512A@Lac w/o fb of unsp external genital organs, female, init
+S31.512D@Lac w/o fb of unsp external genital organs, female, subs
+S31.512S@Lac w/o fb of unsp external genital organs, female, sequela
+S31.521A@Laceration w fb of unsp external genital organs, male, init
+S31.521D@Laceration w fb of unsp external genital organs, male, subs
+S31.521S@Lac w fb of unsp external genital organs, male, sequela
+S31.522A@Lac w fb of unsp external genital organs, female, init
+S31.522D@Lac w fb of unsp external genital organs, female, subs
+S31.522S@Lac w fb of unsp external genital organs, female, sequela
+S31.531A@Pnctr w/o fb of unsp external genital organs, male, init
+S31.531D@Pnctr w/o fb of unsp external genital organs, male, subs
+S31.531S@Pnctr w/o fb of unsp external genital organs, male, sequela
+S31.532A@Pnctr w/o fb of unsp external genital organs, female, init
+S31.532D@Pnctr w/o fb of unsp external genital organs, female, subs
+S31.532S@Pnctr w/o fb of unsp extrn genital organs, female, sequela
+S31.541A@Pnctr w fb of unsp external genital organs, male, init
+S31.541D@Pnctr w fb of unsp external genital organs, male, subs
+S31.541S@Pnctr w fb of unsp external genital organs, male, sequela
+S31.542A@Pnctr w fb of unsp external genital organs, female, init
+S31.542D@Pnctr w fb of unsp external genital organs, female, subs
+S31.542S@Pnctr w fb of unsp external genital organs, female, sequela
+S31.551A@Open bite of unsp external genital organs, male, init encntr
+S31.551D@Open bite of unsp external genital organs, male, subs encntr
+S31.551S@Open bite of unsp external genital organs, male, sequela
+S31.552A@Open bite of unsp external genital organs, female, init
+S31.552D@Open bite of unsp external genital organs, female, subs
+S31.552S@Open bite of unsp external genital organs, female, sequela
+S31.600A@Unsp opn wnd abd wall, right upper q w penet perit cav, init
+S31.600D@Unsp opn wnd abd wall, right upper q w penet perit cav, subs
+S31.600S@Unsp opn wnd abd wall, right upper q w penet perit cav, sqla
+S31.601A@Unsp open wound of abd wall, l upr q w penet perit cav, init
+S31.601D@Unsp open wound of abd wall, l upr q w penet perit cav, subs
+S31.601S@Unsp opn wnd abd wall, l upr q w penet perit cav, sequela
+S31.602A@Unsp opn wnd abd wall, epigst rgn w penet perit cav, init
+S31.602D@Unsp opn wnd abd wall, epigst rgn w penet perit cav, subs
+S31.602S@Unsp opn wnd abd wall, epigst rgn w penet perit cav, sequela
+S31.603A@Unsp opn wnd abd wall, right lower q w penet perit cav, init
+S31.603D@Unsp opn wnd abd wall, right lower q w penet perit cav, subs
+S31.603S@Unsp opn wnd abd wall, right lower q w penet perit cav, sqla
+S31.604A@Unsp opn wnd abd wall, left lower q w penet perit cav, init
+S31.604D@Unsp opn wnd abd wall, left lower q w penet perit cav, subs
+S31.604S@Unsp opn wnd abd wall, left lower q w penet perit cav, sqla
+S31.605A@Unsp opn wnd abd wall, periumb rgn w penet perit cav, init
+S31.605D@Unsp opn wnd abd wall, periumb rgn w penet perit cav, subs
+S31.605S@Unsp opn wnd abd wall, periumb rgn w penet perit cav, sqla
+S31.609A@Unsp opn wnd abd wall, unsp quadrant w penet perit cav, init
+S31.609D@Unsp opn wnd abd wall, unsp quadrant w penet perit cav, subs
+S31.609S@Unsp opn wnd abd wall, unsp q w penet perit cav, sequela
+S31.610A@Lac w/o fb of abd wall, r upper q w penet perit cav, init
+S31.610D@Lac w/o fb of abd wall, r upper q w penet perit cav, subs
+S31.610S@Lac w/o fb of abd wall, r upper q w penet perit cav, sqla
+S31.611A@Lac w/o fb of abd wall, l upr q w penet perit cav, init
+S31.611D@Lac w/o fb of abd wall, l upr q w penet perit cav, subs
+S31.611S@Lac w/o fb of abd wall, l upr q w penet perit cav, sequela
+S31.612A@Lac w/o fb of abd wall, epigst rgn w penet perit cav, init
+S31.612D@Lac w/o fb of abd wall, epigst rgn w penet perit cav, subs
+S31.612S@Lac w/o fb of abd wall, epigst rgn w penet perit cav, sqla
+S31.613A@Lac w/o fb of abd wall, right low q w penet perit cav, init
+S31.613D@Lac w/o fb of abd wall, right low q w penet perit cav, subs
+S31.613S@Lac w/o fb of abd wall, right low q w penet perit cav, sqla
+S31.614A@Lac w/o fb of abd wall, left lower q w penet perit cav, init
+S31.614D@Lac w/o fb of abd wall, left lower q w penet perit cav, subs
+S31.614S@Lac w/o fb of abd wall, left lower q w penet perit cav, sqla
+S31.615A@Lac w/o fb of abd wall, periumb rgn w penet perit cav, init
+S31.615D@Lac w/o fb of abd wall, periumb rgn w penet perit cav, subs
+S31.615S@Lac w/o fb of abd wall, periumb rgn w penet perit cav, sqla
+S31.619A@Lac w/o fb of abd wall, unsp q w penet perit cav, init
+S31.619D@Lac w/o fb of abd wall, unsp q w penet perit cav, subs
+S31.619S@Lac w/o fb of abd wall, unsp q w penet perit cav, sequela
+S31.620A@Lac w fb of abd wall, right upper q w penet perit cav, init
+S31.620D@Lac w fb of abd wall, right upper q w penet perit cav, subs
+S31.620S@Lac w fb of abd wall, right upper q w penet perit cav, sqla
+S31.621A@Laceration w fb of abd wall, l upr q w penet perit cav, init
+S31.621D@Laceration w fb of abd wall, l upr q w penet perit cav, subs
+S31.621S@Lac w fb of abd wall, l upr q w penet perit cav, sequela
+S31.622A@Lac w fb of abd wall, epigst rgn w penet perit cav, init
+S31.622D@Lac w fb of abd wall, epigst rgn w penet perit cav, subs
+S31.622S@Lac w fb of abd wall, epigst rgn w penet perit cav, sequela
+S31.623A@Lac w fb of abd wall, right lower q w penet perit cav, init
+S31.623D@Lac w fb of abd wall, right lower q w penet perit cav, subs
+S31.623S@Lac w fb of abd wall, right lower q w penet perit cav, sqla
+S31.624A@Lac w fb of abd wall, left lower q w penet perit cav, init
+S31.624D@Lac w fb of abd wall, left lower q w penet perit cav, subs
+S31.624S@Lac w fb of abd wall, left lower q w penet perit cav, sqla
+S31.625A@Lac w fb of abd wall, periumb rgn w penet perit cav, init
+S31.625D@Lac w fb of abd wall, periumb rgn w penet perit cav, subs
+S31.625S@Lac w fb of abd wall, periumb rgn w penet perit cav, sequela
+S31.629A@Lac w fb of abd wall, unsp quadrant w penet perit cav, init
+S31.629D@Lac w fb of abd wall, unsp quadrant w penet perit cav, subs
+S31.629S@Lac w fb of abd wall, unsp q w penet perit cav, sequela
+S31.630A@Pnctr w/o fb of abd wall, r upper q w penet perit cav, init
+S31.630D@Pnctr w/o fb of abd wall, r upper q w penet perit cav, subs
+S31.630S@Pnctr w/o fb of abd wall, r upper q w penet perit cav, sqla
+S31.631A@Pnctr w/o fb of abd wall, l upr q w penet perit cav, init
+S31.631D@Pnctr w/o fb of abd wall, l upr q w penet perit cav, subs
+S31.631S@Pnctr w/o fb of abd wall, l upr q w penet perit cav, sequela
+S31.632A@Pnctr w/o fb of abd wall, epigst rgn w penet perit cav, init
+S31.632D@Pnctr w/o fb of abd wall, epigst rgn w penet perit cav, subs
+S31.632S@Pnctr w/o fb of abd wall, epigst rgn w penet perit cav, sqla
+S31.633A@Pnctr w/o fb of abd wall, r low q w penet perit cav, init
+S31.633D@Pnctr w/o fb of abd wall, r low q w penet perit cav, subs
+S31.633S@Pnctr w/o fb of abd wall, r low q w penet perit cav, sqla
+S31.634A@Pnctr w/o fb of abd wall, left low q w penet perit cav, init
+S31.634D@Pnctr w/o fb of abd wall, left low q w penet perit cav, subs
+S31.634S@Pnctr w/o fb of abd wall, left low q w penet perit cav, sqla
+S31.635A@Pnctr w/o fb of abd wl, periumb rgn w penet perit cav, init
+S31.635D@Pnctr w/o fb of abd wl, periumb rgn w penet perit cav, subs
+S31.635S@Pnctr w/o fb of abd wl, periumb rgn w penet perit cav, sqla
+S31.639A@Pnctr w/o fb of abd wall, unsp q w penet perit cav, init
+S31.639D@Pnctr w/o fb of abd wall, unsp q w penet perit cav, subs
+S31.639S@Pnctr w/o fb of abd wall, unsp q w penet perit cav, sequela
+S31.640A@Pnctr w fb of abd wall, r upper q w penet perit cav, init
+S31.640D@Pnctr w fb of abd wall, r upper q w penet perit cav, subs
+S31.640S@Pnctr w fb of abd wall, r upper q w penet perit cav, sqla
+S31.641A@Pnctr w fb of abd wall, l upr q w penet perit cav, init
+S31.641D@Pnctr w fb of abd wall, l upr q w penet perit cav, subs
+S31.641S@Pnctr w fb of abd wall, l upr q w penet perit cav, sequela
+S31.642A@Pnctr w fb of abd wall, epigst rgn w penet perit cav, init
+S31.642D@Pnctr w fb of abd wall, epigst rgn w penet perit cav, subs
+S31.642S@Pnctr w fb of abd wall, epigst rgn w penet perit cav, sqla
+S31.643A@Pnctr w fb of abd wall, right low q w penet perit cav, init
+S31.643D@Pnctr w fb of abd wall, right low q w penet perit cav, subs
+S31.643S@Pnctr w fb of abd wall, right low q w penet perit cav, sqla
+S31.644A@Pnctr w fb of abd wall, left lower q w penet perit cav, init
+S31.644D@Pnctr w fb of abd wall, left lower q w penet perit cav, subs
+S31.644S@Pnctr w fb of abd wall, left lower q w penet perit cav, sqla
+S31.645A@Pnctr w fb of abd wall, periumb rgn w penet perit cav, init
+S31.645D@Pnctr w fb of abd wall, periumb rgn w penet perit cav, subs
+S31.645S@Pnctr w fb of abd wall, periumb rgn w penet perit cav, sqla
+S31.649A@Pnctr w fb of abd wall, unsp q w penet perit cav, init
+S31.649D@Pnctr w fb of abd wall, unsp q w penet perit cav, subs
+S31.649S@Pnctr w fb of abd wall, unsp q w penet perit cav, sequela
+S31.650A@Open bite of abd wall, right upper q w penet perit cav, init
+S31.650D@Open bite of abd wall, right upper q w penet perit cav, subs
+S31.650S@Open bite of abd wall, right upper q w penet perit cav, sqla
+S31.651A@Open bite of abdominal wall, l upr q w penet perit cav, init
+S31.651D@Open bite of abdominal wall, l upr q w penet perit cav, subs
+S31.651S@Open bite of abd wall, l upr q w penet perit cav, sequela
+S31.652A@Open bite of abd wall, epigst rgn w penet perit cav, init
+S31.652D@Open bite of abd wall, epigst rgn w penet perit cav, subs
+S31.652S@Open bite of abd wall, epigst rgn w penet perit cav, sequela
+S31.653A@Open bite of abd wall, right lower q w penet perit cav, init
+S31.653D@Open bite of abd wall, right lower q w penet perit cav, subs
+S31.653S@Open bite of abd wall, right lower q w penet perit cav, sqla
+S31.654A@Open bite of abd wall, left lower q w penet perit cav, init
+S31.654D@Open bite of abd wall, left lower q w penet perit cav, subs
+S31.654S@Open bite of abd wall, left lower q w penet perit cav, sqla
+S31.655A@Open bite of abd wall, periumb rgn w penet perit cav, init
+S31.655D@Open bite of abd wall, periumb rgn w penet perit cav, subs
+S31.655S@Open bite of abd wall, periumb rgn w penet perit cav, sqla
+S31.659A@Open bite of abd wall, unsp quadrant w penet perit cav, init
+S31.659D@Open bite of abd wall, unsp quadrant w penet perit cav, subs
+S31.659S@Open bite of abd wall, unsp q w penet perit cav, sequela
+S31.801A@Laceration without foreign body of unsp buttock, init encntr
+S31.801D@Laceration without foreign body of unsp buttock, subs encntr
+S31.801S@Laceration without foreign body of unsp buttock, sequela
+S31.802A@Laceration with foreign body of unsp buttock, init encntr
+S31.802D@Laceration with foreign body of unsp buttock, subs encntr
+S31.802S@Laceration with foreign body of unspecified buttock, sequela
+S31.803A@Puncture wound w/o foreign body of unsp buttock, init encntr
+S31.803D@Puncture wound w/o foreign body of unsp buttock, subs encntr
+S31.803S@Puncture wound without foreign body of unsp buttock, sequela
+S31.804A@Puncture wound w foreign body of unsp buttock, init encntr
+S31.804D@Puncture wound w foreign body of unsp buttock, subs encntr
+S31.804S@Puncture wound with foreign body of unsp buttock, sequela
+S31.805A@Open bite of unspecified buttock, initial encounter
+S31.805D@Open bite of unspecified buttock, subsequent encounter
+S31.805S@Open bite of unspecified buttock, sequela
+S31.809A@Unspecified open wound of unspecified buttock, init encntr
+S31.809D@Unspecified open wound of unspecified buttock, subs encntr
+S31.809S@Unspecified open wound of unspecified buttock, sequela
+S31.811A@Laceration w/o foreign body of right buttock, init encntr
+S31.811D@Laceration w/o foreign body of right buttock, subs encntr
+S31.811S@Laceration without foreign body of right buttock, sequela
+S31.812A@Laceration with foreign body of right buttock, init encntr
+S31.812D@Laceration with foreign body of right buttock, subs encntr
+S31.812S@Laceration with foreign body of right buttock, sequela
+S31.813A@Puncture wound w/o foreign body of right buttock, init
+S31.813D@Puncture wound w/o foreign body of right buttock, subs
+S31.813S@Puncture wound w/o foreign body of right buttock, sequela
+S31.814A@Puncture wound w foreign body of right buttock, init encntr
+S31.814D@Puncture wound w foreign body of right buttock, subs encntr
+S31.814S@Puncture wound with foreign body of right buttock, sequela
+S31.815A@Open bite of right buttock, initial encounter
+S31.815D@Open bite of right buttock, subsequent encounter
+S31.815S@Open bite of right buttock, sequela
+S31.819A@Unspecified open wound of right buttock, initial encounter
+S31.819D@Unspecified open wound of right buttock, subs encntr
+S31.819S@Unspecified open wound of right buttock, sequela
+S31.821A@Laceration without foreign body of left buttock, init encntr
+S31.821D@Laceration without foreign body of left buttock, subs encntr
+S31.821S@Laceration without foreign body of left buttock, sequela
+S31.822A@Laceration with foreign body of left buttock, init encntr
+S31.822D@Laceration with foreign body of left buttock, subs encntr
+S31.822S@Laceration with foreign body of left buttock, sequela
+S31.823A@Puncture wound w/o foreign body of left buttock, init encntr
+S31.823D@Puncture wound w/o foreign body of left buttock, subs encntr
+S31.823S@Puncture wound without foreign body of left buttock, sequela
+S31.824A@Puncture wound w foreign body of left buttock, init encntr
+S31.824D@Puncture wound w foreign body of left buttock, subs encntr
+S31.824S@Puncture wound with foreign body of left buttock, sequela
+S31.825A@Open bite of left buttock, initial encounter
+S31.825D@Open bite of left buttock, subsequent encounter
+S31.825S@Open bite of left buttock, sequela
+S31.829A@Unspecified open wound of left buttock, initial encounter
+S31.829D@Unspecified open wound of left buttock, subsequent encounter
+S31.829S@Unspecified open wound of left buttock, sequela
+S31.831A@Laceration without foreign body of anus, initial encounter
+S31.831D@Laceration without foreign body of anus, subs encntr
+S31.831S@Laceration without foreign body of anus, sequela
+S31.832A@Laceration with foreign body of anus, initial encounter
+S31.832D@Laceration with foreign body of anus, subsequent encounter
+S31.832S@Laceration with foreign body of anus, sequela
+S31.833A@Puncture wound without foreign body of anus, init encntr
+S31.833D@Puncture wound without foreign body of anus, subs encntr
+S31.833S@Puncture wound without foreign body of anus, sequela
+S31.834A@Puncture wound with foreign body of anus, initial encounter
+S31.834D@Puncture wound with foreign body of anus, subs encntr
+S31.834S@Puncture wound with foreign body of anus, sequela
+S31.835A@Open bite of anus, initial encounter
+S31.835D@Open bite of anus, subsequent encounter
+S31.835S@Open bite of anus, sequela
+S31.839A@Unspecified open wound of anus, initial encounter
+S31.839D@Unspecified open wound of anus, subsequent encounter
+S31.839S@Unspecified open wound of anus, sequela
+S32.000A@Wedge compression fracture of unsp lumbar vertebra, init
+S32.000B@Wedge comprsn fracture of unsp lum vertebra, init for opn fx
+S32.000D@Wedge comprsn fx unsp lum vertebra, subs for fx w routn heal
+S32.000G@Wedge comprsn fx unsp lum vertebra, subs for fx w delay heal
+S32.000K@Wedge comprsn fx unsp lum vertebra, subs for fx w nonunion
+S32.000S@Wedge compression fracture of unsp lumbar vertebra, sequela
+S32.001A@Stable burst fracture of unsp lumbar vertebra, init
+S32.001B@Stable burst fracture of unsp lum vertebra, init for opn fx
+S32.001D@Stable burst fx unsp lum vertebra, subs for fx w routn heal
+S32.001G@Stable burst fx unsp lum vertebra, subs for fx w delay heal
+S32.001K@Stable burst fx unsp lum vertebra, subs for fx w nonunion
+S32.001S@Stable burst fracture of unsp lumbar vertebra, sequela
+S32.002A@Unstable burst fracture of unsp lumbar vertebra, init
+S32.002B@Unstable burst fx unsp lum vertebra, init for opn fx
+S32.002D@Unstbl burst fx unsp lum vertebra, subs for fx w routn heal
+S32.002G@Unstbl burst fx unsp lum vertebra, subs for fx w delay heal
+S32.002K@Unstable burst fx unsp lum vertebra, subs for fx w nonunion
+S32.002S@Unstable burst fracture of unsp lumbar vertebra, sequela
+S32.008A@Oth fracture of unsp lumbar vertebra, init for clos fx
+S32.008B@Oth fracture of unsp lumbar vertebra, init for opn fx
+S32.008D@Oth fracture of unsp lum vertebra, subs for fx w routn heal
+S32.008G@Oth fracture of unsp lum vertebra, subs for fx w delay heal
+S32.008K@Oth fracture of unsp lumbar vertebra, subs for fx w nonunion
+S32.008S@Other fracture of unspecified lumbar vertebra, sequela
+S32.009A@Unsp fracture of unsp lumbar vertebra, init for clos fx
+S32.009B@Unsp fracture of unsp lumbar vertebra, init for opn fx
+S32.009D@Unsp fracture of unsp lum vertebra, subs for fx w routn heal
+S32.009G@Unsp fracture of unsp lum vertebra, subs for fx w delay heal
+S32.009K@Unsp fracture of unsp lum vertebra, subs for fx w nonunion
+S32.009S@Unspecified fracture of unspecified lumbar vertebra, sequela
+S32.010A@Wedge compression fracture of first lumbar vertebra, init
+S32.010B@Wedge comprsn fx first lum vertebra, init for opn fx
+S32.010D@Wedge comprsn fx first lum vert, subs for fx w routn heal
+S32.010G@Wedge comprsn fx first lum vert, subs for fx w delay heal
+S32.010K@Wedge comprsn fx first lum vertebra, subs for fx w nonunion
+S32.010S@Wedge compression fracture of first lumbar vertebra, sequela
+S32.011A@Stable burst fracture of first lumbar vertebra, init
+S32.011B@Stable burst fracture of first lum vertebra, init for opn fx
+S32.011D@Stable burst fx first lum vertebra, subs for fx w routn heal
+S32.011G@Stable burst fx first lum vertebra, subs for fx w delay heal
+S32.011K@Stable burst fx first lum vertebra, subs for fx w nonunion
+S32.011S@Stable burst fracture of first lumbar vertebra, sequela
+S32.012A@Unstable burst fracture of first lumbar vertebra, init
+S32.012B@Unstable burst fx first lum vertebra, init for opn fx
+S32.012D@Unstbl burst fx first lum vertebra, subs for fx w routn heal
+S32.012G@Unstbl burst fx first lum vertebra, subs for fx w delay heal
+S32.012K@Unstable burst fx first lum vertebra, subs for fx w nonunion
+S32.012S@Unstable burst fracture of first lumbar vertebra, sequela
+S32.018A@Oth fracture of first lumbar vertebra, init for clos fx
+S32.018B@Oth fracture of first lumbar vertebra, init for opn fx
+S32.018D@Oth fracture of first lum vertebra, subs for fx w routn heal
+S32.018G@Oth fracture of first lum vertebra, subs for fx w delay heal
+S32.018K@Oth fracture of first lum vertebra, subs for fx w nonunion
+S32.018S@Other fracture of first lumbar vertebra, sequela
+S32.019A@Unsp fracture of first lumbar vertebra, init for clos fx
+S32.019B@Unsp fracture of first lumbar vertebra, init for opn fx
+S32.019D@Unsp fx first lum vertebra, subs for fx w routn heal
+S32.019G@Unsp fx first lum vertebra, subs for fx w delay heal
+S32.019K@Unsp fracture of first lum vertebra, subs for fx w nonunion
+S32.019S@Unspecified fracture of first lumbar vertebra, sequela
+S32.020A@Wedge compression fracture of second lumbar vertebra, init
+S32.020B@Wedge comprsn fx second lum vertebra, init for opn fx
+S32.020D@Wedge comprsn fx second lum vert, subs for fx w routn heal
+S32.020G@Wedge comprsn fx second lum vert, subs for fx w delay heal
+S32.020K@Wedge comprsn fx second lum vertebra, subs for fx w nonunion
+S32.020S@Wedge compression fracture of second lum vertebra, sequela
+S32.021A@Stable burst fracture of second lumbar vertebra, init
+S32.021B@Stable burst fx second lum vertebra, init for opn fx
+S32.021D@Stable burst fx second lum vert, subs for fx w routn heal
+S32.021G@Stable burst fx second lum vert, subs for fx w delay heal
+S32.021K@Stable burst fx second lum vertebra, subs for fx w nonunion
+S32.021S@Stable burst fracture of second lumbar vertebra, sequela
+S32.022A@Unstable burst fracture of second lumbar vertebra, init
+S32.022B@Unstable burst fx second lum vertebra, init for opn fx
+S32.022D@Unstbl burst fx second lum vert, subs for fx w routn heal
+S32.022G@Unstbl burst fx second lum vert, subs for fx w delay heal
+S32.022K@Unstbl burst fx second lum vertebra, subs for fx w nonunion
+S32.022S@Unstable burst fracture of second lumbar vertebra, sequela
+S32.028A@Oth fracture of second lumbar vertebra, init for clos fx
+S32.028B@Oth fracture of second lumbar vertebra, init for opn fx
+S32.028D@Oth fx second lum vertebra, subs for fx w routn heal
+S32.028G@Oth fx second lum vertebra, subs for fx w delay heal
+S32.028K@Oth fracture of second lum vertebra, subs for fx w nonunion
+S32.028S@Other fracture of second lumbar vertebra, sequela
+S32.029A@Unsp fracture of second lumbar vertebra, init for clos fx
+S32.029B@Unsp fracture of second lumbar vertebra, init for opn fx
+S32.029D@Unsp fx second lum vertebra, subs for fx w routn heal
+S32.029G@Unsp fx second lum vertebra, subs for fx w delay heal
+S32.029K@Unsp fracture of second lum vertebra, subs for fx w nonunion
+S32.029S@Unspecified fracture of second lumbar vertebra, sequela
+S32.030A@Wedge compression fracture of third lumbar vertebra, init
+S32.030B@Wedge comprsn fx third lum vertebra, init for opn fx
+S32.030D@Wedge comprsn fx third lum vert, subs for fx w routn heal
+S32.030G@Wedge comprsn fx third lum vert, subs for fx w delay heal
+S32.030K@Wedge comprsn fx third lum vertebra, subs for fx w nonunion
+S32.030S@Wedge compression fracture of third lumbar vertebra, sequela
+S32.031A@Stable burst fracture of third lumbar vertebra, init
+S32.031B@Stable burst fracture of third lum vertebra, init for opn fx
+S32.031D@Stable burst fx third lum vertebra, subs for fx w routn heal
+S32.031G@Stable burst fx third lum vertebra, subs for fx w delay heal
+S32.031K@Stable burst fx third lum vertebra, subs for fx w nonunion
+S32.031S@Stable burst fracture of third lumbar vertebra, sequela
+S32.032A@Unstable burst fracture of third lumbar vertebra, init
+S32.032B@Unstable burst fx third lum vertebra, init for opn fx
+S32.032D@Unstbl burst fx third lum vertebra, subs for fx w routn heal
+S32.032G@Unstbl burst fx third lum vertebra, subs for fx w delay heal
+S32.032K@Unstable burst fx third lum vertebra, subs for fx w nonunion
+S32.032S@Unstable burst fracture of third lumbar vertebra, sequela
+S32.038A@Oth fracture of third lumbar vertebra, init for clos fx
+S32.038B@Oth fracture of third lumbar vertebra, init for opn fx
+S32.038D@Oth fracture of third lum vertebra, subs for fx w routn heal
+S32.038G@Oth fracture of third lum vertebra, subs for fx w delay heal
+S32.038K@Oth fracture of third lum vertebra, subs for fx w nonunion
+S32.038S@Other fracture of third lumbar vertebra, sequela
+S32.039A@Unsp fracture of third lumbar vertebra, init for clos fx
+S32.039B@Unsp fracture of third lumbar vertebra, init for opn fx
+S32.039D@Unsp fx third lum vertebra, subs for fx w routn heal
+S32.039G@Unsp fx third lum vertebra, subs for fx w delay heal
+S32.039K@Unsp fracture of third lum vertebra, subs for fx w nonunion
+S32.039S@Unspecified fracture of third lumbar vertebra, sequela
+S32.040A@Wedge compression fracture of fourth lumbar vertebra, init
+S32.040B@Wedge comprsn fx fourth lum vertebra, init for opn fx
+S32.040D@Wedge comprsn fx fourth lum vert, subs for fx w routn heal
+S32.040G@Wedge comprsn fx fourth lum vert, subs for fx w delay heal
+S32.040K@Wedge comprsn fx fourth lum vertebra, subs for fx w nonunion
+S32.040S@Wedge compression fracture of fourth lum vertebra, sequela
+S32.041A@Stable burst fracture of fourth lumbar vertebra, init
+S32.041B@Stable burst fx fourth lum vertebra, init for opn fx
+S32.041D@Stable burst fx fourth lum vert, subs for fx w routn heal
+S32.041G@Stable burst fx fourth lum vert, subs for fx w delay heal
+S32.041K@Stable burst fx fourth lum vertebra, subs for fx w nonunion
+S32.041S@Stable burst fracture of fourth lumbar vertebra, sequela
+S32.042A@Unstable burst fracture of fourth lumbar vertebra, init
+S32.042B@Unstable burst fx fourth lum vertebra, init for opn fx
+S32.042D@Unstbl burst fx fourth lum vert, subs for fx w routn heal
+S32.042G@Unstbl burst fx fourth lum vert, subs for fx w delay heal
+S32.042K@Unstbl burst fx fourth lum vertebra, subs for fx w nonunion
+S32.042S@Unstable burst fracture of fourth lumbar vertebra, sequela
+S32.048A@Oth fracture of fourth lumbar vertebra, init for clos fx
+S32.048B@Oth fracture of fourth lumbar vertebra, init for opn fx
+S32.048D@Oth fx fourth lum vertebra, subs for fx w routn heal
+S32.048G@Oth fx fourth lum vertebra, subs for fx w delay heal
+S32.048K@Oth fracture of fourth lum vertebra, subs for fx w nonunion
+S32.048S@Other fracture of fourth lumbar vertebra, sequela
+S32.049A@Unsp fracture of fourth lumbar vertebra, init for clos fx
+S32.049B@Unsp fracture of fourth lumbar vertebra, init for opn fx
+S32.049D@Unsp fx fourth lum vertebra, subs for fx w routn heal
+S32.049G@Unsp fx fourth lum vertebra, subs for fx w delay heal
+S32.049K@Unsp fracture of fourth lum vertebra, subs for fx w nonunion
+S32.049S@Unspecified fracture of fourth lumbar vertebra, sequela
+S32.050A@Wedge compression fracture of fifth lumbar vertebra, init
+S32.050B@Wedge comprsn fx fifth lum vertebra, init for opn fx
+S32.050D@Wedge comprsn fx fifth lum vert, subs for fx w routn heal
+S32.050G@Wedge comprsn fx fifth lum vert, subs for fx w delay heal
+S32.050K@Wedge comprsn fx fifth lum vertebra, subs for fx w nonunion
+S32.050S@Wedge compression fracture of fifth lumbar vertebra, sequela
+S32.051A@Stable burst fracture of fifth lumbar vertebra, init
+S32.051B@Stable burst fracture of fifth lum vertebra, init for opn fx
+S32.051D@Stable burst fx fifth lum vertebra, subs for fx w routn heal
+S32.051G@Stable burst fx fifth lum vertebra, subs for fx w delay heal
+S32.051K@Stable burst fx fifth lum vertebra, subs for fx w nonunion
+S32.051S@Stable burst fracture of fifth lumbar vertebra, sequela
+S32.052A@Unstable burst fracture of fifth lumbar vertebra, init
+S32.052B@Unstable burst fx fifth lum vertebra, init for opn fx
+S32.052D@Unstbl burst fx fifth lum vertebra, subs for fx w routn heal
+S32.052G@Unstbl burst fx fifth lum vertebra, subs for fx w delay heal
+S32.052K@Unstable burst fx fifth lum vertebra, subs for fx w nonunion
+S32.052S@Unstable burst fracture of fifth lumbar vertebra, sequela
+S32.058A@Oth fracture of fifth lumbar vertebra, init for clos fx
+S32.058B@Oth fracture of fifth lumbar vertebra, init for opn fx
+S32.058D@Oth fracture of fifth lum vertebra, subs for fx w routn heal
+S32.058G@Oth fracture of fifth lum vertebra, subs for fx w delay heal
+S32.058K@Oth fracture of fifth lum vertebra, subs for fx w nonunion
+S32.058S@Other fracture of fifth lumbar vertebra, sequela
+S32.059A@Unsp fracture of fifth lumbar vertebra, init for clos fx
+S32.059B@Unsp fracture of fifth lumbar vertebra, init for opn fx
+S32.059D@Unsp fx fifth lum vertebra, subs for fx w routn heal
+S32.059G@Unsp fx fifth lum vertebra, subs for fx w delay heal
+S32.059K@Unsp fracture of fifth lum vertebra, subs for fx w nonunion
+S32.059S@Unspecified fracture of fifth lumbar vertebra, sequela
+S32.10XA@Unsp fracture of sacrum, init encntr for closed fracture
+S32.10XB@Unsp fracture of sacrum, init encntr for open fracture
+S32.10XD@Unsp fracture of sacrum, subs for fx w routn heal
+S32.10XG@Unsp fracture of sacrum, subs for fx w delay heal
+S32.10XK@Unsp fracture of sacrum, subs encntr for fracture w nonunion
+S32.10XS@Unspecified fracture of sacrum, sequela
+S32.110A@Nondisplaced Zone I fracture of sacrum, init for clos fx
+S32.110B@Nondisplaced Zone I fracture of sacrum, init for opn fx
+S32.110D@Nondisp Zone I fracture of sacrum, subs for fx w routn heal
+S32.110G@Nondisp Zone I fracture of sacrum, subs for fx w delay heal
+S32.110K@Nondisp Zone I fracture of sacrum, subs for fx w nonunion
+S32.110S@Nondisplaced Zone I fracture of sacrum, sequela
+S32.111A@Minimally displaced Zone I fracture of sacrum, init
+S32.111B@Minimally displaced Zone I fx sacrum, init for opn fx
+S32.111D@Minimally displ Zone I fx sacrum, subs for fx w routn heal
+S32.111G@Minimally displ Zone I fx sacrum, subs for fx w delay heal
+S32.111K@Minimally displaced Zone I fx sacrum, subs for fx w nonunion
+S32.111S@Minimally displaced Zone I fracture of sacrum, sequela
+S32.112A@Severely displaced Zone I fracture of sacrum, init
+S32.112B@Severely displaced Zone I fx sacrum, init for opn fx
+S32.112D@Severely displ Zone I fx sacrum, subs for fx w routn heal
+S32.112G@Severely displ Zone I fx sacrum, subs for fx w delay heal
+S32.112K@Severely displaced Zone I fx sacrum, subs for fx w nonunion
+S32.112S@Severely displaced Zone I fracture of sacrum, sequela
+S32.119A@Unsp Zone I fracture of sacrum, init for clos fx
+S32.119B@Unsp Zone I fracture of sacrum, init for opn fx
+S32.119D@Unsp Zone I fracture of sacrum, subs for fx w routn heal
+S32.119G@Unsp Zone I fracture of sacrum, subs for fx w delay heal
+S32.119K@Unsp Zone I fracture of sacrum, subs for fx w nonunion
+S32.119S@Unspecified Zone I fracture of sacrum, sequela
+S32.120A@Nondisplaced Zone II fracture of sacrum, init for clos fx
+S32.120B@Nondisplaced Zone II fracture of sacrum, init for opn fx
+S32.120D@Nondisp Zone II fracture of sacrum, subs for fx w routn heal
+S32.120G@Nondisp Zone II fracture of sacrum, subs for fx w delay heal
+S32.120K@Nondisp Zone II fracture of sacrum, subs for fx w nonunion
+S32.120S@Nondisplaced Zone II fracture of sacrum, sequela
+S32.121A@Minimally displaced Zone II fracture of sacrum, init
+S32.121B@Minimally displaced Zone II fx sacrum, init for opn fx
+S32.121D@Minimally displ Zone II fx sacrum, subs for fx w routn heal
+S32.121G@Minimally displ Zone II fx sacrum, subs for fx w delay heal
+S32.121K@Minimally displ Zone II fx sacrum, subs for fx w nonunion
+S32.121S@Minimally displaced Zone II fracture of sacrum, sequela
+S32.122A@Severely displaced Zone II fracture of sacrum, init
+S32.122B@Severely displaced Zone II fx sacrum, init for opn fx
+S32.122D@Severely displ Zone II fx sacrum, subs for fx w routn heal
+S32.122G@Severely displ Zone II fx sacrum, subs for fx w delay heal
+S32.122K@Severely displaced Zone II fx sacrum, subs for fx w nonunion
+S32.122S@Severely displaced Zone II fracture of sacrum, sequela
+S32.129A@Unsp Zone II fracture of sacrum, init for clos fx
+S32.129B@Unsp Zone II fracture of sacrum, init for opn fx
+S32.129D@Unsp Zone II fracture of sacrum, subs for fx w routn heal
+S32.129G@Unsp Zone II fracture of sacrum, subs for fx w delay heal
+S32.129K@Unsp Zone II fracture of sacrum, subs for fx w nonunion
+S32.129S@Unspecified Zone II fracture of sacrum, sequela
+S32.130A@Nondisplaced Zone III fracture of sacrum, init for clos fx
+S32.130B@Nondisplaced Zone III fracture of sacrum, init for opn fx
+S32.130D@Nondisp Zone III fx sacrum, subs for fx w routn heal
+S32.130G@Nondisp Zone III fx sacrum, subs for fx w delay heal
+S32.130K@Nondisp Zone III fracture of sacrum, subs for fx w nonunion
+S32.130S@Nondisplaced Zone III fracture of sacrum, sequela
+S32.131A@Minimally displaced Zone III fracture of sacrum, init
+S32.131B@Minimally displaced Zone III fx sacrum, init for opn fx
+S32.131D@Minimally displ Zone III fx sacrum, subs for fx w routn heal
+S32.131G@Minimally displ Zone III fx sacrum, subs for fx w delay heal
+S32.131K@Minimally displ Zone III fx sacrum, subs for fx w nonunion
+S32.131S@Minimally displaced Zone III fracture of sacrum, sequela
+S32.132A@Severely displaced Zone III fracture of sacrum, init
+S32.132B@Severely displaced Zone III fx sacrum, init for opn fx
+S32.132D@Severely displ Zone III fx sacrum, subs for fx w routn heal
+S32.132G@Severely displ Zone III fx sacrum, subs for fx w delay heal
+S32.132K@Severely displ Zone III fx sacrum, subs for fx w nonunion
+S32.132S@Severely displaced Zone III fracture of sacrum, sequela
+S32.139A@Unsp Zone III fracture of sacrum, init for clos fx
+S32.139B@Unsp Zone III fracture of sacrum, init for opn fx
+S32.139D@Unsp Zone III fracture of sacrum, subs for fx w routn heal
+S32.139G@Unsp Zone III fracture of sacrum, subs for fx w delay heal
+S32.139K@Unsp Zone III fracture of sacrum, subs for fx w nonunion
+S32.139S@Unspecified Zone III fracture of sacrum, sequela
+S32.14XA@Type 1 fracture of sacrum, init encntr for closed fracture
+S32.14XB@Type 1 fracture of sacrum, init encntr for open fracture
+S32.14XD@Type 1 fracture of sacrum, subs for fx w routn heal
+S32.14XG@Type 1 fracture of sacrum, subs for fx w delay heal
+S32.14XK@Type 1 fracture of sacrum, subs for fx w nonunion
+S32.14XS@Type 1 fracture of sacrum, sequela
+S32.15XA@Type 2 fracture of sacrum, init encntr for closed fracture
+S32.15XB@Type 2 fracture of sacrum, init encntr for open fracture
+S32.15XD@Type 2 fracture of sacrum, subs for fx w routn heal
+S32.15XG@Type 2 fracture of sacrum, subs for fx w delay heal
+S32.15XK@Type 2 fracture of sacrum, subs for fx w nonunion
+S32.15XS@Type 2 fracture of sacrum, sequela
+S32.16XA@Type 3 fracture of sacrum, init encntr for closed fracture
+S32.16XB@Type 3 fracture of sacrum, init encntr for open fracture
+S32.16XD@Type 3 fracture of sacrum, subs for fx w routn heal
+S32.16XG@Type 3 fracture of sacrum, subs for fx w delay heal
+S32.16XK@Type 3 fracture of sacrum, subs for fx w nonunion
+S32.16XS@Type 3 fracture of sacrum, sequela
+S32.17XA@Type 4 fracture of sacrum, init encntr for closed fracture
+S32.17XB@Type 4 fracture of sacrum, init encntr for open fracture
+S32.17XD@Type 4 fracture of sacrum, subs for fx w routn heal
+S32.17XG@Type 4 fracture of sacrum, subs for fx w delay heal
+S32.17XK@Type 4 fracture of sacrum, subs for fx w nonunion
+S32.17XS@Type 4 fracture of sacrum, sequela
+S32.19XA@Other fracture of sacrum, init encntr for closed fracture
+S32.19XB@Other fracture of sacrum, init encntr for open fracture
+S32.19XD@Oth fracture of sacrum, subs for fx w routn heal
+S32.19XG@Oth fracture of sacrum, subs for fx w delay heal
+S32.19XK@Oth fracture of sacrum, subs encntr for fracture w nonunion
+S32.19XS@Other fracture of sacrum, sequela
+S32.2XXA@Fracture of coccyx, initial encounter for closed fracture
+S32.2XXB@Fracture of coccyx, initial encounter for open fracture
+S32.2XXD@Fracture of coccyx, subs for fx w routn heal
+S32.2XXG@Fracture of coccyx, subs for fx w delay heal
+S32.2XXK@Fracture of coccyx, subs encntr for fracture with nonunion
+S32.2XXS@Fracture of coccyx, sequela
+S32.301A@Unsp fracture of right ilium, init for clos fx
+S32.301B@Unsp fracture of right ilium, init encntr for open fracture
+S32.301D@Unsp fracture of right ilium, subs for fx w routn heal
+S32.301G@Unsp fracture of right ilium, subs for fx w delay heal
+S32.301K@Unsp fracture of right ilium, subs for fx w nonunion
+S32.301S@Unspecified fracture of right ilium, sequela
+S32.302A@Unsp fracture of left ilium, init encntr for closed fracture
+S32.302B@Unsp fracture of left ilium, init encntr for open fracture
+S32.302D@Unsp fracture of left ilium, subs for fx w routn heal
+S32.302G@Unsp fracture of left ilium, subs for fx w delay heal
+S32.302K@Unsp fracture of left ilium, subs for fx w nonunion
+S32.302S@Unspecified fracture of left ilium, sequela
+S32.309A@Unsp fracture of unsp ilium, init encntr for closed fracture
+S32.309B@Unsp fracture of unsp ilium, init encntr for open fracture
+S32.309D@Unsp fracture of unsp ilium, subs for fx w routn heal
+S32.309G@Unsp fracture of unsp ilium, subs for fx w delay heal
+S32.309K@Unsp fracture of unsp ilium, subs for fx w nonunion
+S32.309S@Unspecified fracture of unspecified ilium, sequela
+S32.311A@Displaced avulsion fracture of right ilium, init for clos fx
+S32.311B@Displaced avulsion fracture of right ilium, init for opn fx
+S32.311D@Displaced avulsion fx right ilium, subs for fx w routn heal
+S32.311G@Displaced avulsion fx right ilium, subs for fx w delay heal
+S32.311K@Displaced avulsion fx right ilium, subs for fx w nonunion
+S32.311S@Displaced avulsion fracture of right ilium, sequela
+S32.312A@Displaced avulsion fracture of left ilium, init for clos fx
+S32.312B@Displaced avulsion fracture of left ilium, init for opn fx
+S32.312D@Displaced avulsion fx left ilium, subs for fx w routn heal
+S32.312G@Displaced avulsion fx left ilium, subs for fx w delay heal
+S32.312K@Displaced avulsion fx left ilium, subs for fx w nonunion
+S32.312S@Displaced avulsion fracture of left ilium, sequela
+S32.313A@Displaced avulsion fracture of unsp ilium, init for clos fx
+S32.313B@Displaced avulsion fracture of unsp ilium, init for opn fx
+S32.313D@Displaced avulsion fx unsp ilium, subs for fx w routn heal
+S32.313G@Displaced avulsion fx unsp ilium, subs for fx w delay heal
+S32.313K@Displaced avulsion fx unsp ilium, subs for fx w nonunion
+S32.313S@Displaced avulsion fracture of unspecified ilium, sequela
+S32.314A@Nondisplaced avulsion fracture of right ilium, init
+S32.314B@Nondisp avulsion fracture of right ilium, init for opn fx
+S32.314D@Nondisp avulsion fx right ilium, subs for fx w routn heal
+S32.314G@Nondisp avulsion fx right ilium, subs for fx w delay heal
+S32.314K@Nondisp avulsion fx right ilium, subs for fx w nonunion
+S32.314S@Nondisplaced avulsion fracture of right ilium, sequela
+S32.315A@Nondisplaced avulsion fracture of left ilium, init
+S32.315B@Nondisp avulsion fracture of left ilium, init for opn fx
+S32.315D@Nondisp avulsion fx left ilium, subs for fx w routn heal
+S32.315G@Nondisp avulsion fx left ilium, subs for fx w delay heal
+S32.315K@Nondisp avulsion fx left ilium, subs for fx w nonunion
+S32.315S@Nondisplaced avulsion fracture of left ilium, sequela
+S32.316A@Nondisplaced avulsion fracture of unsp ilium, init
+S32.316B@Nondisp avulsion fracture of unsp ilium, init for opn fx
+S32.316D@Nondisp avulsion fx unsp ilium, subs for fx w routn heal
+S32.316G@Nondisp avulsion fx unsp ilium, subs for fx w delay heal
+S32.316K@Nondisp avulsion fx unsp ilium, subs for fx w nonunion
+S32.316S@Nondisplaced avulsion fracture of unspecified ilium, sequela
+S32.391A@Oth fracture of right ilium, init encntr for closed fracture
+S32.391B@Other fracture of right ilium, init encntr for open fracture
+S32.391D@Oth fracture of right ilium, subs for fx w routn heal
+S32.391G@Oth fracture of right ilium, subs for fx w delay heal
+S32.391K@Oth fracture of right ilium, subs for fx w nonunion
+S32.391S@Other fracture of right ilium, sequela
+S32.392A@Oth fracture of left ilium, init encntr for closed fracture
+S32.392B@Other fracture of left ilium, init encntr for open fracture
+S32.392D@Oth fracture of left ilium, subs for fx w routn heal
+S32.392G@Oth fracture of left ilium, subs for fx w delay heal
+S32.392K@Oth fracture of left ilium, subs for fx w nonunion
+S32.392S@Other fracture of left ilium, sequela
+S32.399A@Oth fracture of unsp ilium, init encntr for closed fracture
+S32.399B@Other fracture of unsp ilium, init encntr for open fracture
+S32.399D@Oth fracture of unsp ilium, subs for fx w routn heal
+S32.399G@Oth fracture of unsp ilium, subs for fx w delay heal
+S32.399K@Oth fracture of unsp ilium, subs for fx w nonunion
+S32.399S@Other fracture of unspecified ilium, sequela
+S32.401A@Unsp fracture of right acetabulum, init for clos fx
+S32.401B@Unsp fracture of right acetabulum, init for opn fx
+S32.401D@Unsp fracture of right acetabulum, subs for fx w routn heal
+S32.401G@Unsp fracture of right acetabulum, subs for fx w delay heal
+S32.401K@Unsp fracture of right acetabulum, subs for fx w nonunion
+S32.401S@Unspecified fracture of right acetabulum, sequela
+S32.402A@Unsp fracture of left acetabulum, init for clos fx
+S32.402B@Unsp fracture of left acetabulum, init for opn fx
+S32.402D@Unsp fracture of left acetabulum, subs for fx w routn heal
+S32.402G@Unsp fracture of left acetabulum, subs for fx w delay heal
+S32.402K@Unsp fracture of left acetabulum, subs for fx w nonunion
+S32.402S@Unspecified fracture of left acetabulum, sequela
+S32.409A@Unsp fracture of unsp acetabulum, init for clos fx
+S32.409B@Unsp fracture of unsp acetabulum, init for opn fx
+S32.409D@Unsp fracture of unsp acetabulum, subs for fx w routn heal
+S32.409G@Unsp fracture of unsp acetabulum, subs for fx w delay heal
+S32.409K@Unsp fracture of unsp acetabulum, subs for fx w nonunion
+S32.409S@Unspecified fracture of unspecified acetabulum, sequela
+S32.411A@Disp fx of anterior wall of right acetabulum, init
+S32.411B@Disp fx of anterior wall of right acetab, init for opn fx
+S32.411D@Disp fx of ant wall of r acetab, subs for fx w routn heal
+S32.411G@Disp fx of ant wall of r acetab, subs for fx w delay heal
+S32.411K@Disp fx of ant wall of right acetab, subs for fx w nonunion
+S32.411S@Disp fx of anterior wall of right acetabulum, sequela
+S32.412A@Disp fx of anterior wall of left acetabulum, init
+S32.412B@Disp fx of anterior wall of left acetabulum, init for opn fx
+S32.412D@Disp fx of ant wall of left acetab, subs for fx w routn heal
+S32.412G@Disp fx of ant wall of left acetab, subs for fx w delay heal
+S32.412K@Disp fx of ant wall of left acetab, subs for fx w nonunion
+S32.412S@Disp fx of anterior wall of left acetabulum, sequela
+S32.413A@Disp fx of anterior wall of unsp acetabulum, init
+S32.413B@Disp fx of anterior wall of unsp acetabulum, init for opn fx
+S32.413D@Disp fx of ant wall of unsp acetab, subs for fx w routn heal
+S32.413G@Disp fx of ant wall of unsp acetab, subs for fx w delay heal
+S32.413K@Disp fx of ant wall of unsp acetab, subs for fx w nonunion
+S32.413S@Disp fx of anterior wall of unspecified acetabulum, sequela
+S32.414A@Nondisp fx of anterior wall of right acetabulum, init
+S32.414B@Nondisp fx of anterior wall of right acetab, init for opn fx
+S32.414D@Nondisp fx of ant wall of r acetab, subs for fx w routn heal
+S32.414G@Nondisp fx of ant wall of r acetab, subs for fx w delay heal
+S32.414K@Nondisp fx of ant wall of r acetab, subs for fx w nonunion
+S32.414S@Nondisp fx of anterior wall of right acetabulum, sequela
+S32.415A@Nondisp fx of anterior wall of left acetabulum, init
+S32.415B@Nondisp fx of anterior wall of left acetab, init for opn fx
+S32.415D@Nondisp fx of ant wall of l acetab, subs for fx w routn heal
+S32.415G@Nondisp fx of ant wall of l acetab, subs for fx w delay heal
+S32.415K@Nondisp fx of ant wall of l acetab, subs for fx w nonunion
+S32.415S@Nondisp fx of anterior wall of left acetabulum, sequela
+S32.416A@Nondisp fx of anterior wall of unsp acetabulum, init
+S32.416B@Nondisp fx of anterior wall of unsp acetab, init for opn fx
+S32.416D@Nondisp fx of ant wl of unsp acetab, 7thD
+S32.416G@Nondisp fx of ant wl of unsp acetab, 7thG
+S32.416K@Nondisp fx of ant wl of unsp acetab, subs for fx w nonunion
+S32.416S@Nondisp fx of anterior wall of unsp acetabulum, sequela
+S32.421A@Disp fx of posterior wall of right acetabulum, init
+S32.421B@Disp fx of posterior wall of right acetab, init for opn fx
+S32.421D@Disp fx of post wall of r acetab, subs for fx w routn heal
+S32.421G@Disp fx of post wall of r acetab, subs for fx w delay heal
+S32.421K@Disp fx of post wall of right acetab, subs for fx w nonunion
+S32.421S@Disp fx of posterior wall of right acetabulum, sequela
+S32.422A@Disp fx of posterior wall of left acetabulum, init
+S32.422B@Disp fx of posterior wall of left acetab, init for opn fx
+S32.422D@Disp fx of post wall of l acetab, subs for fx w routn heal
+S32.422G@Disp fx of post wall of l acetab, subs for fx w delay heal
+S32.422K@Disp fx of post wall of left acetab, subs for fx w nonunion
+S32.422S@Disp fx of posterior wall of left acetabulum, sequela
+S32.423A@Disp fx of posterior wall of unsp acetabulum, init
+S32.423B@Disp fx of posterior wall of unsp acetab, init for opn fx
+S32.423D@Disp fx of post wl of unsp acetab, subs for fx w routn heal
+S32.423G@Disp fx of post wl of unsp acetab, subs for fx w delay heal
+S32.423K@Disp fx of post wall of unsp acetab, subs for fx w nonunion
+S32.423S@Disp fx of posterior wall of unspecified acetabulum, sequela
+S32.424A@Nondisp fx of posterior wall of right acetabulum, init
+S32.424B@Nondisp fx of post wall of right acetab, init for opn fx
+S32.424D@Nondisp fx of post wl of r acetab, subs for fx w routn heal
+S32.424G@Nondisp fx of post wl of r acetab, subs for fx w delay heal
+S32.424K@Nondisp fx of post wall of r acetab, subs for fx w nonunion
+S32.424S@Nondisp fx of posterior wall of right acetabulum, sequela
+S32.425A@Nondisp fx of posterior wall of left acetabulum, init
+S32.425B@Nondisp fx of posterior wall of left acetab, init for opn fx
+S32.425D@Nondisp fx of post wl of l acetab, subs for fx w routn heal
+S32.425G@Nondisp fx of post wl of l acetab, subs for fx w delay heal
+S32.425K@Nondisp fx of post wall of l acetab, subs for fx w nonunion
+S32.425S@Nondisp fx of posterior wall of left acetabulum, sequela
+S32.426A@Nondisp fx of posterior wall of unsp acetabulum, init
+S32.426B@Nondisp fx of posterior wall of unsp acetab, init for opn fx
+S32.426D@Nondisp fx of post wl of unsp acetab, 7thD
+S32.426G@Nondisp fx of post wl of unsp acetab, 7thG
+S32.426K@Nondisp fx of post wl of unsp acetab, subs for fx w nonunion
+S32.426S@Nondisp fx of posterior wall of unsp acetabulum, sequela
+S32.431A@Disp fx of anterior column of right acetabulum, init
+S32.431B@Disp fx of anterior column of right acetab, init for opn fx
+S32.431D@Disp fx of ant column of r acetab, subs for fx w routn heal
+S32.431G@Disp fx of ant column of r acetab, subs for fx w delay heal
+S32.431K@Disp fx of ant column of r acetab, subs for fx w nonunion
+S32.431S@Disp fx of anterior column of right acetabulum, sequela
+S32.432A@Disp fx of anterior column of left acetabulum, init
+S32.432B@Disp fx of anterior column of left acetab, init for opn fx
+S32.432D@Disp fx of ant column of l acetab, subs for fx w routn heal
+S32.432G@Disp fx of ant column of l acetab, subs for fx w delay heal
+S32.432K@Disp fx of ant column of left acetab, subs for fx w nonunion
+S32.432S@Disp fx of anterior column of left acetabulum, sequela
+S32.433A@Disp fx of anterior column of unsp acetabulum, init
+S32.433B@Disp fx of anterior column of unsp acetab, init for opn fx
+S32.433D@Disp fx of ant column of unsp acetab, 7thD
+S32.433G@Disp fx of ant column of unsp acetab, 7thG
+S32.433K@Disp fx of ant column of unsp acetab, subs for fx w nonunion
+S32.433S@Disp fx of anterior column of unsp acetabulum, sequela
+S32.434A@Nondisp fx of anterior column of right acetabulum, init
+S32.434B@Nondisp fx of ant column of right acetab, init for opn fx
+S32.434D@Nondisp fx of ant column of r acetab, 7thD
+S32.434G@Nondisp fx of ant column of r acetab, 7thG
+S32.434K@Nondisp fx of ant column of r acetab, subs for fx w nonunion
+S32.434S@Nondisp fx of anterior column of right acetabulum, sequela
+S32.435A@Nondisp fx of anterior column of left acetabulum, init
+S32.435B@Nondisp fx of ant column of left acetab, init for opn fx
+S32.435D@Nondisp fx of ant column of l acetab, 7thD
+S32.435G@Nondisp fx of ant column of l acetab, 7thG
+S32.435K@Nondisp fx of ant column of l acetab, subs for fx w nonunion
+S32.435S@Nondisp fx of anterior column of left acetabulum, sequela
+S32.436A@Nondisp fx of anterior column of unsp acetabulum, init
+S32.436B@Nondisp fx of ant column of unsp acetab, init for opn fx
+S32.436D@Nondisp fx of ant column of unsp acetab, 7thD
+S32.436G@Nondisp fx of ant column of unsp acetab, 7thG
+S32.436K@Nondisp fx of ant column of unsp acetab, 7thK
+S32.436S@Nondisp fx of anterior column of unsp acetabulum, sequela
+S32.441A@Disp fx of posterior column of right acetabulum, init
+S32.441B@Disp fx of posterior column of right acetab, init for opn fx
+S32.441D@Disp fx of post column of r acetab, subs for fx w routn heal
+S32.441G@Disp fx of post column of r acetab, subs for fx w delay heal
+S32.441K@Disp fx of post column of r acetab, subs for fx w nonunion
+S32.441S@Disp fx of posterior column of right acetabulum, sequela
+S32.442A@Disp fx of posterior column of left acetabulum, init
+S32.442B@Disp fx of posterior column of left acetab, init for opn fx
+S32.442D@Disp fx of post column of l acetab, subs for fx w routn heal
+S32.442G@Disp fx of post column of l acetab, subs for fx w delay heal
+S32.442K@Disp fx of post column of l acetab, subs for fx w nonunion
+S32.442S@Disp fx of posterior column of left acetabulum, sequela
+S32.443A@Disp fx of posterior column of unsp acetabulum, init
+S32.443B@Disp fx of posterior column of unsp acetab, init for opn fx
+S32.443D@Disp fx of post column of unsp acetab, 7thD
+S32.443G@Disp fx of post column of unsp acetab, 7thG
+S32.443K@Disp fx of post column of unsp acetab, 7thK
+S32.443S@Disp fx of posterior column of unsp acetabulum, sequela
+S32.444A@Nondisp fx of posterior column of right acetabulum, init
+S32.444B@Nondisp fx of post column of right acetab, init for opn fx
+S32.444D@Nondisp fx of post column of r acetab, 7thD
+S32.444G@Nondisp fx of post column of r acetab, 7thG
+S32.444K@Nondisp fx of post column of r acetab, 7thK
+S32.444S@Nondisp fx of posterior column of right acetabulum, sequela
+S32.445A@Nondisp fx of posterior column of left acetabulum, init
+S32.445B@Nondisp fx of post column of left acetab, init for opn fx
+S32.445D@Nondisp fx of post column of l acetab, 7thD
+S32.445G@Nondisp fx of post column of l acetab, 7thG
+S32.445K@Nondisp fx of post column of l acetab, 7thK
+S32.445S@Nondisp fx of posterior column of left acetabulum, sequela
+S32.446A@Nondisp fx of posterior column of unsp acetabulum, init
+S32.446B@Nondisp fx of post column of unsp acetab, init for opn fx
+S32.446D@Nondisp fx of post column of unsp acetab, 7thD
+S32.446G@Nondisp fx of post column of unsp acetab, 7thG
+S32.446K@Nondisp fx of post column of unsp acetab, 7thK
+S32.446S@Nondisp fx of posterior column of unsp acetabulum, sequela
+S32.451A@Displaced transverse fracture of right acetabulum, init
+S32.451B@Displaced transverse fx right acetabulum, init for opn fx
+S32.451D@Displ transverse fx right acetab, subs for fx w routn heal
+S32.451G@Displ transverse fx right acetab, subs for fx w delay heal
+S32.451K@Displaced transverse fx right acetab, subs for fx w nonunion
+S32.451S@Displaced transverse fracture of right acetabulum, sequela
+S32.452A@Displaced transverse fracture of left acetabulum, init
+S32.452B@Displaced transverse fx left acetabulum, init for opn fx
+S32.452D@Displ transverse fx left acetab, subs for fx w routn heal
+S32.452G@Displ transverse fx left acetab, subs for fx w delay heal
+S32.452K@Displaced transverse fx left acetab, subs for fx w nonunion
+S32.452S@Displaced transverse fracture of left acetabulum, sequela
+S32.453A@Displaced transverse fracture of unsp acetabulum, init
+S32.453B@Displaced transverse fx unsp acetabulum, init for opn fx
+S32.453D@Displ transverse fx unsp acetab, subs for fx w routn heal
+S32.453G@Displ transverse fx unsp acetab, subs for fx w delay heal
+S32.453K@Displaced transverse fx unsp acetab, subs for fx w nonunion
+S32.453S@Displaced transverse fracture of unsp acetabulum, sequela
+S32.454A@Nondisplaced transverse fracture of right acetabulum, init
+S32.454B@Nondisp transverse fx right acetabulum, init for opn fx
+S32.454D@Nondisp transverse fx right acetab, subs for fx w routn heal
+S32.454G@Nondisp transverse fx right acetab, subs for fx w delay heal
+S32.454K@Nondisp transverse fx right acetab, subs for fx w nonunion
+S32.454S@Nondisp transverse fracture of right acetabulum, sequela
+S32.455A@Nondisplaced transverse fracture of left acetabulum, init
+S32.455B@Nondisp transverse fx left acetabulum, init for opn fx
+S32.455D@Nondisp transverse fx left acetab, subs for fx w routn heal
+S32.455G@Nondisp transverse fx left acetab, subs for fx w delay heal
+S32.455K@Nondisp transverse fx left acetab, subs for fx w nonunion
+S32.455S@Nondisplaced transverse fracture of left acetabulum, sequela
+S32.456A@Nondisplaced transverse fracture of unsp acetabulum, init
+S32.456B@Nondisp transverse fx unsp acetabulum, init for opn fx
+S32.456D@Nondisp transverse fx unsp acetab, subs for fx w routn heal
+S32.456G@Nondisp transverse fx unsp acetab, subs for fx w delay heal
+S32.456K@Nondisp transverse fx unsp acetab, subs for fx w nonunion
+S32.456S@Nondisplaced transverse fracture of unsp acetabulum, sequela
+S32.461A@Displaced associated transv/post fx right acetabulum, init
+S32.461B@Displaced assoc transv/post fx right acetab, init for opn fx
+S32.461D@Displ assoc transv/post fx r acetab, 7thD
+S32.461G@Displ assoc transv/post fx r acetab, 7thG
+S32.461K@Displ assoc transv/post fx r acetab, subs for fx w nonunion
+S32.461S@Displaced associated transv/post fx right acetab, sequela
+S32.462A@Displaced associated transv/post fx left acetabulum, init
+S32.462B@Displaced assoc transv/post fx left acetab, init for opn fx
+S32.462D@Displ assoc transv/post fx l acetab, 7thD
+S32.462G@Displ assoc transv/post fx l acetab, 7thG
+S32.462K@Displ assoc transv/post fx l acetab, subs for fx w nonunion
+S32.462S@Displaced associated transv/post fx left acetabulum, sequela
+S32.463A@Displaced associated transv/post fx unsp acetabulum, init
+S32.463B@Displaced assoc transv/post fx unsp acetab, init for opn fx
+S32.463D@Displ assoc transv/post fx unsp acetab, 7thD
+S32.463G@Displ assoc transv/post fx unsp acetab, 7thG
+S32.463K@Displ assoc transv/post fx unsp acetab, 7thK
+S32.463S@Displaced associated transv/post fx unsp acetabulum, sequela
+S32.464A@Nondisp associated transv/post fx right acetabulum, init
+S32.464B@Nondisp assoc transv/post fx right acetab, init for opn fx
+S32.464D@Nondisp assoc transv/post fx r acetab, 7thD
+S32.464G@Nondisp assoc transv/post fx r acetab, 7thG
+S32.464K@Nondisp assoc transv/post fx r acetab, 7thK
+S32.464S@Nondisp associated transv/post fx right acetabulum, sequela
+S32.465A@Nondisp associated transv/post fx left acetabulum, init
+S32.465B@Nondisp assoc transv/post fx left acetab, init for opn fx
+S32.465D@Nondisp assoc transv/post fx l acetab, 7thD
+S32.465G@Nondisp assoc transv/post fx l acetab, 7thG
+S32.465K@Nondisp assoc transv/post fx l acetab, 7thK
+S32.465S@Nondisp associated transv/post fx left acetabulum, sequela
+S32.466A@Nondisp associated transv/post fx unsp acetabulum, init
+S32.466B@Nondisp assoc transv/post fx unsp acetab, init for opn fx
+S32.466D@Nondisp assoc transv/post fx unsp acetab, 7thD
+S32.466G@Nondisp assoc transv/post fx unsp acetab, 7thG
+S32.466K@Nondisp assoc transv/post fx unsp acetab, 7thK
+S32.466S@Nondisp associated transv/post fx unsp acetabulum, sequela
+S32.471A@Disp fx of medial wall of right acetabulum, init for clos fx
+S32.471B@Disp fx of medial wall of right acetabulum, init for opn fx
+S32.471D@Disp fx of med wall of r acetab, subs for fx w routn heal
+S32.471G@Disp fx of med wall of r acetab, subs for fx w delay heal
+S32.471K@Disp fx of med wall of right acetab, subs for fx w nonunion
+S32.471S@Disp fx of medial wall of right acetabulum, sequela
+S32.472A@Disp fx of medial wall of left acetabulum, init for clos fx
+S32.472B@Disp fx of medial wall of left acetabulum, init for opn fx
+S32.472D@Disp fx of med wall of left acetab, subs for fx w routn heal
+S32.472G@Disp fx of med wall of left acetab, subs for fx w delay heal
+S32.472K@Disp fx of med wall of left acetab, subs for fx w nonunion
+S32.472S@Disp fx of medial wall of left acetabulum, sequela
+S32.473A@Disp fx of medial wall of unsp acetabulum, init for clos fx
+S32.473B@Disp fx of medial wall of unsp acetabulum, init for opn fx
+S32.473D@Disp fx of med wall of unsp acetab, subs for fx w routn heal
+S32.473G@Disp fx of med wall of unsp acetab, subs for fx w delay heal
+S32.473K@Disp fx of med wall of unsp acetab, subs for fx w nonunion
+S32.473S@Disp fx of medial wall of unspecified acetabulum, sequela
+S32.474A@Nondisp fx of medial wall of right acetabulum, init
+S32.474B@Nondisp fx of medial wall of right acetab, init for opn fx
+S32.474D@Nondisp fx of med wall of r acetab, subs for fx w routn heal
+S32.474G@Nondisp fx of med wall of r acetab, subs for fx w delay heal
+S32.474K@Nondisp fx of med wall of r acetab, subs for fx w nonunion
+S32.474S@Nondisp fx of medial wall of right acetabulum, sequela
+S32.475A@Nondisp fx of medial wall of left acetabulum, init
+S32.475B@Nondisp fx of medial wall of left acetab, init for opn fx
+S32.475D@Nondisp fx of med wall of l acetab, subs for fx w routn heal
+S32.475G@Nondisp fx of med wall of l acetab, subs for fx w delay heal
+S32.475K@Nondisp fx of med wall of l acetab, subs for fx w nonunion
+S32.475S@Nondisp fx of medial wall of left acetabulum, sequela
+S32.476A@Nondisp fx of medial wall of unsp acetabulum, init
+S32.476B@Nondisp fx of medial wall of unsp acetab, init for opn fx
+S32.476D@Nondisp fx of med wl of unsp acetab, 7thD
+S32.476G@Nondisp fx of med wl of unsp acetab, 7thG
+S32.476K@Nondisp fx of med wl of unsp acetab, subs for fx w nonunion
+S32.476S@Nondisp fx of medial wall of unspecified acetabulum, sequela
+S32.481A@Displaced dome fracture of right acetabulum, init
+S32.481B@Displaced dome fracture of right acetabulum, init for opn fx
+S32.481D@Displaced dome fx right acetabulum, subs for fx w routn heal
+S32.481G@Displaced dome fx right acetabulum, subs for fx w delay heal
+S32.481K@Displaced dome fx right acetabulum, subs for fx w nonunion
+S32.481S@Displaced dome fracture of right acetabulum, sequela
+S32.482A@Displaced dome fracture of left acetabulum, init for clos fx
+S32.482B@Displaced dome fracture of left acetabulum, init for opn fx
+S32.482D@Displaced dome fx left acetabulum, subs for fx w routn heal
+S32.482G@Displaced dome fx left acetabulum, subs for fx w delay heal
+S32.482K@Displaced dome fx left acetabulum, subs for fx w nonunion
+S32.482S@Displaced dome fracture of left acetabulum, sequela
+S32.483A@Displaced dome fracture of unsp acetabulum, init for clos fx
+S32.483B@Displaced dome fracture of unsp acetabulum, init for opn fx
+S32.483D@Displaced dome fx unsp acetabulum, subs for fx w routn heal
+S32.483G@Displaced dome fx unsp acetabulum, subs for fx w delay heal
+S32.483K@Displaced dome fx unsp acetabulum, subs for fx w nonunion
+S32.483S@Displaced dome fracture of unspecified acetabulum, sequela
+S32.484A@Nondisplaced dome fracture of right acetabulum, init
+S32.484B@Nondisp dome fracture of right acetabulum, init for opn fx
+S32.484D@Nondisp dome fx right acetabulum, subs for fx w routn heal
+S32.484G@Nondisp dome fx right acetabulum, subs for fx w delay heal
+S32.484K@Nondisp dome fx right acetabulum, subs for fx w nonunion
+S32.484S@Nondisplaced dome fracture of right acetabulum, sequela
+S32.485A@Nondisplaced dome fracture of left acetabulum, init
+S32.485B@Nondisp dome fracture of left acetabulum, init for opn fx
+S32.485D@Nondisp dome fx left acetabulum, subs for fx w routn heal
+S32.485G@Nondisp dome fx left acetabulum, subs for fx w delay heal
+S32.485K@Nondisp dome fx left acetabulum, subs for fx w nonunion
+S32.485S@Nondisplaced dome fracture of left acetabulum, sequela
+S32.486A@Nondisplaced dome fracture of unsp acetabulum, init
+S32.486B@Nondisp dome fracture of unsp acetabulum, init for opn fx
+S32.486D@Nondisp dome fx unsp acetabulum, subs for fx w routn heal
+S32.486G@Nondisp dome fx unsp acetabulum, subs for fx w delay heal
+S32.486K@Nondisp dome fx unsp acetabulum, subs for fx w nonunion
+S32.486S@Nondisplaced dome fracture of unsp acetabulum, sequela
+S32.491A@Oth fracture of right acetabulum, init for clos fx
+S32.491B@Oth fracture of right acetabulum, init for opn fx
+S32.491D@Oth fracture of right acetabulum, subs for fx w routn heal
+S32.491G@Oth fracture of right acetabulum, subs for fx w delay heal
+S32.491K@Oth fracture of right acetabulum, subs for fx w nonunion
+S32.491S@Other specified fracture of right acetabulum, sequela
+S32.492A@Oth fracture of left acetabulum, init for clos fx
+S32.492B@Oth fracture of left acetabulum, init for opn fx
+S32.492D@Oth fracture of left acetabulum, subs for fx w routn heal
+S32.492G@Oth fracture of left acetabulum, subs for fx w delay heal
+S32.492K@Oth fracture of left acetabulum, subs for fx w nonunion
+S32.492S@Other specified fracture of left acetabulum, sequela
+S32.499A@Oth fracture of unsp acetabulum, init for clos fx
+S32.499B@Oth fracture of unsp acetabulum, init for opn fx
+S32.499D@Oth fracture of unsp acetabulum, subs for fx w routn heal
+S32.499G@Oth fracture of unsp acetabulum, subs for fx w delay heal
+S32.499K@Oth fracture of unsp acetabulum, subs for fx w nonunion
+S32.499S@Other specified fracture of unspecified acetabulum, sequela
+S32.501A@Unsp fracture of right pubis, init for clos fx
+S32.501B@Unsp fracture of right pubis, init encntr for open fracture
+S32.501D@Unsp fracture of right pubis, subs for fx w routn heal
+S32.501G@Unsp fracture of right pubis, subs for fx w delay heal
+S32.501K@Unsp fracture of right pubis, subs for fx w nonunion
+S32.501S@Unspecified fracture of right pubis, sequela
+S32.502A@Unsp fracture of left pubis, init encntr for closed fracture
+S32.502B@Unsp fracture of left pubis, init encntr for open fracture
+S32.502D@Unsp fracture of left pubis, subs for fx w routn heal
+S32.502G@Unsp fracture of left pubis, subs for fx w delay heal
+S32.502K@Unsp fracture of left pubis, subs for fx w nonunion
+S32.502S@Unspecified fracture of left pubis, sequela
+S32.509A@Unsp fracture of unsp pubis, init encntr for closed fracture
+S32.509B@Unsp fracture of unsp pubis, init encntr for open fracture
+S32.509D@Unsp fracture of unsp pubis, subs for fx w routn heal
+S32.509G@Unsp fracture of unsp pubis, subs for fx w delay heal
+S32.509K@Unsp fracture of unsp pubis, subs for fx w nonunion
+S32.509S@Unspecified fracture of unspecified pubis, sequela
+S32.511A@Fracture of superior rim of right pubis, init for clos fx
+S32.511B@Fracture of superior rim of right pubis, init for opn fx
+S32.511D@Fx superior rim of right pubis, subs for fx w routn heal
+S32.511G@Fx superior rim of right pubis, subs for fx w delay heal
+S32.511K@Fx superior rim of right pubis, subs for fx w nonunion
+S32.511S@Fracture of superior rim of right pubis, sequela
+S32.512A@Fracture of superior rim of left pubis, init for clos fx
+S32.512B@Fracture of superior rim of left pubis, init for opn fx
+S32.512D@Fx superior rim of left pubis, subs for fx w routn heal
+S32.512G@Fx superior rim of left pubis, subs for fx w delay heal
+S32.512K@Fx superior rim of left pubis, subs for fx w nonunion
+S32.512S@Fracture of superior rim of left pubis, sequela
+S32.519A@Fracture of superior rim of unsp pubis, init for clos fx
+S32.519B@Fracture of superior rim of unsp pubis, init for opn fx
+S32.519D@Fx superior rim of unsp pubis, subs for fx w routn heal
+S32.519G@Fx superior rim of unsp pubis, subs for fx w delay heal
+S32.519K@Fx superior rim of unsp pubis, subs for fx w nonunion
+S32.519S@Fracture of superior rim of unspecified pubis, sequela
+S32.591A@Oth fracture of right pubis, init encntr for closed fracture
+S32.591B@Oth fracture of right pubis, init encntr for open fracture
+S32.591D@Oth fracture of right pubis, subs for fx w routn heal
+S32.591G@Oth fracture of right pubis, subs for fx w delay heal
+S32.591K@Oth fracture of right pubis, subs for fx w nonunion
+S32.591S@Other specified fracture of right pubis, sequela
+S32.592A@Oth fracture of left pubis, init encntr for closed fracture
+S32.592B@Oth fracture of left pubis, init encntr for open fracture
+S32.592D@Oth fracture of left pubis, subs for fx w routn heal
+S32.592G@Oth fracture of left pubis, subs for fx w delay heal
+S32.592K@Oth fracture of left pubis, subs for fx w nonunion
+S32.592S@Other specified fracture of left pubis, sequela
+S32.599A@Oth fracture of unsp pubis, init encntr for closed fracture
+S32.599B@Oth fracture of unsp pubis, init encntr for open fracture
+S32.599D@Oth fracture of unsp pubis, subs for fx w routn heal
+S32.599G@Oth fracture of unsp pubis, subs for fx w delay heal
+S32.599K@Oth fracture of unsp pubis, subs for fx w nonunion
+S32.599S@Other specified fracture of unspecified pubis, sequela
+S32.601A@Unsp fracture of right ischium, init for clos fx
+S32.601B@Unsp fracture of right ischium, init for opn fx
+S32.601D@Unsp fracture of right ischium, subs for fx w routn heal
+S32.601G@Unsp fracture of right ischium, subs for fx w delay heal
+S32.601K@Unsp fracture of right ischium, subs for fx w nonunion
+S32.601S@Unspecified fracture of right ischium, sequela
+S32.602A@Unsp fracture of left ischium, init for clos fx
+S32.602B@Unsp fracture of left ischium, init encntr for open fracture
+S32.602D@Unsp fracture of left ischium, subs for fx w routn heal
+S32.602G@Unsp fracture of left ischium, subs for fx w delay heal
+S32.602K@Unsp fracture of left ischium, subs for fx w nonunion
+S32.602S@Unspecified fracture of left ischium, sequela
+S32.609A@Unsp fracture of unsp ischium, init for clos fx
+S32.609B@Unsp fracture of unsp ischium, init encntr for open fracture
+S32.609D@Unsp fracture of unsp ischium, subs for fx w routn heal
+S32.609G@Unsp fracture of unsp ischium, subs for fx w delay heal
+S32.609K@Unsp fracture of unsp ischium, subs for fx w nonunion
+S32.609S@Unspecified fracture of unspecified ischium, sequela
+S32.611A@Displaced avulsion fracture of right ischium, init
+S32.611B@Displaced avulsion fx right ischium, init for opn fx
+S32.611D@Displ avulsion fx right ischium, subs for fx w routn heal
+S32.611G@Displ avulsion fx right ischium, subs for fx w delay heal
+S32.611K@Displaced avulsion fx right ischium, subs for fx w nonunion
+S32.611S@Displaced avulsion fracture of right ischium, sequela
+S32.612A@Displaced avulsion fracture of left ischium, init
+S32.612B@Displaced avulsion fracture of left ischium, init for opn fx
+S32.612D@Displaced avulsion fx left ischium, subs for fx w routn heal
+S32.612G@Displaced avulsion fx left ischium, subs for fx w delay heal
+S32.612K@Displaced avulsion fx left ischium, subs for fx w nonunion
+S32.612S@Displaced avulsion fracture of left ischium, sequela
+S32.613A@Displaced avulsion fracture of unsp ischium, init
+S32.613B@Displaced avulsion fracture of unsp ischium, init for opn fx
+S32.613D@Displaced avulsion fx unsp ischium, subs for fx w routn heal
+S32.613G@Displaced avulsion fx unsp ischium, subs for fx w delay heal
+S32.613K@Displaced avulsion fx unsp ischium, subs for fx w nonunion
+S32.613S@Displaced avulsion fracture of unspecified ischium, sequela
+S32.614A@Nondisplaced avulsion fracture of right ischium, init
+S32.614B@Nondisp avulsion fracture of right ischium, init for opn fx
+S32.614D@Nondisp avulsion fx right ischium, subs for fx w routn heal
+S32.614G@Nondisp avulsion fx right ischium, subs for fx w delay heal
+S32.614K@Nondisp avulsion fx right ischium, subs for fx w nonunion
+S32.614S@Nondisplaced avulsion fracture of right ischium, sequela
+S32.615A@Nondisplaced avulsion fracture of left ischium, init
+S32.615B@Nondisp avulsion fracture of left ischium, init for opn fx
+S32.615D@Nondisp avulsion fx left ischium, subs for fx w routn heal
+S32.615G@Nondisp avulsion fx left ischium, subs for fx w delay heal
+S32.615K@Nondisp avulsion fx left ischium, subs for fx w nonunion
+S32.615S@Nondisplaced avulsion fracture of left ischium, sequela
+S32.616A@Nondisplaced avulsion fracture of unsp ischium, init
+S32.616B@Nondisp avulsion fracture of unsp ischium, init for opn fx
+S32.616D@Nondisp avulsion fx unsp ischium, subs for fx w routn heal
+S32.616G@Nondisp avulsion fx unsp ischium, subs for fx w delay heal
+S32.616K@Nondisp avulsion fx unsp ischium, subs for fx w nonunion
+S32.616S@Nondisplaced avulsion fracture of unsp ischium, sequela
+S32.691A@Oth fracture of right ischium, init for clos fx
+S32.691B@Oth fracture of right ischium, init encntr for open fracture
+S32.691D@Oth fracture of right ischium, subs for fx w routn heal
+S32.691G@Oth fracture of right ischium, subs for fx w delay heal
+S32.691K@Oth fracture of right ischium, subs for fx w nonunion
+S32.691S@Other specified fracture of right ischium, sequela
+S32.692A@Oth fracture of left ischium, init for clos fx
+S32.692B@Oth fracture of left ischium, init encntr for open fracture
+S32.692D@Oth fracture of left ischium, subs for fx w routn heal
+S32.692G@Oth fracture of left ischium, subs for fx w delay heal
+S32.692K@Oth fracture of left ischium, subs for fx w nonunion
+S32.692S@Other specified fracture of left ischium, sequela
+S32.699A@Oth fracture of unsp ischium, init for clos fx
+S32.699B@Oth fracture of unsp ischium, init encntr for open fracture
+S32.699D@Oth fracture of unsp ischium, subs for fx w routn heal
+S32.699G@Oth fracture of unsp ischium, subs for fx w delay heal
+S32.699K@Oth fracture of unsp ischium, subs for fx w nonunion
+S32.699S@Other specified fracture of unspecified ischium, sequela
+S32.810A@Multiple fx of pelvis w stable disrupt of pelvic ring, init
+S32.810B@Mult fx of pelv w stable disrupt of pelv ring, 7thB
+S32.810D@Mult fx of pelv w stable disrupt of pelv ring, 7thD
+S32.810G@Mult fx of pelv w stable disrupt of pelv ring, 7thG
+S32.810K@Mult fx of pelv w stable disrupt of pelv ring, 7thK
+S32.810S@Mult fx of pelvis w stable disrupt of pelvic ring, sequela
+S32.811A@Mult fx of pelvis w unstable disrupt of pelvic ring, init
+S32.811B@Mult fx of pelv w unstbl disrupt of pelv ring, 7thB
+S32.811D@Mult fx of pelv w unstbl disrupt of pelv ring, 7thD
+S32.811G@Mult fx of pelv w unstbl disrupt of pelv ring, 7thG
+S32.811K@Mult fx of pelv w unstbl disrupt of pelv ring, 7thK
+S32.811S@Mult fx of pelvis w unstable disrupt of pelvic ring, sequela
+S32.82XA@Multiple fx of pelvis w/o disrupt of pelvic ring, init
+S32.82XB@Mult fx of pelvis w/o disrupt of pelv ring, init for opn fx
+S32.82XD@Mult fx of pelv w/o disrupt of pelv ring, 7thD
+S32.82XG@Mult fx of pelv w/o disrupt of pelv ring, 7thG
+S32.82XK@Mult fx of pelv w/o disrupt of pelv ring, 7thK
+S32.82XS@Multiple fx of pelvis w/o disrupt of pelvic ring, sequela
+S32.89XA@Fracture of oth parts of pelvis, init for clos fx
+S32.89XB@Fracture of oth parts of pelvis, init for opn fx
+S32.89XD@Fracture of oth parts of pelvis, subs for fx w routn heal
+S32.89XG@Fracture of oth parts of pelvis, subs for fx w delay heal
+S32.89XK@Fracture of oth parts of pelvis, subs for fx w nonunion
+S32.89XS@Fracture of other parts of pelvis, sequela
+S32.9XXA@Fracture of unsp parts of lumbosacral spine and pelvis, init
+S32.9XXB@Fx unsp parts of lumbosacral spine & pelvis, init for opn fx
+S32.9XXD@Fx unsp parts of lumbosacr spin & pelv, 7thD
+S32.9XXG@Fx unsp parts of lumbosacr spin & pelv, 7thG
+S32.9XXK@Fx unsp parts of lumbosacr spin & pelv, 7thK
+S32.9XXS@Fx unsp parts of lumbosacral spine & pelvis, sequela
+S33.0XXA@Traumatic rupture of lumbar intervertebral disc, init encntr
+S33.0XXD@Traumatic rupture of lumbar intervertebral disc, subs encntr
+S33.0XXS@Traumatic rupture of lumbar intervertebral disc, sequela
+S33.100A@Subluxation of unspecified lumbar vertebra, init encntr
+S33.100D@Subluxation of unspecified lumbar vertebra, subs encntr
+S33.100S@Subluxation of unspecified lumbar vertebra, sequela
+S33.101A@Dislocation of unspecified lumbar vertebra, init encntr
+S33.101D@Dislocation of unspecified lumbar vertebra, subs encntr
+S33.101S@Dislocation of unspecified lumbar vertebra, sequela
+S33.110A@Subluxation of L1/L2 lumbar vertebra, initial encounter
+S33.110D@Subluxation of L1/L2 lumbar vertebra, subsequent encounter
+S33.110S@Subluxation of L1/L2 lumbar vertebra, sequela
+S33.111A@Dislocation of L1/L2 lumbar vertebra, initial encounter
+S33.111D@Dislocation of L1/L2 lumbar vertebra, subsequent encounter
+S33.111S@Dislocation of L1/L2 lumbar vertebra, sequela
+S33.120A@Subluxation of L2/L3 lumbar vertebra, initial encounter
+S33.120D@Subluxation of L2/L3 lumbar vertebra, subsequent encounter
+S33.120S@Subluxation of L2/L3 lumbar vertebra, sequela
+S33.121A@Dislocation of L2/L3 lumbar vertebra, initial encounter
+S33.121D@Dislocation of L2/L3 lumbar vertebra, subsequent encounter
+S33.121S@Dislocation of L2/L3 lumbar vertebra, sequela
+S33.130A@Subluxation of L3/L4 lumbar vertebra, initial encounter
+S33.130D@Subluxation of L3/L4 lumbar vertebra, subsequent encounter
+S33.130S@Subluxation of L3/L4 lumbar vertebra, sequela
+S33.131A@Dislocation of L3/L4 lumbar vertebra, initial encounter
+S33.131D@Dislocation of L3/L4 lumbar vertebra, subsequent encounter
+S33.131S@Dislocation of L3/L4 lumbar vertebra, sequela
+S33.140A@Subluxation of L4/L5 lumbar vertebra, initial encounter
+S33.140D@Subluxation of L4/L5 lumbar vertebra, subsequent encounter
+S33.140S@Subluxation of L4/L5 lumbar vertebra, sequela
+S33.141A@Dislocation of L4/L5 lumbar vertebra, initial encounter
+S33.141D@Dislocation of L4/L5 lumbar vertebra, subsequent encounter
+S33.141S@Dislocation of L4/L5 lumbar vertebra, sequela
+S33.2XXA@Dislocation of sacroiliac and sacrococcygeal joint, init
+S33.2XXD@Dislocation of sacroiliac and sacrococcygeal joint, subs
+S33.2XXS@Dislocation of sacroiliac and sacrococcygeal joint, sequela
+S33.30XA@Dislocation of unsp parts of lumbar spine and pelvis, init
+S33.30XD@Dislocation of unsp parts of lumbar spine and pelvis, subs
+S33.30XS@Dislocation of unsp parts of lumbar spine & pelvis, sequela
+S33.39XA@Dislocation of oth prt lumbar spine and pelvis, init encntr
+S33.39XD@Dislocation of oth prt lumbar spine and pelvis, subs encntr
+S33.39XS@Dislocation of oth parts of lumbar spine and pelvis, sequela
+S33.4XXA@Traumatic rupture of symphysis pubis, initial encounter
+S33.4XXD@Traumatic rupture of symphysis pubis, subsequent encounter
+S33.4XXS@Traumatic rupture of symphysis pubis, sequela
+S33.5XXA@Sprain of ligaments of lumbar spine, initial encounter
+S33.5XXD@Sprain of ligaments of lumbar spine, subsequent encounter
+S33.5XXS@Sprain of ligaments of lumbar spine, sequela
+S33.6XXA@Sprain of sacroiliac joint, initial encounter
+S33.6XXD@Sprain of sacroiliac joint, subsequent encounter
+S33.6XXS@Sprain of sacroiliac joint, sequela
+S33.8XXA@Sprain of oth parts of lumbar spine and pelvis, init encntr
+S33.8XXD@Sprain of oth parts of lumbar spine and pelvis, subs encntr
+S33.8XXS@Sprain of other parts of lumbar spine and pelvis, sequela
+S33.9XXA@Sprain of unsp parts of lumbar spine and pelvis, init encntr
+S33.9XXD@Sprain of unsp parts of lumbar spine and pelvis, subs encntr
+S33.9XXS@Sprain of unsp parts of lumbar spine and pelvis, sequela
+S34.01XA@Concussion and edema of lumbar spinal cord, init encntr
+S34.01XD@Concussion and edema of lumbar spinal cord, subs encntr
+S34.01XS@Concussion and edema of lumbar spinal cord, sequela
+S34.02XA@Concussion and edema of sacral spinal cord, init encntr
+S34.02XD@Concussion and edema of sacral spinal cord, subs encntr
+S34.02XS@Concussion and edema of sacral spinal cord, sequela
+S34.101A@Unsp injury to L1 level of lumbar spinal cord, init encntr
+S34.101D@Unsp injury to L1 level of lumbar spinal cord, subs encntr
+S34.101S@Unsp injury to L1 level of lumbar spinal cord, sequela
+S34.102A@Unsp injury to L2 level of lumbar spinal cord, init encntr
+S34.102D@Unsp injury to L2 level of lumbar spinal cord, subs encntr
+S34.102S@Unsp injury to L2 level of lumbar spinal cord, sequela
+S34.103A@Unsp injury to L3 level of lumbar spinal cord, init encntr
+S34.103D@Unsp injury to L3 level of lumbar spinal cord, subs encntr
+S34.103S@Unsp injury to L3 level of lumbar spinal cord, sequela
+S34.104A@Unsp injury to L4 level of lumbar spinal cord, init encntr
+S34.104D@Unsp injury to L4 level of lumbar spinal cord, subs encntr
+S34.104S@Unsp injury to L4 level of lumbar spinal cord, sequela
+S34.105A@Unsp injury to L5 level of lumbar spinal cord, init encntr
+S34.105D@Unsp injury to L5 level of lumbar spinal cord, subs encntr
+S34.105S@Unsp injury to L5 level of lumbar spinal cord, sequela
+S34.109A@Unsp injury to unsp level of lumbar spinal cord, init encntr
+S34.109D@Unsp injury to unsp level of lumbar spinal cord, subs encntr
+S34.109S@Unsp injury to unsp level of lumbar spinal cord, sequela
+S34.111A@Complete lesion of L1 level of lumbar spinal cord, init
+S34.111D@Complete lesion of L1 level of lumbar spinal cord, subs
+S34.111S@Complete lesion of L1 level of lumbar spinal cord, sequela
+S34.112A@Complete lesion of L2 level of lumbar spinal cord, init
+S34.112D@Complete lesion of L2 level of lumbar spinal cord, subs
+S34.112S@Complete lesion of L2 level of lumbar spinal cord, sequela
+S34.113A@Complete lesion of L3 level of lumbar spinal cord, init
+S34.113D@Complete lesion of L3 level of lumbar spinal cord, subs
+S34.113S@Complete lesion of L3 level of lumbar spinal cord, sequela
+S34.114A@Complete lesion of L4 level of lumbar spinal cord, init
+S34.114D@Complete lesion of L4 level of lumbar spinal cord, subs
+S34.114S@Complete lesion of L4 level of lumbar spinal cord, sequela
+S34.115A@Complete lesion of L5 level of lumbar spinal cord, init
+S34.115D@Complete lesion of L5 level of lumbar spinal cord, subs
+S34.115S@Complete lesion of L5 level of lumbar spinal cord, sequela
+S34.119A@Complete lesion of unsp level of lumbar spinal cord, init
+S34.119D@Complete lesion of unsp level of lumbar spinal cord, subs
+S34.119S@Complete lesion of unsp level of lumbar spinal cord, sequela
+S34.121A@Incomplete lesion of L1 level of lumbar spinal cord, init
+S34.121D@Incomplete lesion of L1 level of lumbar spinal cord, subs
+S34.121S@Incomplete lesion of L1 level of lumbar spinal cord, sequela
+S34.122A@Incomplete lesion of L2 level of lumbar spinal cord, init
+S34.122D@Incomplete lesion of L2 level of lumbar spinal cord, subs
+S34.122S@Incomplete lesion of L2 level of lumbar spinal cord, sequela
+S34.123A@Incomplete lesion of L3 level of lumbar spinal cord, init
+S34.123D@Incomplete lesion of L3 level of lumbar spinal cord, subs
+S34.123S@Incomplete lesion of L3 level of lumbar spinal cord, sequela
+S34.124A@Incomplete lesion of L4 level of lumbar spinal cord, init
+S34.124D@Incomplete lesion of L4 level of lumbar spinal cord, subs
+S34.124S@Incomplete lesion of L4 level of lumbar spinal cord, sequela
+S34.125A@Incomplete lesion of L5 level of lumbar spinal cord, init
+S34.125D@Incomplete lesion of L5 level of lumbar spinal cord, subs
+S34.125S@Incomplete lesion of L5 level of lumbar spinal cord, sequela
+S34.129A@Incomplete lesion of unsp level of lumbar spinal cord, init
+S34.129D@Incomplete lesion of unsp level of lumbar spinal cord, subs
+S34.129S@Incomplete lesion of unsp level of lum spinal cord, sequela
+S34.131A@Complete lesion of sacral spinal cord, initial encounter
+S34.131D@Complete lesion of sacral spinal cord, subsequent encounter
+S34.131S@Complete lesion of sacral spinal cord, sequela
+S34.132A@Incomplete lesion of sacral spinal cord, initial encounter
+S34.132D@Incomplete lesion of sacral spinal cord, subs encntr
+S34.132S@Incomplete lesion of sacral spinal cord, sequela
+S34.139A@Unspecified injury to sacral spinal cord, initial encounter
+S34.139D@Unspecified injury to sacral spinal cord, subs encntr
+S34.139S@Unspecified injury to sacral spinal cord, sequela
+S34.21XA@Injury of nerve root of lumbar spine, initial encounter
+S34.21XD@Injury of nerve root of lumbar spine, subsequent encounter
+S34.21XS@Injury of nerve root of lumbar spine, sequela
+S34.22XA@Injury of nerve root of sacral spine, initial encounter
+S34.22XD@Injury of nerve root of sacral spine, subsequent encounter
+S34.22XS@Injury of nerve root of sacral spine, sequela
+S34.3XXA@Injury of cauda equina, initial encounter
+S34.3XXD@Injury of cauda equina, subsequent encounter
+S34.3XXS@Injury of cauda equina, sequela
+S34.4XXA@Injury of lumbosacral plexus, initial encounter
+S34.4XXD@Injury of lumbosacral plexus, subsequent encounter
+S34.4XXS@Injury of lumbosacral plexus, sequela
+S34.5XXA@Injury of lumbar, sacral and pelvic sympathetic nerves, init
+S34.5XXD@Injury of lumbar, sacral and pelvic sympathetic nerves, subs
+S34.5XXS@Inj lumbar, sacral and pelvic sympathetic nerves, sequela
+S34.6XXA@Inj prph nerve(s) at abd, low back and pelvis level, init
+S34.6XXD@Inj prph nerve(s) at abd, low back and pelvis level, subs
+S34.6XXS@Inj prph nerve(s) at abd, low back and pelvis level, sequela
+S34.8XXA@Injury of nerves at abdomen, low back and pelvis level, init
+S34.8XXD@Injury of nerves at abdomen, low back and pelvis level, subs
+S34.8XXS@Inj nerves at abdomen, low back and pelvis level, sequela
+S34.9XXA@Inj unsp nerves at abdomen, low back and pelvis level, init
+S34.9XXD@Inj unsp nerves at abdomen, low back and pelvis level, subs
+S34.9XXS@Inj unsp nerves at abd, low back and pelvis level, sequela
+S35.00XA@Unspecified injury of abdominal aorta, initial encounter
+S35.00XD@Unspecified injury of abdominal aorta, subsequent encounter
+S35.00XS@Unspecified injury of abdominal aorta, sequela
+S35.01XA@Minor laceration of abdominal aorta, initial encounter
+S35.01XD@Minor laceration of abdominal aorta, subsequent encounter
+S35.01XS@Minor laceration of abdominal aorta, sequela
+S35.02XA@Major laceration of abdominal aorta, initial encounter
+S35.02XD@Major laceration of abdominal aorta, subsequent encounter
+S35.02XS@Major laceration of abdominal aorta, sequela
+S35.09XA@Other injury of abdominal aorta, initial encounter
+S35.09XD@Other injury of abdominal aorta, subsequent encounter
+S35.09XS@Other injury of abdominal aorta, sequela
+S35.10XA@Unspecified injury of inferior vena cava, initial encounter
+S35.10XD@Unspecified injury of inferior vena cava, subs encntr
+S35.10XS@Unspecified injury of inferior vena cava, sequela
+S35.11XA@Minor laceration of inferior vena cava, initial encounter
+S35.11XD@Minor laceration of inferior vena cava, subsequent encounter
+S35.11XS@Minor laceration of inferior vena cava, sequela
+S35.12XA@Major laceration of inferior vena cava, initial encounter
+S35.12XD@Major laceration of inferior vena cava, subsequent encounter
+S35.12XS@Major laceration of inferior vena cava, sequela
+S35.19XA@Other injury of inferior vena cava, initial encounter
+S35.19XD@Other injury of inferior vena cava, subsequent encounter
+S35.19XS@Other injury of inferior vena cava, sequela
+S35.211A@Minor laceration of celiac artery, initial encounter
+S35.211D@Minor laceration of celiac artery, subsequent encounter
+S35.211S@Minor laceration of celiac artery, sequela
+S35.212A@Major laceration of celiac artery, initial encounter
+S35.212D@Major laceration of celiac artery, subsequent encounter
+S35.212S@Major laceration of celiac artery, sequela
+S35.218A@Other injury of celiac artery, initial encounter
+S35.218D@Other injury of celiac artery, subsequent encounter
+S35.218S@Other injury of celiac artery, sequela
+S35.219A@Unspecified injury of celiac artery, initial encounter
+S35.219D@Unspecified injury of celiac artery, subsequent encounter
+S35.219S@Unspecified injury of celiac artery, sequela
+S35.221A@Minor laceration of superior mesenteric artery, init encntr
+S35.221D@Minor laceration of superior mesenteric artery, subs encntr
+S35.221S@Minor laceration of superior mesenteric artery, sequela
+S35.222A@Major laceration of superior mesenteric artery, init encntr
+S35.222D@Major laceration of superior mesenteric artery, subs encntr
+S35.222S@Major laceration of superior mesenteric artery, sequela
+S35.228A@Other injury of superior mesenteric artery, init encntr
+S35.228D@Other injury of superior mesenteric artery, subs encntr
+S35.228S@Other injury of superior mesenteric artery, sequela
+S35.229A@Unsp injury of superior mesenteric artery, init encntr
+S35.229D@Unsp injury of superior mesenteric artery, subs encntr
+S35.229S@Unspecified injury of superior mesenteric artery, sequela
+S35.231A@Minor laceration of inferior mesenteric artery, init encntr
+S35.231D@Minor laceration of inferior mesenteric artery, subs encntr
+S35.231S@Minor laceration of inferior mesenteric artery, sequela
+S35.232A@Major laceration of inferior mesenteric artery, init encntr
+S35.232D@Major laceration of inferior mesenteric artery, subs encntr
+S35.232S@Major laceration of inferior mesenteric artery, sequela
+S35.238A@Other injury of inferior mesenteric artery, init encntr
+S35.238D@Other injury of inferior mesenteric artery, subs encntr
+S35.238S@Other injury of inferior mesenteric artery, sequela
+S35.239A@Unsp injury of inferior mesenteric artery, init encntr
+S35.239D@Unsp injury of inferior mesenteric artery, subs encntr
+S35.239S@Unspecified injury of inferior mesenteric artery, sequela
+S35.291A@Minor laceration of branches of celiac and mesent art, init
+S35.291D@Minor laceration of branches of celiac and mesent art, subs
+S35.291S@Minor lacerat branches of celiac and mesent art, sequela
+S35.292A@Major laceration of branches of celiac and mesent art, init
+S35.292D@Major laceration of branches of celiac and mesent art, subs
+S35.292S@Major lacerat branches of celiac and mesent art, sequela
+S35.298A@Inj branches of celiac and mesenteric artery, init encntr
+S35.298D@Inj branches of celiac and mesenteric artery, subs encntr
+S35.298S@Inj branches of celiac and mesenteric artery, sequela
+S35.299A@Unsp injury of branches of celiac and mesent art, init
+S35.299D@Unsp injury of branches of celiac and mesent art, subs
+S35.299S@Unsp injury of branches of celiac and mesent art, sequela
+S35.311A@Laceration of portal vein, initial encounter
+S35.311D@Laceration of portal vein, subsequent encounter
+S35.311S@Laceration of portal vein, sequela
+S35.318A@Other specified injury of portal vein, initial encounter
+S35.318D@Other specified injury of portal vein, subsequent encounter
+S35.318S@Other specified injury of portal vein, sequela
+S35.319A@Unspecified injury of portal vein, initial encounter
+S35.319D@Unspecified injury of portal vein, subsequent encounter
+S35.319S@Unspecified injury of portal vein, sequela
+S35.321A@Laceration of splenic vein, initial encounter
+S35.321D@Laceration of splenic vein, subsequent encounter
+S35.321S@Laceration of splenic vein, sequela
+S35.328A@Other specified injury of splenic vein, initial encounter
+S35.328D@Other specified injury of splenic vein, subsequent encounter
+S35.328S@Other specified injury of splenic vein, sequela
+S35.329A@Unspecified injury of splenic vein, initial encounter
+S35.329D@Unspecified injury of splenic vein, subsequent encounter
+S35.329S@Unspecified injury of splenic vein, sequela
+S35.331A@Laceration of superior mesenteric vein, initial encounter
+S35.331D@Laceration of superior mesenteric vein, subsequent encounter
+S35.331S@Laceration of superior mesenteric vein, sequela
+S35.338A@Oth injury of superior mesenteric vein, init encntr
+S35.338D@Oth injury of superior mesenteric vein, subs encntr
+S35.338S@Other specified injury of superior mesenteric vein, sequela
+S35.339A@Unspecified injury of superior mesenteric vein, init encntr
+S35.339D@Unspecified injury of superior mesenteric vein, subs encntr
+S35.339S@Unspecified injury of superior mesenteric vein, sequela
+S35.341A@Laceration of inferior mesenteric vein, initial encounter
+S35.341D@Laceration of inferior mesenteric vein, subsequent encounter
+S35.341S@Laceration of inferior mesenteric vein, sequela
+S35.348A@Oth injury of inferior mesenteric vein, init encntr
+S35.348D@Oth injury of inferior mesenteric vein, subs encntr
+S35.348S@Other specified injury of inferior mesenteric vein, sequela
+S35.349A@Unspecified injury of inferior mesenteric vein, init encntr
+S35.349D@Unspecified injury of inferior mesenteric vein, subs encntr
+S35.349S@Unspecified injury of inferior mesenteric vein, sequela
+S35.401A@Unspecified injury of right renal artery, initial encounter
+S35.401D@Unspecified injury of right renal artery, subs encntr
+S35.401S@Unspecified injury of right renal artery, sequela
+S35.402A@Unspecified injury of left renal artery, initial encounter
+S35.402D@Unspecified injury of left renal artery, subs encntr
+S35.402S@Unspecified injury of left renal artery, sequela
+S35.403A@Unspecified injury of unspecified renal artery, init encntr
+S35.403D@Unspecified injury of unspecified renal artery, subs encntr
+S35.403S@Unspecified injury of unspecified renal artery, sequela
+S35.404A@Unspecified injury of right renal vein, initial encounter
+S35.404D@Unspecified injury of right renal vein, subsequent encounter
+S35.404S@Unspecified injury of right renal vein, sequela
+S35.405A@Unspecified injury of left renal vein, initial encounter
+S35.405D@Unspecified injury of left renal vein, subsequent encounter
+S35.405S@Unspecified injury of left renal vein, sequela
+S35.406A@Unspecified injury of unspecified renal vein, init encntr
+S35.406D@Unspecified injury of unspecified renal vein, subs encntr
+S35.406S@Unspecified injury of unspecified renal vein, sequela
+S35.411A@Laceration of right renal artery, initial encounter
+S35.411D@Laceration of right renal artery, subsequent encounter
+S35.411S@Laceration of right renal artery, sequela
+S35.412A@Laceration of left renal artery, initial encounter
+S35.412D@Laceration of left renal artery, subsequent encounter
+S35.412S@Laceration of left renal artery, sequela
+S35.413A@Laceration of unspecified renal artery, initial encounter
+S35.413D@Laceration of unspecified renal artery, subsequent encounter
+S35.413S@Laceration of unspecified renal artery, sequela
+S35.414A@Laceration of right renal vein, initial encounter
+S35.414D@Laceration of right renal vein, subsequent encounter
+S35.414S@Laceration of right renal vein, sequela
+S35.415A@Laceration of left renal vein, initial encounter
+S35.415D@Laceration of left renal vein, subsequent encounter
+S35.415S@Laceration of left renal vein, sequela
+S35.416A@Laceration of unspecified renal vein, initial encounter
+S35.416D@Laceration of unspecified renal vein, subsequent encounter
+S35.416S@Laceration of unspecified renal vein, sequela
+S35.491A@Other specified injury of right renal artery, init encntr
+S35.491D@Other specified injury of right renal artery, subs encntr
+S35.491S@Other specified injury of right renal artery, sequela
+S35.492A@Other specified injury of left renal artery, init encntr
+S35.492D@Other specified injury of left renal artery, subs encntr
+S35.492S@Other specified injury of left renal artery, sequela
+S35.493A@Oth injury of unspecified renal artery, init encntr
+S35.493D@Oth injury of unspecified renal artery, subs encntr
+S35.493S@Other specified injury of unspecified renal artery, sequela
+S35.494A@Other specified injury of right renal vein, init encntr
+S35.494D@Other specified injury of right renal vein, subs encntr
+S35.494S@Other specified injury of right renal vein, sequela
+S35.495A@Other specified injury of left renal vein, initial encounter
+S35.495D@Other specified injury of left renal vein, subs encntr
+S35.495S@Other specified injury of left renal vein, sequela
+S35.496A@Oth injury of unspecified renal vein, init encntr
+S35.496D@Oth injury of unspecified renal vein, subs encntr
+S35.496S@Other specified injury of unspecified renal vein, sequela
+S35.50XA@Injury of unspecified iliac blood vessel(s), init encntr
+S35.50XD@Injury of unspecified iliac blood vessel(s), subs encntr
+S35.50XS@Injury of unspecified iliac blood vessel(s), sequela
+S35.511A@Injury of right iliac artery, initial encounter
+S35.511D@Injury of right iliac artery, subsequent encounter
+S35.511S@Injury of right iliac artery, sequela
+S35.512A@Injury of left iliac artery, initial encounter
+S35.512D@Injury of left iliac artery, subsequent encounter
+S35.512S@Injury of left iliac artery, sequela
+S35.513A@Injury of unspecified iliac artery, initial encounter
+S35.513D@Injury of unspecified iliac artery, subsequent encounter
+S35.513S@Injury of unspecified iliac artery, sequela
+S35.514A@Injury of right iliac vein, initial encounter
+S35.514D@Injury of right iliac vein, subsequent encounter
+S35.514S@Injury of right iliac vein, sequela
+S35.515A@Injury of left iliac vein, initial encounter
+S35.515D@Injury of left iliac vein, subsequent encounter
+S35.515S@Injury of left iliac vein, sequela
+S35.516A@Injury of unspecified iliac vein, initial encounter
+S35.516D@Injury of unspecified iliac vein, subsequent encounter
+S35.516S@Injury of unspecified iliac vein, sequela
+S35.531A@Injury of right uterine artery, initial encounter
+S35.531D@Injury of right uterine artery, subsequent encounter
+S35.531S@Injury of right uterine artery, sequela
+S35.532A@Injury of left uterine artery, initial encounter
+S35.532D@Injury of left uterine artery, subsequent encounter
+S35.532S@Injury of left uterine artery, sequela
+S35.533A@Injury of unspecified uterine artery, initial encounter
+S35.533D@Injury of unspecified uterine artery, subsequent encounter
+S35.533S@Injury of unspecified uterine artery, sequela
+S35.534A@Injury of right uterine vein, initial encounter
+S35.534D@Injury of right uterine vein, subsequent encounter
+S35.534S@Injury of right uterine vein, sequela
+S35.535A@Injury of left uterine vein, initial encounter
+S35.535D@Injury of left uterine vein, subsequent encounter
+S35.535S@Injury of left uterine vein, sequela
+S35.536A@Injury of unspecified uterine vein, initial encounter
+S35.536D@Injury of unspecified uterine vein, subsequent encounter
+S35.536S@Injury of unspecified uterine vein, sequela
+S35.59XA@Injury of other iliac blood vessels, initial encounter
+S35.59XD@Injury of other iliac blood vessels, subsequent encounter
+S35.59XS@Injury of other iliac blood vessels, sequela
+S35.8X1A@Lacerat blood vesls at abd, low back and pelvis level, init
+S35.8X1D@Lacerat blood vesls at abd, low back and pelvis level, subs
+S35.8X1S@Lacerat blood vesls at abd, low back and pelvis level, sqla
+S35.8X8A@Inj oth blood vesls at abd, low back and pelvis level, init
+S35.8X8D@Inj oth blood vesls at abd, low back and pelvis level, subs
+S35.8X8S@Inj oth blood vesls at abd, low back and pelvis level, sqla
+S35.8X9A@Unsp inj blood vesls at abd, low back and pelvis level, init
+S35.8X9D@Unsp inj blood vesls at abd, low back and pelvis level, subs
+S35.8X9S@Unsp inj blood vesls at abd, low back and pelvis level, sqla
+S35.90XA@Unsp inj unsp bld vess at abd, low back and pelv level, init
+S35.90XD@Unsp inj unsp bld vess at abd, low back and pelv level, subs
+S35.90XS@Unsp inj unsp bld vess at abd, low back and pelv level, sqla
+S35.91XA@Lacerat unsp bld vess at abd, low back and pelv level, init
+S35.91XD@Lacerat unsp bld vess at abd, low back and pelv level, subs
+S35.91XS@Lacerat unsp bld vess at abd, low back and pelv level, sqla
+S35.99XA@Inj unsp blood vess at abd, low back and pelvis level, init
+S35.99XD@Inj unsp blood vess at abd, low back and pelvis level, subs
+S35.99XS@Inj unsp blood vess at abd, low back and pelvis level, sqla
+S36.00XA@Unspecified injury of spleen, initial encounter
+S36.00XD@Unspecified injury of spleen, subsequent encounter
+S36.00XS@Unspecified injury of spleen, sequela
+S36.020A@Minor contusion of spleen, initial encounter
+S36.020D@Minor contusion of spleen, subsequent encounter
+S36.020S@Minor contusion of spleen, sequela
+S36.021A@Major contusion of spleen, initial encounter
+S36.021D@Major contusion of spleen, subsequent encounter
+S36.021S@Major contusion of spleen, sequela
+S36.029A@Unspecified contusion of spleen, initial encounter
+S36.029D@Unspecified contusion of spleen, subsequent encounter
+S36.029S@Unspecified contusion of spleen, sequela
+S36.030A@Superficial (capsular) laceration of spleen, init encntr
+S36.030D@Superficial (capsular) laceration of spleen, subs encntr
+S36.030S@Superficial (capsular) laceration of spleen, sequela
+S36.031A@Moderate laceration of spleen, initial encounter
+S36.031D@Moderate laceration of spleen, subsequent encounter
+S36.031S@Moderate laceration of spleen, sequela
+S36.032A@Major laceration of spleen, initial encounter
+S36.032D@Major laceration of spleen, subsequent encounter
+S36.032S@Major laceration of spleen, sequela
+S36.039A@Unspecified laceration of spleen, initial encounter
+S36.039D@Unspecified laceration of spleen, subsequent encounter
+S36.039S@Unspecified laceration of spleen, sequela
+S36.09XA@Other injury of spleen, initial encounter
+S36.09XD@Other injury of spleen, subsequent encounter
+S36.09XS@Other injury of spleen, sequela
+S36.112A@Contusion of liver, initial encounter
+S36.112D@Contusion of liver, subsequent encounter
+S36.112S@Contusion of liver, sequela
+S36.113A@Laceration of liver, unspecified degree, initial encounter
+S36.113D@Laceration of liver, unspecified degree, subs encntr
+S36.113S@Laceration of liver, unspecified degree, sequela
+S36.114A@Minor laceration of liver, initial encounter
+S36.114D@Minor laceration of liver, subsequent encounter
+S36.114S@Minor laceration of liver, sequela
+S36.115A@Moderate laceration of liver, initial encounter
+S36.115D@Moderate laceration of liver, subsequent encounter
+S36.115S@Moderate laceration of liver, sequela
+S36.116A@Major laceration of liver, initial encounter
+S36.116D@Major laceration of liver, subsequent encounter
+S36.116S@Major laceration of liver, sequela
+S36.118A@Other injury of liver, initial encounter
+S36.118D@Other injury of liver, subsequent encounter
+S36.118S@Other injury of liver, sequela
+S36.119A@Unspecified injury of liver, initial encounter
+S36.119D@Unspecified injury of liver, subsequent encounter
+S36.119S@Unspecified injury of liver, sequela
+S36.122A@Contusion of gallbladder, initial encounter
+S36.122D@Contusion of gallbladder, subsequent encounter
+S36.122S@Contusion of gallbladder, sequela
+S36.123A@Laceration of gallbladder, initial encounter
+S36.123D@Laceration of gallbladder, subsequent encounter
+S36.123S@Laceration of gallbladder, sequela
+S36.128A@Other injury of gallbladder, initial encounter
+S36.128D@Other injury of gallbladder, subsequent encounter
+S36.128S@Other injury of gallbladder, sequela
+S36.129A@Unspecified injury of gallbladder, initial encounter
+S36.129D@Unspecified injury of gallbladder, subsequent encounter
+S36.129S@Unspecified injury of gallbladder, sequela
+S36.13XA@Injury of bile duct, initial encounter
+S36.13XD@Injury of bile duct, subsequent encounter
+S36.13XS@Injury of bile duct, sequela
+S36.200A@Unspecified injury of head of pancreas, initial encounter
+S36.200D@Unspecified injury of head of pancreas, subsequent encounter
+S36.200S@Unspecified injury of head of pancreas, sequela
+S36.201A@Unspecified injury of body of pancreas, initial encounter
+S36.201D@Unspecified injury of body of pancreas, subsequent encounter
+S36.201S@Unspecified injury of body of pancreas, sequela
+S36.202A@Unspecified injury of tail of pancreas, initial encounter
+S36.202D@Unspecified injury of tail of pancreas, subsequent encounter
+S36.202S@Unspecified injury of tail of pancreas, sequela
+S36.209A@Unsp injury of unspecified part of pancreas, init encntr
+S36.209D@Unsp injury of unspecified part of pancreas, subs encntr
+S36.209S@Unspecified injury of unspecified part of pancreas, sequela
+S36.220A@Contusion of head of pancreas, initial encounter
+S36.220D@Contusion of head of pancreas, subsequent encounter
+S36.220S@Contusion of head of pancreas, sequela
+S36.221A@Contusion of body of pancreas, initial encounter
+S36.221D@Contusion of body of pancreas, subsequent encounter
+S36.221S@Contusion of body of pancreas, sequela
+S36.222A@Contusion of tail of pancreas, initial encounter
+S36.222D@Contusion of tail of pancreas, subsequent encounter
+S36.222S@Contusion of tail of pancreas, sequela
+S36.229A@Contusion of unspecified part of pancreas, initial encounter
+S36.229D@Contusion of unspecified part of pancreas, subs encntr
+S36.229S@Contusion of unspecified part of pancreas, sequela
+S36.230A@Laceration of head of pancreas, unsp degree, init encntr
+S36.230D@Laceration of head of pancreas, unsp degree, subs encntr
+S36.230S@Laceration of head of pancreas, unspecified degree, sequela
+S36.231A@Laceration of body of pancreas, unsp degree, init encntr
+S36.231D@Laceration of body of pancreas, unsp degree, subs encntr
+S36.231S@Laceration of body of pancreas, unspecified degree, sequela
+S36.232A@Laceration of tail of pancreas, unsp degree, init encntr
+S36.232D@Laceration of tail of pancreas, unsp degree, subs encntr
+S36.232S@Laceration of tail of pancreas, unspecified degree, sequela
+S36.239A@Laceration of unsp part of pancreas, unsp degree, init
+S36.239D@Laceration of unsp part of pancreas, unsp degree, subs
+S36.239S@Laceration of unsp part of pancreas, unsp degree, sequela
+S36.240A@Minor laceration of head of pancreas, initial encounter
+S36.240D@Minor laceration of head of pancreas, subsequent encounter
+S36.240S@Minor laceration of head of pancreas, sequela
+S36.241A@Minor laceration of body of pancreas, initial encounter
+S36.241D@Minor laceration of body of pancreas, subsequent encounter
+S36.241S@Minor laceration of body of pancreas, sequela
+S36.242A@Minor laceration of tail of pancreas, initial encounter
+S36.242D@Minor laceration of tail of pancreas, subsequent encounter
+S36.242S@Minor laceration of tail of pancreas, sequela
+S36.249A@Minor laceration of unsp part of pancreas, init encntr
+S36.249D@Minor laceration of unsp part of pancreas, subs encntr
+S36.249S@Minor laceration of unspecified part of pancreas, sequela
+S36.250A@Moderate laceration of head of pancreas, initial encounter
+S36.250D@Moderate laceration of head of pancreas, subs encntr
+S36.250S@Moderate laceration of head of pancreas, sequela
+S36.251A@Moderate laceration of body of pancreas, initial encounter
+S36.251D@Moderate laceration of body of pancreas, subs encntr
+S36.251S@Moderate laceration of body of pancreas, sequela
+S36.252A@Moderate laceration of tail of pancreas, initial encounter
+S36.252D@Moderate laceration of tail of pancreas, subs encntr
+S36.252S@Moderate laceration of tail of pancreas, sequela
+S36.259A@Moderate laceration of unsp part of pancreas, init encntr
+S36.259D@Moderate laceration of unsp part of pancreas, subs encntr
+S36.259S@Moderate laceration of unspecified part of pancreas, sequela
+S36.260A@Major laceration of head of pancreas, initial encounter
+S36.260D@Major laceration of head of pancreas, subsequent encounter
+S36.260S@Major laceration of head of pancreas, sequela
+S36.261A@Major laceration of body of pancreas, initial encounter
+S36.261D@Major laceration of body of pancreas, subsequent encounter
+S36.261S@Major laceration of body of pancreas, sequela
+S36.262A@Major laceration of tail of pancreas, initial encounter
+S36.262D@Major laceration of tail of pancreas, subsequent encounter
+S36.262S@Major laceration of tail of pancreas, sequela
+S36.269A@Major laceration of unsp part of pancreas, init encntr
+S36.269D@Major laceration of unsp part of pancreas, subs encntr
+S36.269S@Major laceration of unspecified part of pancreas, sequela
+S36.290A@Other injury of head of pancreas, initial encounter
+S36.290D@Other injury of head of pancreas, subsequent encounter
+S36.290S@Other injury of head of pancreas, sequela
+S36.291A@Other injury of body of pancreas, initial encounter
+S36.291D@Other injury of body of pancreas, subsequent encounter
+S36.291S@Other injury of body of pancreas, sequela
+S36.292A@Other injury of tail of pancreas, initial encounter
+S36.292D@Other injury of tail of pancreas, subsequent encounter
+S36.292S@Other injury of tail of pancreas, sequela
+S36.299A@Other injury of unspecified part of pancreas, init encntr
+S36.299D@Other injury of unspecified part of pancreas, subs encntr
+S36.299S@Other injury of unspecified part of pancreas, sequela
+S36.30XA@Unspecified injury of stomach, initial encounter
+S36.30XD@Unspecified injury of stomach, subsequent encounter
+S36.30XS@Unspecified injury of stomach, sequela
+S36.32XA@Contusion of stomach, initial encounter
+S36.32XD@Contusion of stomach, subsequent encounter
+S36.32XS@Contusion of stomach, sequela
+S36.33XA@Laceration of stomach, initial encounter
+S36.33XD@Laceration of stomach, subsequent encounter
+S36.33XS@Laceration of stomach, sequela
+S36.39XA@Other injury of stomach, initial encounter
+S36.39XD@Other injury of stomach, subsequent encounter
+S36.39XS@Other injury of stomach, sequela
+S36.400A@Unspecified injury of duodenum, initial encounter
+S36.400D@Unspecified injury of duodenum, subsequent encounter
+S36.400S@Unspecified injury of duodenum, sequela
+S36.408A@Unsp injury of other part of small intestine, init encntr
+S36.408D@Unsp injury of other part of small intestine, subs encntr
+S36.408S@Unspecified injury of other part of small intestine, sequela
+S36.409A@Unsp injury of unsp part of small intestine, init encntr
+S36.409D@Unsp injury of unsp part of small intestine, subs encntr
+S36.409S@Unsp injury of unspecified part of small intestine, sequela
+S36.410A@Primary blast injury of duodenum, initial encounter
+S36.410D@Primary blast injury of duodenum, subsequent encounter
+S36.410S@Primary blast injury of duodenum, sequela
+S36.418A@Primary blast injury oth prt small intestine, init encntr
+S36.418D@Primary blast injury oth prt small intestine, subs encntr
+S36.418S@Primary blast injury of oth part of small intestine, sequela
+S36.419A@Primary blast injury of unsp part of small intestine, init
+S36.419D@Primary blast injury of unsp part of small intestine, subs
+S36.419S@Primary blast injury of unsp part of sm int, sequela
+S36.420A@Contusion of duodenum, initial encounter
+S36.420D@Contusion of duodenum, subsequent encounter
+S36.420S@Contusion of duodenum, sequela
+S36.428A@Contusion of other part of small intestine, init encntr
+S36.428D@Contusion of other part of small intestine, subs encntr
+S36.428S@Contusion of other part of small intestine, sequela
+S36.429A@Contusion of unsp part of small intestine, init encntr
+S36.429D@Contusion of unsp part of small intestine, subs encntr
+S36.429S@Contusion of unspecified part of small intestine, sequela
+S36.430A@Laceration of duodenum, initial encounter
+S36.430D@Laceration of duodenum, subsequent encounter
+S36.430S@Laceration of duodenum, sequela
+S36.438A@Laceration of other part of small intestine, init encntr
+S36.438D@Laceration of other part of small intestine, subs encntr
+S36.438S@Laceration of other part of small intestine, sequela
+S36.439A@Laceration of unsp part of small intestine, init encntr
+S36.439D@Laceration of unsp part of small intestine, subs encntr
+S36.439S@Laceration of unspecified part of small intestine, sequela
+S36.490A@Other injury of duodenum, initial encounter
+S36.490D@Other injury of duodenum, subsequent encounter
+S36.490S@Other injury of duodenum, sequela
+S36.498A@Other injury of other part of small intestine, init encntr
+S36.498D@Other injury of other part of small intestine, subs encntr
+S36.498S@Other injury of other part of small intestine, sequela
+S36.499A@Other injury of unsp part of small intestine, init encntr
+S36.499D@Other injury of unsp part of small intestine, subs encntr
+S36.499S@Other injury of unspecified part of small intestine, sequela
+S36.500A@Unspecified injury of ascending colon, initial encounter
+S36.500D@Unspecified injury of ascending colon, subsequent encounter
+S36.500S@Unspecified injury of ascending [right] colon, sequela
+S36.501A@Unspecified injury of transverse colon, initial encounter
+S36.501D@Unspecified injury of transverse colon, subsequent encounter
+S36.501S@Unspecified injury of transverse colon, sequela
+S36.502A@Unspecified injury of descending colon, initial encounter
+S36.502D@Unspecified injury of descending colon, subsequent encounter
+S36.502S@Unspecified injury of descending [left] colon, sequela
+S36.503A@Unspecified injury of sigmoid colon, initial encounter
+S36.503D@Unspecified injury of sigmoid colon, subsequent encounter
+S36.503S@Unspecified injury of sigmoid colon, sequela
+S36.508A@Unspecified injury of other part of colon, initial encounter
+S36.508D@Unspecified injury of other part of colon, subs encntr
+S36.508S@Unspecified injury of other part of colon, sequela
+S36.509A@Unspecified injury of unspecified part of colon, init encntr
+S36.509D@Unspecified injury of unspecified part of colon, subs encntr
+S36.509S@Unspecified injury of unspecified part of colon, sequela
+S36.510A@Primary blast injury of ascending colon, initial encounter
+S36.510D@Primary blast injury of ascending colon, subs encntr
+S36.510S@Primary blast injury of ascending [right] colon, sequela
+S36.511A@Primary blast injury of transverse colon, initial encounter
+S36.511D@Primary blast injury of transverse colon, subs encntr
+S36.511S@Primary blast injury of transverse colon, sequela
+S36.512A@Primary blast injury of descending colon, initial encounter
+S36.512D@Primary blast injury of descending colon, subs encntr
+S36.512S@Primary blast injury of descending [left] colon, sequela
+S36.513A@Primary blast injury of sigmoid colon, initial encounter
+S36.513D@Primary blast injury of sigmoid colon, subsequent encounter
+S36.513S@Primary blast injury of sigmoid colon, sequela
+S36.518A@Primary blast injury of other part of colon, init encntr
+S36.518D@Primary blast injury of other part of colon, subs encntr
+S36.518S@Primary blast injury of other part of colon, sequela
+S36.519A@Primary blast injury of unsp part of colon, init encntr
+S36.519D@Primary blast injury of unsp part of colon, subs encntr
+S36.519S@Primary blast injury of unspecified part of colon, sequela
+S36.520A@Contusion of ascending [right] colon, initial encounter
+S36.520D@Contusion of ascending [right] colon, subsequent encounter
+S36.520S@Contusion of ascending [right] colon, sequela
+S36.521A@Contusion of transverse colon, initial encounter
+S36.521D@Contusion of transverse colon, subsequent encounter
+S36.521S@Contusion of transverse colon, sequela
+S36.522A@Contusion of descending [left] colon, initial encounter
+S36.522D@Contusion of descending [left] colon, subsequent encounter
+S36.522S@Contusion of descending [left] colon, sequela
+S36.523A@Contusion of sigmoid colon, initial encounter
+S36.523D@Contusion of sigmoid colon, subsequent encounter
+S36.523S@Contusion of sigmoid colon, sequela
+S36.528A@Contusion of other part of colon, initial encounter
+S36.528D@Contusion of other part of colon, subsequent encounter
+S36.528S@Contusion of other part of colon, sequela
+S36.529A@Contusion of unspecified part of colon, initial encounter
+S36.529D@Contusion of unspecified part of colon, subsequent encounter
+S36.529S@Contusion of unspecified part of colon, sequela
+S36.530A@Laceration of ascending [right] colon, initial encounter
+S36.530D@Laceration of ascending [right] colon, subsequent encounter
+S36.530S@Laceration of ascending [right] colon, sequela
+S36.531A@Laceration of transverse colon, initial encounter
+S36.531D@Laceration of transverse colon, subsequent encounter
+S36.531S@Laceration of transverse colon, sequela
+S36.532A@Laceration of descending [left] colon, initial encounter
+S36.532D@Laceration of descending [left] colon, subsequent encounter
+S36.532S@Laceration of descending [left] colon, sequela
+S36.533A@Laceration of sigmoid colon, initial encounter
+S36.533D@Laceration of sigmoid colon, subsequent encounter
+S36.533S@Laceration of sigmoid colon, sequela
+S36.538A@Laceration of other part of colon, initial encounter
+S36.538D@Laceration of other part of colon, subsequent encounter
+S36.538S@Laceration of other part of colon, sequela
+S36.539A@Laceration of unspecified part of colon, initial encounter
+S36.539D@Laceration of unspecified part of colon, subs encntr
+S36.539S@Laceration of unspecified part of colon, sequela
+S36.590A@Other injury of ascending [right] colon, initial encounter
+S36.590D@Other injury of ascending colon, subsequent encounter
+S36.590S@Other injury of ascending [right] colon, sequela
+S36.591A@Other injury of transverse colon, initial encounter
+S36.591D@Other injury of transverse colon, subsequent encounter
+S36.591S@Other injury of transverse colon, sequela
+S36.592A@Other injury of descending [left] colon, initial encounter
+S36.592D@Other injury of descending colon, subsequent encounter
+S36.592S@Other injury of descending [left] colon, sequela
+S36.593A@Other injury of sigmoid colon, initial encounter
+S36.593D@Other injury of sigmoid colon, subsequent encounter
+S36.593S@Other injury of sigmoid colon, sequela
+S36.598A@Other injury of other part of colon, initial encounter
+S36.598D@Other injury of other part of colon, subsequent encounter
+S36.598S@Other injury of other part of colon, sequela
+S36.599A@Other injury of unspecified part of colon, initial encounter
+S36.599D@Other injury of unspecified part of colon, subs encntr
+S36.599S@Other injury of unspecified part of colon, sequela
+S36.60XA@Unspecified injury of rectum, initial encounter
+S36.60XD@Unspecified injury of rectum, subsequent encounter
+S36.60XS@Unspecified injury of rectum, sequela
+S36.61XA@Primary blast injury of rectum, initial encounter
+S36.61XD@Primary blast injury of rectum, subsequent encounter
+S36.61XS@Primary blast injury of rectum, sequela
+S36.62XA@Contusion of rectum, initial encounter
+S36.62XD@Contusion of rectum, subsequent encounter
+S36.62XS@Contusion of rectum, sequela
+S36.63XA@Laceration of rectum, initial encounter
+S36.63XD@Laceration of rectum, subsequent encounter
+S36.63XS@Laceration of rectum, sequela
+S36.69XA@Other injury of rectum, initial encounter
+S36.69XD@Other injury of rectum, subsequent encounter
+S36.69XS@Other injury of rectum, sequela
+S36.81XA@Injury of peritoneum, initial encounter
+S36.81XD@Injury of peritoneum, subsequent encounter
+S36.81XS@Injury of peritoneum, sequela
+S36.892A@Contusion of other intra-abdominal organs, initial encounter
+S36.892D@Contusion of other intra-abdominal organs, subs encntr
+S36.892S@Contusion of other intra-abdominal organs, sequela
+S36.893A@Laceration of other intra-abdominal organs, init encntr
+S36.893D@Laceration of other intra-abdominal organs, subs encntr
+S36.893S@Laceration of other intra-abdominal organs, sequela
+S36.898A@Other injury of other intra-abdominal organs, init encntr
+S36.898D@Other injury of other intra-abdominal organs, subs encntr
+S36.898S@Other injury of other intra-abdominal organs, sequela
+S36.899A@Unsp injury of other intra-abdominal organs, init encntr
+S36.899D@Unsp injury of other intra-abdominal organs, subs encntr
+S36.899S@Unspecified injury of other intra-abdominal organs, sequela
+S36.90XA@Unsp injury of unsp intra-abdominal organ, init encntr
+S36.90XD@Unsp injury of unsp intra-abdominal organ, subs encntr
+S36.90XS@Unsp injury of unspecified intra-abdominal organ, sequela
+S36.92XA@Contusion of unspecified intra-abdominal organ, init encntr
+S36.92XD@Contusion of unspecified intra-abdominal organ, subs encntr
+S36.92XS@Contusion of unspecified intra-abdominal organ, sequela
+S36.93XA@Laceration of unspecified intra-abdominal organ, init encntr
+S36.93XD@Laceration of unspecified intra-abdominal organ, subs encntr
+S36.93XS@Laceration of unspecified intra-abdominal organ, sequela
+S36.99XA@Other injury of unsp intra-abdominal organ, init encntr
+S36.99XD@Other injury of unsp intra-abdominal organ, subs encntr
+S36.99XS@Other injury of unspecified intra-abdominal organ, sequela
+S37.001A@Unspecified injury of right kidney, initial encounter
+S37.001D@Unspecified injury of right kidney, subsequent encounter
+S37.001S@Unspecified injury of right kidney, sequela
+S37.002A@Unspecified injury of left kidney, initial encounter
+S37.002D@Unspecified injury of left kidney, subsequent encounter
+S37.002S@Unspecified injury of left kidney, sequela
+S37.009A@Unspecified injury of unspecified kidney, initial encounter
+S37.009D@Unspecified injury of unspecified kidney, subs encntr
+S37.009S@Unspecified injury of unspecified kidney, sequela
+S37.011A@Minor contusion of right kidney, initial encounter
+S37.011D@Minor contusion of right kidney, subsequent encounter
+S37.011S@Minor contusion of right kidney, sequela
+S37.012A@Minor contusion of left kidney, initial encounter
+S37.012D@Minor contusion of left kidney, subsequent encounter
+S37.012S@Minor contusion of left kidney, sequela
+S37.019A@Minor contusion of unspecified kidney, initial encounter
+S37.019D@Minor contusion of unspecified kidney, subsequent encounter
+S37.019S@Minor contusion of unspecified kidney, sequela
+S37.021A@Major contusion of right kidney, initial encounter
+S37.021D@Major contusion of right kidney, subsequent encounter
+S37.021S@Major contusion of right kidney, sequela
+S37.022A@Major contusion of left kidney, initial encounter
+S37.022D@Major contusion of left kidney, subsequent encounter
+S37.022S@Major contusion of left kidney, sequela
+S37.029A@Major contusion of unspecified kidney, initial encounter
+S37.029D@Major contusion of unspecified kidney, subsequent encounter
+S37.029S@Major contusion of unspecified kidney, sequela
+S37.031A@Laceration of right kidney, unspecified degree, init encntr
+S37.031D@Laceration of right kidney, unspecified degree, subs encntr
+S37.031S@Laceration of right kidney, unspecified degree, sequela
+S37.032A@Laceration of left kidney, unspecified degree, init encntr
+S37.032D@Laceration of left kidney, unspecified degree, subs encntr
+S37.032S@Laceration of left kidney, unspecified degree, sequela
+S37.039A@Laceration of unsp kidney, unspecified degree, init encntr
+S37.039D@Laceration of unsp kidney, unspecified degree, subs encntr
+S37.039S@Laceration of unsp kidney, unspecified degree, sequela
+S37.041A@Minor laceration of right kidney, initial encounter
+S37.041D@Minor laceration of right kidney, subsequent encounter
+S37.041S@Minor laceration of right kidney, sequela
+S37.042A@Minor laceration of left kidney, initial encounter
+S37.042D@Minor laceration of left kidney, subsequent encounter
+S37.042S@Minor laceration of left kidney, sequela
+S37.049A@Minor laceration of unspecified kidney, initial encounter
+S37.049D@Minor laceration of unspecified kidney, subsequent encounter
+S37.049S@Minor laceration of unspecified kidney, sequela
+S37.051A@Moderate laceration of right kidney, initial encounter
+S37.051D@Moderate laceration of right kidney, subsequent encounter
+S37.051S@Moderate laceration of right kidney, sequela
+S37.052A@Moderate laceration of left kidney, initial encounter
+S37.052D@Moderate laceration of left kidney, subsequent encounter
+S37.052S@Moderate laceration of left kidney, sequela
+S37.059A@Moderate laceration of unspecified kidney, initial encounter
+S37.059D@Moderate laceration of unspecified kidney, subs encntr
+S37.059S@Moderate laceration of unspecified kidney, sequela
+S37.061A@Major laceration of right kidney, initial encounter
+S37.061D@Major laceration of right kidney, subsequent encounter
+S37.061S@Major laceration of right kidney, sequela
+S37.062A@Major laceration of left kidney, initial encounter
+S37.062D@Major laceration of left kidney, subsequent encounter
+S37.062S@Major laceration of left kidney, sequela
+S37.069A@Major laceration of unspecified kidney, initial encounter
+S37.069D@Major laceration of unspecified kidney, subsequent encounter
+S37.069S@Major laceration of unspecified kidney, sequela
+S37.091A@Other injury of right kidney, initial encounter
+S37.091D@Other injury of right kidney, subsequent encounter
+S37.091S@Other injury of right kidney, sequela
+S37.092A@Other injury of left kidney, initial encounter
+S37.092D@Other injury of left kidney, subsequent encounter
+S37.092S@Other injury of left kidney, sequela
+S37.099A@Other injury of unspecified kidney, initial encounter
+S37.099D@Other injury of unspecified kidney, subsequent encounter
+S37.099S@Other injury of unspecified kidney, sequela
+S37.10XA@Unspecified injury of ureter, initial encounter
+S37.10XD@Unspecified injury of ureter, subsequent encounter
+S37.10XS@Unspecified injury of ureter, sequela
+S37.12XA@Contusion of ureter, initial encounter
+S37.12XD@Contusion of ureter, subsequent encounter
+S37.12XS@Contusion of ureter, sequela
+S37.13XA@Laceration of ureter, initial encounter
+S37.13XD@Laceration of ureter, subsequent encounter
+S37.13XS@Laceration of ureter, sequela
+S37.19XA@Other injury of ureter, initial encounter
+S37.19XD@Other injury of ureter, subsequent encounter
+S37.19XS@Other injury of ureter, sequela
+S37.20XA@Unspecified injury of bladder, initial encounter
+S37.20XD@Unspecified injury of bladder, subsequent encounter
+S37.20XS@Unspecified injury of bladder, sequela
+S37.22XA@Contusion of bladder, initial encounter
+S37.22XD@Contusion of bladder, subsequent encounter
+S37.22XS@Contusion of bladder, sequela
+S37.23XA@Laceration of bladder, initial encounter
+S37.23XD@Laceration of bladder, subsequent encounter
+S37.23XS@Laceration of bladder, sequela
+S37.29XA@Other injury of bladder, initial encounter
+S37.29XD@Other injury of bladder, subsequent encounter
+S37.29XS@Other injury of bladder, sequela
+S37.30XA@Unspecified injury of urethra, initial encounter
+S37.30XD@Unspecified injury of urethra, subsequent encounter
+S37.30XS@Unspecified injury of urethra, sequela
+S37.32XA@Contusion of urethra, initial encounter
+S37.32XD@Contusion of urethra, subsequent encounter
+S37.32XS@Contusion of urethra, sequela
+S37.33XA@Laceration of urethra, initial encounter
+S37.33XD@Laceration of urethra, subsequent encounter
+S37.33XS@Laceration of urethra, sequela
+S37.39XA@Other injury of urethra, initial encounter
+S37.39XD@Other injury of urethra, subsequent encounter
+S37.39XS@Other injury of urethra, sequela
+S37.401A@Unspecified injury of ovary, unilateral, initial encounter
+S37.401D@Unspecified injury of ovary, unilateral, subs encntr
+S37.401S@Unspecified injury of ovary, unilateral, sequela
+S37.402A@Unspecified injury of ovary, bilateral, initial encounter
+S37.402D@Unspecified injury of ovary, bilateral, subsequent encounter
+S37.402S@Unspecified injury of ovary, bilateral, sequela
+S37.409A@Unspecified injury of ovary, unspecified, initial encounter
+S37.409D@Unspecified injury of ovary, unspecified, subs encntr
+S37.409S@Unspecified injury of ovary, unspecified, sequela
+S37.421A@Contusion of ovary, unilateral, initial encounter
+S37.421D@Contusion of ovary, unilateral, subsequent encounter
+S37.421S@Contusion of ovary, unilateral, sequela
+S37.422A@Contusion of ovary, bilateral, initial encounter
+S37.422D@Contusion of ovary, bilateral, subsequent encounter
+S37.422S@Contusion of ovary, bilateral, sequela
+S37.429A@Contusion of ovary, unspecified, initial encounter
+S37.429D@Contusion of ovary, unspecified, subsequent encounter
+S37.429S@Contusion of ovary, unspecified, sequela
+S37.431A@Laceration of ovary, unilateral, initial encounter
+S37.431D@Laceration of ovary, unilateral, subsequent encounter
+S37.431S@Laceration of ovary, unilateral, sequela
+S37.432A@Laceration of ovary, bilateral, initial encounter
+S37.432D@Laceration of ovary, bilateral, subsequent encounter
+S37.432S@Laceration of ovary, bilateral, sequela
+S37.439A@Laceration of ovary, unspecified, initial encounter
+S37.439D@Laceration of ovary, unspecified, subsequent encounter
+S37.439S@Laceration of ovary, unspecified, sequela
+S37.491A@Other injury of ovary, unilateral, initial encounter
+S37.491D@Other injury of ovary, unilateral, subsequent encounter
+S37.491S@Other injury of ovary, unilateral, sequela
+S37.492A@Other injury of ovary, bilateral, initial encounter
+S37.492D@Other injury of ovary, bilateral, subsequent encounter
+S37.492S@Other injury of ovary, bilateral, sequela
+S37.499A@Other injury of ovary, unspecified, initial encounter
+S37.499D@Other injury of ovary, unspecified, subsequent encounter
+S37.499S@Other injury of ovary, unspecified, sequela
+S37.501A@Unsp injury of fallopian tube, unilateral, init encntr
+S37.501D@Unsp injury of fallopian tube, unilateral, subs encntr
+S37.501S@Unspecified injury of fallopian tube, unilateral, sequela
+S37.502A@Unspecified injury of fallopian tube, bilateral, init encntr
+S37.502D@Unspecified injury of fallopian tube, bilateral, subs encntr
+S37.502S@Unspecified injury of fallopian tube, bilateral, sequela
+S37.509A@Unsp injury of fallopian tube, unspecified, init encntr
+S37.509D@Unsp injury of fallopian tube, unspecified, subs encntr
+S37.509S@Unspecified injury of fallopian tube, unspecified, sequela
+S37.511A@Primary blast injury of fallopian tube, unilateral, init
+S37.511D@Primary blast injury of fallopian tube, unilateral, subs
+S37.511S@Primary blast injury of fallopian tube, unilateral, sequela
+S37.512A@Primary blast injury of fallopian tube, bilateral, init
+S37.512D@Primary blast injury of fallopian tube, bilateral, subs
+S37.512S@Primary blast injury of fallopian tube, bilateral, sequela
+S37.519A@Primary blast injury of fallopian tube, unsp, init encntr
+S37.519D@Primary blast injury of fallopian tube, unsp, subs encntr
+S37.519S@Primary blast injury of fallopian tube, unspecified, sequela
+S37.521A@Contusion of fallopian tube, unilateral, initial encounter
+S37.521D@Contusion of fallopian tube, unilateral, subs encntr
+S37.521S@Contusion of fallopian tube, unilateral, sequela
+S37.522A@Contusion of fallopian tube, bilateral, initial encounter
+S37.522D@Contusion of fallopian tube, bilateral, subsequent encounter
+S37.522S@Contusion of fallopian tube, bilateral, sequela
+S37.529A@Contusion of fallopian tube, unspecified, initial encounter
+S37.529D@Contusion of fallopian tube, unspecified, subs encntr
+S37.529S@Contusion of fallopian tube, unspecified, sequela
+S37.531A@Laceration of fallopian tube, unilateral, initial encounter
+S37.531D@Laceration of fallopian tube, unilateral, subs encntr
+S37.531S@Laceration of fallopian tube, unilateral, sequela
+S37.532A@Laceration of fallopian tube, bilateral, initial encounter
+S37.532D@Laceration of fallopian tube, bilateral, subs encntr
+S37.532S@Laceration of fallopian tube, bilateral, sequela
+S37.539A@Laceration of fallopian tube, unspecified, initial encounter
+S37.539D@Laceration of fallopian tube, unspecified, subs encntr
+S37.539S@Laceration of fallopian tube, unspecified, sequela
+S37.591A@Other injury of fallopian tube, unilateral, init encntr
+S37.591D@Other injury of fallopian tube, unilateral, subs encntr
+S37.591S@Other injury of fallopian tube, unilateral, sequela
+S37.592A@Other injury of fallopian tube, bilateral, initial encounter
+S37.592D@Other injury of fallopian tube, bilateral, subs encntr
+S37.592S@Other injury of fallopian tube, bilateral, sequela
+S37.599A@Other injury of fallopian tube, unspecified, init encntr
+S37.599D@Other injury of fallopian tube, unspecified, subs encntr
+S37.599S@Other injury of fallopian tube, unspecified, sequela
+S37.60XA@Unspecified injury of uterus, initial encounter
+S37.60XD@Unspecified injury of uterus, subsequent encounter
+S37.60XS@Unspecified injury of uterus, sequela
+S37.62XA@Contusion of uterus, initial encounter
+S37.62XD@Contusion of uterus, subsequent encounter
+S37.62XS@Contusion of uterus, sequela
+S37.63XA@Laceration of uterus, initial encounter
+S37.63XD@Laceration of uterus, subsequent encounter
+S37.63XS@Laceration of uterus, sequela
+S37.69XA@Other injury of uterus, initial encounter
+S37.69XD@Other injury of uterus, subsequent encounter
+S37.69XS@Other injury of uterus, sequela
+S37.812A@Contusion of adrenal gland, initial encounter
+S37.812D@Contusion of adrenal gland, subsequent encounter
+S37.812S@Contusion of adrenal gland, sequela
+S37.813A@Laceration of adrenal gland, initial encounter
+S37.813D@Laceration of adrenal gland, subsequent encounter
+S37.813S@Laceration of adrenal gland, sequela
+S37.818A@Other injury of adrenal gland, initial encounter
+S37.818D@Other injury of adrenal gland, subsequent encounter
+S37.818S@Other injury of adrenal gland, sequela
+S37.819A@Unspecified injury of adrenal gland, initial encounter
+S37.819D@Unspecified injury of adrenal gland, subsequent encounter
+S37.819S@Unspecified injury of adrenal gland, sequela
+S37.822A@Contusion of prostate, initial encounter
+S37.822D@Contusion of prostate, subsequent encounter
+S37.822S@Contusion of prostate, sequela
+S37.823A@Laceration of prostate, initial encounter
+S37.823D@Laceration of prostate, subsequent encounter
+S37.823S@Laceration of prostate, sequela
+S37.828A@Other injury of prostate, initial encounter
+S37.828D@Other injury of prostate, subsequent encounter
+S37.828S@Other injury of prostate, sequela
+S37.829A@Unspecified injury of prostate, initial encounter
+S37.829D@Unspecified injury of prostate, subsequent encounter
+S37.829S@Unspecified injury of prostate, sequela
+S37.892A@Contusion of other urinary and pelvic organ, init encntr
+S37.892D@Contusion of other urinary and pelvic organ, subs encntr
+S37.892S@Contusion of other urinary and pelvic organ, sequela
+S37.893A@Laceration of other urinary and pelvic organ, init encntr
+S37.893D@Laceration of other urinary and pelvic organ, subs encntr
+S37.893S@Laceration of other urinary and pelvic organ, sequela
+S37.898A@Other injury of other urinary and pelvic organ, init encntr
+S37.898D@Other injury of other urinary and pelvic organ, subs encntr
+S37.898S@Other injury of other urinary and pelvic organ, sequela
+S37.899A@Unsp injury of other urinary and pelvic organ, init encntr
+S37.899D@Unsp injury of other urinary and pelvic organ, subs encntr
+S37.899S@Unsp injury of other urinary and pelvic organ, sequela
+S37.90XA@Unsp injury of unsp urinary and pelvic organ, init encntr
+S37.90XD@Unsp injury of unsp urinary and pelvic organ, subs encntr
+S37.90XS@Unsp injury of unspecified urinary and pelvic organ, sequela
+S37.92XA@Contusion of unsp urinary and pelvic organ, init encntr
+S37.92XD@Contusion of unsp urinary and pelvic organ, subs encntr
+S37.92XS@Contusion of unspecified urinary and pelvic organ, sequela
+S37.93XA@Laceration of unsp urinary and pelvic organ, init encntr
+S37.93XD@Laceration of unsp urinary and pelvic organ, subs encntr
+S37.93XS@Laceration of unspecified urinary and pelvic organ, sequela
+S37.99XA@Other injury of unsp urinary and pelvic organ, init encntr
+S37.99XD@Other injury of unsp urinary and pelvic organ, subs encntr
+S37.99XS@Other injury of unsp urinary and pelvic organ, sequela
+S38.001A@Crushing injury of unsp external genital organs, male, init
+S38.001D@Crushing injury of unsp external genital organs, male, subs
+S38.001S@Crushing inj unsp external genital organs, male, sequela
+S38.002A@Crushing inj unsp external genital organs, female, init
+S38.002D@Crushing inj unsp external genital organs, female, subs
+S38.002S@Crushing inj unsp external genital organs, female, sequela
+S38.01XA@Crushing injury of penis, initial encounter
+S38.01XD@Crushing injury of penis, subsequent encounter
+S38.01XS@Crushing injury of penis, sequela
+S38.02XA@Crushing injury of scrotum and testis, initial encounter
+S38.02XD@Crushing injury of scrotum and testis, subsequent encounter
+S38.02XS@Crushing injury of scrotum and testis, sequela
+S38.03XA@Crushing injury of vulva, initial encounter
+S38.03XD@Crushing injury of vulva, subsequent encounter
+S38.03XS@Crushing injury of vulva, sequela
+S38.1XXA@Crushing injury of abdomen, lower back, and pelvis, init
+S38.1XXD@Crushing injury of abdomen, lower back, and pelvis, subs
+S38.1XXS@Crushing injury of abdomen, lower back, and pelvis, sequela
+S38.211A@Complete traum amp of female external genital organs, init
+S38.211D@Complete traum amp of female external genital organs, subs
+S38.211S@Complete traum amp of female extrn genital organs, sequela
+S38.212A@Partial traum amp of female external genital organs, init
+S38.212D@Partial traum amp of female external genital organs, subs
+S38.212S@Partial traum amp of female external genital organs, sequela
+S38.221A@Complete traumatic amputation of penis, initial encounter
+S38.221D@Complete traumatic amputation of penis, subsequent encounter
+S38.221S@Complete traumatic amputation of penis, sequela
+S38.222A@Partial traumatic amputation of penis, initial encounter
+S38.222D@Partial traumatic amputation of penis, subsequent encounter
+S38.222S@Partial traumatic amputation of penis, sequela
+S38.231A@Complete traumatic amputation of scrotum and testis, init
+S38.231D@Complete traumatic amputation of scrotum and testis, subs
+S38.231S@Complete traumatic amputation of scrotum and testis, sequela
+S38.232A@Partial traumatic amputation of scrotum and testis, init
+S38.232D@Partial traumatic amputation of scrotum and testis, subs
+S38.232S@Partial traumatic amputation of scrotum and testis, sequela
+S38.3XXA@Transection (partial) of abdomen, initial encounter
+S38.3XXD@Transection (partial) of abdomen, subsequent encounter
+S38.3XXS@Transection (partial) of abdomen, sequela
+S39.001A@Unsp injury of muscle, fascia and tendon of abdomen, init
+S39.001D@Unsp injury of muscle, fascia and tendon of abdomen, subs
+S39.001S@Unsp injury of muscle, fascia and tendon of abdomen, sequela
+S39.002A@Unsp injury of muscle, fascia and tendon of lower back, init
+S39.002D@Unsp injury of muscle, fascia and tendon of lower back, subs
+S39.002S@Unsp injury of musc/fasc/tend lower back, sequela
+S39.003A@Unsp injury of muscle, fascia and tendon of pelvis, init
+S39.003D@Unsp injury of muscle, fascia and tendon of pelvis, subs
+S39.003S@Unsp injury of muscle, fascia and tendon of pelvis, sequela
+S39.011A@Strain of muscle, fascia and tendon of abdomen, init encntr
+S39.011D@Strain of muscle, fascia and tendon of abdomen, subs encntr
+S39.011S@Strain of muscle, fascia and tendon of abdomen, sequela
+S39.012A@Strain of muscle, fascia and tendon of lower back, init
+S39.012D@Strain of muscle, fascia and tendon of lower back, subs
+S39.012S@Strain of muscle, fascia and tendon of lower back, sequela
+S39.013A@Strain of muscle, fascia and tendon of pelvis, init encntr
+S39.013D@Strain of muscle, fascia and tendon of pelvis, subs encntr
+S39.013S@Strain of muscle, fascia and tendon of pelvis, sequela
+S39.021A@Laceration of muscle, fascia and tendon of abdomen, init
+S39.021D@Laceration of muscle, fascia and tendon of abdomen, subs
+S39.021S@Laceration of muscle, fascia and tendon of abdomen, sequela
+S39.022A@Laceration of muscle, fascia and tendon of lower back, init
+S39.022D@Laceration of muscle, fascia and tendon of lower back, subs
+S39.022S@Laceration of musc/fasc/tend lower back, sequela
+S39.023A@Laceration of muscle, fascia and tendon of pelvis, init
+S39.023D@Laceration of muscle, fascia and tendon of pelvis, subs
+S39.023S@Laceration of muscle, fascia and tendon of pelvis, sequela
+S39.091A@Inj muscle, fascia and tendon of abdomen, init encntr
+S39.091D@Inj muscle, fascia and tendon of abdomen, subs encntr
+S39.091S@Oth injury of muscle, fascia and tendon of abdomen, sequela
+S39.092A@Inj muscle, fascia and tendon of lower back, init encntr
+S39.092D@Inj muscle, fascia and tendon of lower back, subs encntr
+S39.092S@Inj muscle, fascia and tendon of lower back, sequela
+S39.093A@Inj muscle, fascia and tendon of pelvis, init encntr
+S39.093D@Inj muscle, fascia and tendon of pelvis, subs encntr
+S39.093S@Other injury of muscle, fascia and tendon of pelvis, sequela
+S39.81XA@Other specified injuries of abdomen, initial encounter
+S39.81XD@Other specified injuries of abdomen, subsequent encounter
+S39.81XS@Other specified injuries of abdomen, sequela
+S39.82XA@Other specified injuries of lower back, initial encounter
+S39.82XD@Other specified injuries of lower back, subsequent encounter
+S39.82XS@Other specified injuries of lower back, sequela
+S39.83XA@Other specified injuries of pelvis, initial encounter
+S39.83XD@Other specified injuries of pelvis, subsequent encounter
+S39.83XS@Other specified injuries of pelvis, sequela
+S39.840A@Fracture of corpus cavernosum penis, initial encounter
+S39.840D@Fracture of corpus cavernosum penis, subsequent encounter
+S39.840S@Fracture of corpus cavernosum penis, sequela
+S39.848A@Other specified injuries of external genitals, init encntr
+S39.848D@Other specified injuries of external genitals, subs encntr
+S39.848S@Other specified injuries of external genitals, sequela
+S39.91XA@Unspecified injury of abdomen, initial encounter
+S39.91XD@Unspecified injury of abdomen, subsequent encounter
+S39.91XS@Unspecified injury of abdomen, sequela
+S39.92XA@Unspecified injury of lower back, initial encounter
+S39.92XD@Unspecified injury of lower back, subsequent encounter
+S39.92XS@Unspecified injury of lower back, sequela
+S39.93XA@Unspecified injury of pelvis, initial encounter
+S39.93XD@Unspecified injury of pelvis, subsequent encounter
+S39.93XS@Unspecified injury of pelvis, sequela
+S39.94XA@Unspecified injury of external genitals, initial encounter
+S39.94XD@Unspecified injury of external genitals, subs encntr
+S39.94XS@Unspecified injury of external genitals, sequela

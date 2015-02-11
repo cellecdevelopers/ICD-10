@@ -1,0 +1,263 @@
+T07@Injuring involving multiple body regions
+T14@Injury of unspecified body region
+T15.00XA@Foreign body in cornea, unspecified eye, initial encounter
+T15.00XD@Foreign body in cornea, unspecified eye, subs encntr
+T15.00XS@Foreign body in cornea, unspecified eye, sequela
+T15.01XA@Foreign body in cornea, right eye, initial encounter
+T15.01XD@Foreign body in cornea, right eye, subsequent encounter
+T15.01XS@Foreign body in cornea, right eye, sequela
+T15.02XA@Foreign body in cornea, left eye, initial encounter
+T15.02XD@Foreign body in cornea, left eye, subsequent encounter
+T15.02XS@Foreign body in cornea, left eye, sequela
+T15.10XA@Foreign body in conjunctival sac, unsp eye, init encntr
+T15.10XD@Foreign body in conjunctival sac, unsp eye, subs encntr
+T15.10XS@Foreign body in conjunctival sac, unspecified eye, sequela
+T15.11XA@Foreign body in conjunctival sac, right eye, init encntr
+T15.11XD@Foreign body in conjunctival sac, right eye, subs encntr
+T15.11XS@Foreign body in conjunctival sac, right eye, sequela
+T15.12XA@Foreign body in conjunctival sac, left eye, init encntr
+T15.12XD@Foreign body in conjunctival sac, left eye, subs encntr
+T15.12XS@Foreign body in conjunctival sac, left eye, sequela
+T15.80XA@Fb in oth and multiple parts of external eye, unsp eye, init
+T15.80XD@Fb in oth and multiple parts of external eye, unsp eye, subs
+T15.80XS@Fb in oth and multiple parts of extrn eye, unsp eye, sequela
+T15.81XA@Fb in oth and multiple parts of external eye, r eye, init
+T15.81XD@Fb in oth and multiple parts of external eye, r eye, subs
+T15.81XS@Fb in oth and multiple parts of external eye, r eye, sequela
+T15.82XA@Fb in oth and multiple parts of external eye, left eye, init
+T15.82XD@Fb in oth and multiple parts of external eye, left eye, subs
+T15.82XS@Fb in oth and multiple parts of extrn eye, left eye, sequela
+T15.90XA@Foreign body on external eye, part unsp, unsp eye, init
+T15.90XD@Foreign body on external eye, part unsp, unsp eye, subs
+T15.90XS@Foreign body on external eye, part unsp, unsp eye, sequela
+T15.91XA@Foreign body on external eye, part unsp, right eye, init
+T15.91XD@Foreign body on external eye, part unsp, right eye, subs
+T15.91XS@Foreign body on external eye, part unsp, right eye, sequela
+T15.92XA@Foreign body on external eye, part unsp, left eye, init
+T15.92XD@Foreign body on external eye, part unsp, left eye, subs
+T15.92XS@Foreign body on external eye, part unsp, left eye, sequela
+T16.1XXA@Foreign body in right ear, initial encounter
+T16.1XXD@Foreign body in right ear, subsequent encounter
+T16.1XXS@Foreign body in right ear, sequela
+T16.2XXA@Foreign body in left ear, initial encounter
+T16.2XXD@Foreign body in left ear, subsequent encounter
+T16.2XXS@Foreign body in left ear, sequela
+T16.9XXA@Foreign body in ear, unspecified ear, initial encounter
+T16.9XXD@Foreign body in ear, unspecified ear, subsequent encounter
+T16.9XXS@Foreign body in ear, unspecified ear, sequela
+T17.0XXA@Foreign body in nasal sinus, initial encounter
+T17.0XXD@Foreign body in nasal sinus, subsequent encounter
+T17.0XXS@Foreign body in nasal sinus, sequela
+T17.1XXA@Foreign body in nostril, initial encounter
+T17.1XXD@Foreign body in nostril, subsequent encounter
+T17.1XXS@Foreign body in nostril, sequela
+T17.200A@Unsp foreign body in pharynx causing asphyxiation, init
+T17.200D@Unsp foreign body in pharynx causing asphyxiation, subs
+T17.200S@Unsp foreign body in pharynx causing asphyxiation, sequela
+T17.208A@Unsp foreign body in pharynx causing oth injury, init encntr
+T17.208D@Unsp foreign body in pharynx causing oth injury, subs encntr
+T17.208S@Unsp foreign body in pharynx causing other injury, sequela
+T17.210A@Gastric contents in pharynx causing asphyxiation, init
+T17.210D@Gastric contents in pharynx causing asphyxiation, subs
+T17.210S@Gastric contents in pharynx causing asphyxiation, sequela
+T17.218A@Gastric contents in pharynx causing oth injury, init encntr
+T17.218D@Gastric contents in pharynx causing oth injury, subs encntr
+T17.218S@Gastric contents in pharynx causing other injury, sequela
+T17.220A@Food in pharynx causing asphyxiation, initial encounter
+T17.220D@Food in pharynx causing asphyxiation, subsequent encounter
+T17.220S@Food in pharynx causing asphyxiation, sequela
+T17.228A@Food in pharynx causing other injury, initial encounter
+T17.228D@Food in pharynx causing other injury, subsequent encounter
+T17.228S@Food in pharynx causing other injury, sequela
+T17.290A@Oth foreign object in pharynx causing asphyxiation, init
+T17.290D@Oth foreign object in pharynx causing asphyxiation, subs
+T17.290S@Oth foreign object in pharynx causing asphyxiation, sequela
+T17.298A@Oth foreign object in pharynx causing oth injury, init
+T17.298D@Oth foreign object in pharynx causing oth injury, subs
+T17.298S@Oth foreign object in pharynx causing other injury, sequela
+T17.300A@Unsp foreign body in larynx causing asphyxiation, init
+T17.300D@Unsp foreign body in larynx causing asphyxiation, subs
+T17.300S@Unsp foreign body in larynx causing asphyxiation, sequela
+T17.308A@Unsp foreign body in larynx causing oth injury, init encntr
+T17.308D@Unsp foreign body in larynx causing oth injury, subs encntr
+T17.308S@Unsp foreign body in larynx causing other injury, sequela
+T17.310A@Gastric contents in larynx causing asphyxiation, init encntr
+T17.310D@Gastric contents in larynx causing asphyxiation, subs encntr
+T17.310S@Gastric contents in larynx causing asphyxiation, sequela
+T17.318A@Gastric contents in larynx causing other injury, init encntr
+T17.318D@Gastric contents in larynx causing other injury, subs encntr
+T17.318S@Gastric contents in larynx causing other injury, sequela
+T17.320A@Food in larynx causing asphyxiation, initial encounter
+T17.320D@Food in larynx causing asphyxiation, subsequent encounter
+T17.320S@Food in larynx causing asphyxiation, sequela
+T17.328A@Food in larynx causing other injury, initial encounter
+T17.328D@Food in larynx causing other injury, subsequent encounter
+T17.328S@Food in larynx causing other injury, sequela
+T17.390A@Oth foreign object in larynx causing asphyxiation, init
+T17.390D@Oth foreign object in larynx causing asphyxiation, subs
+T17.390S@Other foreign object in larynx causing asphyxiation, sequela
+T17.398A@Oth foreign object in larynx causing oth injury, init encntr
+T17.398D@Oth foreign object in larynx causing oth injury, subs encntr
+T17.398S@Other foreign object in larynx causing other injury, sequela
+T17.400A@Unsp foreign body in trachea causing asphyxiation, init
+T17.400D@Unsp foreign body in trachea causing asphyxiation, subs
+T17.400S@Unsp foreign body in trachea causing asphyxiation, sequela
+T17.408A@Unsp foreign body in trachea causing oth injury, init encntr
+T17.408D@Unsp foreign body in trachea causing oth injury, subs encntr
+T17.408S@Unsp foreign body in trachea causing other injury, sequela
+T17.410A@Gastric contents in trachea causing asphyxiation, init
+T17.410D@Gastric contents in trachea causing asphyxiation, subs
+T17.410S@Gastric contents in trachea causing asphyxiation, sequela
+T17.418A@Gastric contents in trachea causing oth injury, init encntr
+T17.418D@Gastric contents in trachea causing oth injury, subs encntr
+T17.418S@Gastric contents in trachea causing other injury, sequela
+T17.420A@Food in trachea causing asphyxiation, initial encounter
+T17.420D@Food in trachea causing asphyxiation, subsequent encounter
+T17.420S@Food in trachea causing asphyxiation, sequela
+T17.428A@Food in trachea causing other injury, initial encounter
+T17.428D@Food in trachea causing other injury, subsequent encounter
+T17.428S@Food in trachea causing other injury, sequela
+T17.490A@Oth foreign object in trachea causing asphyxiation, init
+T17.490D@Oth foreign object in trachea causing asphyxiation, subs
+T17.490S@Oth foreign object in trachea causing asphyxiation, sequela
+T17.498A@Oth foreign object in trachea causing oth injury, init
+T17.498D@Oth foreign object in trachea causing oth injury, subs
+T17.498S@Oth foreign object in trachea causing other injury, sequela
+T17.500A@Unsp foreign body in bronchus causing asphyxiation, init
+T17.500D@Unsp foreign body in bronchus causing asphyxiation, subs
+T17.500S@Unsp foreign body in bronchus causing asphyxiation, sequela
+T17.508A@Unsp foreign body in bronchus causing oth injury, init
+T17.508D@Unsp foreign body in bronchus causing oth injury, subs
+T17.508S@Unsp foreign body in bronchus causing other injury, sequela
+T17.510A@Gastric contents in bronchus causing asphyxiation, init
+T17.510D@Gastric contents in bronchus causing asphyxiation, subs
+T17.510S@Gastric contents in bronchus causing asphyxiation, sequela
+T17.518A@Gastric contents in bronchus causing oth injury, init encntr
+T17.518D@Gastric contents in bronchus causing oth injury, subs encntr
+T17.518S@Gastric contents in bronchus causing other injury, sequela
+T17.520A@Food in bronchus causing asphyxiation, initial encounter
+T17.520D@Food in bronchus causing asphyxiation, subsequent encounter
+T17.520S@Food in bronchus causing asphyxiation, sequela
+T17.528A@Food in bronchus causing other injury, initial encounter
+T17.528D@Food in bronchus causing other injury, subsequent encounter
+T17.528S@Food in bronchus causing other injury, sequela
+T17.590A@Oth foreign object in bronchus causing asphyxiation, init
+T17.590D@Oth foreign object in bronchus causing asphyxiation, subs
+T17.590S@Oth foreign object in bronchus causing asphyxiation, sequela
+T17.598A@Oth foreign object in bronchus causing oth injury, init
+T17.598D@Oth foreign object in bronchus causing oth injury, subs
+T17.598S@Oth foreign object in bronchus causing other injury, sequela
+T17.800A@Unsp foreign body in oth prt resp tract causing asphyx, init
+T17.800D@Unsp foreign body in oth prt resp tract causing asphyx, subs
+T17.800S@Unsp fb in oth prt resp tract causing asphyx, sequela
+T17.808A@Unsp fb in oth prt resp tract causing oth injury, init
+T17.808D@Unsp fb in oth prt resp tract causing oth injury, subs
+T17.808S@Unsp fb in oth prt resp tract causing oth injury, sequela
+T17.810A@Gastric contents in oth prt resp tract causing asphyx, init
+T17.810D@Gastric contents in oth prt resp tract causing asphyx, subs
+T17.810S@Gastric contents in oth prt resp tract cause asphyx, sequela
+T17.818A@Gastr contents in oth prt resp tract cause oth injury, init
+T17.818D@Gastr contents in oth prt resp tract cause oth injury, subs
+T17.818S@Gastr contents in oth prt resp tract cause oth injury, sqla
+T17.820A@Food in oth prt respiratory tract causing asphyxiation, init
+T17.820D@Food in oth prt respiratory tract causing asphyxiation, subs
+T17.820S@Food in oth prt resp tract causing asphyxiation, sequela
+T17.828A@Food in oth prt respiratory tract causing oth injury, init
+T17.828D@Food in oth prt respiratory tract causing oth injury, subs
+T17.828S@Food in oth prt resp tract causing oth injury, sequela
+T17.890A@Oth foreign object in oth prt resp tract cause asphyx, init
+T17.890D@Oth foreign object in oth prt resp tract cause asphyx, subs
+T17.890S@Oth forn object in oth prt resp tract cause asphyx, sequela
+T17.898A@Oth forn object in oth prt resp tract cause oth injury, init
+T17.898D@Oth forn object in oth prt resp tract cause oth injury, subs
+T17.898S@Oth forn object in oth prt resp tract cause oth injury, sqla
+T17.900A@Unsp fb in resp tract, part unsp causing asphyx, init
+T17.900D@Unsp fb in resp tract, part unsp causing asphyx, subs
+T17.900S@Unsp fb in resp tract, part unsp causing asphyx, sequela
+T17.908A@Unsp fb in resp tract, part unsp causing oth injury, init
+T17.908D@Unsp fb in resp tract, part unsp causing oth injury, subs
+T17.908S@Unsp fb in resp tract, part unsp causing oth injury, sequela
+T17.910A@Gastric contents in resp tract, part unsp cause asphyx, init
+T17.910D@Gastric contents in resp tract, part unsp cause asphyx, subs
+T17.910S@Gastr contents in resp tract, part unsp cause asphyx, sqla
+T17.918A@Gastr contents in resp tract, part unsp cause oth inj, init
+T17.918D@Gastr contents in resp tract, part unsp cause oth inj, subs
+T17.918S@Gastr contents in resp tract, part unsp cause oth inj, sqla
+T17.920A@Food in resp tract, part unsp causing asphyxiation, init
+T17.920D@Food in resp tract, part unsp causing asphyxiation, subs
+T17.920S@Food in resp tract, part unsp causing asphyxiation, sequela
+T17.928A@Food in resp tract, part unsp causing oth injury, init
+T17.928D@Food in resp tract, part unsp causing oth injury, subs
+T17.928S@Food in resp tract, part unsp causing oth injury, sequela
+T17.990A@Oth forn obj in resp tract, part unsp in cause asphyx, init
+T17.990D@Oth forn obj in resp tract, part unsp in cause asphyx, subs
+T17.990S@Oth forn obj in resp tract, part unsp in cause asphyx, sqla
+T17.998A@Oth forn object in resp tract, part unsp cause oth inj, init
+T17.998D@Oth forn object in resp tract, part unsp cause oth inj, subs
+T17.998S@Oth forn object in resp tract, part unsp cause oth inj, sqla
+T18.0XXA@Foreign body in mouth, initial encounter
+T18.0XXD@Foreign body in mouth, subsequent encounter
+T18.0XXS@Foreign body in mouth, sequela
+T18.100A@Unsp fb in esophagus causing compression of trachea, init
+T18.100D@Unsp fb in esophagus causing compression of trachea, subs
+T18.100S@Unsp fb in esophagus causing compression of trachea, sequela
+T18.108A@Unsp foreign body in esophagus causing oth injury, init
+T18.108D@Unsp foreign body in esophagus causing oth injury, subs
+T18.108S@Unsp foreign body in esophagus causing other injury, sequela
+T18.110A@Gastric contents in esoph causing comprsn of trachea, init
+T18.110D@Gastric contents in esoph causing comprsn of trachea, subs
+T18.110S@Gastric contents in esoph cause comprsn of trachea, sequela
+T18.118A@Gastric contents in esophagus causing oth injury, init
+T18.118D@Gastric contents in esophagus causing oth injury, subs
+T18.118S@Gastric contents in esophagus causing other injury, sequela
+T18.120A@Food in esophagus causing compression of trachea, init
+T18.120D@Food in esophagus causing compression of trachea, subs
+T18.120S@Food in esophagus causing compression of trachea, sequela
+T18.128A@Food in esophagus causing other injury, initial encounter
+T18.128D@Food in esophagus causing other injury, subsequent encounter
+T18.128S@Food in esophagus causing other injury, sequela
+T18.190A@Oth foreign object in esoph causing comprsn of trachea, init
+T18.190D@Oth foreign object in esoph causing comprsn of trachea, subs
+T18.190S@Oth forn object in esoph cause comprsn of trachea, sequela
+T18.198A@Oth foreign object in esophagus causing oth injury, init
+T18.198D@Oth foreign object in esophagus causing oth injury, subs
+T18.198S@Oth foreign object in esophagus causing oth injury, sequela
+T18.2XXA@Foreign body in stomach, initial encounter
+T18.2XXD@Foreign body in stomach, subsequent encounter
+T18.2XXS@Foreign body in stomach, sequela
+T18.3XXA@Foreign body in small intestine, initial encounter
+T18.3XXD@Foreign body in small intestine, subsequent encounter
+T18.3XXS@Foreign body in small intestine, sequela
+T18.4XXA@Foreign body in colon, initial encounter
+T18.4XXD@Foreign body in colon, subsequent encounter
+T18.4XXS@Foreign body in colon, sequela
+T18.5XXA@Foreign body in anus and rectum, initial encounter
+T18.5XXD@Foreign body in anus and rectum, subsequent encounter
+T18.5XXS@Foreign body in anus and rectum, sequela
+T18.8XXA@Foreign body in other parts of alimentary tract, init encntr
+T18.8XXD@Foreign body in other parts of alimentary tract, subs encntr
+T18.8XXS@Foreign body in other parts of alimentary tract, sequela
+T18.9XXA@Foreign body of alimentary tract, part unsp, init encntr
+T18.9XXD@Foreign body of alimentary tract, part unsp, subs encntr
+T18.9XXS@Foreign body of alimentary tract, part unspecified, sequela
+T19.0XXA@Foreign body in urethra, initial encounter
+T19.0XXD@Foreign body in urethra, subsequent encounter
+T19.0XXS@Foreign body in urethra, sequela
+T19.1XXA@Foreign body in bladder, initial encounter
+T19.1XXD@Foreign body in bladder, subsequent encounter
+T19.1XXS@Foreign body in bladder, sequela
+T19.2XXA@Foreign body in vulva and vagina, initial encounter
+T19.2XXD@Foreign body in vulva and vagina, subsequent encounter
+T19.2XXS@Foreign body in vulva and vagina, sequela
+T19.3XXA@Foreign body in uterus, initial encounter
+T19.3XXD@Foreign body in uterus, subsequent encounter
+T19.3XXS@Foreign body in uterus, sequela
+T19.4XXA@Foreign body in penis, initial encounter
+T19.4XXD@Foreign body in penis, subsequent encounter
+T19.4XXS@Foreign body in penis, sequela
+T19.8XXA@Foreign body in oth prt genitourinary tract, init encntr
+T19.8XXD@Foreign body in oth prt genitourinary tract, subs encntr
+T19.8XXS@Foreign body in other parts of genitourinary tract, sequela
+T19.9XXA@Foreign body in genitourinary tract, part unsp, init encntr
+T19.9XXD@Foreign body in genitourinary tract, part unsp, subs encntr
+T19.9XXS@Foreign body in genitourinary tract, part unsp, sequela

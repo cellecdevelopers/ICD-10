@@ -1,0 +1,768 @@
+L00.@Staphylococcal scalded skin syndrome
+L01.00@Impetigo, unspecified
+L01.01@Non-bullous impetigo
+L01.02@Bockhart's impetigo
+L01.03@Bullous impetigo
+L01.09@Other impetigo
+L01.1@Impetiginization of other dermatoses
+L02.01@Cutaneous abscess of face
+L02.02@Furuncle of face
+L02.03@Carbuncle of face
+L02.11@Cutaneous abscess of neck
+L02.12@Furuncle of neck
+L02.13@Carbuncle of neck
+L02.211@Cutaneous abscess of abdominal wall
+L02.212@Cutaneous abscess of back [any part, except buttock]
+L02.213@Cutaneous abscess of chest wall
+L02.214@Cutaneous abscess of groin
+L02.215@Cutaneous abscess of perineum
+L02.216@Cutaneous abscess of umbilicus
+L02.219@Cutaneous abscess of trunk, unspecified
+L02.221@Furuncle of abdominal wall
+L02.222@Furuncle of back [any part, except buttock]
+L02.223@Furuncle of chest wall
+L02.224@Furuncle of groin
+L02.225@Furuncle of perineum
+L02.226@Furuncle of umbilicus
+L02.229@Furuncle of trunk, unspecified
+L02.231@Carbuncle of abdominal wall
+L02.232@Carbuncle of back [any part, except buttock]
+L02.233@Carbuncle of chest wall
+L02.234@Carbuncle of groin
+L02.235@Carbuncle of perineum
+L02.236@Carbuncle of umbilicus
+L02.239@Carbuncle of trunk, unspecified
+L02.31@Cutaneous abscess of buttock
+L02.32@Furuncle of buttock
+L02.33@Carbuncle of buttock
+L02.411@Cutaneous abscess of right axilla
+L02.412@Cutaneous abscess of left axilla
+L02.413@Cutaneous abscess of right upper limb
+L02.414@Cutaneous abscess of left upper limb
+L02.415@Cutaneous abscess of right lower limb
+L02.416@Cutaneous abscess of left lower limb
+L02.419@Cutaneous abscess of limb, unspecified
+L02.421@Furuncle of right axilla
+L02.422@Furuncle of left axilla
+L02.423@Furuncle of right upper limb
+L02.424@Furuncle of left upper limb
+L02.425@Furuncle of right lower limb
+L02.426@Furuncle of left lower limb
+L02.429@Furuncle of limb, unspecified
+L02.431@Carbuncle of right axilla
+L02.432@Carbuncle of left axilla
+L02.433@Carbuncle of right upper limb
+L02.434@Carbuncle of left upper limb
+L02.435@Carbuncle of right lower limb
+L02.436@Carbuncle of left lower limb
+L02.439@Carbuncle of limb, unspecified
+L02.511@Cutaneous abscess of right hand
+L02.512@Cutaneous abscess of left hand
+L02.519@Cutaneous abscess of unspecified hand
+L02.521@Furuncle right hand
+L02.522@Furuncle left hand
+L02.529@Furuncle unspecified hand
+L02.531@Carbuncle of right hand
+L02.532@Carbuncle of left hand
+L02.539@Carbuncle of unspecified hand
+L02.611@Cutaneous abscess of right foot
+L02.612@Cutaneous abscess of left foot
+L02.619@Cutaneous abscess of unspecified foot
+L02.621@Furuncle of right foot
+L02.622@Furuncle of left foot
+L02.629@Furuncle of unspecified foot
+L02.631@Carbuncle of right foot
+L02.632@Carbuncle of left foot
+L02.639@Carbuncle of unspecified foot
+L02.811@Cutaneous abscess of head [any part, except face]
+L02.818@Cutaneous abscess of other sites
+L02.821@Furuncle of head [any part, except face]
+L02.828@Furuncle of other sites
+L02.831@Carbuncle of head [any part, except face]
+L02.838@Carbuncle of other sites
+L02.91@Cutaneous abscess, unspecified
+L02.92@Furuncle, unspecified
+L02.93@Carbuncle, unspecified
+L03.011@Cellulitis of right finger
+L03.012@Cellulitis of left finger
+L03.019@Cellulitis of unspecified finger
+L03.021@Acute lymphangitis of right finger
+L03.022@Acute lymphangitis of left finger
+L03.029@Acute lymphangitis of unspecified finger
+L03.031@Cellulitis of right toe
+L03.032@Cellulitis of left toe
+L03.039@Cellulitis of unspecified toe
+L03.041@Acute lymphangitis of right toe
+L03.042@Acute lymphangitis of left toe
+L03.049@Acute lymphangitis of unspecified toe
+L03.111@Cellulitis of right axilla
+L03.112@Cellulitis of left axilla
+L03.113@Cellulitis of right upper limb
+L03.114@Cellulitis of left upper limb
+L03.115@Cellulitis of right lower limb
+L03.116@Cellulitis of left lower limb
+L03.119@Cellulitis of unspecified part of limb
+L03.121@Acute lymphangitis of right axilla
+L03.122@Acute lymphangitis of left axilla
+L03.123@Acute lymphangitis of right upper limb
+L03.124@Acute lymphangitis of left upper limb
+L03.125@Acute lymphangitis of right lower limb
+L03.126@Acute lymphangitis of left lower limb
+L03.129@Acute lymphangitis of unspecified part of limb
+L03.211@Cellulitis of face
+L03.212@Acute lymphangitis of face
+L03.221@Cellulitis of neck
+L03.222@Acute lymphangitis of neck
+L03.311@Cellulitis of abdominal wall
+L03.312@Cellulitis of back [any part except buttock]
+L03.313@Cellulitis of chest wall
+L03.314@Cellulitis of groin
+L03.315@Cellulitis of perineum
+L03.316@Cellulitis of umbilicus
+L03.317@Cellulitis of buttock
+L03.319@Cellulitis of trunk, unspecified
+L03.321@Acute lymphangitis of abdominal wall
+L03.322@Acute lymphangitis of back [any part except buttock]
+L03.323@Acute lymphangitis of chest wall
+L03.324@Acute lymphangitis of groin
+L03.325@Acute lymphangitis of perineum
+L03.326@Acute lymphangitis of umbilicus
+L03.327@Acute lymphangitis of buttock
+L03.329@Acute lymphangitis of trunk, unspecified
+L03.811@Cellulitis of head [any part, except face]
+L03.818@Cellulitis of other sites
+L03.891@Acute lymphangitis of head [any part, except face]
+L03.898@Acute lymphangitis of other sites
+L03.90@Cellulitis, unspecified
+L03.91@Acute lymphangitis, unspecified
+L04.0@Acute lymphadenitis of face, head and neck
+L04.1@Acute lymphadenitis of trunk
+L04.2@Acute lymphadenitis of upper limb
+L04.3@Acute lymphadenitis of lower limb
+L04.8@Acute lymphadenitis of other sites
+L04.9@Acute lymphadenitis, unspecified
+L05.01@Pilonidal cyst with abscess
+L05.02@Pilonidal sinus with abscess
+L05.91@Pilonidal cyst without abscess
+L05.92@Pilonidal sinus without abscess
+L08.0@Pyoderma
+L08.1@Erythrasma
+L08.81@Pyoderma vegetans
+L08.82@Omphalitis not of newborn
+L08.89@Oth local infections of the skin and subcutaneous tissue
+L08.9@Local infection of the skin and subcutaneous tissue, unsp
+L10.0@Pemphigus vulgaris
+L10.1@Pemphigus vegetans
+L10.2@Pemphigus foliaceous
+L10.3@Brazilian pemphigus [fogo selvagem]
+L10.4@Pemphigus erythematosus
+L10.5@Drug-induced pemphigus
+L10.81@Paraneoplastic pemphigus
+L10.89@Other pemphigus
+L10.9@Pemphigus, unspecified
+L11.0@Acquired keratosis follicularis
+L11.1@Transient acantholytic dermatosis [Grover]
+L11.8@Other specified acantholytic disorders
+L11.9@Acantholytic disorder, unspecified
+L12.0@Bullous pemphigoid
+L12.1@Cicatricial pemphigoid
+L12.2@Chronic bullous disease of childhood
+L12.30@Acquired epidermolysis bullosa, unspecified
+L12.31@Epidermolysis bullosa due to drug
+L12.35@Other acquired epidermolysis bullosa
+L12.8@Other pemphigoid
+L12.9@Pemphigoid, unspecified
+L13.0@Dermatitis herpetiformis
+L13.1@Subcorneal pustular dermatitis
+L13.8@Other specified bullous disorders
+L13.9@Bullous disorder, unspecified
+L14.@Bullous disorders in diseases classified elsewhere
+L20.0@Besnier's prurigo
+L20.81@Atopic neurodermatitis
+L20.82@Flexural eczema
+L20.83@Infantile (acute) (chronic) eczema
+L20.84@Intrinsic (allergic) eczema
+L20.89@Other atopic dermatitis
+L20.9@Atopic dermatitis, unspecified
+L21.0@Seborrhea capitis
+L21.1@Seborrheic infantile dermatitis
+L21.8@Other seborrheic dermatitis
+L21.9@Seborrheic dermatitis, unspecified
+L22.@Diaper dermatitis
+L23.0@Allergic contact dermatitis due to metals
+L23.1@Allergic contact dermatitis due to adhesives
+L23.2@Allergic contact dermatitis due to cosmetics
+L23.3@Allergic contact dermatitis due to drugs in contact w skin
+L23.4@Allergic contact dermatitis due to dyes
+L23.5@Allergic contact dermatitis due to other chemical products
+L23.6@Allergic contact dermatitis due to food in contact w skin
+L23.7@Allergic contact dermatitis due to plants, except food
+L23.81@Allergic contact dermatitis due to animal (cat) (dog) dander
+L23.89@Allergic contact dermatitis due to other agents
+L23.9@Allergic contact dermatitis, unspecified cause
+L24.0@Irritant contact dermatitis due to detergents
+L24.1@Irritant contact dermatitis due to oils and greases
+L24.2@Irritant contact dermatitis due to solvents
+L24.3@Irritant contact dermatitis due to cosmetics
+L24.4@Irritant contact dermatitis due to drugs in contact w skin
+L24.5@Irritant contact dermatitis due to other chemical products
+L24.6@Irritant contact dermatitis due to food in contact with skin
+L24.7@Irritant contact dermatitis due to plants, except food
+L24.81@Irritant contact dermatitis due to metals
+L24.89@Irritant contact dermatitis due to other agents
+L24.9@Irritant contact dermatitis, unspecified cause
+L25.0@Unspecified contact dermatitis due to cosmetics
+L25.1@Unsp contact dermatitis due to drugs in contact with skin
+L25.2@Unspecified contact dermatitis due to dyes
+L25.3@Unsp contact dermatitis due to other chemical products
+L25.4@Unsp contact dermatitis due to food in contact with skin
+L25.5@Unspecified contact dermatitis due to plants, except food
+L25.8@Unspecified contact dermatitis due to other agents
+L25.9@Unspecified contact dermatitis, unspecified cause
+L26.@Exfoliative dermatitis
+L27.0@Gen skin eruption due to drugs and meds taken internally
+L27.1@Loc skin eruption due to drugs and meds taken internally
+L27.2@Dermatitis due to ingested food
+L27.8@Dermatitis due to other substances taken internally
+L27.9@Dermatitis due to unspecified substance taken internally
+L28.0@Lichen simplex chronicus
+L28.1@Prurigo nodularis
+L28.2@Other prurigo
+L29.0@Pruritus ani
+L29.1@Pruritus scroti
+L29.2@Pruritus vulvae
+L29.3@Anogenital pruritus, unspecified
+L29.8@Other pruritus
+L29.9@Pruritus, unspecified
+L30.0@Nummular dermatitis
+L30.1@Dyshidrosis [pompholyx]
+L30.2@Cutaneous autosensitization
+L30.3@Infective dermatitis
+L30.4@Erythema intertrigo
+L30.5@Pityriasis alba
+L30.8@Other specified dermatitis
+L30.9@Dermatitis, unspecified
+L40.0@Psoriasis vulgaris
+L40.1@Generalized pustular psoriasis
+L40.2@Acrodermatitis continua
+L40.3@Pustulosis palmaris et plantaris
+L40.4@Guttate psoriasis
+L40.50@Arthropathic psoriasis, unspecified
+L40.51@Distal interphalangeal psoriatic arthropathy
+L40.52@Psoriatic arthritis mutilans
+L40.53@Psoriatic spondylitis
+L40.54@Psoriatic juvenile arthropathy
+L40.59@Other psoriatic arthropathy
+L40.8@Other psoriasis
+L40.9@Psoriasis, unspecified
+L41.0@Pityriasis lichenoides et varioliformis acuta
+L41.1@Pityriasis lichenoides chronica
+L41.3@Small plaque parapsoriasis
+L41.4@Large plaque parapsoriasis
+L41.5@Retiform parapsoriasis
+L41.8@Other parapsoriasis
+L41.9@Parapsoriasis, unspecified
+L42.@Pityriasis rosea
+L43.0@Hypertrophic lichen planus
+L43.1@Bullous lichen planus
+L43.2@Lichenoid drug reaction
+L43.3@Subacute (active) lichen planus
+L43.8@Other lichen planus
+L43.9@Lichen planus, unspecified
+L44.0@Pityriasis rubra pilaris
+L44.1@Lichen nitidus
+L44.2@Lichen striatus
+L44.3@Lichen ruber moniliformis
+L44.4@Infantile papular acrodermatitis [Gianotti-Crosti]
+L44.8@Other specified papulosquamous disorders
+L44.9@Papulosquamous disorder, unspecified
+L45.@Papulosquamous disorders in diseases classified elsewhere
+L49.0@Exfoliatn due to erythemat cond w < 10 pct of body surface
+L49.1@Exfoliatn due to erythemat cond w 10-19 pct of body surface
+L49.2@Exfoliatn due to erythemat cond w 20-29 pct of body surface
+L49.3@Exfoliatn due to erythemat cond w 30-39 pct of body surface
+L49.4@Exfoliatn due to erythemat cond w 40-49 pct of body surface
+L49.5@Exfoliatn due to erythemat cond w 50-59 pct of body surface
+L49.6@Exfoliatn due to erythemat cond w 60-69 pct of body surface
+L49.7@Exfoliatn due to erythemat cond w 70-79 pct of body surface
+L49.8@Exfoliatn due to erythemat cond w 80-89 pct of body surface
+L49.9@Exfoliatn d/t erythemat cond w 90 or more pct of body surfc
+L50.0@Allergic urticaria
+L50.1@Idiopathic urticaria
+L50.2@Urticaria due to cold and heat
+L50.3@Dermatographic urticaria
+L50.4@Vibratory urticaria
+L50.5@Cholinergic urticaria
+L50.6@Contact urticaria
+L50.8@Other urticaria
+L50.9@Urticaria, unspecified
+L51.0@Nonbullous erythema multiforme
+L51.1@Stevens-Johnson syndrome
+L51.2@Toxic epidermal necrolysis [Lyell]
+L51.3@Stevens-Johnson synd-tox epdrml necrolysis overlap syndrome
+L51.8@Other erythema multiforme
+L51.9@Erythema multiforme, unspecified
+L52.@Erythema nodosum
+L53.0@Toxic erythema
+L53.1@Erythema annulare centrifugum
+L53.2@Erythema marginatum
+L53.3@Other chronic figurate erythema
+L53.8@Other specified erythematous conditions
+L53.9@Erythematous condition, unspecified
+L54.@Erythema in diseases classified elsewhere
+L55.0@Sunburn of first degree
+L55.1@Sunburn of second degree
+L55.2@Sunburn of third degree
+L55.9@Sunburn, unspecified
+L56.0@Drug phototoxic response
+L56.1@Drug photoallergic response
+L56.2@Photocontact dermatitis [berloque dermatitis]
+L56.3@Solar urticaria
+L56.4@Polymorphous light eruption
+L56.5@Disseminated superficial actinic porokeratosis (DSAP)
+L56.8@Oth acute skin changes due to ultraviolet radiation
+L56.9@Acute skin change due to ultraviolet radiation, unspecified
+L57.0@Actinic keratosis
+L57.1@Actinic reticuloid
+L57.2@Cutis rhomboidalis nuchae
+L57.3@Poikiloderma of Civatte
+L57.4@Cutis laxa senilis
+L57.5@Actinic granuloma
+L57.8@Oth skin changes due to chr expsr to nonionizing radiation
+L57.9@Skin changes due to chr expsr to nonionizing radiation, unsp
+L58.0@Acute radiodermatitis
+L58.1@Chronic radiodermatitis
+L58.9@Radiodermatitis, unspecified
+L59.0@Erythema ab igne [dermatitis ab igne]
+L59.8@Oth disrd of the skin, subcu related to radiation
+L59.9@Disorder of the skin, subcu related to radiation, unsp
+L60.0@Ingrowing nail
+L60.1@Onycholysis
+L60.2@Onychogryphosis
+L60.3@Nail dystrophy
+L60.4@Beau's lines
+L60.5@Yellow nail syndrome
+L60.8@Other nail disorders
+L60.9@Nail disorder, unspecified
+L62.@Nail disorders in diseases classified elsewhere
+L63.0@Alopecia (capitis) totalis
+L63.1@Alopecia universalis
+L63.2@Ophiasis
+L63.8@Other alopecia areata
+L63.9@Alopecia areata, unspecified
+L64.0@Drug-induced androgenic alopecia
+L64.8@Other androgenic alopecia
+L64.9@Androgenic alopecia, unspecified
+L65.0@Telogen effluvium
+L65.1@Anagen effluvium
+L65.2@Alopecia mucinosa
+L65.8@Other specified nonscarring hair loss
+L65.9@Nonscarring hair loss, unspecified
+L66.0@Pseudopelade
+L66.1@Lichen planopilaris
+L66.2@Folliculitis decalvans
+L66.3@Perifolliculitis capitis abscedens
+L66.4@Folliculitis ulerythematosa reticulata
+L66.8@Other cicatricial alopecia
+L66.9@Cicatricial alopecia, unspecified
+L67.0@Trichorrhexis nodosa
+L67.1@Variations in hair color
+L67.8@Other hair color and hair shaft abnormalities
+L67.9@Hair color and hair shaft abnormality, unspecified
+L68.0@Hirsutism
+L68.1@Acquired hypertrichosis lanuginosa
+L68.2@Localized hypertrichosis
+L68.3@Polytrichia
+L68.8@Other hypertrichosis
+L68.9@Hypertrichosis, unspecified
+L70.0@Acne vulgaris
+L70.1@Acne conglobata
+L70.2@Acne varioliformis
+L70.3@Acne tropica
+L70.4@Infantile acne
+L70.5@Acne excoriAce des jeunes filles
+L70.8@Other acne
+L70.9@Acne, unspecified
+L71.0@Perioral dermatitis
+L71.1@Rhinophyma
+L71.8@Other rosacea
+L71.9@Rosacea, unspecified
+L72.0@Epidermal cyst
+L72.11@Pilar cyst
+L72.12@Trichodermal cyst
+L72.2@Steatocystoma multiplex
+L72.3@Sebaceous cyst
+L72.8@Other follicular cysts of the skin and subcutaneous tissue
+L72.9@Follicular cyst of the skin and subcutaneous tissue, unsp
+L73.0@Acne keloid
+L73.1@Pseudofolliculitis barbae
+L73.2@Hidradenitis suppurativa
+L73.8@Other specified follicular disorders
+L73.9@Follicular disorder, unspecified
+L74.0@Miliaria rubra
+L74.1@Miliaria crystallina
+L74.2@Miliaria profunda
+L74.3@Miliaria, unspecified
+L74.4@Anhidrosis
+L74.510@Primary focal hyperhidrosis, axilla
+L74.511@Primary focal hyperhidrosis, face
+L74.512@Primary focal hyperhidrosis, palms
+L74.513@Primary focal hyperhidrosis, soles
+L74.519@Primary focal hyperhidrosis, unspecified
+L74.52@Secondary focal hyperhidrosis
+L74.8@Other eccrine sweat disorders
+L74.9@Eccrine sweat disorder, unspecified
+L75.0@Bromhidrosis
+L75.1@Chromhidrosis
+L75.2@Apocrine miliaria
+L75.8@Other apocrine sweat disorders
+L75.9@Apocrine sweat disorder, unspecified
+L76.01@Intraop hemor/hemtom of skin, subcu comp a dermatologic proc
+L76.02@Intraop hemor/hemtom of skin, subcu comp oth procedure
+L76.11@Acc pnctr & lac of skin, subcu during a dermatologic proc
+L76.12@Accidental pnctr & lac of skin, subcu during oth procedure
+L76.21@Postproc hemor/hemtom of skin, subcu fol a dermatologic proc
+L76.22@Postproc hemor/hemtom of skin, subcu following oth procedure
+L76.81@Oth intraoperative complications of skin, subcu
+L76.82@Oth postprocedural complications of skin, subcu
+L80.@Vitiligo
+L81.0@Postinflammatory hyperpigmentation
+L81.1@Chloasma
+L81.2@Freckles
+L81.3@Cafe au lait spots
+L81.4@Other melanin hyperpigmentation
+L81.5@Leukoderma, not elsewhere classified
+L81.6@Other disorders of diminished melanin formation
+L81.7@Pigmented purpuric dermatosis
+L81.8@Other specified disorders of pigmentation
+L81.9@Disorder of pigmentation, unspecified
+L82.0@Inflamed seborrheic keratosis
+L82.1@Other seborrheic keratosis
+L83.@Acanthosis nigricans
+L84.@Corns and callosities
+L85.0@Acquired ichthyosis
+L85.1@Acquired keratosis [keratoderma] palmaris et plantaris
+L85.2@Keratosis punctata (palmaris et plantaris)
+L85.3@Xerosis cutis
+L85.8@Other specified epidermal thickening
+L85.9@Epidermal thickening, unspecified
+L86.@Keratoderma in diseases classified elsewhere
+L87.0@Keratos follicularis et parafollicularis in cutem penetrans
+L87.1@Reactive perforating collagenosis
+L87.2@Elastosis perforans serpiginosa
+L87.8@Other transepidermal elimination disorders
+L87.9@Transepidermal elimination disorder, unspecified
+L88.@Pyoderma gangrenosum
+L89.000@Pressure ulcer of unspecified elbow, unstageable
+L89.001@Pressure ulcer of unspecified elbow, stage 1
+L89.002@Pressure ulcer of unspecified elbow, stage 2
+L89.003@Pressure ulcer of unspecified elbow, stage 3
+L89.004@Pressure ulcer of unspecified elbow, stage 4
+L89.009@Pressure ulcer of unspecified elbow, unspecified stage
+L89.010@Pressure ulcer of right elbow, unstageable
+L89.011@Pressure ulcer of right elbow, stage 1
+L89.012@Pressure ulcer of right elbow, stage 2
+L89.013@Pressure ulcer of right elbow, stage 3
+L89.014@Pressure ulcer of right elbow, stage 4
+L89.019@Pressure ulcer of right elbow, unspecified stage
+L89.020@Pressure ulcer of left elbow, unstageable
+L89.021@Pressure ulcer of left elbow, stage 1
+L89.022@Pressure ulcer of left elbow, stage 2
+L89.023@Pressure ulcer of left elbow, stage 3
+L89.024@Pressure ulcer of left elbow, stage 4
+L89.029@Pressure ulcer of left elbow, unspecified stage
+L89.100@Pressure ulcer of unspecified part of back, unstageable
+L89.101@Pressure ulcer of unspecified part of back, stage 1
+L89.102@Pressure ulcer of unspecified part of back, stage 2
+L89.103@Pressure ulcer of unspecified part of back, stage 3
+L89.104@Pressure ulcer of unspecified part of back, stage 4
+L89.109@Pressure ulcer of unsp part of back, unspecified stage
+L89.110@Pressure ulcer of right upper back, unstageable
+L89.111@Pressure ulcer of right upper back, stage 1
+L89.112@Pressure ulcer of right upper back, stage 2
+L89.113@Pressure ulcer of right upper back, stage 3
+L89.114@Pressure ulcer of right upper back, stage 4
+L89.119@Pressure ulcer of right upper back, unspecified stage
+L89.120@Pressure ulcer of left upper back, unstageable
+L89.121@Pressure ulcer of left upper back, stage 1
+L89.122@Pressure ulcer of left upper back, stage 2
+L89.123@Pressure ulcer of left upper back, stage 3
+L89.124@Pressure ulcer of left upper back, stage 4
+L89.129@Pressure ulcer of left upper back, unspecified stage
+L89.130@Pressure ulcer of right lower back, unstageable
+L89.131@Pressure ulcer of right lower back, stage 1
+L89.132@Pressure ulcer of right lower back, stage 2
+L89.133@Pressure ulcer of right lower back, stage 3
+L89.134@Pressure ulcer of right lower back, stage 4
+L89.139@Pressure ulcer of right lower back, unspecified stage
+L89.140@Pressure ulcer of left lower back, unstageable
+L89.141@Pressure ulcer of left lower back, stage 1
+L89.142@Pressure ulcer of left lower back, stage 2
+L89.143@Pressure ulcer of left lower back, stage 3
+L89.144@Pressure ulcer of left lower back, stage 4
+L89.149@Pressure ulcer of left lower back, unspecified stage
+L89.150@Pressure ulcer of sacral region, unstageable
+L89.151@Pressure ulcer of sacral region, stage 1
+L89.152@Pressure ulcer of sacral region, stage 2
+L89.153@Pressure ulcer of sacral region, stage 3
+L89.154@Pressure ulcer of sacral region, stage 4
+L89.159@Pressure ulcer of sacral region, unspecified stage
+L89.200@Pressure ulcer of unspecified hip, unstageable
+L89.201@Pressure ulcer of unspecified hip, stage 1
+L89.202@Pressure ulcer of unspecified hip, stage 2
+L89.203@Pressure ulcer of unspecified hip, stage 3
+L89.204@Pressure ulcer of unspecified hip, stage 4
+L89.209@Pressure ulcer of unspecified hip, unspecified stage
+L89.210@Pressure ulcer of right hip, unstageable
+L89.211@Pressure ulcer of right hip, stage 1
+L89.212@Pressure ulcer of right hip, stage 2
+L89.213@Pressure ulcer of right hip, stage 3
+L89.214@Pressure ulcer of right hip, stage 4
+L89.219@Pressure ulcer of right hip, unspecified stage
+L89.220@Pressure ulcer of left hip, unstageable
+L89.221@Pressure ulcer of left hip, stage 1
+L89.222@Pressure ulcer of left hip, stage 2
+L89.223@Pressure ulcer of left hip, stage 3
+L89.224@Pressure ulcer of left hip, stage 4
+L89.229@Pressure ulcer of left hip, unspecified stage
+L89.300@Pressure ulcer of unspecified buttock, unstageable
+L89.301@Pressure ulcer of unspecified buttock, stage 1
+L89.302@Pressure ulcer of unspecified buttock, stage 2
+L89.303@Pressure ulcer of unspecified buttock, stage 3
+L89.304@Pressure ulcer of unspecified buttock, stage 4
+L89.309@Pressure ulcer of unspecified buttock, unspecified stage
+L89.310@Pressure ulcer of right buttock, unstageable
+L89.311@Pressure ulcer of right buttock, stage 1
+L89.312@Pressure ulcer of right buttock, stage 2
+L89.313@Pressure ulcer of right buttock, stage 3
+L89.314@Pressure ulcer of right buttock, stage 4
+L89.319@Pressure ulcer of right buttock, unspecified stage
+L89.320@Pressure ulcer of left buttock, unstageable
+L89.321@Pressure ulcer of left buttock, stage 1
+L89.322@Pressure ulcer of left buttock, stage 2
+L89.323@Pressure ulcer of left buttock, stage 3
+L89.324@Pressure ulcer of left buttock, stage 4
+L89.329@Pressure ulcer of left buttock, unspecified stage
+L89.40@Pressr ulc of contig site of back, buttock and hip, unsp stg
+L89.41@Pressr ulcer of contig site of back, buttock and hip, stg 1
+L89.42@Pressr ulcer of contig site of back, buttock and hip, stg 2
+L89.43@Pressr ulcer of contig site of back, buttock and hip, stg 3
+L89.44@Pressr ulcer of contig site of back, buttock and hip, stg 4
+L89.45@Pressr ulc of contig site of back,buttock & hip, unstageable
+L89.500@Pressure ulcer of unspecified ankle, unstageable
+L89.501@Pressure ulcer of unspecified ankle, stage 1
+L89.502@Pressure ulcer of unspecified ankle, stage 2
+L89.503@Pressure ulcer of unspecified ankle, stage 3
+L89.504@Pressure ulcer of unspecified ankle, stage 4
+L89.509@Pressure ulcer of unspecified ankle, unspecified stage
+L89.510@Pressure ulcer of right ankle, unstageable
+L89.511@Pressure ulcer of right ankle, stage 1
+L89.512@Pressure ulcer of right ankle, stage 2
+L89.513@Pressure ulcer of right ankle, stage 3
+L89.514@Pressure ulcer of right ankle, stage 4
+L89.519@Pressure ulcer of right ankle, unspecified stage
+L89.520@Pressure ulcer of left ankle, unstageable
+L89.521@Pressure ulcer of left ankle, stage 1
+L89.522@Pressure ulcer of left ankle, stage 2
+L89.523@Pressure ulcer of left ankle, stage 3
+L89.524@Pressure ulcer of left ankle, stage 4
+L89.529@Pressure ulcer of left ankle, unspecified stage
+L89.600@Pressure ulcer of unspecified heel, unstageable
+L89.601@Pressure ulcer of unspecified heel, stage 1
+L89.602@Pressure ulcer of unspecified heel, stage 2
+L89.603@Pressure ulcer of unspecified heel, stage 3
+L89.604@Pressure ulcer of unspecified heel, stage 4
+L89.609@Pressure ulcer of unspecified heel, unspecified stage
+L89.610@Pressure ulcer of right heel, unstageable
+L89.611@Pressure ulcer of right heel, stage 1
+L89.612@Pressure ulcer of right heel, stage 2
+L89.613@Pressure ulcer of right heel, stage 3
+L89.614@Pressure ulcer of right heel, stage 4
+L89.619@Pressure ulcer of right heel, unspecified stage
+L89.620@Pressure ulcer of left heel, unstageable
+L89.621@Pressure ulcer of left heel, stage 1
+L89.622@Pressure ulcer of left heel, stage 2
+L89.623@Pressure ulcer of left heel, stage 3
+L89.624@Pressure ulcer of left heel, stage 4
+L89.629@Pressure ulcer of left heel, unspecified stage
+L89.810@Pressure ulcer of head, unstageable
+L89.811@Pressure ulcer of head, stage 1
+L89.812@Pressure ulcer of head, stage 2
+L89.813@Pressure ulcer of head, stage 3
+L89.814@Pressure ulcer of head, stage 4
+L89.819@Pressure ulcer of head, unspecified stage
+L89.890@Pressure ulcer of other site, unstageable
+L89.891@Pressure ulcer of other site, stage 1
+L89.892@Pressure ulcer of other site, stage 2
+L89.893@Pressure ulcer of other site, stage 3
+L89.894@Pressure ulcer of other site, stage 4
+L89.899@Pressure ulcer of other site, unspecified stage
+L89.90@Pressure ulcer of unspecified site, unspecified stage
+L89.91@Pressure ulcer of unspecified site, stage 1
+L89.92@Pressure ulcer of unspecified site, stage 2
+L89.93@Pressure ulcer of unspecified site, stage 3
+L89.94@Pressure ulcer of unspecified site, stage 4
+L89.95@Pressure ulcer of unspecified site, unstageable
+L90.0@Lichen sclerosus et atrophicus
+L90.1@Anetoderma of Schweninger-Buzzi
+L90.2@Anetoderma of Jadassohn-Pellizzari
+L90.3@Atrophoderma of Pasini and Pierini
+L90.4@Acrodermatitis chronica atrophicans
+L90.5@Scar conditions and fibrosis of skin
+L90.6@Striae atrophicae
+L90.8@Other atrophic disorders of skin
+L90.9@Atrophic disorder of skin, unspecified
+L91.0@Hypertrophic scar
+L91.8@Other hypertrophic disorders of the skin
+L91.9@Hypertrophic disorder of the skin, unspecified
+L92.0@Granuloma annulare
+L92.1@Necrobiosis lipoidica, not elsewhere classified
+L92.2@Granuloma faciale [eosinophilic granuloma of skin]
+L92.3@Foreign body granuloma of the skin and subcutaneous tissue
+L92.8@Oth granulomatous disorders of the skin, subcu
+L92.9@Granulomatous disorder of the skin, subcu, unsp
+L93.0@Discoid lupus erythematosus
+L93.1@Subacute cutaneous lupus erythematosus
+L93.2@Other local lupus erythematosus
+L94.0@Localized scleroderma [morphea]
+L94.1@Linear scleroderma
+L94.2@Calcinosis cutis
+L94.3@Sclerodactyly
+L94.4@Gottron's papules
+L94.5@Poikiloderma vasculare atrophicans
+L94.6@Ainhum
+L94.8@Other specified localized connective tissue disorders
+L94.9@Localized connective tissue disorder, unspecified
+L95.0@Livedoid vasculitis
+L95.1@Erythema elevatum diutinum
+L95.8@Other vasculitis limited to the skin
+L95.9@Vasculitis limited to the skin, unspecified
+L97.101@Non-prs chronic ulcer of unsp thigh limited to brkdwn skin
+L97.102@Non-pressure chronic ulcer of unsp thigh w fat layer exposed
+L97.103@Non-prs chronic ulcer of unsp thigh w necrosis of muscle
+L97.104@Non-pressure chronic ulcer of unsp thigh w necrosis of bone
+L97.109@Non-pressure chronic ulcer of unsp thigh with unsp severity
+L97.111@Non-prs chronic ulcer of right thigh limited to brkdwn skin
+L97.112@Non-prs chronic ulcer of right thigh w fat layer exposed
+L97.113@Non-prs chronic ulcer of right thigh w necrosis of muscle
+L97.114@Non-pressure chronic ulcer of right thigh w necrosis of bone
+L97.119@Non-pressure chronic ulcer of right thigh with unsp severity
+L97.121@Non-prs chronic ulcer of left thigh limited to brkdwn skin
+L97.122@Non-pressure chronic ulcer of left thigh w fat layer exposed
+L97.123@Non-prs chronic ulcer of left thigh w necrosis of muscle
+L97.124@Non-pressure chronic ulcer of left thigh w necrosis of bone
+L97.129@Non-pressure chronic ulcer of left thigh with unsp severity
+L97.201@Non-prs chronic ulcer of unsp calf limited to brkdwn skin
+L97.202@Non-pressure chronic ulcer of unsp calf w fat layer exposed
+L97.203@Non-pressure chronic ulcer of unsp calf w necrosis of muscle
+L97.204@Non-pressure chronic ulcer of unsp calf w necrosis of bone
+L97.209@Non-pressure chronic ulcer of unsp calf with unsp severity
+L97.211@Non-prs chronic ulcer of right calf limited to brkdwn skin
+L97.212@Non-pressure chronic ulcer of right calf w fat layer exposed
+L97.213@Non-prs chronic ulcer of right calf w necrosis of muscle
+L97.214@Non-pressure chronic ulcer of right calf w necrosis of bone
+L97.219@Non-pressure chronic ulcer of right calf with unsp severity
+L97.221@Non-prs chronic ulcer of left calf limited to brkdwn skin
+L97.222@Non-pressure chronic ulcer of left calf w fat layer exposed
+L97.223@Non-pressure chronic ulcer of left calf w necrosis of muscle
+L97.224@Non-pressure chronic ulcer of left calf w necrosis of bone
+L97.229@Non-pressure chronic ulcer of left calf with unsp severity
+L97.301@Non-prs chronic ulcer of unsp ankle limited to brkdwn skin
+L97.302@Non-pressure chronic ulcer of unsp ankle w fat layer exposed
+L97.303@Non-prs chronic ulcer of unsp ankle w necrosis of muscle
+L97.304@Non-pressure chronic ulcer of unsp ankle w necrosis of bone
+L97.309@Non-pressure chronic ulcer of unsp ankle with unsp severity
+L97.311@Non-prs chronic ulcer of right ankle limited to brkdwn skin
+L97.312@Non-prs chronic ulcer of right ankle w fat layer exposed
+L97.313@Non-prs chronic ulcer of right ankle w necrosis of muscle
+L97.314@Non-pressure chronic ulcer of right ankle w necrosis of bone
+L97.319@Non-pressure chronic ulcer of right ankle with unsp severity
+L97.321@Non-prs chronic ulcer of left ankle limited to brkdwn skin
+L97.322@Non-pressure chronic ulcer of left ankle w fat layer exposed
+L97.323@Non-prs chronic ulcer of left ankle w necrosis of muscle
+L97.324@Non-pressure chronic ulcer of left ankle w necrosis of bone
+L97.329@Non-pressure chronic ulcer of left ankle with unsp severity
+L97.401@Non-prs chr ulcer of unsp heel and midft lmt to brkdwn skin
+L97.402@Non-prs chr ulcer of unsp heel and midfoot w fat layer expos
+L97.403@Non-prs chr ulcer of unsp heel and midfoot w necros muscle
+L97.404@Non-prs chronic ulcer of unsp heel and midfoot w necros bone
+L97.409@Non-prs chronic ulcer of unsp heel and midfoot w unsp severt
+L97.411@Non-prs chr ulcer of right heel and midft lmt to brkdwn skin
+L97.412@Non-prs chr ulcer of right heel and midft w fat layer expos
+L97.413@Non-prs chr ulcer of right heel and midfoot w necros muscle
+L97.414@Non-prs chr ulcer of right heel and midfoot w necros bone
+L97.419@Non-prs chr ulcer of right heel and midfoot w unsp severt
+L97.421@Non-prs chr ulcer of left heel and midft lmt to brkdwn skin
+L97.422@Non-prs chr ulcer of left heel and midfoot w fat layer expos
+L97.423@Non-prs chr ulcer of left heel and midfoot w necros muscle
+L97.424@Non-prs chronic ulcer of left heel and midfoot w necros bone
+L97.429@Non-prs chronic ulcer of left heel and midfoot w unsp severt
+L97.501@Non-prs chr ulcer oth prt unsp foot limited to brkdwn skin
+L97.502@Non-prs chronic ulcer oth prt unsp foot w fat layer exposed
+L97.503@Non-prs chronic ulcer oth prt unsp foot w necrosis of muscle
+L97.504@Non-prs chronic ulcer oth prt unsp foot w necrosis of bone
+L97.509@Non-pressure chronic ulcer oth prt unsp foot w unsp severity
+L97.511@Non-prs chronic ulcer oth prt r foot limited to brkdwn skin
+L97.512@Non-prs chronic ulcer oth prt right foot w fat layer exposed
+L97.513@Non-prs chronic ulcer oth prt right foot w necros muscle
+L97.514@Non-prs chronic ulcer oth prt right foot w necrosis of bone
+L97.519@Non-prs chronic ulcer oth prt right foot w unsp severity
+L97.521@Non-prs chronic ulcer oth prt l foot limited to brkdwn skin
+L97.522@Non-prs chronic ulcer oth prt left foot w fat layer exposed
+L97.523@Non-prs chronic ulcer oth prt left foot w necrosis of muscle
+L97.524@Non-prs chronic ulcer oth prt left foot w necrosis of bone
+L97.529@Non-pressure chronic ulcer oth prt left foot w unsp severity
+L97.801@Non-prs chr ulcer oth prt unsp low leg lmt to brkdwn skin
+L97.802@Non-prs chr ulcer oth prt unsp low leg w fat layer exposed
+L97.803@Non-prs chronic ulcer oth prt unsp lower leg w necros muscle
+L97.804@Non-prs chronic ulcer oth prt unsp lower leg w necros bone
+L97.809@Non-prs chronic ulcer oth prt unsp lower leg w unsp severity
+L97.811@Non-prs chr ulcer oth prt r low leg limited to brkdwn skin
+L97.812@Non-prs chronic ulcer oth prt r low leg w fat layer exposed
+L97.813@Non-prs chronic ulcer oth prt r low leg w necrosis of muscle
+L97.814@Non-prs chronic ulcer oth prt r low leg w necrosis of bone
+L97.819@Non-pressure chronic ulcer oth prt r low leg w unsp severity
+L97.821@Non-prs chr ulcer oth prt l low leg limited to brkdwn skin
+L97.822@Non-prs chronic ulcer oth prt l low leg w fat layer exposed
+L97.823@Non-prs chronic ulcer oth prt l low leg w necrosis of muscle
+L97.824@Non-prs chronic ulcer oth prt l low leg w necrosis of bone
+L97.829@Non-pressure chronic ulcer oth prt l low leg w unsp severity
+L97.901@Non-prs chr ulc unsp prt of unsp low leg lmt to brkdwn skin
+L97.902@Non-prs chr ulc unsp prt of unsp low leg w fat layer exposed
+L97.903@Non-prs chronic ulc unsp prt of unsp low leg w necros muscle
+L97.904@Non-prs chronic ulc unsp prt of unsp lower leg w necros bone
+L97.909@Non-prs chronic ulc unsp prt of unsp low leg w unsp severity
+L97.911@Non-prs chr ulc unsp prt of r low leg limited to brkdwn skin
+L97.912@Non-prs chr ulc unsp prt of r low leg w fat layer exposed
+L97.913@Non-prs chronic ulc unsp prt of r low leg w necros muscle
+L97.914@Non-prs chronic ulc unsp prt of r low leg w necrosis of bone
+L97.919@Non-prs chronic ulc unsp prt of r low leg w unsp severity
+L97.921@Non-prs chr ulc unsp prt of l low leg limited to brkdwn skin
+L97.922@Non-prs chr ulc unsp prt of l low leg w fat layer exposed
+L97.923@Non-prs chronic ulc unsp prt of l low leg w necros muscle
+L97.924@Non-prs chronic ulc unsp prt of l low leg w necrosis of bone
+L97.929@Non-prs chronic ulc unsp prt of l low leg w unsp severity
+L98.0@Pyogenic granuloma
+L98.1@Factitial dermatitis
+L98.2@Febrile neutrophilic dermatosis [Sweet]
+L98.3@Eosinophilic cellulitis [Wells]
+L98.411@Non-pressure chronic ulcer of buttock limited to brkdwn skin
+L98.412@Non-pressure chronic ulcer of buttock with fat layer exposed
+L98.413@Non-pressure chronic ulcer of buttock w necrosis of muscle
+L98.414@Non-pressure chronic ulcer of buttock with necrosis of bone
+L98.419@Non-pressure chronic ulcer of buttock with unsp severity
+L98.421@Non-pressure chronic ulcer of back limited to brkdwn skin
+L98.422@Non-pressure chronic ulcer of back with fat layer exposed
+L98.423@Non-pressure chronic ulcer of back with necrosis of muscle
+L98.424@Non-pressure chronic ulcer of back with necrosis of bone
+L98.429@Non-pressure chronic ulcer of back with unspecified severity
+L98.491@Non-prs chronic ulcer skin/ sites limited to brkdwn skin
+L98.492@Non-prs chronic ulcer of skin of sites w fat layer exposed
+L98.493@Non-prs chronic ulcer of skin of sites w necrosis of muscle
+L98.494@Non-prs chronic ulcer of skin of sites w necrosis of bone
+L98.499@Non-pressure chronic ulcer of skin of sites w unsp severity
+L98.5@Mucinosis of the skin
+L98.6@Oth infiltrative disorders of the skin, subcu
+L98.8@Oth disrd of the skin and subcutaneous tissue
+L98.9@Disorder of the skin and subcutaneous tissue, unspecified
+L99.@Oth disorders of skin, subcu in diseases classd elswhr

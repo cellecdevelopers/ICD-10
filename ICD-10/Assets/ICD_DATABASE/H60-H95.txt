@@ -1,0 +1,642 @@
+H60.00@Abscess of external ear, unspecified ear
+H60.01@Abscess of right external ear
+H60.02@Abscess of left external ear
+H60.03@Abscess of external ear, bilateral
+H60.10@Cellulitis of external ear, unspecified ear
+H60.11@Cellulitis of right external ear
+H60.12@Cellulitis of left external ear
+H60.13@Cellulitis of external ear, bilateral
+H60.20@Malignant otitis externa, unspecified ear
+H60.21@Malignant otitis externa, right ear
+H60.22@Malignant otitis externa, left ear
+H60.23@Malignant otitis externa, bilateral
+H60.311@Diffuse otitis externa, right ear
+H60.312@Diffuse otitis externa, left ear
+H60.313@Diffuse otitis externa, bilateral
+H60.319@Diffuse otitis externa, unspecified ear
+H60.321@Hemorrhagic otitis externa, right ear
+H60.322@Hemorrhagic otitis externa, left ear
+H60.323@Hemorrhagic otitis externa, bilateral
+H60.329@Hemorrhagic otitis externa, unspecified ear
+H60.331@Swimmer's ear, right ear
+H60.332@Swimmer's ear, left ear
+H60.333@Swimmer's ear, bilateral
+H60.339@Swimmer's ear, unspecified ear
+H60.391@Other infective otitis externa, right ear
+H60.392@Other infective otitis externa, left ear
+H60.393@Other infective otitis externa, bilateral
+H60.399@Other infective otitis externa, unspecified ear
+H60.40@Cholesteatoma of external ear, unspecified ear
+H60.41@Cholesteatoma of right external ear
+H60.42@Cholesteatoma of left external ear
+H60.43@Cholesteatoma of external ear, bilateral
+H60.501@Unspecified acute noninfective otitis externa, right ear
+H60.502@Unspecified acute noninfective otitis externa, left ear
+H60.503@Unspecified acute noninfective otitis externa, bilateral
+H60.509@Unsp acute noninfective otitis externa, unspecified ear
+H60.511@Acute actinic otitis externa, right ear
+H60.512@Acute actinic otitis externa, left ear
+H60.513@Acute actinic otitis externa, bilateral
+H60.519@Acute actinic otitis externa, unspecified ear
+H60.521@Acute chemical otitis externa, right ear
+H60.522@Acute chemical otitis externa, left ear
+H60.523@Acute chemical otitis externa, bilateral
+H60.529@Acute chemical otitis externa, unspecified ear
+H60.531@Acute contact otitis externa, right ear
+H60.532@Acute contact otitis externa, left ear
+H60.533@Acute contact otitis externa, bilateral
+H60.539@Acute contact otitis externa, unspecified ear
+H60.541@Acute eczematoid otitis externa, right ear
+H60.542@Acute eczematoid otitis externa, left ear
+H60.543@Acute eczematoid otitis externa, bilateral
+H60.549@Acute eczematoid otitis externa, unspecified ear
+H60.551@Acute reactive otitis externa, right ear
+H60.552@Acute reactive otitis externa, left ear
+H60.553@Acute reactive otitis externa, bilateral
+H60.559@Acute reactive otitis externa, unspecified ear
+H60.591@Other noninfective acute otitis externa, right ear
+H60.592@Other noninfective acute otitis externa, left ear
+H60.593@Other noninfective acute otitis externa, bilateral
+H60.599@Other noninfective acute otitis externa, unspecified ear
+H60.60@Unspecified chronic otitis externa, unspecified ear
+H60.61@Unspecified chronic otitis externa, right ear
+H60.62@Unspecified chronic otitis externa, left ear
+H60.63@Unspecified chronic otitis externa, bilateral
+H60.8X1@Other otitis externa, right ear
+H60.8X2@Other otitis externa, left ear
+H60.8X3@Other otitis externa, bilateral
+H60.8X9@Other otitis externa, unspecified ear
+H60.90@Unspecified otitis externa, unspecified ear
+H60.91@Unspecified otitis externa, right ear
+H60.92@Unspecified otitis externa, left ear
+H60.93@Unspecified otitis externa, bilateral
+H61.001@Unspecified perichondritis of right external ear
+H61.002@Unspecified perichondritis of left external ear
+H61.003@Unspecified perichondritis of external ear, bilateral
+H61.009@Unspecified perichondritis of external ear, unspecified ear
+H61.011@Acute perichondritis of right external ear
+H61.012@Acute perichondritis of left external ear
+H61.013@Acute perichondritis of external ear, bilateral
+H61.019@Acute perichondritis of external ear, unspecified ear
+H61.021@Chronic perichondritis of right external ear
+H61.022@Chronic perichondritis of left external ear
+H61.023@Chronic perichondritis of external ear, bilateral
+H61.029@Chronic perichondritis of external ear, unspecified ear
+H61.031@Chondritis of right external ear
+H61.032@Chondritis of left external ear
+H61.033@Chondritis of external ear, bilateral
+H61.039@Chondritis of external ear, unspecified ear
+H61.101@Unspecified noninfective disorders of pinna, right ear
+H61.102@Unspecified noninfective disorders of pinna, left ear
+H61.103@Unspecified noninfective disorders of pinna, bilateral
+H61.109@Unspecified noninfective disorders of pinna, unspecified ear
+H61.111@Acquired deformity of pinna, right ear
+H61.112@Acquired deformity of pinna, left ear
+H61.113@Acquired deformity of pinna, bilateral
+H61.119@Acquired deformity of pinna, unspecified ear
+H61.121@Hematoma of pinna, right ear
+H61.122@Hematoma of pinna, left ear
+H61.123@Hematoma of pinna, bilateral
+H61.129@Hematoma of pinna, unspecified ear
+H61.191@Noninfective disorders of pinna, right ear
+H61.192@Noninfective disorders of pinna, left ear
+H61.193@Noninfective disorders of pinna, bilateral
+H61.199@Noninfective disorders of pinna, unspecified ear
+H61.20@Impacted cerumen, unspecified ear
+H61.21@Impacted cerumen, right ear
+H61.22@Impacted cerumen, left ear
+H61.23@Impacted cerumen, bilateral
+H61.301@Acquired stenosis of right external ear canal, unspecified
+H61.302@Acquired stenosis of left external ear canal, unspecified
+H61.303@Acquired stenosis of external ear canal, unsp, bilateral
+H61.309@Acquired stenosis of external ear canal, unsp, unsp ear
+H61.311@Acquired stenosis of r ext ear canal secondary to trauma
+H61.312@Acquired stenosis of l ext ear canal secondary to trauma
+H61.313@Acquired stenosis of ext ear canal secondary to trauma, bi
+H61.319@Acquired stenosis of ext ear canal sec to trauma, unsp ear
+H61.321@Acquired stenosis of r ext ear canal sec to inflam and infct
+H61.322@Acquired stenosis of l ext ear canal sec to inflam and infct
+H61.323@Acq stenosis of ext ear canal sec to inflam and infct, bi
+H61.329@Acq stenos of ext ear canal sec to inflam & infct, unsp ear
+H61.391@Other acquired stenosis of right external ear canal
+H61.392@Other acquired stenosis of left external ear canal
+H61.393@Other acquired stenosis of external ear canal, bilateral
+H61.399@Other acquired stenosis of external ear canal, unsp ear
+H61.811@Exostosis of right external canal
+H61.812@Exostosis of left external canal
+H61.813@Exostosis of external canal, bilateral
+H61.819@Exostosis of external canal, unspecified ear
+H61.891@Other specified disorders of right external ear
+H61.892@Other specified disorders of left external ear
+H61.893@Other specified disorders of external ear, bilateral
+H61.899@Other specified disorders of external ear, unspecified ear
+H61.90@Disorder of external ear, unspecified, unspecified ear
+H61.91@Disorder of right external ear, unspecified
+H61.92@Disorder of left external ear, unspecified
+H61.93@Disorder of external ear, unspecified, bilateral
+H62.40@Otitis externa in oth diseases classd elswhr, unsp ear
+H62.41@Otitis externa in oth diseases classd elswhr, right ear
+H62.42@Otitis externa in oth diseases classd elswhr, left ear
+H62.43@Otitis externa in oth diseases classd elswhr, bilateral
+H62.8X1@Oth disorders of r ext ear in diseases classd elswhr
+H62.8X2@Oth disorders of left external ear in diseases classd elswhr
+H62.8X3@Oth disorders of ext ear in diseases classd elswhr, bi
+H62.8X9@Oth disorders of ext ear in diseases classd elswhr, unsp ear
+H65.00@Acute serous otitis media, unspecified ear
+H65.01@Acute serous otitis media, right ear
+H65.02@Acute serous otitis media, left ear
+H65.03@Acute serous otitis media, bilateral
+H65.04@Acute serous otitis media, recurrent, right ear
+H65.05@Acute serous otitis media, recurrent, left ear
+H65.06@Acute serous otitis media, recurrent, bilateral
+H65.07@Acute serous otitis media, recurrent, unspecified ear
+H65.111@Acute and subacute allergic otitis media (serous), r ear
+H65.112@Acute and subacute allergic otitis media (serous), left ear
+H65.113@Acute and subacute allergic otitis media (serous), bi
+H65.114@Acute and subacute allergic otitis media, recur, r ear
+H65.115@Acute and subacute allergic otitis media, recur, left ear
+H65.116@Acute and subacute allergic otitis media (serous), recur, bi
+H65.117@Acute and subacute allergic otitis media, recur, unsp ear
+H65.119@Acute and subacute allergic otitis media (serous), unsp ear
+H65.191@Other acute nonsuppurative otitis media, right ear
+H65.192@Other acute nonsuppurative otitis media, left ear
+H65.193@Other acute nonsuppurative otitis media, bilateral
+H65.194@Oth acute nonsuppurative otitis media, recurrent, right ear
+H65.195@Other acute nonsuppurative otitis media, recurrent, left ear
+H65.196@Oth acute nonsuppurative otitis media, recurrent, bilateral
+H65.197@Other acute nonsuppurative otitis media recurrent, unsp ear
+H65.199@Other acute nonsuppurative otitis media, unspecified ear
+H65.20@Chronic serous otitis media, unspecified ear
+H65.21@Chronic serous otitis media, right ear
+H65.22@Chronic serous otitis media, left ear
+H65.23@Chronic serous otitis media, bilateral
+H65.30@Chronic mucoid otitis media, unspecified ear
+H65.31@Chronic mucoid otitis media, right ear
+H65.32@Chronic mucoid otitis media, left ear
+H65.33@Chronic mucoid otitis media, bilateral
+H65.411@Chronic allergic otitis media, right ear
+H65.412@Chronic allergic otitis media, left ear
+H65.413@Chronic allergic otitis media, bilateral
+H65.419@Chronic allergic otitis media, unspecified ear
+H65.491@Other chronic nonsuppurative otitis media, right ear
+H65.492@Other chronic nonsuppurative otitis media, left ear
+H65.493@Other chronic nonsuppurative otitis media, bilateral
+H65.499@Other chronic nonsuppurative otitis media, unspecified ear
+H65.90@Unspecified nonsuppurative otitis media, unspecified ear
+H65.91@Unspecified nonsuppurative otitis media, right ear
+H65.92@Unspecified nonsuppurative otitis media, left ear
+H65.93@Unspecified nonsuppurative otitis media, bilateral
+H66.001@Acute suppr otitis media w/o spon rupt ear drum, right ear
+H66.002@Acute suppr otitis media w/o spon rupt ear drum, left ear
+H66.003@Acute suppr otitis media w/o spon rupt ear drum, bilateral
+H66.004@Ac suppr otitis media w/o spon rupt ear drum, recur, r ear
+H66.005@Ac suppr otitis media w/o spon rupt ear drum, recur, l ear
+H66.006@Acute suppr otitis media w/o spon rupt ear drum, recur, bi
+H66.007@Ac suppr otitis media w/o spon rupt ear drum,recur, unsp ear
+H66.009@Acute suppr otitis media w/o spon rupt ear drum, unsp ear
+H66.011@Acute suppr otitis media w spon rupt ear drum, right ear
+H66.012@Acute suppr otitis media w spon rupt ear drum, left ear
+H66.013@Acute suppr otitis media w spon rupt ear drum, bilateral
+H66.014@Acute suppr otitis media w spon rupt ear drum, recur, r ear
+H66.015@Acute suppr otitis media w spon rupt ear drum, recur, l ear
+H66.016@Acute suppr otitis media w spon rupt ear drum, recurrent, bi
+H66.017@Ac suppr otitis media w spon rupt ear drum, recur, unsp ear
+H66.019@Acute suppr otitis media w spon rupt ear drum, unsp ear
+H66.10@Chronic tubotympanic suppurative otitis media, unspecified
+H66.11@Chronic tubotympanic suppurative otitis media, right ear
+H66.12@Chronic tubotympanic suppurative otitis media, left ear
+H66.13@Chronic tubotympanic suppurative otitis media, bilateral
+H66.20@Chronic atticoantral suppurative otitis media, unsp ear
+H66.21@Chronic atticoantral suppurative otitis media, right ear
+H66.22@Chronic atticoantral suppurative otitis media, left ear
+H66.23@Chronic atticoantral suppurative otitis media, bilateral
+H66.3X1@Other chronic suppurative otitis media, right ear
+H66.3X2@Other chronic suppurative otitis media, left ear
+H66.3X3@Other chronic suppurative otitis media, bilateral
+H66.3X9@Other chronic suppurative otitis media, unspecified ear
+H66.40@Suppurative otitis media, unspecified, unspecified ear
+H66.41@Suppurative otitis media, unspecified, right ear
+H66.42@Suppurative otitis media, unspecified, left ear
+H66.43@Suppurative otitis media, unspecified, bilateral
+H66.90@Otitis media, unspecified, unspecified ear
+H66.91@Otitis media, unspecified, right ear
+H66.92@Otitis media, unspecified, left ear
+H66.93@Otitis media, unspecified, bilateral
+H67.1@Otitis media in diseases classified elsewhere, right ear
+H67.2@Otitis media in diseases classified elsewhere, left ear
+H67.3@Otitis media in diseases classified elsewhere, bilateral
+H67.9@Otitis media in diseases classified elsewhere, unsp ear
+H68.001@Unspecified Eustachian salpingitis, right ear
+H68.002@Unspecified Eustachian salpingitis, left ear
+H68.003@Unspecified Eustachian salpingitis, bilateral
+H68.009@Unspecified Eustachian salpingitis, unspecified ear
+H68.011@Acute Eustachian salpingitis, right ear
+H68.012@Acute Eustachian salpingitis, left ear
+H68.013@Acute Eustachian salpingitis, bilateral
+H68.019@Acute Eustachian salpingitis, unspecified ear
+H68.021@Chronic Eustachian salpingitis, right ear
+H68.022@Chronic Eustachian salpingitis, left ear
+H68.023@Chronic Eustachian salpingitis, bilateral
+H68.029@Chronic Eustachian salpingitis, unspecified ear
+H68.101@Unspecified obstruction of Eustachian tube, right ear
+H68.102@Unspecified obstruction of Eustachian tube, left ear
+H68.103@Unspecified obstruction of Eustachian tube, bilateral
+H68.109@Unspecified obstruction of Eustachian tube, unspecified ear
+H68.111@Osseous obstruction of Eustachian tube, right ear
+H68.112@Osseous obstruction of Eustachian tube, left ear
+H68.113@Osseous obstruction of Eustachian tube, bilateral
+H68.119@Osseous obstruction of Eustachian tube, unspecified ear
+H68.121@Intrinsic cartilagenous obst of eustach tube, right ear
+H68.122@Intrinsic cartilagenous obst of eustach tube, left ear
+H68.123@Intrinsic cartilagenous obst of eustach tube, bilateral
+H68.129@Intrinsic cartilagenous obst of eustach tube, unsp ear
+H68.131@Extrinsic cartilagenous obst of eustach tube, right ear
+H68.132@Extrinsic cartilagenous obst of eustach tube, left ear
+H68.133@Extrinsic cartilagenous obst of eustach tube, bilateral
+H68.139@Extrinsic cartilagenous obst of eustach tube, unsp ear
+H69.00@Patulous Eustachian tube, unspecified ear
+H69.01@Patulous Eustachian tube, right ear
+H69.02@Patulous Eustachian tube, left ear
+H69.03@Patulous Eustachian tube, bilateral
+H69.80@Oth disrd of Eustachian tube, unspecified ear
+H69.81@Other specified disorders of Eustachian tube, right ear
+H69.82@Other specified disorders of Eustachian tube, left ear
+H69.83@Other specified disorders of Eustachian tube, bilateral
+H69.90@Unspecified Eustachian tube disorder, unspecified ear
+H69.91@Unspecified Eustachian tube disorder, right ear
+H69.92@Unspecified Eustachian tube disorder, left ear
+H69.93@Unspecified Eustachian tube disorder, bilateral
+H70.001@Acute mastoiditis without complications, right ear
+H70.002@Acute mastoiditis without complications, left ear
+H70.003@Acute mastoiditis without complications, bilateral
+H70.009@Acute mastoiditis without complications, unspecified ear
+H70.011@Subperiosteal abscess of mastoid, right ear
+H70.012@Subperiosteal abscess of mastoid, left ear
+H70.013@Subperiosteal abscess of mastoid, bilateral
+H70.019@Subperiosteal abscess of mastoid, unspecified ear
+H70.091@Acute mastoiditis with other complications, right ear
+H70.092@Acute mastoiditis with other complications, left ear
+H70.093@Acute mastoiditis with other complications, bilateral
+H70.099@Acute mastoiditis with other complications, unspecified ear
+H70.10@Chronic mastoiditis, unspecified ear
+H70.11@Chronic mastoiditis, right ear
+H70.12@Chronic mastoiditis, left ear
+H70.13@Chronic mastoiditis, bilateral
+H70.201@Unspecified petrositis, right ear
+H70.202@Unspecified petrositis, left ear
+H70.203@Unspecified petrositis, bilateral
+H70.209@Unspecified petrositis, unspecified ear
+H70.211@Acute petrositis, right ear
+H70.212@Acute petrositis, left ear
+H70.213@Acute petrositis, bilateral
+H70.219@Acute petrositis, unspecified ear
+H70.221@Chronic petrositis, right ear
+H70.222@Chronic petrositis, left ear
+H70.223@Chronic petrositis, bilateral
+H70.229@Chronic petrositis, unspecified ear
+H70.811@Postauricular fistula, right ear
+H70.812@Postauricular fistula, left ear
+H70.813@Postauricular fistula, bilateral
+H70.819@Postauricular fistula, unspecified ear
+H70.891@Other mastoiditis and related conditions, right ear
+H70.892@Other mastoiditis and related conditions, left ear
+H70.893@Other mastoiditis and related conditions, bilateral
+H70.899@Other mastoiditis and related conditions, unspecified ear
+H70.90@Unspecified mastoiditis, unspecified ear
+H70.91@Unspecified mastoiditis, right ear
+H70.92@Unspecified mastoiditis, left ear
+H70.93@Unspecified mastoiditis, bilateral
+H71.00@Cholesteatoma of attic, unspecified ear
+H71.01@Cholesteatoma of attic, right ear
+H71.02@Cholesteatoma of attic, left ear
+H71.03@Cholesteatoma of attic, bilateral
+H71.10@Cholesteatoma of tympanum, unspecified ear
+H71.11@Cholesteatoma of tympanum, right ear
+H71.12@Cholesteatoma of tympanum, left ear
+H71.13@Cholesteatoma of tympanum, bilateral
+H71.20@Cholesteatoma of mastoid, unspecified ear
+H71.21@Cholesteatoma of mastoid, right ear
+H71.22@Cholesteatoma of mastoid, left ear
+H71.23@Cholesteatoma of mastoid, bilateral
+H71.30@Diffuse cholesteatosis, unspecified ear
+H71.31@Diffuse cholesteatosis, right ear
+H71.32@Diffuse cholesteatosis, left ear
+H71.33@Diffuse cholesteatosis, bilateral
+H71.90@Unspecified cholesteatoma, unspecified ear
+H71.91@Unspecified cholesteatoma, right ear
+H71.92@Unspecified cholesteatoma, left ear
+H71.93@Unspecified cholesteatoma, bilateral
+H72.00@Central perforation of tympanic membrane, unspecified ear
+H72.01@Central perforation of tympanic membrane, right ear
+H72.02@Central perforation of tympanic membrane, left ear
+H72.03@Central perforation of tympanic membrane, bilateral
+H72.10@Attic perforation of tympanic membrane, unspecified ear
+H72.11@Attic perforation of tympanic membrane, right ear
+H72.12@Attic perforation of tympanic membrane, left ear
+H72.13@Attic perforation of tympanic membrane, bilateral
+H72.2X1@Other marginal perforations of tympanic membrane, right ear
+H72.2X2@Other marginal perforations of tympanic membrane, left ear
+H72.2X3@Other marginal perforations of tympanic membrane, bilateral
+H72.2X9@Other marginal perforations of tympanic membrane, unsp ear
+H72.811@Multiple perforations of tympanic membrane, right ear
+H72.812@Multiple perforations of tympanic membrane, left ear
+H72.813@Multiple perforations of tympanic membrane, bilateral
+H72.819@Multiple perforations of tympanic membrane, unspecified ear
+H72.821@Total perforations of tympanic membrane, right ear
+H72.822@Total perforations of tympanic membrane, left ear
+H72.823@Total perforations of tympanic membrane, bilateral
+H72.829@Total perforations of tympanic membrane, unspecified ear
+H72.90@Unsp perforation of tympanic membrane, unspecified ear
+H72.91@Unspecified perforation of tympanic membrane, right ear
+H72.92@Unspecified perforation of tympanic membrane, left ear
+H72.93@Unspecified perforation of tympanic membrane, bilateral
+H73.001@Acute myringitis, right ear
+H73.002@Acute myringitis, left ear
+H73.003@Acute myringitis, bilateral
+H73.009@Acute myringitis, unspecified ear
+H73.011@Bullous myringitis, right ear
+H73.012@Bullous myringitis, left ear
+H73.013@Bullous myringitis, bilateral
+H73.019@Bullous myringitis, unspecified ear
+H73.091@Other acute myringitis, right ear
+H73.092@Other acute myringitis, left ear
+H73.093@Other acute myringitis, bilateral
+H73.099@Other acute myringitis, unspecified ear
+H73.10@Chronic myringitis, unspecified ear
+H73.11@Chronic myringitis, right ear
+H73.12@Chronic myringitis, left ear
+H73.13@Chronic myringitis, bilateral
+H73.20@Unspecified myringitis, unspecified ear
+H73.21@Unspecified myringitis, right ear
+H73.22@Unspecified myringitis, left ear
+H73.23@Unspecified myringitis, bilateral
+H73.811@Atrophic flaccid tympanic membrane, right ear
+H73.812@Atrophic flaccid tympanic membrane, left ear
+H73.813@Atrophic flaccid tympanic membrane, bilateral
+H73.819@Atrophic flaccid tympanic membrane, unspecified ear
+H73.821@Atrophic nonflaccid tympanic membrane, right ear
+H73.822@Atrophic nonflaccid tympanic membrane, left ear
+H73.823@Atrophic nonflaccid tympanic membrane, bilateral
+H73.829@Atrophic nonflaccid tympanic membrane, unspecified ear
+H73.891@Other specified disorders of tympanic membrane, right ear
+H73.892@Other specified disorders of tympanic membrane, left ear
+H73.893@Other specified disorders of tympanic membrane, bilateral
+H73.899@Oth disrd of tympanic membrane, unspecified ear
+H73.90@Unspecified disorder of tympanic membrane, unspecified ear
+H73.91@Unspecified disorder of tympanic membrane, right ear
+H73.92@Unspecified disorder of tympanic membrane, left ear
+H73.93@Unspecified disorder of tympanic membrane, bilateral
+H74.01@Tympanosclerosis, right ear
+H74.02@Tympanosclerosis, left ear
+H74.03@Tympanosclerosis, bilateral
+H74.09@Tympanosclerosis, unspecified ear
+H74.11@Adhesive right middle ear disease
+H74.12@Adhesive left middle ear disease
+H74.13@Adhesive middle ear disease, bilateral
+H74.19@Adhesive middle ear disease, unspecified ear
+H74.20@Discontinuity and dislocation of ear ossicles, unsp ear
+H74.21@Discontinuity and dislocation of right ear ossicles
+H74.22@Discontinuity and dislocation of left ear ossicles
+H74.23@Discontinuity and dislocation of ear ossicles, bilateral
+H74.311@Ankylosis of ear ossicles, right ear
+H74.312@Ankylosis of ear ossicles, left ear
+H74.313@Ankylosis of ear ossicles, bilateral
+H74.319@Ankylosis of ear ossicles, unspecified ear
+H74.321@Partial loss of ear ossicles, right ear
+H74.322@Partial loss of ear ossicles, left ear
+H74.323@Partial loss of ear ossicles, bilateral
+H74.329@Partial loss of ear ossicles, unspecified ear
+H74.391@Other acquired abnormalities of right ear ossicles
+H74.392@Other acquired abnormalities of left ear ossicles
+H74.393@Other acquired abnormalities of ear ossicles, bilateral
+H74.399@Other acquired abnormalities of ear ossicles, unsp ear
+H74.40@Polyp of middle ear, unspecified ear
+H74.41@Polyp of right middle ear
+H74.42@Polyp of left middle ear
+H74.43@Polyp of middle ear, bilateral
+H74.8X1@Other specified disorders of right middle ear and mastoid
+H74.8X2@Other specified disorders of left middle ear and mastoid
+H74.8X3@Oth disrd of middle ear and mastoid, bilateral
+H74.8X9@Oth disrd of middle ear and mastoid, unspecified ear
+H74.90@Unsp disorder of middle ear and mastoid, unspecified ear
+H74.91@Unspecified disorder of right middle ear and mastoid
+H74.92@Unspecified disorder of left middle ear and mastoid
+H74.93@Unspecified disorder of middle ear and mastoid, bilateral
+H75.00@Mastoiditis in infec/parastc dis classd elswhr, unsp ear
+H75.01@Mastoiditis in infec/parastc diseases classd elswhr, r ear
+H75.02@Mastoiditis in infec/parastc dis classd elswhr, left ear
+H75.03@Mastoiditis in infec/parastc diseases classd elswhr, bi
+H75.80@Oth disrd of mid ear and mast in dis classd elswhr, unsp ear
+H75.81@Oth disrd of r mid ear and mastoid in diseases classd elswhr
+H75.82@Oth disrd of l mid ear and mastoid in diseases classd elswhr
+H75.83@Oth disrd of mid ear and mastoid in dis classd elswhr, bi
+H80.00@Otosclerosis w oval window, nonobliterative, unsp ear
+H80.01@Otosclerosis w oval window, nonobliterative, right ear
+H80.02@Otosclerosis w oval window, nonobliterative, left ear
+H80.03@Otosclerosis involving oval window, nonobliterative, bi
+H80.10@Otosclerosis involving oval window, obliterative, unsp ear
+H80.11@Otosclerosis involving oval window, obliterative, right ear
+H80.12@Otosclerosis involving oval window, obliterative, left ear
+H80.13@Otosclerosis involving oval window, obliterative, bilateral
+H80.20@Cochlear otosclerosis, unspecified ear
+H80.21@Cochlear otosclerosis, right ear
+H80.22@Cochlear otosclerosis, left ear
+H80.23@Cochlear otosclerosis, bilateral
+H80.80@Other otosclerosis, unspecified ear
+H80.81@Other otosclerosis, right ear
+H80.82@Other otosclerosis, left ear
+H80.83@Other otosclerosis, bilateral
+H80.90@Unspecified otosclerosis, unspecified ear
+H80.91@Unspecified otosclerosis, right ear
+H80.92@Unspecified otosclerosis, left ear
+H80.93@Unspecified otosclerosis, bilateral
+H81.01@Meniere's disease, right ear
+H81.02@Meniere's disease, left ear
+H81.03@Meniere's disease, bilateral
+H81.09@Meniere's disease, unspecified ear
+H81.10@Benign paroxysmal vertigo, unspecified ear
+H81.11@Benign paroxysmal vertigo, right ear
+H81.12@Benign paroxysmal vertigo, left ear
+H81.13@Benign paroxysmal vertigo, bilateral
+H81.20@Vestibular neuronitis, unspecified ear
+H81.21@Vestibular neuronitis, right ear
+H81.22@Vestibular neuronitis, left ear
+H81.23@Vestibular neuronitis, bilateral
+H81.311@Aural vertigo, right ear
+H81.312@Aural vertigo, left ear
+H81.313@Aural vertigo, bilateral
+H81.319@Aural vertigo, unspecified ear
+H81.391@Other peripheral vertigo, right ear
+H81.392@Other peripheral vertigo, left ear
+H81.393@Other peripheral vertigo, bilateral
+H81.399@Other peripheral vertigo, unspecified ear
+H81.41@Vertigo of central origin, right ear
+H81.42@Vertigo of central origin, left ear
+H81.43@Vertigo of central origin, bilateral
+H81.49@Vertigo of central origin, unspecified ear
+H81.8X1@Other disorders of vestibular function, right ear
+H81.8X2@Other disorders of vestibular function, left ear
+H81.8X3@Other disorders of vestibular function, bilateral
+H81.8X9@Other disorders of vestibular function, unspecified ear
+H81.90@Unspecified disorder of vestibular function, unspecified ear
+H81.91@Unspecified disorder of vestibular function, right ear
+H81.92@Unspecified disorder of vestibular function, left ear
+H81.93@Unspecified disorder of vestibular function, bilateral
+H82.1@Vertiginous syndromes in diseases classd elswhr, right ear
+H82.2@Vertiginous syndromes in diseases classd elswhr, left ear
+H82.3@Vertiginous syndromes in diseases classd elswhr, bilateral
+H82.9@Vertiginous syndromes in diseases classd elswhr, unsp ear
+H83.01@Labyrinthitis, right ear
+H83.02@Labyrinthitis, left ear
+H83.03@Labyrinthitis, bilateral
+H83.09@Labyrinthitis, unspecified ear
+H83.11@Labyrinthine fistula, right ear
+H83.12@Labyrinthine fistula, left ear
+H83.13@Labyrinthine fistula, bilateral
+H83.19@Labyrinthine fistula, unspecified ear
+H83.2X1@Labyrinthine dysfunction, right ear
+H83.2X2@Labyrinthine dysfunction, left ear
+H83.2X3@Labyrinthine dysfunction, bilateral
+H83.2X9@Labyrinthine dysfunction, unspecified ear
+H83.3X1@Noise effects on right inner ear
+H83.3X2@Noise effects on left inner ear
+H83.3X3@Noise effects on inner ear, bilateral
+H83.3X9@Noise effects on inner ear, unspecified ear
+H83.8X1@Other specified diseases of right inner ear
+H83.8X2@Other specified diseases of left inner ear
+H83.8X3@Other specified diseases of inner ear, bilateral
+H83.8X9@Other specified diseases of inner ear, unspecified ear
+H83.90@Unspecified disease of inner ear, unspecified ear
+H83.91@Unspecified disease of right inner ear
+H83.92@Unspecified disease of left inner ear
+H83.93@Unspecified disease of inner ear, bilateral
+H90.0@Conductive hearing loss, bilateral
+H90.11@Condctv hear loss, uni, right ear, w unrestr hear cntra side
+H90.12@Condctv hear loss, uni, left ear, w unrestr hear cntra side
+H90.2@Conductive hearing loss, unspecified
+H90.3@Sensorineural hearing loss, bilateral
+H90.41@Snsrnrl hear loss, uni, right ear, w unrestr hear cntra side
+H90.42@Snsrnrl hear loss, uni, left ear, w unrestr hear cntra side
+H90.5@Unspecified sensorineural hearing loss
+H90.6@Mixed conductive and sensorineural hearing loss, bilateral
+H90.71@Mix cndct/snrl hear loss,uni,r ear,w unrestr hear cntra side
+H90.72@Mix cndct/snrl hear loss,uni,l ear,w unrestr hear cntra side
+H90.8@Mixed conductive and sensorineural hearing loss, unspecified
+H91.01@Ototoxic hearing loss, right ear
+H91.02@Ototoxic hearing loss, left ear
+H91.03@Ototoxic hearing loss, bilateral
+H91.09@Ototoxic hearing loss, unspecified ear
+H91.10@Presbycusis, unspecified ear
+H91.11@Presbycusis, right ear
+H91.12@Presbycusis, left ear
+H91.13@Presbycusis, bilateral
+H91.20@Sudden idiopathic hearing loss, unspecified ear
+H91.21@Sudden idiopathic hearing loss, right ear
+H91.22@Sudden idiopathic hearing loss, left ear
+H91.23@Sudden idiopathic hearing loss, bilateral
+H91.3@Deaf nonspeaking, not elsewhere classified
+H91.8X1@Other specified hearing loss, right ear
+H91.8X2@Other specified hearing loss, left ear
+H91.8X3@Other specified hearing loss, bilateral
+H91.8X9@Other specified hearing loss, unspecified ear
+H91.90@Unspecified hearing loss, unspecified ear
+H91.91@Unspecified hearing loss, right ear
+H91.92@Unspecified hearing loss, left ear
+H91.93@Unspecified hearing loss, bilateral
+H92.01@Otalgia, right ear
+H92.02@Otalgia, left ear
+H92.03@Otalgia, bilateral
+H92.09@Otalgia, unspecified ear
+H92.10@Otorrhea, unspecified ear
+H92.11@Otorrhea, right ear
+H92.12@Otorrhea, left ear
+H92.13@Otorrhea, bilateral
+H92.20@Otorrhagia, unspecified ear
+H92.21@Otorrhagia, right ear
+H92.22@Otorrhagia, left ear
+H92.23@Otorrhagia, bilateral
+H93.011@Transient ischemic deafness, right ear
+H93.012@Transient ischemic deafness, left ear
+H93.013@Transient ischemic deafness, bilateral
+H93.019@Transient ischemic deafness, unspecified ear
+H93.091@Unspecified degenerative and vascular disorders of right ear
+H93.092@Unspecified degenerative and vascular disorders of left ear
+H93.093@Unsp degenerative and vascular disorders of ear, bilateral
+H93.099@Unsp degenerative and vascular disorders of unspecified ear
+H93.11@Tinnitus, right ear
+H93.12@Tinnitus, left ear
+H93.13@Tinnitus, bilateral
+H93.19@Tinnitus, unspecified ear
+H93.211@Auditory recruitment, right ear
+H93.212@Auditory recruitment, left ear
+H93.213@Auditory recruitment, bilateral
+H93.219@Auditory recruitment, unspecified ear
+H93.221@Diplacusis, right ear
+H93.222@Diplacusis, left ear
+H93.223@Diplacusis, bilateral
+H93.229@Diplacusis, unspecified ear
+H93.231@Hyperacusis, right ear
+H93.232@Hyperacusis, left ear
+H93.233@Hyperacusis, bilateral
+H93.239@Hyperacusis, unspecified ear
+H93.241@Temporary auditory threshold shift, right ear
+H93.242@Temporary auditory threshold shift, left ear
+H93.243@Temporary auditory threshold shift, bilateral
+H93.249@Temporary auditory threshold shift, unspecified ear
+H93.25@Central auditory processing disorder
+H93.291@Other abnormal auditory perceptions, right ear
+H93.292@Other abnormal auditory perceptions, left ear
+H93.293@Other abnormal auditory perceptions, bilateral
+H93.299@Other abnormal auditory perceptions, unspecified ear
+H93.3X1@Disorders of right acoustic nerve
+H93.3X2@Disorders of left acoustic nerve
+H93.3X3@Disorders of bilateral acoustic nerves
+H93.3X9@Disorders of unspecified acoustic nerve
+H93.8X1@Other specified disorders of right ear
+H93.8X2@Other specified disorders of left ear
+H93.8X3@Other specified disorders of ear, bilateral
+H93.8X9@Other specified disorders of ear, unspecified ear
+H93.90@Unspecified disorder of ear, unspecified ear
+H93.91@Unspecified disorder of right ear
+H93.92@Unspecified disorder of left ear
+H93.93@Unspecified disorder of ear, bilateral
+H94.00@Acustc neuritis in infec/parastc dis classd elswhr, unsp ear
+H94.01@Acustc neuritis in infec/parastc dis classd elswhr, r ear
+H94.02@Acustc neuritis in infec/parastc dis classd elswhr, left ear
+H94.03@Acustc neuritis in infec/parastc diseases classd elswhr, bi
+H94.80@Oth disrd of ear in diseases classified elsewhere, unsp ear
+H94.81@Oth disrd of right ear in diseases classified elsewhere
+H94.82@Oth disrd of left ear in diseases classified elsewhere
+H94.83@Oth disrd of ear in diseases classified elsewhere, bilateral
+H95.00@Recur cholesteatoma of postmastoidectomy cavity, unsp ear
+H95.01@Recur cholesteatoma of postmastoidectomy cavity, right ear
+H95.02@Recur cholesteatoma of postmastoidectomy cavity, left ear
+H95.03@Recurrent cholesteatoma of postmastoidectomy cavity, bi ears
+H95.111@Chronic inflammation of postmastoidectomy cavity, right ear
+H95.112@Chronic inflammation of postmastoidectomy cavity, left ear
+H95.113@Chronic inflam of postmastoidectomy cavity, bilateral ears
+H95.119@Chronic inflammation of postmastoidectomy cavity, unsp ear
+H95.121@Granulation of postmastoidectomy cavity, right ear
+H95.122@Granulation of postmastoidectomy cavity, left ear
+H95.123@Granulation of postmastoidectomy cavity, bilateral ears
+H95.129@Granulation of postmastoidectomy cavity, unspecified ear
+H95.131@Mucosal cyst of postmastoidectomy cavity, right ear
+H95.132@Mucosal cyst of postmastoidectomy cavity, left ear
+H95.133@Mucosal cyst of postmastoidectomy cavity, bilateral ears
+H95.139@Mucosal cyst of postmastoidectomy cavity, unspecified ear
+H95.191@Other disorders following mastoidectomy, right ear
+H95.192@Other disorders following mastoidectomy, left ear
+H95.193@Other disorders following mastoidectomy, bilateral ears
+H95.199@Other disorders following mastoidectomy, unspecified ear
+H95.21@Intraop hemor/hemtom of ear/mastd comp a proc on ear/mastd
+H95.22@Intraop hemor/hemtom of ear/mastd complicating oth procedure
+H95.31@Acc pnctr & lac of the ear/mastd dur proc on the ear/mastd
+H95.32@Accidental pnctr & lac of the ear/mastd during oth procedure
+H95.41@Postproc hemor/hemtom of ear/mastd fol proc on ear/mastd
+H95.42@Postproc hemor/hemtom of ear/mastd following oth procedure
+H95.811@Postprocedural stenosis of right external ear canal
+H95.812@Postprocedural stenosis of left external ear canal
+H95.813@Postprocedural stenosis of external ear canal, bilateral
+H95.819@Postprocedural stenosis of unspecified external ear canal
+H95.88@Oth intraop comp and disorders of the ear/mastd, NEC
+H95.89@Oth postproc comp and disorders of the ear/mastd, NEC

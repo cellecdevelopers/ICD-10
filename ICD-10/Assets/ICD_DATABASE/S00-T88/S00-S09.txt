@@ -1,0 +1,1653 @@
+S00.00XA@Unspecified superficial injury of scalp, initial encounter
+S00.00XD@Unspecified superficial injury of scalp, subs encntr
+S00.00XS@Unspecified superficial injury of scalp, sequela
+S00.01XA@Abrasion of scalp, initial encounter
+S00.01XD@Abrasion of scalp, subsequent encounter
+S00.01XS@Abrasion of scalp, sequela
+S00.02XA@Blister (nonthermal) of scalp, initial encounter
+S00.02XD@Blister (nonthermal) of scalp, subsequent encounter
+S00.02XS@Blister (nonthermal) of scalp, sequela
+S00.03XA@Contusion of scalp, initial encounter
+S00.03XD@Contusion of scalp, subsequent encounter
+S00.03XS@Contusion of scalp, sequela
+S00.04XA@External constriction of part of scalp, initial encounter
+S00.04XD@External constriction of part of scalp, subsequent encounter
+S00.04XS@External constriction of part of scalp, sequela
+S00.05XA@Superficial foreign body of scalp, initial encounter
+S00.05XD@Superficial foreign body of scalp, subsequent encounter
+S00.05XS@Superficial foreign body of scalp, sequela
+S00.06XA@Insect bite (nonvenomous) of scalp, initial encounter
+S00.06XD@Insect bite (nonvenomous) of scalp, subsequent encounter
+S00.06XS@Insect bite (nonvenomous) of scalp, sequela
+S00.07XA@Other superficial bite of scalp, initial encounter
+S00.07XD@Other superficial bite of scalp, subsequent encounter
+S00.07XS@Other superficial bite of scalp, sequela
+S00.10XA@Contusion of unsp eyelid and periocular area, init encntr
+S00.10XD@Contusion of unsp eyelid and periocular area, subs encntr
+S00.10XS@Contusion of unspecified eyelid and periocular area, sequela
+S00.11XA@Contusion of right eyelid and periocular area, init encntr
+S00.11XD@Contusion of right eyelid and periocular area, subs encntr
+S00.11XS@Contusion of right eyelid and periocular area, sequela
+S00.12XA@Contusion of left eyelid and periocular area, init encntr
+S00.12XD@Contusion of left eyelid and periocular area, subs encntr
+S00.12XS@Contusion of left eyelid and periocular area, sequela
+S00.201A@Unsp superfic inj right eyelid and perioculr area, init
+S00.201D@Unsp superfic inj right eyelid and perioculr area, subs
+S00.201S@Unsp superfic inj right eyelid and perioculr area, sequela
+S00.202A@Unsp superfic injury of left eyelid and perioculr area, init
+S00.202D@Unsp superfic injury of left eyelid and perioculr area, subs
+S00.202S@Unsp superfic inj left eyelid and perioculr area, sequela
+S00.209A@Unsp superfic injury of unsp eyelid and perioculr area, init
+S00.209D@Unsp superfic injury of unsp eyelid and perioculr area, subs
+S00.209S@Unsp superfic inj unsp eyelid and perioculr area, sequela
+S00.211A@Abrasion of right eyelid and periocular area, init encntr
+S00.211D@Abrasion of right eyelid and periocular area, subs encntr
+S00.211S@Abrasion of right eyelid and periocular area, sequela
+S00.212A@Abrasion of left eyelid and periocular area, init encntr
+S00.212D@Abrasion of left eyelid and periocular area, subs encntr
+S00.212S@Abrasion of left eyelid and periocular area, sequela
+S00.219A@Abrasion of unsp eyelid and periocular area, init encntr
+S00.219D@Abrasion of unsp eyelid and periocular area, subs encntr
+S00.219S@Abrasion of unspecified eyelid and periocular area, sequela
+S00.221A@Blister of right eyelid and periocular area, init
+S00.221D@Blister of right eyelid and periocular area, subs
+S00.221S@Blister of right eyelid and periocular area, sequela
+S00.222A@Blister of left eyelid and periocular area, init
+S00.222D@Blister of left eyelid and periocular area, subs
+S00.222S@Blister of left eyelid and periocular area, sequela
+S00.229A@Blister of unsp eyelid and periocular area, init
+S00.229D@Blister of unsp eyelid and periocular area, subs
+S00.229S@Blister of unsp eyelid and periocular area, sequela
+S00.241A@External constrict of right eyelid and periocular area, init
+S00.241D@External constrict of right eyelid and periocular area, subs
+S00.241S@Extrn constrict of right eyelid and perioculr area, sequela
+S00.242A@External constrict of left eyelid and periocular area, init
+S00.242D@External constrict of left eyelid and periocular area, subs
+S00.242S@Extrn constrict of left eyelid and perioculr area, sequela
+S00.249A@External constrict of unsp eyelid and periocular area, init
+S00.249D@External constrict of unsp eyelid and periocular area, subs
+S00.249S@Extrn constrict of unsp eyelid and perioculr area, sequela
+S00.251A@Superficial fb of right eyelid and periocular area, init
+S00.251D@Superficial fb of right eyelid and periocular area, subs
+S00.251S@Superficial fb of right eyelid and periocular area, sequela
+S00.252A@Superficial fb of left eyelid and periocular area, init
+S00.252D@Superficial fb of left eyelid and periocular area, subs
+S00.252S@Superficial fb of left eyelid and periocular area, sequela
+S00.259A@Superficial fb of unsp eyelid and periocular area, init
+S00.259D@Superficial fb of unsp eyelid and periocular area, subs
+S00.259S@Superficial fb of unsp eyelid and periocular area, sequela
+S00.261A@Insect bite of right eyelid and periocular area, init
+S00.261D@Insect bite of right eyelid and periocular area, subs
+S00.261S@Insect bite of right eyelid and periocular area, sequela
+S00.262A@Insect bite of left eyelid and periocular area, init
+S00.262D@Insect bite of left eyelid and periocular area, subs
+S00.262S@Insect bite of left eyelid and periocular area, sequela
+S00.269A@Insect bite of unsp eyelid and periocular area, init
+S00.269D@Insect bite of unsp eyelid and periocular area, subs
+S00.269S@Insect bite of unsp eyelid and periocular area, sequela
+S00.271A@Oth superfic bite of right eyelid and periocular area, init
+S00.271D@Oth superfic bite of right eyelid and periocular area, subs
+S00.271S@Oth superfic bite of right eyelid and perioculr area, sqla
+S00.272A@Oth superfic bite of left eyelid and periocular area, init
+S00.272D@Oth superfic bite of left eyelid and periocular area, subs
+S00.272S@Oth superfic bite of left eyelid and perioculr area, sequela
+S00.279A@Oth superfic bite of unsp eyelid and periocular area, init
+S00.279D@Oth superfic bite of unsp eyelid and periocular area, subs
+S00.279S@Oth superfic bite of unsp eyelid and perioculr area, sequela
+S00.30XA@Unspecified superficial injury of nose, initial encounter
+S00.30XD@Unspecified superficial injury of nose, subsequent encounter
+S00.30XS@Unspecified superficial injury of nose, sequela
+S00.31XA@Abrasion of nose, initial encounter
+S00.31XD@Abrasion of nose, subsequent encounter
+S00.31XS@Abrasion of nose, sequela
+S00.32XA@Blister (nonthermal) of nose, initial encounter
+S00.32XD@Blister (nonthermal) of nose, subsequent encounter
+S00.32XS@Blister (nonthermal) of nose, sequela
+S00.33XA@Contusion of nose, initial encounter
+S00.33XD@Contusion of nose, subsequent encounter
+S00.33XS@Contusion of nose, sequela
+S00.34XA@External constriction of nose, initial encounter
+S00.34XD@External constriction of nose, subsequent encounter
+S00.34XS@External constriction of nose, sequela
+S00.35XA@Superficial foreign body of nose, initial encounter
+S00.35XD@Superficial foreign body of nose, subsequent encounter
+S00.35XS@Superficial foreign body of nose, sequela
+S00.36XA@Insect bite (nonvenomous) of nose, initial encounter
+S00.36XD@Insect bite (nonvenomous) of nose, subsequent encounter
+S00.36XS@Insect bite (nonvenomous) of nose, sequela
+S00.37XA@Other superficial bite of nose, initial encounter
+S00.37XD@Other superficial bite of nose, subsequent encounter
+S00.37XS@Other superficial bite of nose, sequela
+S00.401A@Unspecified superficial injury of right ear, init encntr
+S00.401D@Unspecified superficial injury of right ear, subs encntr
+S00.401S@Unspecified superficial injury of right ear, sequela
+S00.402A@Unspecified superficial injury of left ear, init encntr
+S00.402D@Unspecified superficial injury of left ear, subs encntr
+S00.402S@Unspecified superficial injury of left ear, sequela
+S00.409A@Unsp superficial injury of unspecified ear, init encntr
+S00.409D@Unsp superficial injury of unspecified ear, subs encntr
+S00.409S@Unspecified superficial injury of unspecified ear, sequela
+S00.411A@Abrasion of right ear, initial encounter
+S00.411D@Abrasion of right ear, subsequent encounter
+S00.411S@Abrasion of right ear, sequela
+S00.412A@Abrasion of left ear, initial encounter
+S00.412D@Abrasion of left ear, subsequent encounter
+S00.412S@Abrasion of left ear, sequela
+S00.419A@Abrasion of unspecified ear, initial encounter
+S00.419D@Abrasion of unspecified ear, subsequent encounter
+S00.419S@Abrasion of unspecified ear, sequela
+S00.421A@Blister (nonthermal) of right ear, initial encounter
+S00.421D@Blister (nonthermal) of right ear, subsequent encounter
+S00.421S@Blister (nonthermal) of right ear, sequela
+S00.422A@Blister (nonthermal) of left ear, initial encounter
+S00.422D@Blister (nonthermal) of left ear, subsequent encounter
+S00.422S@Blister (nonthermal) of left ear, sequela
+S00.429A@Blister (nonthermal) of unspecified ear, initial encounter
+S00.429D@Blister (nonthermal) of unspecified ear, subs encntr
+S00.429S@Blister (nonthermal) of unspecified ear, sequela
+S00.431A@Contusion of right ear, initial encounter
+S00.431D@Contusion of right ear, subsequent encounter
+S00.431S@Contusion of right ear, sequela
+S00.432A@Contusion of left ear, initial encounter
+S00.432D@Contusion of left ear, subsequent encounter
+S00.432S@Contusion of left ear, sequela
+S00.439A@Contusion of unspecified ear, initial encounter
+S00.439D@Contusion of unspecified ear, subsequent encounter
+S00.439S@Contusion of unspecified ear, sequela
+S00.441A@External constriction of right ear, initial encounter
+S00.441D@External constriction of right ear, subsequent encounter
+S00.441S@External constriction of right ear, sequela
+S00.442A@External constriction of left ear, initial encounter
+S00.442D@External constriction of left ear, subsequent encounter
+S00.442S@External constriction of left ear, sequela
+S00.449A@External constriction of unspecified ear, initial encounter
+S00.449D@External constriction of unspecified ear, subs encntr
+S00.449S@External constriction of unspecified ear, sequela
+S00.451A@Superficial foreign body of right ear, initial encounter
+S00.451D@Superficial foreign body of right ear, subsequent encounter
+S00.451S@Superficial foreign body of right ear, sequela
+S00.452A@Superficial foreign body of left ear, initial encounter
+S00.452D@Superficial foreign body of left ear, subsequent encounter
+S00.452S@Superficial foreign body of left ear, sequela
+S00.459A@Superficial foreign body of unspecified ear, init encntr
+S00.459D@Superficial foreign body of unspecified ear, subs encntr
+S00.459S@Superficial foreign body of unspecified ear, sequela
+S00.461A@Insect bite (nonvenomous) of right ear, initial encounter
+S00.461D@Insect bite (nonvenomous) of right ear, subsequent encounter
+S00.461S@Insect bite (nonvenomous) of right ear, sequela
+S00.462A@Insect bite (nonvenomous) of left ear, initial encounter
+S00.462D@Insect bite (nonvenomous) of left ear, subsequent encounter
+S00.462S@Insect bite (nonvenomous) of left ear, sequela
+S00.469A@Insect bite (nonvenomous) of unspecified ear, init encntr
+S00.469D@Insect bite (nonvenomous) of unspecified ear, subs encntr
+S00.469S@Insect bite (nonvenomous) of unspecified ear, sequela
+S00.471A@Other superficial bite of right ear, initial encounter
+S00.471D@Other superficial bite of right ear, subsequent encounter
+S00.471S@Other superficial bite of right ear, sequela
+S00.472A@Other superficial bite of left ear, initial encounter
+S00.472D@Other superficial bite of left ear, subsequent encounter
+S00.472S@Other superficial bite of left ear, sequela
+S00.479A@Other superficial bite of unspecified ear, initial encounter
+S00.479D@Other superficial bite of unspecified ear, subs encntr
+S00.479S@Other superficial bite of unspecified ear, sequela
+S00.501A@Unspecified superficial injury of lip, initial encounter
+S00.501D@Unspecified superficial injury of lip, subsequent encounter
+S00.501S@Unspecified superficial injury of lip, sequela
+S00.502A@Unspecified superficial injury of oral cavity, init encntr
+S00.502D@Unspecified superficial injury of oral cavity, subs encntr
+S00.502S@Unspecified superficial injury of oral cavity, sequela
+S00.511A@Abrasion of lip, initial encounter
+S00.511D@Abrasion of lip, subsequent encounter
+S00.511S@Abrasion of lip, sequela
+S00.512A@Abrasion of oral cavity, initial encounter
+S00.512D@Abrasion of oral cavity, subsequent encounter
+S00.512S@Abrasion of oral cavity, sequela
+S00.521A@Blister (nonthermal) of lip, initial encounter
+S00.521D@Blister (nonthermal) of lip, subsequent encounter
+S00.521S@Blister (nonthermal) of lip, sequela
+S00.522A@Blister (nonthermal) of oral cavity, initial encounter
+S00.522D@Blister (nonthermal) of oral cavity, subsequent encounter
+S00.522S@Blister (nonthermal) of oral cavity, sequela
+S00.531A@Contusion of lip, initial encounter
+S00.531D@Contusion of lip, subsequent encounter
+S00.531S@Contusion of lip, sequela
+S00.532A@Contusion of oral cavity, initial encounter
+S00.532D@Contusion of oral cavity, subsequent encounter
+S00.532S@Contusion of oral cavity, sequela
+S00.541A@External constriction of lip, initial encounter
+S00.541D@External constriction of lip, subsequent encounter
+S00.541S@External constriction of lip, sequela
+S00.542A@External constriction of oral cavity, initial encounter
+S00.542D@External constriction of oral cavity, subsequent encounter
+S00.542S@External constriction of oral cavity, sequela
+S00.551A@Superficial foreign body of lip, initial encounter
+S00.551D@Superficial foreign body of lip, subsequent encounter
+S00.551S@Superficial foreign body of lip, sequela
+S00.552A@Superficial foreign body of oral cavity, initial encounter
+S00.552D@Superficial foreign body of oral cavity, subs encntr
+S00.552S@Superficial foreign body of oral cavity, sequela
+S00.561A@Insect bite (nonvenomous) of lip, initial encounter
+S00.561D@Insect bite (nonvenomous) of lip, subsequent encounter
+S00.561S@Insect bite (nonvenomous) of lip, sequela
+S00.562A@Insect bite (nonvenomous) of oral cavity, initial encounter
+S00.562D@Insect bite (nonvenomous) of oral cavity, subs encntr
+S00.562S@Insect bite (nonvenomous) of oral cavity, sequela
+S00.571A@Other superficial bite of lip, initial encounter
+S00.571D@Other superficial bite of lip, subsequent encounter
+S00.571S@Other superficial bite of lip, sequela
+S00.572A@Other superficial bite of oral cavity, initial encounter
+S00.572D@Other superficial bite of oral cavity, subsequent encounter
+S00.572S@Other superficial bite of oral cavity, sequela
+S00.80XA@Unsp superficial injury of other part of head, init encntr
+S00.80XD@Unsp superficial injury of other part of head, subs encntr
+S00.80XS@Unsp superficial injury of other part of head, sequela
+S00.81XA@Abrasion of other part of head, initial encounter
+S00.81XD@Abrasion of other part of head, subsequent encounter
+S00.81XS@Abrasion of other part of head, sequela
+S00.82XA@Blister (nonthermal) of other part of head, init encntr
+S00.82XD@Blister (nonthermal) of other part of head, subs encntr
+S00.82XS@Blister (nonthermal) of other part of head, sequela
+S00.83XA@Contusion of other part of head, initial encounter
+S00.83XD@Contusion of other part of head, subsequent encounter
+S00.83XS@Contusion of other part of head, sequela
+S00.84XA@External constriction of other part of head, init encntr
+S00.84XD@External constriction of other part of head, subs encntr
+S00.84XS@External constriction of other part of head, sequela
+S00.85XA@Superficial foreign body of other part of head, init encntr
+S00.85XD@Superficial foreign body of other part of head, subs encntr
+S00.85XS@Superficial foreign body of other part of head, sequela
+S00.86XA@Insect bite (nonvenomous) of other part of head, init encntr
+S00.86XD@Insect bite (nonvenomous) of other part of head, subs encntr
+S00.86XS@Insect bite (nonvenomous) of other part of head, sequela
+S00.87XA@Other superficial bite of other part of head, init encntr
+S00.87XD@Other superficial bite of other part of head, subs encntr
+S00.87XS@Other superficial bite of other part of head, sequela
+S00.90XA@Unsp superficial injury of unsp part of head, init encntr
+S00.90XD@Unsp superficial injury of unsp part of head, subs encntr
+S00.90XS@Unsp superficial injury of unspecified part of head, sequela
+S00.91XA@Abrasion of unspecified part of head, initial encounter
+S00.91XD@Abrasion of unspecified part of head, subsequent encounter
+S00.91XS@Abrasion of unspecified part of head, sequela
+S00.92XA@Blister (nonthermal) of unsp part of head, init encntr
+S00.92XD@Blister (nonthermal) of unsp part of head, subs encntr
+S00.92XS@Blister (nonthermal) of unspecified part of head, sequela
+S00.93XA@Contusion of unspecified part of head, initial encounter
+S00.93XD@Contusion of unspecified part of head, subsequent encounter
+S00.93XS@Contusion of unspecified part of head, sequela
+S00.94XA@External constriction of unsp part of head, init encntr
+S00.94XD@External constriction of unsp part of head, subs encntr
+S00.94XS@External constriction of unspecified part of head, sequela
+S00.95XA@Superficial foreign body of unsp part of head, init encntr
+S00.95XD@Superficial foreign body of unsp part of head, subs encntr
+S00.95XS@Superficial foreign body of unsp part of head, sequela
+S00.96XA@Insect bite (nonvenomous) of unsp part of head, init encntr
+S00.96XD@Insect bite (nonvenomous) of unsp part of head, subs encntr
+S00.96XS@Insect bite (nonvenomous) of unsp part of head, sequela
+S00.97XA@Other superficial bite of unsp part of head, init encntr
+S00.97XD@Other superficial bite of unsp part of head, subs encntr
+S00.97XS@Other superficial bite of unspecified part of head, sequela
+S01.00XA@Unspecified open wound of scalp, initial encounter
+S01.00XD@Unspecified open wound of scalp, subsequent encounter
+S01.00XS@Unspecified open wound of scalp, sequela
+S01.01XA@Laceration without foreign body of scalp, initial encounter
+S01.01XD@Laceration without foreign body of scalp, subs encntr
+S01.01XS@Laceration without foreign body of scalp, sequela
+S01.02XA@Laceration with foreign body of scalp, initial encounter
+S01.02XD@Laceration with foreign body of scalp, subsequent encounter
+S01.02XS@Laceration with foreign body of scalp, sequela
+S01.03XA@Puncture wound without foreign body of scalp, init encntr
+S01.03XD@Puncture wound without foreign body of scalp, subs encntr
+S01.03XS@Puncture wound without foreign body of scalp, sequela
+S01.04XA@Puncture wound with foreign body of scalp, initial encounter
+S01.04XD@Puncture wound with foreign body of scalp, subs encntr
+S01.04XS@Puncture wound with foreign body of scalp, sequela
+S01.05XA@Open bite of scalp, initial encounter
+S01.05XD@Open bite of scalp, subsequent encounter
+S01.05XS@Open bite of scalp, sequela
+S01.101A@Unsp open wound of right eyelid and periocular area, init
+S01.101D@Unsp open wound of right eyelid and periocular area, subs
+S01.101S@Unsp open wound of right eyelid and periocular area, sequela
+S01.102A@Unsp open wound of left eyelid and periocular area, init
+S01.102D@Unsp open wound of left eyelid and periocular area, subs
+S01.102S@Unsp open wound of left eyelid and periocular area, sequela
+S01.109A@Unsp open wound of unsp eyelid and periocular area, init
+S01.109D@Unsp open wound of unsp eyelid and periocular area, subs
+S01.109S@Unsp open wound of unsp eyelid and periocular area, sequela
+S01.111A@Laceration w/o fb of right eyelid and periocular area, init
+S01.111D@Laceration w/o fb of right eyelid and periocular area, subs
+S01.111S@Lac w/o fb of right eyelid and periocular area, sequela
+S01.112A@Laceration w/o fb of left eyelid and periocular area, init
+S01.112D@Laceration w/o fb of left eyelid and periocular area, subs
+S01.112S@Lac w/o fb of left eyelid and periocular area, sequela
+S01.119A@Laceration w/o fb of unsp eyelid and periocular area, init
+S01.119D@Laceration w/o fb of unsp eyelid and periocular area, subs
+S01.119S@Lac w/o fb of unsp eyelid and periocular area, sequela
+S01.121A@Laceration w fb of right eyelid and periocular area, init
+S01.121D@Laceration w fb of right eyelid and periocular area, subs
+S01.121S@Laceration w fb of right eyelid and periocular area, sequela
+S01.122A@Laceration w fb of left eyelid and periocular area, init
+S01.122D@Laceration w fb of left eyelid and periocular area, subs
+S01.122S@Laceration w fb of left eyelid and periocular area, sequela
+S01.129A@Laceration w fb of unsp eyelid and periocular area, init
+S01.129D@Laceration w fb of unsp eyelid and periocular area, subs
+S01.129S@Laceration w fb of unsp eyelid and periocular area, sequela
+S01.131A@Pnctr w/o fb of right eyelid and periocular area, init
+S01.131D@Pnctr w/o fb of right eyelid and periocular area, subs
+S01.131S@Pnctr w/o fb of right eyelid and periocular area, sequela
+S01.132A@Pnctr w/o fb of left eyelid and periocular area, init
+S01.132D@Pnctr w/o fb of left eyelid and periocular area, subs
+S01.132S@Pnctr w/o fb of left eyelid and periocular area, sequela
+S01.139A@Pnctr w/o fb of unsp eyelid and periocular area, init
+S01.139D@Pnctr w/o fb of unsp eyelid and periocular area, subs
+S01.139S@Pnctr w/o fb of unsp eyelid and periocular area, sequela
+S01.141A@Pnctr w fb of right eyelid and periocular area, init
+S01.141D@Pnctr w fb of right eyelid and periocular area, subs
+S01.141S@Pnctr w fb of right eyelid and periocular area, sequela
+S01.142A@Pnctr w fb of left eyelid and periocular area, init
+S01.142D@Pnctr w fb of left eyelid and periocular area, subs
+S01.142S@Pnctr w fb of left eyelid and periocular area, sequela
+S01.149A@Pnctr w fb of unsp eyelid and periocular area, init
+S01.149D@Pnctr w fb of unsp eyelid and periocular area, subs
+S01.149S@Pnctr w fb of unsp eyelid and periocular area, sequela
+S01.151A@Open bite of right eyelid and periocular area, init encntr
+S01.151D@Open bite of right eyelid and periocular area, subs encntr
+S01.151S@Open bite of right eyelid and periocular area, sequela
+S01.152A@Open bite of left eyelid and periocular area, init encntr
+S01.152D@Open bite of left eyelid and periocular area, subs encntr
+S01.152S@Open bite of left eyelid and periocular area, sequela
+S01.159A@Open bite of unsp eyelid and periocular area, init encntr
+S01.159D@Open bite of unsp eyelid and periocular area, subs encntr
+S01.159S@Open bite of unspecified eyelid and periocular area, sequela
+S01.20XA@Unspecified open wound of nose, initial encounter
+S01.20XD@Unspecified open wound of nose, subsequent encounter
+S01.20XS@Unspecified open wound of nose, sequela
+S01.21XA@Laceration without foreign body of nose, initial encounter
+S01.21XD@Laceration without foreign body of nose, subs encntr
+S01.21XS@Laceration without foreign body of nose, sequela
+S01.22XA@Laceration with foreign body of nose, initial encounter
+S01.22XD@Laceration with foreign body of nose, subsequent encounter
+S01.22XS@Laceration with foreign body of nose, sequela
+S01.23XA@Puncture wound without foreign body of nose, init encntr
+S01.23XD@Puncture wound without foreign body of nose, subs encntr
+S01.23XS@Puncture wound without foreign body of nose, sequela
+S01.24XA@Puncture wound with foreign body of nose, initial encounter
+S01.24XD@Puncture wound with foreign body of nose, subs encntr
+S01.24XS@Puncture wound with foreign body of nose, sequela
+S01.25XA@Open bite of nose, initial encounter
+S01.25XD@Open bite of nose, subsequent encounter
+S01.25XS@Open bite of nose, sequela
+S01.301A@Unspecified open wound of right ear, initial encounter
+S01.301D@Unspecified open wound of right ear, subsequent encounter
+S01.301S@Unspecified open wound of right ear, sequela
+S01.302A@Unspecified open wound of left ear, initial encounter
+S01.302D@Unspecified open wound of left ear, subsequent encounter
+S01.302S@Unspecified open wound of left ear, sequela
+S01.309A@Unspecified open wound of unspecified ear, initial encounter
+S01.309D@Unspecified open wound of unspecified ear, subs encntr
+S01.309S@Unspecified open wound of unspecified ear, sequela
+S01.311A@Laceration without foreign body of right ear, init encntr
+S01.311D@Laceration without foreign body of right ear, subs encntr
+S01.311S@Laceration without foreign body of right ear, sequela
+S01.312A@Laceration without foreign body of left ear, init encntr
+S01.312D@Laceration without foreign body of left ear, subs encntr
+S01.312S@Laceration without foreign body of left ear, sequela
+S01.319A@Laceration without foreign body of unsp ear, init encntr
+S01.319D@Laceration without foreign body of unsp ear, subs encntr
+S01.319S@Laceration without foreign body of unspecified ear, sequela
+S01.321A@Laceration with foreign body of right ear, initial encounter
+S01.321D@Laceration with foreign body of right ear, subs encntr
+S01.321S@Laceration with foreign body of right ear, sequela
+S01.322A@Laceration with foreign body of left ear, initial encounter
+S01.322D@Laceration with foreign body of left ear, subs encntr
+S01.322S@Laceration with foreign body of left ear, sequela
+S01.329A@Laceration with foreign body of unspecified ear, init encntr
+S01.329D@Laceration with foreign body of unspecified ear, subs encntr
+S01.329S@Laceration with foreign body of unspecified ear, sequela
+S01.331A@Puncture wound w/o foreign body of right ear, init encntr
+S01.331D@Puncture wound w/o foreign body of right ear, subs encntr
+S01.331S@Puncture wound without foreign body of right ear, sequela
+S01.332A@Puncture wound without foreign body of left ear, init encntr
+S01.332D@Puncture wound without foreign body of left ear, subs encntr
+S01.332S@Puncture wound without foreign body of left ear, sequela
+S01.339A@Puncture wound without foreign body of unsp ear, init encntr
+S01.339D@Puncture wound without foreign body of unsp ear, subs encntr
+S01.339S@Puncture wound without foreign body of unsp ear, sequela
+S01.341A@Puncture wound with foreign body of right ear, init encntr
+S01.341D@Puncture wound with foreign body of right ear, subs encntr
+S01.341S@Puncture wound with foreign body of right ear, sequela
+S01.342A@Puncture wound with foreign body of left ear, init encntr
+S01.342D@Puncture wound with foreign body of left ear, subs encntr
+S01.342S@Puncture wound with foreign body of left ear, sequela
+S01.349A@Puncture wound with foreign body of unsp ear, init encntr
+S01.349D@Puncture wound with foreign body of unsp ear, subs encntr
+S01.349S@Puncture wound with foreign body of unspecified ear, sequela
+S01.351A@Open bite of right ear, initial encounter
+S01.351D@Open bite of right ear, subsequent encounter
+S01.351S@Open bite of right ear, sequela
+S01.352A@Open bite of left ear, initial encounter
+S01.352D@Open bite of left ear, subsequent encounter
+S01.352S@Open bite of left ear, sequela
+S01.359A@Open bite of unspecified ear, initial encounter
+S01.359D@Open bite of unspecified ear, subsequent encounter
+S01.359S@Open bite of unspecified ear, sequela
+S01.401A@Unsp open wound of right cheek and TMJ area, init
+S01.401D@Unsp open wound of right cheek and TMJ area, subs
+S01.401S@Unsp open wound of right cheek and TMJ area, sequela
+S01.402A@Unsp open wound of left cheek and TMJ area, init
+S01.402D@Unsp open wound of left cheek and TMJ area, subs
+S01.402S@Unsp open wound of left cheek and TMJ area, sequela
+S01.409A@Unsp open wound of unsp cheek and TMJ area, init
+S01.409D@Unsp open wound of unsp cheek and TMJ area, subs
+S01.409S@Unsp open wound of unsp cheek and TMJ area, sequela
+S01.411A@Laceration w/o fb of right cheek and TMJ area, init
+S01.411D@Laceration w/o fb of right cheek and TMJ area, subs
+S01.411S@Laceration w/o fb of right cheek and TMJ area, sequela
+S01.412A@Laceration w/o foreign body of left cheek and TMJ area, init
+S01.412D@Laceration w/o foreign body of left cheek and TMJ area, subs
+S01.412S@Laceration w/o fb of left cheek and TMJ area, sequela
+S01.419A@Laceration w/o foreign body of unsp cheek and TMJ area, init
+S01.419D@Laceration w/o foreign body of unsp cheek and TMJ area, subs
+S01.419S@Laceration w/o fb of unsp cheek and TMJ area, sequela
+S01.421A@Laceration w foreign body of right cheek and TMJ area, init
+S01.421D@Laceration w foreign body of right cheek and TMJ area, subs
+S01.421S@Laceration w fb of right cheek and TMJ area, sequela
+S01.422A@Laceration w foreign body of left cheek and TMJ area, init
+S01.422D@Laceration w foreign body of left cheek and TMJ area, subs
+S01.422S@Laceration w fb of left cheek and TMJ area, sequela
+S01.429A@Laceration w foreign body of unsp cheek and TMJ area, init
+S01.429D@Laceration w foreign body of unsp cheek and TMJ area, subs
+S01.429S@Laceration w fb of unsp cheek and TMJ area, sequela
+S01.431A@Pnctr w/o foreign body of right cheek and TMJ area, init
+S01.431D@Pnctr w/o foreign body of right cheek and TMJ area, subs
+S01.431S@Pnctr w/o foreign body of right cheek and TMJ area, sequela
+S01.432A@Pnctr w/o foreign body of left cheek and TMJ area, init
+S01.432D@Pnctr w/o foreign body of left cheek and TMJ area, subs
+S01.432S@Pnctr w/o foreign body of left cheek and TMJ area, sequela
+S01.439A@Pnctr w/o foreign body of unsp cheek and TMJ area, init
+S01.439D@Pnctr w/o foreign body of unsp cheek and TMJ area, subs
+S01.439S@Pnctr w/o foreign body of unsp cheek and TMJ area, sequela
+S01.441A@Pnctr w foreign body of right cheek and TMJ area, init
+S01.441D@Pnctr w foreign body of right cheek and TMJ area, subs
+S01.441S@Pnctr w foreign body of right cheek and TMJ area, sequela
+S01.442A@Pnctr w foreign body of left cheek and TMJ area, init
+S01.442D@Pnctr w foreign body of left cheek and TMJ area, subs
+S01.442S@Pnctr w foreign body of left cheek and TMJ area, sequela
+S01.449A@Pnctr w foreign body of unsp cheek and TMJ area, init
+S01.449D@Pnctr w foreign body of unsp cheek and TMJ area, subs
+S01.449S@Pnctr w foreign body of unsp cheek and TMJ area, sequela
+S01.451A@Open bite of right cheek and temporomandibular area, init
+S01.451D@Open bite of right cheek and temporomandibular area, subs
+S01.451S@Open bite of right cheek and temporomandibular area, sequela
+S01.452A@Open bite of left cheek and temporomandibular area, init
+S01.452D@Open bite of left cheek and temporomandibular area, subs
+S01.452S@Open bite of left cheek and temporomandibular area, sequela
+S01.459A@Open bite of unsp cheek and temporomandibular area, init
+S01.459D@Open bite of unsp cheek and temporomandibular area, subs
+S01.459S@Open bite of unsp cheek and temporomandibular area, sequela
+S01.501A@Unspecified open wound of lip, initial encounter
+S01.501D@Unspecified open wound of lip, subsequent encounter
+S01.501S@Unspecified open wound of lip, sequela
+S01.502A@Unspecified open wound of oral cavity, initial encounter
+S01.502D@Unspecified open wound of oral cavity, subsequent encounter
+S01.502S@Unspecified open wound of oral cavity, sequela
+S01.511A@Laceration without foreign body of lip, initial encounter
+S01.511D@Laceration without foreign body of lip, subsequent encounter
+S01.511S@Laceration without foreign body of lip, sequela
+S01.512A@Laceration without foreign body of oral cavity, init encntr
+S01.512D@Laceration without foreign body of oral cavity, subs encntr
+S01.512S@Laceration without foreign body of oral cavity, sequela
+S01.521A@Laceration with foreign body of lip, initial encounter
+S01.521D@Laceration with foreign body of lip, subsequent encounter
+S01.521S@Laceration with foreign body of lip, sequela
+S01.522A@Laceration with foreign body of oral cavity, init encntr
+S01.522D@Laceration with foreign body of oral cavity, subs encntr
+S01.522S@Laceration with foreign body of oral cavity, sequela
+S01.531A@Puncture wound without foreign body of lip, init encntr
+S01.531D@Puncture wound without foreign body of lip, subs encntr
+S01.531S@Puncture wound without foreign body of lip, sequela
+S01.532A@Puncture wound w/o foreign body of oral cavity, init encntr
+S01.532D@Puncture wound w/o foreign body of oral cavity, subs encntr
+S01.532S@Puncture wound without foreign body of oral cavity, sequela
+S01.541A@Puncture wound with foreign body of lip, initial encounter
+S01.541D@Puncture wound with foreign body of lip, subs encntr
+S01.541S@Puncture wound with foreign body of lip, sequela
+S01.542A@Puncture wound with foreign body of oral cavity, init encntr
+S01.542D@Puncture wound with foreign body of oral cavity, subs encntr
+S01.542S@Puncture wound with foreign body of oral cavity, sequela
+S01.551A@Open bite of lip, initial encounter
+S01.551D@Open bite of lip, subsequent encounter
+S01.551S@Open bite of lip, sequela
+S01.552A@Open bite of oral cavity, initial encounter
+S01.552D@Open bite of oral cavity, subsequent encounter
+S01.552S@Open bite of oral cavity, sequela
+S01.80XA@Unspecified open wound of other part of head, init encntr
+S01.80XD@Unspecified open wound of other part of head, subs encntr
+S01.80XS@Unspecified open wound of other part of head, sequela
+S01.81XA@Laceration w/o foreign body of oth part of head, init encntr
+S01.81XD@Laceration w/o foreign body of oth part of head, subs encntr
+S01.81XS@Laceration w/o foreign body of other part of head, sequela
+S01.82XA@Laceration w foreign body of oth part of head, init encntr
+S01.82XD@Laceration w foreign body of oth part of head, subs encntr
+S01.82XS@Laceration with foreign body of other part of head, sequela
+S01.83XA@Puncture wound w/o foreign body oth prt head, init encntr
+S01.83XD@Puncture wound w/o foreign body oth prt head, subs encntr
+S01.83XS@Puncture wound w/o foreign body of oth part of head, sequela
+S01.84XA@Puncture wound w foreign body oth prt head, init encntr
+S01.84XD@Puncture wound w foreign body oth prt head, subs encntr
+S01.84XS@Puncture wound w foreign body of oth part of head, sequela
+S01.85XA@Open bite of other part of head, initial encounter
+S01.85XD@Open bite of other part of head, subsequent encounter
+S01.85XS@Open bite of other part of head, sequela
+S01.90XA@Unsp open wound of unspecified part of head, init encntr
+S01.90XD@Unsp open wound of unspecified part of head, subs encntr
+S01.90XS@Unspecified open wound of unspecified part of head, sequela
+S01.91XA@Laceration w/o foreign body of unsp part of head, init
+S01.91XD@Laceration w/o foreign body of unsp part of head, subs
+S01.91XS@Laceration w/o foreign body of unsp part of head, sequela
+S01.92XA@Laceration w foreign body of unsp part of head, init encntr
+S01.92XD@Laceration w foreign body of unsp part of head, subs encntr
+S01.92XS@Laceration with foreign body of unsp part of head, sequela
+S01.93XA@Puncture wound w/o foreign body of unsp part of head, init
+S01.93XD@Puncture wound w/o foreign body of unsp part of head, subs
+S01.93XS@Pnctr w/o foreign body of unsp part of head, sequela
+S01.94XA@Puncture wound w foreign body of unsp part of head, init
+S01.94XD@Puncture wound w foreign body of unsp part of head, subs
+S01.94XS@Puncture wound w foreign body of unsp part of head, sequela
+S01.95XA@Open bite of unspecified part of head, initial encounter
+S01.95XD@Open bite of unspecified part of head, subsequent encounter
+S01.95XS@Open bite of unspecified part of head, sequela
+S02.0XXA@Fracture of vault of skull, init encntr for closed fracture
+S02.0XXB@Fracture of vault of skull, init encntr for open fracture
+S02.0XXD@Fracture of vault of skull, subs for fx w routn heal
+S02.0XXG@Fracture of vault of skull, subs for fx w delay heal
+S02.0XXK@Fracture of vault of skull, subs for fx w nonunion
+S02.0XXS@Fracture of vault of skull, sequela
+S02.10XA@Unsp fracture of base of skull, init for clos fx
+S02.10XB@Unsp fracture of base of skull, init for opn fx
+S02.10XD@Unsp fracture of base of skull, subs for fx w routn heal
+S02.10XG@Unsp fracture of base of skull, subs for fx w delay heal
+S02.10XK@Unsp fracture of base of skull, subs for fx w nonunion
+S02.10XS@Unspecified fracture of base of skull, sequela
+S02.110A@Type I occipital condyle fracture, init for clos fx
+S02.110B@Type I occipital condyle fracture, init for opn fx
+S02.110D@Type I occipital condyle fracture, subs for fx w routn heal
+S02.110G@Type I occipital condyle fracture, subs for fx w delay heal
+S02.110K@Type I occipital condyle fracture, subs for fx w nonunion
+S02.110S@Type I occipital condyle fracture, sequela
+S02.111A@Type II occipital condyle fracture, init for clos fx
+S02.111B@Type II occipital condyle fracture, init for opn fx
+S02.111D@Type II occipital condyle fracture, subs for fx w routn heal
+S02.111G@Type II occipital condyle fracture, subs for fx w delay heal
+S02.111K@Type II occipital condyle fracture, subs for fx w nonunion
+S02.111S@Type II occipital condyle fracture, sequela
+S02.112A@Type III occipital condyle fracture, init for clos fx
+S02.112B@Type III occipital condyle fracture, init for opn fx
+S02.112D@Type III occipital condyle fx, subs for fx w routn heal
+S02.112G@Type III occipital condyle fx, subs for fx w delay heal
+S02.112K@Type III occipital condyle fracture, subs for fx w nonunion
+S02.112S@Type III occipital condyle fracture, sequela
+S02.113A@Unsp occipital condyle fracture, init for clos fx
+S02.113B@Unsp occipital condyle fracture, init for opn fx
+S02.113D@Unsp occipital condyle fracture, subs for fx w routn heal
+S02.113G@Unsp occipital condyle fracture, subs for fx w delay heal
+S02.113K@Unsp occipital condyle fracture, subs for fx w nonunion
+S02.113S@Unspecified occipital condyle fracture, sequela
+S02.118A@Other fracture of occiput, init encntr for closed fracture
+S02.118B@Other fracture of occiput, init encntr for open fracture
+S02.118D@Oth fracture of occiput, subs for fx w routn heal
+S02.118G@Oth fracture of occiput, subs for fx w delay heal
+S02.118K@Oth fracture of occiput, subs encntr for fracture w nonunion
+S02.118S@Other fracture of occiput, sequela
+S02.119A@Unsp fracture of occiput, init encntr for closed fracture
+S02.119B@Unsp fracture of occiput, init encntr for open fracture
+S02.119D@Unsp fracture of occiput, subs for fx w routn heal
+S02.119G@Unsp fracture of occiput, subs for fx w delay heal
+S02.119K@Unsp fracture of occiput, subs for fx w nonunion
+S02.119S@Unspecified fracture of occiput, sequela
+S02.19XA@Oth fracture of base of skull, init for clos fx
+S02.19XB@Oth fracture of base of skull, init encntr for open fracture
+S02.19XD@Oth fracture of base of skull, subs for fx w routn heal
+S02.19XG@Oth fracture of base of skull, subs for fx w delay heal
+S02.19XK@Oth fracture of base of skull, subs for fx w nonunion
+S02.19XS@Other fracture of base of skull, sequela
+S02.2XXA@Fracture of nasal bones, init encntr for closed fracture
+S02.2XXB@Fracture of nasal bones, initial encounter for open fracture
+S02.2XXD@Fracture of nasal bones, subs for fx w routn heal
+S02.2XXG@Fracture of nasal bones, subs for fx w delay heal
+S02.2XXK@Fracture of nasal bones, subs encntr for fracture w nonunion
+S02.2XXS@Fracture of nasal bones, sequela
+S02.3XXA@Fracture of orbital floor, init encntr for closed fracture
+S02.3XXB@Fracture of orbital floor, init encntr for open fracture
+S02.3XXD@Fracture of orbital floor, subs for fx w routn heal
+S02.3XXG@Fracture of orbital floor, subs for fx w delay heal
+S02.3XXK@Fracture of orbital floor, subs for fx w nonunion
+S02.3XXS@Fracture of orbital floor, sequela
+S02.400A@Malar fracture unspecified, init encntr for closed fracture
+S02.400B@Malar fracture unspecified, init encntr for open fracture
+S02.400D@Malar fracture unsp, subs for fx w routn heal
+S02.400G@Malar fracture unsp, subs for fx w delay heal
+S02.400K@Malar fracture unsp, subs encntr for fracture with nonunion
+S02.400S@Malar fracture unspecified, sequela
+S02.401A@Maxillary fracture, unsp, init encntr for closed fracture
+S02.401B@Maxillary fracture, unsp, init encntr for open fracture
+S02.401D@Maxillary fracture, unsp, subs for fx w routn heal
+S02.401G@Maxillary fracture, unsp, subs for fx w delay heal
+S02.401K@Maxillary fracture, unsp, subs for fx w nonunion
+S02.401S@Maxillary fracture, unspecified, sequela
+S02.402A@Zygomatic fracture, unsp, init encntr for closed fracture
+S02.402B@Zygomatic fracture, unsp, init encntr for open fracture
+S02.402D@Zygomatic fracture, unsp, subs for fx w routn heal
+S02.402G@Zygomatic fracture, unsp, subs for fx w delay heal
+S02.402K@Zygomatic fracture, unsp, subs for fx w nonunion
+S02.402S@Zygomatic fracture, unspecified, sequela
+S02.411A@LeFort I fracture, initial encounter for closed fracture
+S02.411B@LeFort I fracture, initial encounter for open fracture
+S02.411D@LeFort I fracture, subs for fx w routn heal
+S02.411G@LeFort I fracture, subs for fx w delay heal
+S02.411K@LeFort I fracture, subs encntr for fracture with nonunion
+S02.411S@LeFort I fracture, sequela
+S02.412A@LeFort II fracture, initial encounter for closed fracture
+S02.412B@LeFort II fracture, initial encounter for open fracture
+S02.412D@LeFort II fracture, subs for fx w routn heal
+S02.412G@LeFort II fracture, subs for fx w delay heal
+S02.412K@LeFort II fracture, subs encntr for fracture with nonunion
+S02.412S@LeFort II fracture, sequela
+S02.413A@LeFort III fracture, initial encounter for closed fracture
+S02.413B@LeFort III fracture, initial encounter for open fracture
+S02.413D@LeFort III fracture, subs for fx w routn heal
+S02.413G@LeFort III fracture, subs for fx w delay heal
+S02.413K@LeFort III fracture, subs encntr for fracture with nonunion
+S02.413S@LeFort III fracture, sequela
+S02.42XA@Fracture of alveolus of maxilla, init for clos fx
+S02.42XB@Fracture of alveolus of maxilla, init for opn fx
+S02.42XD@Fracture of alveolus of maxilla, subs for fx w routn heal
+S02.42XG@Fracture of alveolus of maxilla, subs for fx w delay heal
+S02.42XK@Fracture of alveolus of maxilla, subs for fx w nonunion
+S02.42XS@Fracture of alveolus of maxilla, sequela
+S02.5XXA@Fracture of tooth (traumatic), init for clos fx
+S02.5XXB@Fracture of tooth (traumatic), init encntr for open fracture
+S02.5XXD@Fracture of tooth (traumatic), subs for fx w routn heal
+S02.5XXG@Fracture of tooth (traumatic), subs for fx w delay heal
+S02.5XXK@Fracture of tooth (traumatic), subs for fx w nonunion
+S02.5XXS@Fracture of tooth (traumatic), sequela
+S02.600A@Fracture of unsp part of body of mandible, init for clos fx
+S02.600B@Fracture of unsp part of body of mandible, init for opn fx
+S02.600D@Fx unsp part of body of mandible, subs for fx w routn heal
+S02.600G@Fx unsp part of body of mandible, subs for fx w delay heal
+S02.600K@Fx unsp part of body of mandible, subs for fx w nonunion
+S02.600S@Fracture of unspecified part of body of mandible, sequela
+S02.609A@Fracture of mandible, unsp, init encntr for closed fracture
+S02.609B@Fracture of mandible, unsp, init encntr for open fracture
+S02.609D@Fracture of mandible, unsp, subs for fx w routn heal
+S02.609G@Fracture of mandible, unsp, subs for fx w delay heal
+S02.609K@Fracture of mandible, unsp, subs for fx w nonunion
+S02.609S@Fracture of mandible, unspecified, sequela
+S02.61XA@Fracture of condylar process of mandible, init for clos fx
+S02.61XB@Fracture of condylar process of mandible, init for opn fx
+S02.61XD@Fx condylar process of mandible, subs for fx w routn heal
+S02.61XG@Fx condylar process of mandible, subs for fx w delay heal
+S02.61XK@Fx condylar process of mandible, subs for fx w nonunion
+S02.61XS@Fracture of condylar process of mandible, sequela
+S02.62XA@Fracture of subcondylar process of mandible, init
+S02.62XB@Fracture of subcondylar process of mandible, init for opn fx
+S02.62XD@Fx subcondylar process of mandible, subs for fx w routn heal
+S02.62XG@Fx subcondylar process of mandible, subs for fx w delay heal
+S02.62XK@Fx subcondylar process of mandible, subs for fx w nonunion
+S02.62XS@Fracture of subcondylar process of mandible, sequela
+S02.63XA@Fracture of coronoid process of mandible, init for clos fx
+S02.63XB@Fracture of coronoid process of mandible, init for opn fx
+S02.63XD@Fx coronoid process of mandible, subs for fx w routn heal
+S02.63XG@Fx coronoid process of mandible, subs for fx w delay heal
+S02.63XK@Fx coronoid process of mandible, subs for fx w nonunion
+S02.63XS@Fracture of coronoid process of mandible, sequela
+S02.64XA@Fracture of ramus of mandible, init for clos fx
+S02.64XB@Fracture of ramus of mandible, init encntr for open fracture
+S02.64XD@Fracture of ramus of mandible, subs for fx w routn heal
+S02.64XG@Fracture of ramus of mandible, subs for fx w delay heal
+S02.64XK@Fracture of ramus of mandible, subs for fx w nonunion
+S02.64XS@Fracture of ramus of mandible, sequela
+S02.65XA@Fracture of angle of mandible, init for clos fx
+S02.65XB@Fracture of angle of mandible, init encntr for open fracture
+S02.65XD@Fracture of angle of mandible, subs for fx w routn heal
+S02.65XG@Fracture of angle of mandible, subs for fx w delay heal
+S02.65XK@Fracture of angle of mandible, subs for fx w nonunion
+S02.65XS@Fracture of angle of mandible, sequela
+S02.66XA@Fracture of symphysis of mandible, init for clos fx
+S02.66XB@Fracture of symphysis of mandible, init for opn fx
+S02.66XD@Fracture of symphysis of mandible, subs for fx w routn heal
+S02.66XG@Fracture of symphysis of mandible, subs for fx w delay heal
+S02.66XK@Fracture of symphysis of mandible, subs for fx w nonunion
+S02.66XS@Fracture of symphysis of mandible, sequela
+S02.67XA@Fracture of alveolus of mandible, init for clos fx
+S02.67XB@Fracture of alveolus of mandible, init for opn fx
+S02.67XD@Fracture of alveolus of mandible, subs for fx w routn heal
+S02.67XG@Fracture of alveolus of mandible, subs for fx w delay heal
+S02.67XK@Fracture of alveolus of mandible, subs for fx w nonunion
+S02.67XS@Fracture of alveolus of mandible, sequela
+S02.69XA@Fracture of mandible of oth site, init for clos fx
+S02.69XB@Fracture of mandible of oth site, init for opn fx
+S02.69XD@Fracture of mandible of oth site, subs for fx w routn heal
+S02.69XG@Fracture of mandible of oth site, subs for fx w delay heal
+S02.69XK@Fracture of mandible of oth site, subs for fx w nonunion
+S02.69XS@Fracture of mandible of other specified site, sequela
+S02.8XXA@Fractures of oth skull and facial bones, init for clos fx
+S02.8XXB@Fractures of oth skull and facial bones, init for opn fx
+S02.8XXD@Fx of skull and facial bones, subs for fx w routn heal
+S02.8XXG@Fx of skull and facial bones, subs for fx w delay heal
+S02.8XXK@Fractures of skull and facial bones, subs for fx w nonunion
+S02.8XXS@Fractures of other specified skull and facial bones, sequela
+S02.91XA@Unsp fracture of skull, init encntr for closed fracture
+S02.91XB@Unspecified fracture of skull, init encntr for open fracture
+S02.91XD@Unsp fracture of skull, subs for fx w routn heal
+S02.91XG@Unsp fracture of skull, subs for fx w delay heal
+S02.91XK@Unsp fracture of skull, subs encntr for fracture w nonunion
+S02.91XS@Unspecified fracture of skull, sequela
+S02.92XA@Unsp fracture of facial bones, init for clos fx
+S02.92XB@Unsp fracture of facial bones, init encntr for open fracture
+S02.92XD@Unsp fracture of facial bones, subs for fx w routn heal
+S02.92XG@Unsp fracture of facial bones, subs for fx w delay heal
+S02.92XK@Unsp fracture of facial bones, subs for fx w nonunion
+S02.92XS@Unspecified fracture of facial bones, sequela
+S03.0XXA@Dislocation of jaw, initial encounter
+S03.0XXD@Dislocation of jaw, subsequent encounter
+S03.0XXS@Dislocation of jaw, sequela
+S03.1XXA@Dislocation of septal cartilage of nose, initial encounter
+S03.1XXD@Dislocation of septal cartilage of nose, subs encntr
+S03.1XXS@Dislocation of septal cartilage of nose, sequela
+S03.2XXA@Dislocation of tooth, initial encounter
+S03.2XXD@Dislocation of tooth, subsequent encounter
+S03.2XXS@Dislocation of tooth, sequela
+S03.4XXA@Sprain of jaw, initial encounter
+S03.4XXD@Sprain of jaw, subsequent encounter
+S03.4XXS@Sprain of jaw, sequela
+S03.8XXA@Sprain of joints and ligaments of oth prt head, init encntr
+S03.8XXD@Sprain of joints and ligaments of oth prt head, subs encntr
+S03.8XXS@Sprain of joints and ligaments of oth parts of head, sequela
+S03.9XXA@Sprain of joints and ligaments of unsp parts of head, init
+S03.9XXD@Sprain of joints and ligaments of unsp parts of head, subs
+S03.9XXS@Sprain of joints and ligaments of unsp parts of head, sqla
+S04.011A@Injury of optic nerve, right eye, initial encounter
+S04.011D@Injury of optic nerve, right eye, subsequent encounter
+S04.011S@Injury of optic nerve, right eye, sequela
+S04.012A@Injury of optic nerve, left eye, initial encounter
+S04.012D@Injury of optic nerve, left eye, subsequent encounter
+S04.012S@Injury of optic nerve, left eye, sequela
+S04.019A@Injury of optic nerve, unspecified eye, initial encounter
+S04.019D@Injury of optic nerve, unspecified eye, subsequent encounter
+S04.019S@Injury of optic nerve, unspecified eye, sequela
+S04.02XA@Injury of optic chiasm, initial encounter
+S04.02XD@Injury of optic chiasm, subsequent encounter
+S04.02XS@Injury of optic chiasm, sequela
+S04.031A@Injury of optic tract and pathways, right eye, init encntr
+S04.031D@Injury of optic tract and pathways, right eye, subs encntr
+S04.031S@Injury of optic tract and pathways, right eye, sequela
+S04.032A@Injury of optic tract and pathways, left eye, init encntr
+S04.032D@Injury of optic tract and pathways, left eye, subs encntr
+S04.032S@Injury of optic tract and pathways, left eye, sequela
+S04.039A@Injury of optic tract and pathways, unsp eye, init encntr
+S04.039D@Injury of optic tract and pathways, unsp eye, subs encntr
+S04.039S@Injury of optic tract and pathways, unspecified eye, sequela
+S04.041A@Injury of visual cortex, right eye, initial encounter
+S04.041D@Injury of visual cortex, right eye, subsequent encounter
+S04.041S@Injury of visual cortex, right eye, sequela
+S04.042A@Injury of visual cortex, left eye, initial encounter
+S04.042D@Injury of visual cortex, left eye, subsequent encounter
+S04.042S@Injury of visual cortex, left eye, sequela
+S04.049A@Injury of visual cortex, unspecified eye, initial encounter
+S04.049D@Injury of visual cortex, unspecified eye, subs encntr
+S04.049S@Injury of visual cortex, unspecified eye, sequela
+S04.10XA@Injury of oculomotor nerve, unspecified side, init encntr
+S04.10XD@Injury of oculomotor nerve, unspecified side, subs encntr
+S04.10XS@Injury of oculomotor nerve, unspecified side, sequela
+S04.11XA@Injury of oculomotor nerve, right side, initial encounter
+S04.11XD@Injury of oculomotor nerve, right side, subsequent encounter
+S04.11XS@Injury of oculomotor nerve, right side, sequela
+S04.12XA@Injury of oculomotor nerve, left side, initial encounter
+S04.12XD@Injury of oculomotor nerve, left side, subsequent encounter
+S04.12XS@Injury of oculomotor nerve, left side, sequela
+S04.20XA@Injury of trochlear nerve, unspecified side, init encntr
+S04.20XD@Injury of trochlear nerve, unspecified side, subs encntr
+S04.20XS@Injury of trochlear nerve, unspecified side, sequela
+S04.21XA@Injury of trochlear nerve, right side, initial encounter
+S04.21XD@Injury of trochlear nerve, right side, subsequent encounter
+S04.21XS@Injury of trochlear nerve, right side, sequela
+S04.22XA@Injury of trochlear nerve, left side, initial encounter
+S04.22XD@Injury of trochlear nerve, left side, subsequent encounter
+S04.22XS@Injury of trochlear nerve, left side, sequela
+S04.30XA@Injury of trigeminal nerve, unspecified side, init encntr
+S04.30XD@Injury of trigeminal nerve, unspecified side, subs encntr
+S04.30XS@Injury of trigeminal nerve, unspecified side, sequela
+S04.31XA@Injury of trigeminal nerve, right side, initial encounter
+S04.31XD@Injury of trigeminal nerve, right side, subsequent encounter
+S04.31XS@Injury of trigeminal nerve, right side, sequela
+S04.32XA@Injury of trigeminal nerve, left side, initial encounter
+S04.32XD@Injury of trigeminal nerve, left side, subsequent encounter
+S04.32XS@Injury of trigeminal nerve, left side, sequela
+S04.40XA@Injury of abducent nerve, unspecified side, init encntr
+S04.40XD@Injury of abducent nerve, unspecified side, subs encntr
+S04.40XS@Injury of abducent nerve, unspecified side, sequela
+S04.41XA@Injury of abducent nerve, right side, initial encounter
+S04.41XD@Injury of abducent nerve, right side, subsequent encounter
+S04.41XS@Injury of abducent nerve, right side, sequela
+S04.42XA@Injury of abducent nerve, left side, initial encounter
+S04.42XD@Injury of abducent nerve, left side, subsequent encounter
+S04.42XS@Injury of abducent nerve, left side, sequela
+S04.50XA@Injury of facial nerve, unspecified side, initial encounter
+S04.50XD@Injury of facial nerve, unspecified side, subs encntr
+S04.50XS@Injury of facial nerve, unspecified side, sequela
+S04.51XA@Injury of facial nerve, right side, initial encounter
+S04.51XD@Injury of facial nerve, right side, subsequent encounter
+S04.51XS@Injury of facial nerve, right side, sequela
+S04.52XA@Injury of facial nerve, left side, initial encounter
+S04.52XD@Injury of facial nerve, left side, subsequent encounter
+S04.52XS@Injury of facial nerve, left side, sequela
+S04.60XA@Injury of acoustic nerve, unspecified side, init encntr
+S04.60XD@Injury of acoustic nerve, unspecified side, subs encntr
+S04.60XS@Injury of acoustic nerve, unspecified side, sequela
+S04.61XA@Injury of acoustic nerve, right side, initial encounter
+S04.61XD@Injury of acoustic nerve, right side, subsequent encounter
+S04.61XS@Injury of acoustic nerve, right side, sequela
+S04.62XA@Injury of acoustic nerve, left side, initial encounter
+S04.62XD@Injury of acoustic nerve, left side, subsequent encounter
+S04.62XS@Injury of acoustic nerve, left side, sequela
+S04.70XA@Injury of accessory nerve, unspecified side, init encntr
+S04.70XD@Injury of accessory nerve, unspecified side, subs encntr
+S04.70XS@Injury of accessory nerve, unspecified side, sequela
+S04.71XA@Injury of accessory nerve, right side, initial encounter
+S04.71XD@Injury of accessory nerve, right side, subsequent encounter
+S04.71XS@Injury of accessory nerve, right side, sequela
+S04.72XA@Injury of accessory nerve, left side, initial encounter
+S04.72XD@Injury of accessory nerve, left side, subsequent encounter
+S04.72XS@Injury of accessory nerve, left side, sequela
+S04.811A@Injury of olfactory nerve, right side, initial encounter
+S04.811D@Injury of olfactory nerve, right side, subsequent encounter
+S04.811S@Injury of olfactory [1st ] nerve, right side, sequela
+S04.812A@Injury of olfactory nerve, left side, initial encounter
+S04.812D@Injury of olfactory nerve, left side, subsequent encounter
+S04.812S@Injury of olfactory [1st ] nerve, left side, sequela
+S04.819A@Injury of olfactory nerve, unspecified side, init encntr
+S04.819D@Injury of olfactory nerve, unspecified side, subs encntr
+S04.819S@Injury of olfactory [1st ] nerve, unspecified side, sequela
+S04.891A@Injury of other cranial nerves, right side, init encntr
+S04.891D@Injury of other cranial nerves, right side, subs encntr
+S04.891S@Injury of other cranial nerves, right side, sequela
+S04.892A@Injury of other cranial nerves, left side, initial encounter
+S04.892D@Injury of other cranial nerves, left side, subs encntr
+S04.892S@Injury of other cranial nerves, left side, sequela
+S04.899A@Injury of other cranial nerves, unsp side, init encntr
+S04.899D@Injury of other cranial nerves, unsp side, subs encntr
+S04.899S@Injury of other cranial nerves, unspecified side, sequela
+S04.9XXA@Injury of unspecified cranial nerve, initial encounter
+S04.9XXD@Injury of unspecified cranial nerve, subsequent encounter
+S04.9XXS@Injury of unspecified cranial nerve, sequela
+S05.00XA@Inj conjunctiva and corneal abrasion w/o fb, unsp eye, init
+S05.00XD@Inj conjunctiva and corneal abrasion w/o fb, unsp eye, subs
+S05.00XS@Inj conjunctiva and corneal abras w/o fb, unsp eye, sequela
+S05.01XA@Inj conjunctiva and corneal abrasion w/o fb, right eye, init
+S05.01XD@Inj conjunctiva and corneal abrasion w/o fb, right eye, subs
+S05.01XS@Inj conjunctiva and corneal abrasion w/o fb, r eye, sequela
+S05.02XA@Inj conjunctiva and corneal abrasion w/o fb, left eye, init
+S05.02XD@Inj conjunctiva and corneal abrasion w/o fb, left eye, subs
+S05.02XS@Inj conjunctiva and corneal abras w/o fb, left eye, sequela
+S05.10XA@Contusion of eyeball and orbital tissues, unsp eye, init
+S05.10XD@Contusion of eyeball and orbital tissues, unsp eye, subs
+S05.10XS@Contusion of eyeball and orbital tissues, unsp eye, sequela
+S05.11XA@Contusion of eyeball and orbital tissues, right eye, init
+S05.11XD@Contusion of eyeball and orbital tissues, right eye, subs
+S05.11XS@Contusion of eyeball and orbital tissues, right eye, sequela
+S05.12XA@Contusion of eyeball and orbital tissues, left eye, init
+S05.12XD@Contusion of eyeball and orbital tissues, left eye, subs
+S05.12XS@Contusion of eyeball and orbital tissues, left eye, sequela
+S05.20XA@Oclr lac/rupt w prolaps/loss of intraoc tiss, unsp eye, init
+S05.20XD@Oclr lac/rupt w prolaps/loss of intraoc tiss, unsp eye, subs
+S05.20XS@Oclr lac/rupt w prolaps/loss of intraoc tiss, unsp eye, sqla
+S05.21XA@Oclr lac/rupt w prolaps/loss of intraoc tissue, r eye, init
+S05.21XD@Oclr lac/rupt w prolaps/loss of intraoc tissue, r eye, subs
+S05.21XS@Oclr lac/rupt w prolaps/loss of intraoc tissue, r eye, sqla
+S05.22XA@Oclr lac/rupt w prolaps/loss of intraoc tissue, l eye, init
+S05.22XD@Oclr lac/rupt w prolaps/loss of intraoc tissue, l eye, subs
+S05.22XS@Oclr lac/rupt w prolaps/loss of intraoc tissue, l eye, sqla
+S05.30XA@Oclr lac w/o prolaps/loss of intraoc tissue, unsp eye, init
+S05.30XD@Oclr lac w/o prolaps/loss of intraoc tissue, unsp eye, subs
+S05.30XS@Oclr lac w/o prolaps/loss of intraoc tissue, unsp eye, sqla
+S05.31XA@Ocular lac w/o prolaps/loss of intraoc tissue, r eye, init
+S05.31XD@Ocular lac w/o prolaps/loss of intraoc tissue, r eye, subs
+S05.31XS@Ocular lac w/o prolaps/loss of intraoc tissue, r eye, sqla
+S05.32XA@Ocular lac w/o prolaps/loss of intraoc tissue, l eye, init
+S05.32XD@Ocular lac w/o prolaps/loss of intraoc tissue, l eye, subs
+S05.32XS@Ocular lac w/o prolaps/loss of intraoc tissue, l eye, sqla
+S05.40XA@Penetrating wound of orbit w or w/o fb, unsp eye, init
+S05.40XD@Penetrating wound of orbit w or w/o fb, unsp eye, subs
+S05.40XS@Penetrating wound of orbit w or w/o fb, unsp eye, sequela
+S05.41XA@Penetrating wound of orbit w or w/o fb, right eye, init
+S05.41XD@Penetrating wound of orbit w or w/o fb, right eye, subs
+S05.41XS@Penetrating wound of orbit w or w/o fb, right eye, sequela
+S05.42XA@Penetrating wound of orbit w or w/o fb, left eye, init
+S05.42XD@Penetrating wound of orbit w or w/o fb, left eye, subs
+S05.42XS@Penetrating wound of orbit w or w/o fb, left eye, sequela
+S05.50XA@Penetrating wound w foreign body of unsp eyeball, init
+S05.50XD@Penetrating wound w foreign body of unsp eyeball, subs
+S05.50XS@Penetrating wound with foreign body of unsp eyeball, sequela
+S05.51XA@Penetrating wound w foreign body of right eyeball, init
+S05.51XD@Penetrating wound w foreign body of right eyeball, subs
+S05.51XS@Penetrating wound w foreign body of right eyeball, sequela
+S05.52XA@Penetrating wound w foreign body of left eyeball, init
+S05.52XD@Penetrating wound w foreign body of left eyeball, subs
+S05.52XS@Penetrating wound with foreign body of left eyeball, sequela
+S05.60XA@Penetrating wound w/o foreign body of unsp eyeball, init
+S05.60XD@Penetrating wound w/o foreign body of unsp eyeball, subs
+S05.60XS@Penetrating wound w/o foreign body of unsp eyeball, sequela
+S05.61XA@Penetrating wound w/o foreign body of right eyeball, init
+S05.61XD@Penetrating wound w/o foreign body of right eyeball, subs
+S05.61XS@Penetrating wound w/o foreign body of right eyeball, sequela
+S05.62XA@Penetrating wound w/o foreign body of left eyeball, init
+S05.62XD@Penetrating wound w/o foreign body of left eyeball, subs
+S05.62XS@Penetrating wound w/o foreign body of left eyeball, sequela
+S05.70XA@Avulsion of unspecified eye, initial encounter
+S05.70XD@Avulsion of unspecified eye, subsequent encounter
+S05.70XS@Avulsion of unspecified eye, sequela
+S05.71XA@Avulsion of right eye, initial encounter
+S05.71XD@Avulsion of right eye, subsequent encounter
+S05.71XS@Avulsion of right eye, sequela
+S05.72XA@Avulsion of left eye, initial encounter
+S05.72XD@Avulsion of left eye, subsequent encounter
+S05.72XS@Avulsion of left eye, sequela
+S05.8X1A@Other injuries of right eye and orbit, initial encounter
+S05.8X1D@Other injuries of right eye and orbit, subsequent encounter
+S05.8X1S@Other injuries of right eye and orbit, sequela
+S05.8X2A@Other injuries of left eye and orbit, initial encounter
+S05.8X2D@Other injuries of left eye and orbit, subsequent encounter
+S05.8X2S@Other injuries of left eye and orbit, sequela
+S05.8X9A@Other injuries of unspecified eye and orbit, init encntr
+S05.8X9D@Other injuries of unspecified eye and orbit, subs encntr
+S05.8X9S@Other injuries of unspecified eye and orbit, sequela
+S05.90XA@Unspecified injury of unspecified eye and orbit, init encntr
+S05.90XD@Unspecified injury of unspecified eye and orbit, subs encntr
+S05.90XS@Unspecified injury of unspecified eye and orbit, sequela
+S05.91XA@Unspecified injury of right eye and orbit, initial encounter
+S05.91XD@Unspecified injury of right eye and orbit, subs encntr
+S05.91XS@Unspecified injury of right eye and orbit, sequela
+S05.92XA@Unspecified injury of left eye and orbit, initial encounter
+S05.92XD@Unspecified injury of left eye and orbit, subs encntr
+S05.92XS@Unspecified injury of left eye and orbit, sequela
+S06.0X0A@Concussion without loss of consciousness, initial encounter
+S06.0X0D@Concussion without loss of consciousness, subs encntr
+S06.0X0S@Concussion without loss of consciousness, sequela
+S06.0X1A@Concussion w LOC of 30 minutes or less, init
+S06.0X1D@Concussion w LOC of 30 minutes or less, subs
+S06.0X1S@Concussion w LOC of 30 minutes or less, sequela
+S06.0X2A@Concussion w loss of consciousness of 31-59 min, init
+S06.0X2D@Concussion w loss of consciousness of 31-59 min, subs
+S06.0X2S@Concussion w loss of consciousness of 31-59 min, sequela
+S06.0X3A@Concussion w loss of consciousness of 1-5 hrs 59 min, init
+S06.0X3D@Concussion w loss of consciousness of 1-5 hrs 59 min, subs
+S06.0X3S@Concussion w LOC of 1-5 hrs 59 min, sequela
+S06.0X4A@Concussion w LOC of 6 hours to 24 hours, init
+S06.0X4D@Concussion w LOC of 6 hours to 24 hours, subs
+S06.0X4S@Concussion w LOC of 6 hours to 24 hours, sequela
+S06.0X5A@Concussion w LOC >24 hr w ret consc lev, init
+S06.0X5D@Concussion w LOC >24 hr w ret consc lev, subs
+S06.0X5S@Concussion w LOC >24 hr w ret consc lev, sequela
+S06.0X6A@Concussion w LOC >24 hr w/o ret consc w surv, init
+S06.0X6D@Concussion w LOC >24 hr w/o ret consc w surv, subs
+S06.0X6S@Concussion w LOC >24 hr w/o ret consc w surv, sequela
+S06.0X7A@Concussion w LOC w death due to brain injury bf consc, init
+S06.0X7D@Concussion w LOC w death due to brain injury bf consc, subs
+S06.0X7S@Concuss w LOC w death due to brain injury bf consc, sequela
+S06.0X8A@Concussion w LOC w death due to oth cause bf consc, init
+S06.0X8D@Concussion w LOC w death due to oth cause bf consc, subs
+S06.0X8S@Concussion w LOC w death due to oth cause bf consc, sequela
+S06.0X9A@Concussion w loss of consciousness of unsp duration, init
+S06.0X9D@Concussion w loss of consciousness of unsp duration, subs
+S06.0X9S@Concussion w loss of consciousness of unsp duration, sequela
+S06.1X0A@Traumatic cerebral edema w/o loss of consciousness, init
+S06.1X0D@Traumatic cerebral edema w/o loss of consciousness, subs
+S06.1X0S@Traumatic cerebral edema w/o loss of consciousness, sequela
+S06.1X1A@Traumatic cerebral edema w LOC of 30 minutes or less, init
+S06.1X1D@Traumatic cerebral edema w LOC of 30 minutes or less, subs
+S06.1X1S@Traum cerebral edema w LOC of 30 minutes or less, sequela
+S06.1X2A@Traumatic cerebral edema w LOC of 31-59 min, init
+S06.1X2D@Traumatic cerebral edema w LOC of 31-59 min, subs
+S06.1X2S@Traumatic cerebral edema w LOC of 31-59 min, sequela
+S06.1X3A@Traumatic cerebral edema w LOC of 1-5 hrs 59 min, init
+S06.1X3D@Traumatic cerebral edema w LOC of 1-5 hrs 59 min, subs
+S06.1X3S@Traumatic cerebral edema w LOC of 1-5 hrs 59 min, sequela
+S06.1X4A@Traumatic cerebral edema w LOC of 6 hours to 24 hours, init
+S06.1X4D@Traumatic cerebral edema w LOC of 6 hours to 24 hours, subs
+S06.1X4S@Traumatic cerebral edema w LOC of 6-24 hrs, sequela
+S06.1X5A@Traumatic cerebral edema w LOC >24 hr w ret consc lev, init
+S06.1X5D@Traumatic cerebral edema w LOC >24 hr w ret consc lev, subs
+S06.1X5S@Traum cerebral edema w LOC >24 hr w ret consc lev, sequela
+S06.1X6A@Traum cerebral edema w LOC >24 hr w/o ret consc w surv, init
+S06.1X6D@Traum cerebral edema w LOC >24 hr w/o ret consc w surv, subs
+S06.1X6S@Traum cereb edema w LOC >24 hr w/o ret consc w surv, sequela
+S06.1X7A@Traum cereb edema w LOC w death d/t brain inj bf consc, init
+S06.1X7D@Traum cereb edema w LOC w death d/t brain inj bf consc, subs
+S06.1X7S@Traum cereb edema w LOC w death d/t brain inj bf consc, sqla
+S06.1X8A@Traum cereb edema w LOC w death d/t oth cause bf consc, init
+S06.1X8D@Traum cereb edema w LOC w death d/t oth cause bf consc, subs
+S06.1X8S@Traum cereb edema w LOC w death d/t oth cause bf consc, sqla
+S06.1X9A@Traumatic cerebral edema w LOC of unsp duration, init
+S06.1X9D@Traumatic cerebral edema w LOC of unsp duration, subs
+S06.1X9S@Traumatic cerebral edema w LOC of unsp duration, sequela
+S06.2X0A@Diffuse TBI w/o loss of consciousness, init
+S06.2X0D@Diffuse TBI w/o loss of consciousness, subs
+S06.2X0S@Diffuse TBI w/o loss of consciousness, sequela
+S06.2X1A@Diffuse TBI w LOC of 30 minutes or less, init
+S06.2X1D@Diffuse TBI w LOC of 30 minutes or less, subs
+S06.2X1S@Diffuse TBI w LOC of 30 minutes or less, sequela
+S06.2X2A@Diffuse TBI w loss of consciousness of 31-59 min, init
+S06.2X2D@Diffuse TBI w loss of consciousness of 31-59 min, subs
+S06.2X2S@Diffuse TBI w loss of consciousness of 31-59 min, sequela
+S06.2X3A@Diffuse TBI w loss of consciousness of 1-5 hrs 59 min, init
+S06.2X3D@Diffuse TBI w loss of consciousness of 1-5 hrs 59 min, subs
+S06.2X3S@Diffuse TBI w LOC of 1-5 hrs 59 min, sequela
+S06.2X4A@Diffuse TBI w LOC of 6 hours to 24 hours, init
+S06.2X4D@Diffuse TBI w LOC of 6 hours to 24 hours, subs
+S06.2X4S@Diffuse TBI w LOC of 6 hours to 24 hours, sequela
+S06.2X5A@Diffuse TBI w LOC >24 hr w return to conscious levels, init
+S06.2X5D@Diffuse TBI w LOC >24 hr w return to conscious levels, subs
+S06.2X5S@Diffuse TBI w LOC >24 hr w return to consc levels, sequela
+S06.2X6A@Diffuse TBI w LOC >24 hr w/o ret consc w surv, init
+S06.2X6D@Diffuse TBI w LOC >24 hr w/o ret consc w surv, subs
+S06.2X6S@Diffuse TBI w LOC >24 hr w/o ret consc w surv, sequela
+S06.2X7A@Diffuse TBI w LOC w death due to brain injury bf consc, init
+S06.2X7D@Diffuse TBI w LOC w death due to brain injury bf consc, subs
+S06.2X7S@Diffus TBI w LOC w death due to brain injury bf consc, sqla
+S06.2X8A@Diffuse TBI w LOC w death due to oth cause bf consc, init
+S06.2X8D@Diffuse TBI w LOC w death due to oth cause bf consc, subs
+S06.2X8S@Diffuse TBI w LOC w death due to oth cause bf consc, sequela
+S06.2X9A@Diffuse TBI w loss of consciousness of unsp duration, init
+S06.2X9D@Diffuse TBI w loss of consciousness of unsp duration, subs
+S06.2X9S@Diffuse TBI w LOC of unsp duration, sequela
+S06.300A@Unsp focal TBI w/o loss of consciousness, init
+S06.300D@Unsp focal TBI w/o loss of consciousness, subs
+S06.300S@Unsp focal TBI w/o loss of consciousness, sequela
+S06.301A@Unsp focal TBI w LOC of 30 minutes or less, init
+S06.301D@Unsp focal TBI w LOC of 30 minutes or less, subs
+S06.301S@Unsp focal TBI w LOC of 30 minutes or less, sequela
+S06.302A@Unsp focal TBI w loss of consciousness of 31-59 min, init
+S06.302D@Unsp focal TBI w loss of consciousness of 31-59 min, subs
+S06.302S@Unsp focal TBI w loss of consciousness of 31-59 min, sequela
+S06.303A@Unsp focal TBI w LOC of 1-5 hrs 59 min, init
+S06.303D@Unsp focal TBI w LOC of 1-5 hrs 59 min, subs
+S06.303S@Unsp focal TBI w LOC of 1-5 hrs 59 min, sequela
+S06.304A@Unsp focal TBI w LOC of 6 hours to 24 hours, init
+S06.304D@Unsp focal TBI w LOC of 6 hours to 24 hours, subs
+S06.304S@Unsp focal TBI w LOC of 6 hours to 24 hours, sequela
+S06.305A@Unsp focal TBI w LOC >24 hr w ret consc lev, init
+S06.305D@Unsp focal TBI w LOC >24 hr w ret consc lev, subs
+S06.305S@Unsp focal TBI w LOC >24 hr w ret consc lev, sequela
+S06.306A@Unsp focal TBI w LOC >24 hr w/o ret consc w surv, init
+S06.306D@Unsp focal TBI w LOC >24 hr w/o ret consc w surv, subs
+S06.306S@Unsp focal TBI w LOC >24 hr w/o ret consc w surv, sequela
+S06.307A@Unsp focal TBI w LOC w death d/t brain injury bf consc, init
+S06.307D@Unsp focal TBI w LOC w death d/t brain injury bf consc, subs
+S06.307S@Unsp focal TBI w LOC w death d/t brain injury bf consc, sqla
+S06.308A@Unsp focal TBI w LOC w death due to oth cause bf consc, init
+S06.308D@Unsp focal TBI w LOC w death due to oth cause bf consc, subs
+S06.308S@Unsp focal TBI w LOC w death due to oth cause bf consc, sqla
+S06.309A@Unsp focal TBI w LOC of unsp duration, init
+S06.309D@Unsp focal TBI w LOC of unsp duration, subs
+S06.309S@Unsp focal TBI w LOC of unsp duration, sequela
+S06.310A@Contus/lac right cerebrum w/o loss of consciousness, init
+S06.310D@Contus/lac right cerebrum w/o loss of consciousness, subs
+S06.310S@Contus/lac right cerebrum w/o loss of consciousness, sequela
+S06.311A@Contus/lac right cerebrum w LOC of 30 minutes or less, init
+S06.311D@Contus/lac right cerebrum w LOC of 30 minutes or less, subs
+S06.311S@Contus/lac r cereb w LOC of 30 minutes or less, sequela
+S06.312A@Contus/lac right cerebrum w LOC of 31-59 min, init
+S06.312D@Contus/lac right cerebrum w LOC of 31-59 min, subs
+S06.312S@Contus/lac right cerebrum w LOC of 31-59 min, sequela
+S06.313A@Contus/lac right cerebrum w LOC of 1-5 hrs 59 min, init
+S06.313D@Contus/lac right cerebrum w LOC of 1-5 hrs 59 min, subs
+S06.313S@Contus/lac right cerebrum w LOC of 1-5 hrs 59 min, sequela
+S06.314A@Contus/lac right cerebrum w LOC of 6 hours to 24 hours, init
+S06.314D@Contus/lac right cerebrum w LOC of 6 hours to 24 hours, subs
+S06.314S@Contus/lac right cerebrum w LOC of 6-24 hrs, sequela
+S06.315A@Contus/lac right cerebrum w LOC >24 hr w ret consc lev, init
+S06.315D@Contus/lac right cerebrum w LOC >24 hr w ret consc lev, subs
+S06.315S@Contus/lac r cereb w LOC >24 hr w ret consc lev, sequela
+S06.316A@Contus/lac r cereb w LOC >24 hr w/o ret consc w surv, init
+S06.316D@Contus/lac r cereb w LOC >24 hr w/o ret consc w surv, subs
+S06.316S@Contus/lac r cereb w LOC >24 hr w/o ret consc w surv, sqla
+S06.317A@Contus/lac r cereb w LOC w dth d/t brain inj bf consc, init
+S06.317D@Contus/lac r cereb w LOC w dth d/t brain inj bf consc, subs
+S06.317S@Contus/lac r cereb w LOC w dth d/t brain inj bf consc, sqla
+S06.318A@Contus/lac r cereb w LOC w dth d/t oth cause bf consc, init
+S06.318D@Contus/lac r cereb w LOC w dth d/t oth cause bf consc, subs
+S06.318S@Contus/lac r cereb w LOC w dth d/t oth cause bf consc, sqla
+S06.319A@Contus/lac right cerebrum w LOC of unsp duration, init
+S06.319D@Contus/lac right cerebrum w LOC of unsp duration, subs
+S06.319S@Contus/lac right cerebrum w LOC of unsp duration, sequela
+S06.320A@Contus/lac left cerebrum w/o loss of consciousness, init
+S06.320D@Contus/lac left cerebrum w/o loss of consciousness, subs
+S06.320S@Contus/lac left cerebrum w/o loss of consciousness, sequela
+S06.321A@Contus/lac left cerebrum w LOC of 30 minutes or less, init
+S06.321D@Contus/lac left cerebrum w LOC of 30 minutes or less, subs
+S06.321S@Contus/lac l cereb w LOC of 30 minutes or less, sequela
+S06.322A@Contus/lac left cerebrum w LOC of 31-59 min, init
+S06.322D@Contus/lac left cerebrum w LOC of 31-59 min, subs
+S06.322S@Contus/lac left cerebrum w LOC of 31-59 min, sequela
+S06.323A@Contus/lac left cerebrum w LOC of 1-5 hrs 59 min, init
+S06.323D@Contus/lac left cerebrum w LOC of 1-5 hrs 59 min, subs
+S06.323S@Contus/lac left cerebrum w LOC of 1-5 hrs 59 min, sequela
+S06.324A@Contus/lac left cerebrum w LOC of 6 hours to 24 hours, init
+S06.324D@Contus/lac left cerebrum w LOC of 6 hours to 24 hours, subs
+S06.324S@Contus/lac left cerebrum w LOC of 6-24 hrs, sequela
+S06.325A@Contus/lac left cerebrum w LOC >24 hr w ret consc lev, init
+S06.325D@Contus/lac left cerebrum w LOC >24 hr w ret consc lev, subs
+S06.325S@Contus/lac l cereb w LOC >24 hr w ret consc lev, sequela
+S06.326A@Contus/lac l cereb w LOC >24 hr w/o ret consc w surv, init
+S06.326D@Contus/lac l cereb w LOC >24 hr w/o ret consc w surv, subs
+S06.326S@Contus/lac l cereb w LOC >24 hr w/o ret consc w surv, sqla
+S06.327A@Contus/lac l cereb w LOC w dth d/t brain inj bf consc, init
+S06.327D@Contus/lac l cereb w LOC w dth d/t brain inj bf consc, subs
+S06.327S@Contus/lac l cereb w LOC w dth d/t brain inj bf consc, sqla
+S06.328A@Contus/lac l cereb w LOC w dth d/t oth cause bf consc, init
+S06.328D@Contus/lac l cereb w LOC w dth d/t oth cause bf consc, subs
+S06.328S@Contus/lac l cereb w LOC w dth d/t oth cause bf consc, sqla
+S06.329A@Contus/lac left cerebrum w LOC of unsp duration, init
+S06.329D@Contus/lac left cerebrum w LOC of unsp duration, subs
+S06.329S@Contus/lac left cerebrum w LOC of unsp duration, sequela
+S06.330A@Contus/lac cereb, w/o loss of consciousness, init
+S06.330D@Contus/lac cereb, w/o loss of consciousness, subs
+S06.330S@Contus/lac cereb, w/o loss of consciousness, sequela
+S06.331A@Contus/lac cereb, w LOC of 30 minutes or less, init
+S06.331D@Contus/lac cereb, w LOC of 30 minutes or less, subs
+S06.331S@Contus/lac cereb, w LOC of 30 minutes or less, sequela
+S06.332A@Contus/lac cereb, w loss of consciousness of 31-59 min, init
+S06.332D@Contus/lac cereb, w loss of consciousness of 31-59 min, subs
+S06.332S@Contus/lac cereb, w LOC of 31-59 min, sequela
+S06.333A@Contus/lac cereb, w LOC of 1-5 hrs 59 min, init
+S06.333D@Contus/lac cereb, w LOC of 1-5 hrs 59 min, subs
+S06.333S@Contus/lac cereb, w LOC of 1-5 hrs 59 min, sequela
+S06.334A@Contus/lac cereb, w LOC of 6 hours to 24 hours, init
+S06.334D@Contus/lac cereb, w LOC of 6 hours to 24 hours, subs
+S06.334S@Contus/lac cereb, w LOC of 6 hours to 24 hours, sequela
+S06.335A@Contus/lac cereb, w LOC >24 hr w ret consc lev, init
+S06.335D@Contus/lac cereb, w LOC >24 hr w ret consc lev, subs
+S06.335S@Contus/lac cereb, w LOC >24 hr w ret consc lev, sequela
+S06.336A@Contus/lac cereb, w LOC >24 hr w/o ret consc w surv, init
+S06.336D@Contus/lac cereb, w LOC >24 hr w/o ret consc w surv, subs
+S06.336S@Contus/lac cereb, w LOC >24 hr w/o ret consc w surv, sequela
+S06.337A@Contus/lac cereb, w LOC w death d/t brain inj bf consc, init
+S06.337D@Contus/lac cereb, w LOC w death d/t brain inj bf consc, subs
+S06.337S@Contus/lac cereb, w LOC w death d/t brain inj bf consc, sqla
+S06.338A@Contus/lac cereb, w LOC w death d/t oth cause bf consc, init
+S06.338D@Contus/lac cereb, w LOC w death d/t oth cause bf consc, subs
+S06.338S@Contus/lac cereb, w LOC w death d/t oth cause bf consc, sqla
+S06.339A@Contus/lac cereb, w LOC of unsp duration, init
+S06.339D@Contus/lac cereb, w LOC of unsp duration, subs
+S06.339S@Contus/lac cereb, w LOC of unsp duration, sequela
+S06.340A@Traum hemor right cerebrum w/o loss of consciousness, init
+S06.340D@Traum hemor right cerebrum w/o loss of consciousness, subs
+S06.340S@Traum hemor right cerebrum w/o LOC, sequela
+S06.341A@Traum hemor right cerebrum w LOC of 30 minutes or less, init
+S06.341D@Traum hemor right cerebrum w LOC of 30 minutes or less, subs
+S06.341S@Traum hemor r cereb w LOC of 30 minutes or less, sequela
+S06.342A@Traum hemor right cerebrum w LOC of 31-59 min, init
+S06.342D@Traum hemor right cerebrum w LOC of 31-59 min, subs
+S06.342S@Traum hemor right cerebrum w LOC of 31-59 min, sequela
+S06.343A@Traum hemor right cerebrum w LOC of 1-5 hrs 59 minutes, init
+S06.343D@Traum hemor right cerebrum w LOC of 1-5 hrs 59 minutes, subs
+S06.343S@Traum hemor r cereb w LOC of 1-5 hrs 59 minutes, sequela
+S06.344A@Traum hemor right cerebrum w LOC of 6-24 hrs, init
+S06.344D@Traum hemor right cerebrum w LOC of 6-24 hrs, subs
+S06.344S@Traum hemor right cerebrum w LOC of 6-24 hrs, sequela
+S06.345A@Traum hemor r cereb w LOC >24 hr w ret consc lev, init
+S06.345D@Traum hemor r cereb w LOC >24 hr w ret consc lev, subs
+S06.345S@Traum hemor r cereb w LOC >24 hr w ret consc lev, sequela
+S06.346A@Traum hemor r cereb w LOC >24 hr w/o ret consc w surv, init
+S06.346D@Traum hemor r cereb w LOC >24 hr w/o ret consc w surv, subs
+S06.346S@Traum hemor r cereb w LOC >24 hr w/o ret consc w surv, sqla
+S06.347A@Traum hemor r cereb w LOC w dth d/t brain inj bf consc, init
+S06.347D@Traum hemor r cereb w LOC w dth d/t brain inj bf consc, subs
+S06.347S@Traum hemor r cereb w LOC w dth d/t brain inj bf consc, sqla
+S06.348A@Traum hemor r cereb w LOC w dth d/t oth cause bf consc, init
+S06.348D@Traum hemor r cereb w LOC w dth d/t oth cause bf consc, subs
+S06.348S@Traum hemor r cereb w LOC w dth d/t oth cause bf consc, sqla
+S06.349A@Traum hemor right cerebrum w LOC of unsp duration, init
+S06.349D@Traum hemor right cerebrum w LOC of unsp duration, subs
+S06.349S@Traum hemor right cerebrum w LOC of unsp duration, sequela
+S06.350A@Traum hemor left cerebrum w/o loss of consciousness, init
+S06.350D@Traum hemor left cerebrum w/o loss of consciousness, subs
+S06.350S@Traum hemor left cerebrum w/o loss of consciousness, sequela
+S06.351A@Traum hemor left cerebrum w LOC of 30 minutes or less, init
+S06.351D@Traum hemor left cerebrum w LOC of 30 minutes or less, subs
+S06.351S@Traum hemor l cereb w LOC of 30 minutes or less, sequela
+S06.352A@Traum hemor left cerebrum w LOC of 31-59 min, init
+S06.352D@Traum hemor left cerebrum w LOC of 31-59 min, subs
+S06.352S@Traum hemor left cerebrum w LOC of 31-59 min, sequela
+S06.353A@Traum hemor left cerebrum w LOC of 1-5 hrs 59 minutes, init
+S06.353D@Traum hemor left cerebrum w LOC of 1-5 hrs 59 minutes, subs
+S06.353S@Traum hemor l cereb w LOC of 1-5 hrs 59 minutes, sequela
+S06.354A@Traum hemor left cerebrum w LOC of 6 hours to 24 hours, init
+S06.354D@Traum hemor left cerebrum w LOC of 6 hours to 24 hours, subs
+S06.354S@Traum hemor left cerebrum w LOC of 6-24 hrs, sequela
+S06.355A@Traum hemor left cerebrum w LOC >24 hr w ret consc lev, init
+S06.355D@Traum hemor left cerebrum w LOC >24 hr w ret consc lev, subs
+S06.355S@Traum hemor l cereb w LOC >24 hr w ret consc lev, sequela
+S06.356A@Traum hemor l cereb w LOC >24 hr w/o ret consc w surv, init
+S06.356D@Traum hemor l cereb w LOC >24 hr w/o ret consc w surv, subs
+S06.356S@Traum hemor l cereb w LOC >24 hr w/o ret consc w surv, sqla
+S06.357A@Traum hemor l cereb w LOC w dth d/t brain inj bf consc, init
+S06.357D@Traum hemor l cereb w LOC w dth d/t brain inj bf consc, subs
+S06.357S@Traum hemor l cereb w LOC w dth d/t brain inj bf consc, sqla
+S06.358A@Traum hemor l cereb w LOC w dth d/t oth cause bf consc, init
+S06.358D@Traum hemor l cereb w LOC w dth d/t oth cause bf consc, subs
+S06.358S@Traum hemor l cereb w LOC w dth d/t oth cause bf consc, sqla
+S06.359A@Traum hemor left cerebrum w LOC of unsp duration, init
+S06.359D@Traum hemor left cerebrum w LOC of unsp duration, subs
+S06.359S@Traum hemor left cerebrum w LOC of unsp duration, sequela
+S06.360A@Traum hemor cereb, w/o loss of consciousness, init
+S06.360D@Traum hemor cereb, w/o loss of consciousness, subs
+S06.360S@Traum hemor cereb, w/o loss of consciousness, sequela
+S06.361A@Traum hemor cereb, w LOC of 30 minutes or less, init
+S06.361D@Traum hemor cereb, w LOC of 30 minutes or less, subs
+S06.361S@Traum hemor cereb, w LOC of 30 minutes or less, sequela
+S06.362A@Traum hemor cereb, w LOC of 31-59 min, init
+S06.362D@Traum hemor cereb, w LOC of 31-59 min, subs
+S06.362S@Traum hemor cereb, w LOC of 31-59 min, sequela
+S06.363A@Traum hemor cereb, w LOC of 1-5 hrs 59 minutes, init
+S06.363D@Traum hemor cereb, w LOC of 1-5 hrs 59 minutes, subs
+S06.363S@Traum hemor cereb, w LOC of 1-5 hrs 59 minutes, sequela
+S06.364A@Traum hemor cereb, w LOC of 6 hours to 24 hours, init
+S06.364D@Traum hemor cereb, w LOC of 6 hours to 24 hours, subs
+S06.364S@Traum hemor cereb, w LOC of 6 hours to 24 hours, sequela
+S06.365A@Traum hemor cereb, w LOC >24 hr w ret consc lev, init
+S06.365D@Traum hemor cereb, w LOC >24 hr w ret consc lev, subs
+S06.365S@Traum hemor cereb, w LOC >24 hr w ret consc lev, sequela
+S06.366A@Traum hemor cereb, w LOC >24 hr w/o ret consc w surv, init
+S06.366D@Traum hemor cereb, w LOC >24 hr w/o ret consc w surv, subs
+S06.366S@Traum hemor cereb, w LOC >24 hr w/o ret consc w surv, sqla
+S06.367A@Traum hemor cereb, w LOC w dth d/t brain inj bf consc, init
+S06.367D@Traum hemor cereb, w LOC w dth d/t brain inj bf consc, subs
+S06.367S@Traum hemor cereb, w LOC w dth d/t brain inj bf consc, sqla
+S06.368A@Traum hemor cereb, w LOC w dth d/t oth cause bf consc, init
+S06.368D@Traum hemor cereb, w LOC w dth d/t oth cause bf consc, subs
+S06.368S@Traum hemor cereb, w LOC w dth d/t oth cause bf consc, sqla
+S06.369A@Traum hemor cereb, w LOC of unsp duration, init
+S06.369D@Traum hemor cereb, w LOC of unsp duration, subs
+S06.369S@Traum hemor cereb, w LOC of unsp duration, sequela
+S06.370A@Contus/lac/hem crblm w/o loss of consciousness, init
+S06.370D@Contus/lac/hem crblm w/o loss of consciousness, subs
+S06.370S@Contus/lac/hem crblm w/o loss of consciousness, sequela
+S06.371A@Contus/lac/hem crblm w LOC of 30 minutes or less, init
+S06.371D@Contus/lac/hem crblm w LOC of 30 minutes or less, subs
+S06.371S@Contus/lac/hem crblm w LOC of 30 minutes or less, sequela
+S06.372A@Contus/lac/hem crblm w LOC of 31-59 min, init
+S06.372D@Contus/lac/hem crblm w LOC of 31-59 min, subs
+S06.372S@Contus/lac/hem crblm w LOC of 31-59 min, sequela
+S06.373A@Contus/lac/hem crblm w LOC of 1-5 hrs 59 min, init
+S06.373D@Contus/lac/hem crblm w LOC of 1-5 hrs 59 min, subs
+S06.373S@Contus/lac/hem crblm w LOC of 1-5 hrs 59 min, sequela
+S06.374A@Contus/lac/hem crblm w LOC of 6 hours to 24 hours, init
+S06.374D@Contus/lac/hem crblm w LOC of 6 hours to 24 hours, subs
+S06.374S@Contus/lac/hem crblm w LOC of 6 hours to 24 hours, sequela
+S06.375A@Contus/lac/hem crblm w LOC >24 hr w ret consc lev, init
+S06.375D@Contus/lac/hem crblm w LOC >24 hr w ret consc lev, subs
+S06.375S@Contus/lac/hem crblm w LOC >24 hr w ret consc lev, sequela
+S06.376A@Contus/lac/hem crblm w LOC >24 hr w/o ret consc w surv, init
+S06.376D@Contus/lac/hem crblm w LOC >24 hr w/o ret consc w surv, subs
+S06.376S@Contus/lac/hem crblm w LOC >24 hr w/o ret consc w surv, sqla
+S06.377A@Contus/lac/hem crblm w LOC w dth d/t brain inj bf consc,init
+S06.377D@Contus/lac/hem crblm w LOC w dth d/t brain inj bf consc,subs
+S06.377S@Contus/lac/hem crblm w LOC w dth d/t brain inj bf consc,sqla
+S06.378A@Contus/lac/hem crblm w LOC w dth d/t oth cause bf consc,init
+S06.378D@Contus/lac/hem crblm w LOC w dth d/t oth cause bf consc,subs
+S06.378S@Contus/lac/hem crblm w LOC w dth d/t oth cause bf consc,sqla
+S06.379A@Contus/lac/hem crblm w LOC of unsp duration, init
+S06.379D@Contus/lac/hem crblm w LOC of unsp duration, subs
+S06.379S@Contus/lac/hem crblm w LOC of unsp duration, sequela
+S06.380A@Contus/lac/hem brainstem w/o loss of consciousness, init
+S06.380D@Contus/lac/hem brainstem w/o loss of consciousness, subs
+S06.380S@Contus/lac/hem brainstem w/o loss of consciousness, sequela
+S06.381A@Contus/lac/hem brainstem w LOC of 30 minutes or less, init
+S06.381D@Contus/lac/hem brainstem w LOC of 30 minutes or less, subs
+S06.381S@Contus/lac/hem brnst w LOC of 30 minutes or less, sequela
+S06.382A@Contus/lac/hem brainstem w LOC of 31-59 min, init
+S06.382D@Contus/lac/hem brainstem w LOC of 31-59 min, subs
+S06.382S@Contus/lac/hem brainstem w LOC of 31-59 min, sequela
+S06.383A@Contus/lac/hem brainstem w LOC of 1-5 hrs 59 min, init
+S06.383D@Contus/lac/hem brainstem w LOC of 1-5 hrs 59 min, subs
+S06.383S@Contus/lac/hem brainstem w LOC of 1-5 hrs 59 min, sequela
+S06.384A@Contus/lac/hem brainstem w LOC of 6 hours to 24 hours, init
+S06.384D@Contus/lac/hem brainstem w LOC of 6 hours to 24 hours, subs
+S06.384S@Contus/lac/hem brainstem w LOC of 6-24 hrs, sequela
+S06.385A@Contus/lac/hem brainstem w LOC >24 hr w ret consc lev, init
+S06.385D@Contus/lac/hem brainstem w LOC >24 hr w ret consc lev, subs
+S06.385S@Contus/lac/hem brnst w LOC >24 hr w ret consc lev, sequela
+S06.386A@Contus/lac/hem brnst w LOC >24 hr w/o ret consc w surv, init
+S06.386D@Contus/lac/hem brnst w LOC >24 hr w/o ret consc w surv, subs
+S06.386S@Contus/lac/hem brnst w LOC >24 hr w/o ret consc w surv, sqla
+S06.387A@Contus/lac/hem brnst w LOC w dth d/t brain inj bf consc,init
+S06.387D@Contus/lac/hem brnst w LOC w dth d/t brain inj bf consc,subs
+S06.387S@Contus/lac/hem brnst w LOC w dth d/t brain inj bf consc,sqla
+S06.388A@Contus/lac/hem brnst w LOC w dth d/t oth cause bf consc,init
+S06.388D@Contus/lac/hem brnst w LOC w dth d/t oth cause bf consc,subs
+S06.388S@Contus/lac/hem brnst w LOC w dth d/t oth cause bf consc,sqla
+S06.389A@Contus/lac/hem brainstem w LOC of unsp duration, init
+S06.389D@Contus/lac/hem brainstem w LOC of unsp duration, subs
+S06.389S@Contus/lac/hem brainstem w LOC of unsp duration, sequela
+S06.4X0A@Epidural hemorrhage w/o loss of consciousness, init encntr
+S06.4X0D@Epidural hemorrhage w/o loss of consciousness, subs encntr
+S06.4X0S@Epidural hemorrhage without loss of consciousness, sequela
+S06.4X1A@Epidural hemorrhage w LOC of 30 minutes or less, init
+S06.4X1D@Epidural hemorrhage w LOC of 30 minutes or less, subs
+S06.4X1S@Epidural hemorrhage w LOC of 30 minutes or less, sequela
+S06.4X2A@Epidural hemorrhage w LOC of 31-59 min, init
+S06.4X2D@Epidural hemorrhage w LOC of 31-59 min, subs
+S06.4X2S@Epidural hemorrhage w LOC of 31-59 min, sequela
+S06.4X3A@Epidural hemorrhage w LOC of 1-5 hrs 59 min, init
+S06.4X3D@Epidural hemorrhage w LOC of 1-5 hrs 59 min, subs
+S06.4X3S@Epidural hemorrhage w LOC of 1-5 hrs 59 min, sequela
+S06.4X4A@Epidural hemorrhage w LOC of 6 hours to 24 hours, init
+S06.4X4D@Epidural hemorrhage w LOC of 6 hours to 24 hours, subs
+S06.4X4S@Epidural hemorrhage w LOC of 6 hours to 24 hours, sequela
+S06.4X5A@Epidural hemorrhage w LOC >24 hr w ret consc lev, init
+S06.4X5D@Epidural hemorrhage w LOC >24 hr w ret consc lev, subs
+S06.4X5S@Epidural hemorrhage w LOC >24 hr w ret consc lev, sequela
+S06.4X6A@Epidural hemorrhage w LOC >24 hr w/o ret consc w surv, init
+S06.4X6D@Epidural hemorrhage w LOC >24 hr w/o ret consc w surv, subs
+S06.4X6S@Epidural hemor w LOC >24 hr w/o ret consc w surv, sequela
+S06.4X7A@Epidur hemor w LOC w death d/t brain injury bf consc, init
+S06.4X7D@Epidur hemor w LOC w death d/t brain injury bf consc, subs
+S06.4X7S@Epidur hemor w LOC w death d/t brain injury bf consc, sqla
+S06.4X8A@Epidur hemor w LOC w death due to oth causes bf consc, init
+S06.4X8D@Epidur hemor w LOC w death due to oth causes bf consc, subs
+S06.4X8S@Epidur hemor w LOC w death due to oth causes bf consc, sqla
+S06.4X9A@Epidural hemorrhage w LOC of unsp duration, init
+S06.4X9D@Epidural hemorrhage w LOC of unsp duration, subs
+S06.4X9S@Epidural hemorrhage w LOC of unsp duration, sequela
+S06.5X0A@Traum subdr hem w/o loss of consciousness, init
+S06.5X0D@Traum subdr hem w/o loss of consciousness, subs
+S06.5X0S@Traum subdr hem w/o loss of consciousness, sequela
+S06.5X1A@Traum subdr hem w LOC of 30 minutes or less, init
+S06.5X1D@Traum subdr hem w LOC of 30 minutes or less, subs
+S06.5X1S@Traum subdr hem w LOC of 30 minutes or less, sequela
+S06.5X2A@Traum subdr hem w loss of consciousness of 31-59 min, init
+S06.5X2D@Traum subdr hem w loss of consciousness of 31-59 min, subs
+S06.5X2S@Traum subdr hem w LOC of 31-59 min, sequela
+S06.5X3A@Traum subdr hem w LOC of 1-5 hrs 59 min, init
+S06.5X3D@Traum subdr hem w LOC of 1-5 hrs 59 min, subs
+S06.5X3S@Traum subdr hem w LOC of 1-5 hrs 59 min, sequela
+S06.5X4A@Traum subdr hem w LOC of 6 hours to 24 hours, init
+S06.5X4D@Traum subdr hem w LOC of 6 hours to 24 hours, subs
+S06.5X4S@Traum subdr hem w LOC of 6 hours to 24 hours, sequela
+S06.5X5A@Traum subdr hem w LOC >24 hr w ret consc lev, init
+S06.5X5D@Traum subdr hem w LOC >24 hr w ret consc lev, subs
+S06.5X5S@Traum subdr hem w LOC >24 hr w ret consc lev, sequela
+S06.5X6A@Traum subdr hem w LOC >24 hr w/o ret consc w surv, init
+S06.5X6D@Traum subdr hem w LOC >24 hr w/o ret consc w surv, subs
+S06.5X6S@Traum subdr hem w LOC >24 hr w/o ret consc w surv, sequela
+S06.5X7A@Traum subdr hem w LOC w dth d/t brain inj bef reg consc,init
+S06.5X7D@Traum subdr hem w LOC w dth d/t brain inj bef reg consc,subs
+S06.5X7S@Traum subdr hem w LOC w dth d/t brain inj bef reg consc,sqla
+S06.5X8A@Traum subdr hem w LOC w dth d/t oth cause bef reg consc,init
+S06.5X8D@Traum subdr hem w LOC w dth d/t oth cause bef reg consc,subs
+S06.5X8S@Traum subdr hem w LOC w dth d/t oth cause bef reg consc,sqla
+S06.5X9A@Traum subdr hem w LOC of unsp duration, init
+S06.5X9D@Traum subdr hem w LOC of unsp duration, subs
+S06.5X9S@Traum subdr hem w LOC of unsp duration, sequela
+S06.6X0A@Traum subrac hem w/o loss of consciousness, init
+S06.6X0D@Traum subrac hem w/o loss of consciousness, subs
+S06.6X0S@Traum subrac hem w/o loss of consciousness, sequela
+S06.6X1A@Traum subrac hem w LOC of 30 minutes or less, init
+S06.6X1D@Traum subrac hem w LOC of 30 minutes or less, subs
+S06.6X1S@Traum subrac hem w LOC of 30 minutes or less, sequela
+S06.6X2A@Traum subrac hem w loss of consciousness of 31-59 min, init
+S06.6X2D@Traum subrac hem w loss of consciousness of 31-59 min, subs
+S06.6X2S@Traum subrac hem w LOC of 31-59 min, sequela
+S06.6X3A@Traum subrac hem w LOC of 1-5 hrs 59 min, init
+S06.6X3D@Traum subrac hem w LOC of 1-5 hrs 59 min, subs
+S06.6X3S@Traum subrac hem w LOC of 1-5 hrs 59 min, sequela
+S06.6X4A@Traum subrac hem w LOC of 6 hours to 24 hours, init
+S06.6X4D@Traum subrac hem w LOC of 6 hours to 24 hours, subs
+S06.6X4S@Traum subrac hem w LOC of 6 hours to 24 hours, sequela
+S06.6X5A@Traum subrac hem w LOC >24 hr w ret consc lev, init
+S06.6X5D@Traum subrac hem w LOC >24 hr w ret consc lev, subs
+S06.6X5S@Traum subrac hem w LOC >24 hr w ret consc lev, sequela
+S06.6X6A@Traum subrac hem w LOC >24 hr w/o ret consc w surv, init
+S06.6X6D@Traum subrac hem w LOC >24 hr w/o ret consc w surv, subs
+S06.6X6S@Traum subrac hem w LOC >24 hr w/o ret consc w surv, sequela
+S06.6X7A@Traum subrac hem w LOC w death d/t brain inj bf consc, init
+S06.6X7D@Traum subrac hem w LOC w death d/t brain inj bf consc, subs
+S06.6X7S@Traum subrac hem w LOC w death d/t brain inj bf consc, sqla
+S06.6X8A@Traum subrac hem w LOC w death d/t oth cause bf consc, init
+S06.6X8D@Traum subrac hem w LOC w death d/t oth cause bf consc, subs
+S06.6X8S@Traum subrac hem w LOC w death d/t oth cause bf consc, sqla
+S06.6X9A@Traum subrac hem w LOC of unsp duration, init
+S06.6X9D@Traum subrac hem w LOC of unsp duration, subs
+S06.6X9S@Traum subrac hem w LOC of unsp duration, sequela
+S06.810A@Injury of r int carotid, intcr w/o LOC, init
+S06.810D@Injury of r int carotid, intcr w/o LOC, subs
+S06.810S@Injury of r int carotid, intcr w/o LOC, sequela
+S06.811A@Inj r int carotid, intcr w LOC of 30 minutes or less, init
+S06.811D@Inj r int carotid, intcr w LOC of 30 minutes or less, subs
+S06.811S@Inj r int crtd, intcr w LOC of 30 minutes or less, sequela
+S06.812A@Injury of r int carotid, intcr w LOC of 31-59 min, init
+S06.812D@Injury of r int carotid, intcr w LOC of 31-59 min, subs
+S06.812S@Injury of r int carotid, intcr w LOC of 31-59 min, sequela
+S06.813A@Injury of r int carotid, intcr w LOC of 1-5 hrs 59 min, init
+S06.813D@Injury of r int carotid, intcr w LOC of 1-5 hrs 59 min, subs
+S06.813S@Inj r int carotid, intcr w LOC of 1-5 hrs 59 min, sequela
+S06.814A@Injury of r int carotid, intcr w LOC of 6-24 hrs, init
+S06.814D@Injury of r int carotid, intcr w LOC of 6-24 hrs, subs
+S06.814S@Injury of r int carotid, intcr w LOC of 6-24 hrs, sequela
+S06.815A@Inj r int carotid, intcr w LOC >24 hr w ret consc lev, init
+S06.815D@Inj r int carotid, intcr w LOC >24 hr w ret consc lev, subs
+S06.815S@Inj r int crtd, intcr w LOC >24 hr w ret consc lev, sequela
+S06.816A@Inj r int crtd,intcr w LOC >24 hr w/o ret consc w surv, init
+S06.816D@Inj r int crtd,intcr w LOC >24 hr w/o ret consc w surv, subs
+S06.816S@Inj r int crtd,intcr w LOC >24 hr w/o ret consc w surv, sqla
+S06.817A@Inj r int crtd,intcr w LOC w dth d/t brain inj bf consc,init
+S06.817D@Inj r int crtd,intcr w LOC w dth d/t brain inj bf consc,subs
+S06.817S@Inj r int crtd,intcr w LOC w dth d/t brain inj bf consc,sqla
+S06.818A@Inj r int crtd,intcr w LOC w dth d/t oth cause bf consc,init
+S06.818D@Inj r int crtd,intcr w LOC w dth d/t oth cause bf consc,subs
+S06.818S@Inj r int crtd,intcr w LOC w dth d/t oth cause bf consc,sqla
+S06.819A@Injury of r int carotid, intcr w LOC of unsp duration, init
+S06.819D@Injury of r int carotid, intcr w LOC of unsp duration, subs
+S06.819S@Inj r int carotid, intcr w LOC of unsp duration, sequela
+S06.820A@Injury of l int carotid, intcr w/o LOC, init
+S06.820D@Injury of l int carotid, intcr w/o LOC, subs
+S06.820S@Injury of l int carotid, intcr w/o LOC, sequela
+S06.821A@Inj l int carotid, intcr w LOC of 30 minutes or less, init
+S06.821D@Inj l int carotid, intcr w LOC of 30 minutes or less, subs
+S06.821S@Inj l int crtd, intcr w LOC of 30 minutes or less, sequela
+S06.822A@Injury of l int carotid, intcr w LOC of 31-59 min, init
+S06.822D@Injury of l int carotid, intcr w LOC of 31-59 min, subs
+S06.822S@Injury of l int carotid, intcr w LOC of 31-59 min, sequela
+S06.823A@Injury of l int carotid, intcr w LOC of 1-5 hrs 59 min, init
+S06.823D@Injury of l int carotid, intcr w LOC of 1-5 hrs 59 min, subs
+S06.823S@Inj l int carotid, intcr w LOC of 1-5 hrs 59 min, sequela
+S06.824A@Injury of l int carotid, intcr w LOC of 6-24 hrs, init
+S06.824D@Injury of l int carotid, intcr w LOC of 6-24 hrs, subs
+S06.824S@Injury of l int carotid, intcr w LOC of 6-24 hrs, sequela
+S06.825A@Inj l int carotid, intcr w LOC >24 hr w ret consc lev, init
+S06.825D@Inj l int carotid, intcr w LOC >24 hr w ret consc lev, subs
+S06.825S@Inj l int crtd, intcr w LOC >24 hr w ret consc lev, sequela
+S06.826A@Inj l int crtd,intcr w LOC >24 hr w/o ret consc w surv, init
+S06.826D@Inj l int crtd,intcr w LOC >24 hr w/o ret consc w surv, subs
+S06.826S@Inj l int crtd,intcr w LOC >24 hr w/o ret consc w surv, sqla
+S06.827A@Inj l int crtd,intcr w LOC w dth d/t brain inj bf consc,init
+S06.827D@Inj l int crtd,intcr w LOC w dth d/t brain inj bf consc,subs
+S06.827S@Inj l int crtd,intcr w LOC w dth d/t brain inj bf consc,sqla
+S06.828A@Inj l int crtd,intcr w LOC w dth d/t oth cause bf consc,init
+S06.828D@Inj l int crtd,intcr w LOC w dth d/t oth cause bf consc,subs
+S06.828S@Inj l int crtd,intcr w LOC w dth d/t oth cause bf consc,sqla
+S06.829A@Injury of l int carotid, intcr w LOC of unsp duration, init
+S06.829D@Injury of l int carotid, intcr w LOC of unsp duration, subs
+S06.829S@Inj l int carotid, intcr w LOC of unsp duration, sequela
+S06.890A@Intcran inj w/o loss of consciousness, init encntr
+S06.890D@Intcran inj w/o loss of consciousness, subs encntr
+S06.890S@Oth intracranial injury w/o loss of consciousness, sequela
+S06.891A@Intcran inj w LOC of 30 minutes or less, init
+S06.891D@Intcran inj w LOC of 30 minutes or less, subs
+S06.891S@Intcran inj w LOC of 30 minutes or less, sequela
+S06.892A@Intcran inj w loss of consciousness of 31-59 min, init
+S06.892D@Intcran inj w loss of consciousness of 31-59 min, subs
+S06.892S@Intcran inj w loss of consciousness of 31-59 min, sequela
+S06.893A@Intcran inj w loss of consciousness of 1-5 hrs 59 min, init
+S06.893D@Intcran inj w loss of consciousness of 1-5 hrs 59 min, subs
+S06.893S@Intcran inj w LOC of 1-5 hrs 59 min, sequela
+S06.894A@Intcran inj w LOC of 6 hours to 24 hours, init
+S06.894D@Intcran inj w LOC of 6 hours to 24 hours, subs
+S06.894S@Intcran inj w LOC of 6 hours to 24 hours, sequela
+S06.895A@Intcran inj w LOC >24 hr w ret consc lev, init
+S06.895D@Intcran inj w LOC >24 hr w ret consc lev, subs
+S06.895S@Intcran inj w LOC >24 hr w ret consc lev, sequela
+S06.896A@Intcran inj w LOC >24 hr w/o ret consc w surv, init
+S06.896D@Intcran inj w LOC >24 hr w/o ret consc w surv, subs
+S06.896S@Intcran inj w LOC >24 hr w/o ret consc w surv, sequela
+S06.897A@Intcran inj w LOC w death due to brain injury bf consc, init
+S06.897D@Intcran inj w LOC w death due to brain injury bf consc, subs
+S06.897S@Intcran inj w LOC w death due to brain injury bf consc, sqla
+S06.898A@Intcran inj w LOC w death due to oth cause bf consc, init
+S06.898D@Intcran inj w LOC w death due to oth cause bf consc, subs
+S06.898S@Intcran inj w LOC w death due to oth cause bf consc, sequela
+S06.899A@Intcran inj w loss of consciousness of unsp duration, init
+S06.899D@Intcran inj w loss of consciousness of unsp duration, subs
+S06.899S@Intcran inj w LOC of unsp duration, sequela
+S06.9X0A@Unsp intracranial injury w/o loss of consciousness, init
+S06.9X0D@Unsp intracranial injury w/o loss of consciousness, subs
+S06.9X0S@Unsp intracranial injury w/o loss of consciousness, sequela
+S06.9X1A@Unsp intracranial injury w LOC of 30 minutes or less, init
+S06.9X1D@Unsp intracranial injury w LOC of 30 minutes or less, subs
+S06.9X1S@Unsp intcrn injury w LOC of 30 minutes or less, sequela
+S06.9X2A@Unsp intracranial injury w LOC of 31-59 min, init
+S06.9X2D@Unsp intracranial injury w LOC of 31-59 min, subs
+S06.9X2S@Unsp intracranial injury w LOC of 31-59 min, sequela
+S06.9X3A@Unsp intracranial injury w LOC of 1-5 hrs 59 min, init
+S06.9X3D@Unsp intracranial injury w LOC of 1-5 hrs 59 min, subs
+S06.9X3S@Unsp intracranial injury w LOC of 1-5 hrs 59 min, sequela
+S06.9X4A@Unsp intracranial injury w LOC of 6 hours to 24 hours, init
+S06.9X4D@Unsp intracranial injury w LOC of 6 hours to 24 hours, subs
+S06.9X4S@Unsp intracranial injury w LOC of 6-24 hrs, sequela
+S06.9X5A@Unsp intracranial injury w LOC >24 hr w ret consc lev, init
+S06.9X5D@Unsp intracranial injury w LOC >24 hr w ret consc lev, subs
+S06.9X5S@Unsp intcrn injury w LOC >24 hr w ret consc lev, sequela
+S06.9X6A@Unsp intcrn injury w LOC >24 hr w/o ret consc w surv, init
+S06.9X6D@Unsp intcrn injury w LOC >24 hr w/o ret consc w surv, subs
+S06.9X6S@Unsp intcrn injury w LOC >24 hr w/o ret consc w surv, sqla
+S06.9X7A@Unsp intcrn inj w LOC w death d/t brain inj bf consc, init
+S06.9X7D@Unsp intcrn inj w LOC w death d/t brain inj bf consc, subs
+S06.9X7S@Unsp intcrn inj w LOC w death d/t brain inj bf consc, sqla
+S06.9X8A@Unsp intcrn inj w LOC w death d/t oth cause bf consc, init
+S06.9X8D@Unsp intcrn inj w LOC w death d/t oth cause bf consc, subs
+S06.9X8S@Unsp intcrn inj w LOC w death d/t oth cause bf consc, sqla
+S06.9X9A@Unsp intracranial injury w LOC of unsp duration, init
+S06.9X9D@Unsp intracranial injury w LOC of unsp duration, subs
+S06.9X9S@Unsp intracranial injury w LOC of unsp duration, sequela
+S07.0XXA@Crushing injury of face, initial encounter
+S07.0XXD@Crushing injury of face, subsequent encounter
+S07.0XXS@Crushing injury of face, sequela
+S07.1XXA@Crushing injury of skull, initial encounter
+S07.1XXD@Crushing injury of skull, subsequent encounter
+S07.1XXS@Crushing injury of skull, sequela
+S07.8XXA@Crushing injury of other parts of head, initial encounter
+S07.8XXD@Crushing injury of other parts of head, subsequent encounter
+S07.8XXS@Crushing injury of other parts of head, sequela
+S07.9XXA@Crushing injury of head, part unspecified, initial encounter
+S07.9XXD@Crushing injury of head, part unspecified, subs encntr
+S07.9XXS@Crushing injury of head, part unspecified, sequela
+S08.0XXA@Avulsion of scalp, initial encounter
+S08.0XXD@Avulsion of scalp, subsequent encounter
+S08.0XXS@Avulsion of scalp, sequela
+S08.111A@Complete traumatic amputation of right ear, init encntr
+S08.111D@Complete traumatic amputation of right ear, subs encntr
+S08.111S@Complete traumatic amputation of right ear, sequela
+S08.112A@Complete traumatic amputation of left ear, initial encounter
+S08.112D@Complete traumatic amputation of left ear, subs encntr
+S08.112S@Complete traumatic amputation of left ear, sequela
+S08.119A@Complete traumatic amputation of unsp ear, init encntr
+S08.119D@Complete traumatic amputation of unsp ear, subs encntr
+S08.119S@Complete traumatic amputation of unspecified ear, sequela
+S08.121A@Partial traumatic amputation of right ear, initial encounter
+S08.121D@Partial traumatic amputation of right ear, subs encntr
+S08.121S@Partial traumatic amputation of right ear, sequela
+S08.122A@Partial traumatic amputation of left ear, initial encounter
+S08.122D@Partial traumatic amputation of left ear, subs encntr
+S08.122S@Partial traumatic amputation of left ear, sequela
+S08.129A@Partial traumatic amputation of unspecified ear, init encntr
+S08.129D@Partial traumatic amputation of unspecified ear, subs encntr
+S08.129S@Partial traumatic amputation of unspecified ear, sequela
+S08.811A@Complete traumatic amputation of nose, initial encounter
+S08.811D@Complete traumatic amputation of nose, subsequent encounter
+S08.811S@Complete traumatic amputation of nose, sequela
+S08.812A@Partial traumatic amputation of nose, initial encounter
+S08.812D@Partial traumatic amputation of nose, subsequent encounter
+S08.812S@Partial traumatic amputation of nose, sequela
+S08.89XA@Traumatic amputation of other parts of head, init encntr
+S08.89XD@Traumatic amputation of other parts of head, subs encntr
+S08.89XS@Traumatic amputation of other parts of head, sequela
+S09.0XXA@Injury of blood vessels of head, NEC, init
+S09.0XXD@Injury of blood vessels of head, NEC, subs
+S09.0XXS@Injury of blood vessels of head, NEC, sequela
+S09.10XA@Unspecified injury of muscle and tendon of head, init encntr
+S09.10XD@Unspecified injury of muscle and tendon of head, subs encntr
+S09.10XS@Unspecified injury of muscle and tendon of head, sequela
+S09.11XA@Strain of muscle and tendon of head, initial encounter
+S09.11XD@Strain of muscle and tendon of head, subsequent encounter
+S09.11XS@Strain of muscle and tendon of head, sequela
+S09.12XA@Laceration of muscle and tendon of head, initial encounter
+S09.12XD@Laceration of muscle and tendon of head, subs encntr
+S09.12XS@Laceration of muscle and tendon of head, sequela
+S09.19XA@Oth injury of muscle and tendon of head, init encntr
+S09.19XD@Oth injury of muscle and tendon of head, subs encntr
+S09.19XS@Other specified injury of muscle and tendon of head, sequela
+S09.20XA@Traumatic rupture of unspecified ear drum, initial encounter
+S09.20XD@Traumatic rupture of unspecified ear drum, subs encntr
+S09.20XS@Traumatic rupture of unspecified ear drum, sequela
+S09.21XA@Traumatic rupture of right ear drum, initial encounter
+S09.21XD@Traumatic rupture of right ear drum, subsequent encounter
+S09.21XS@Traumatic rupture of right ear drum, sequela
+S09.22XA@Traumatic rupture of left ear drum, initial encounter
+S09.22XD@Traumatic rupture of left ear drum, subsequent encounter
+S09.22XS@Traumatic rupture of left ear drum, sequela
+S09.301A@Unsp injury of right middle and inner ear, init encntr
+S09.301D@Unsp injury of right middle and inner ear, subs encntr
+S09.301S@Unspecified injury of right middle and inner ear, sequela
+S09.302A@Unspecified injury of left middle and inner ear, init encntr
+S09.302D@Unspecified injury of left middle and inner ear, subs encntr
+S09.302S@Unspecified injury of left middle and inner ear, sequela
+S09.309A@Unsp injury of unspecified middle and inner ear, init encntr
+S09.309D@Unsp injury of unspecified middle and inner ear, subs encntr
+S09.309S@Unsp injury of unspecified middle and inner ear, sequela
+S09.311A@Primary blast injury of right ear, initial encounter
+S09.311D@Primary blast injury of right ear, subsequent encounter
+S09.311S@Primary blast injury of right ear, sequela
+S09.312A@Primary blast injury of left ear, initial encounter
+S09.312D@Primary blast injury of left ear, subsequent encounter
+S09.312S@Primary blast injury of left ear, sequela
+S09.313A@Primary blast injury of ear, bilateral, initial encounter
+S09.313D@Primary blast injury of ear, bilateral, subsequent encounter
+S09.313S@Primary blast injury of ear, bilateral, sequela
+S09.319A@Primary blast injury of unspecified ear, initial encounter
+S09.319D@Primary blast injury of unspecified ear, subs encntr
+S09.319S@Primary blast injury of unspecified ear, sequela
+S09.391A@Oth injury of right middle and inner ear, init encntr
+S09.391D@Oth injury of right middle and inner ear, subs encntr
+S09.391S@Oth injury of right middle and inner ear, sequela
+S09.392A@Oth injury of left middle and inner ear, init encntr
+S09.392D@Oth injury of left middle and inner ear, subs encntr
+S09.392S@Other specified injury of left middle and inner ear, sequela
+S09.399A@Oth injury of unspecified middle and inner ear, init encntr
+S09.399D@Oth injury of unspecified middle and inner ear, subs encntr
+S09.399S@Oth injury of unspecified middle and inner ear, sequela
+S09.8XXA@Other specified injuries of head, initial encounter
+S09.8XXD@Other specified injuries of head, subsequent encounter
+S09.8XXS@Other specified injuries of head, sequela
+S09.90XA@Unspecified injury of head, initial encounter
+S09.90XD@Unspecified injury of head, subsequent encounter
+S09.90XS@Unspecified injury of head, sequela
+S09.91XA@Unspecified injury of ear, initial encounter
+S09.91XD@Unspecified injury of ear, subsequent encounter
+S09.91XS@Unspecified injury of ear, sequela
+S09.92XA@Unspecified injury of nose, initial encounter
+S09.92XD@Unspecified injury of nose, subsequent encounter
+S09.92XS@Unspecified injury of nose, sequela
+S09.93XA@Unspecified injury of face, initial encounter
+S09.93XD@Unspecified injury of face, subsequent encounter
+S09.93XS@Unspecified injury of face, sequela

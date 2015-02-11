@@ -1,0 +1,55 @@
+T79.0XXA@Air embolism (traumatic), initial encounter
+T79.0XXD@Air embolism (traumatic), subsequent encounter
+T79.0XXS@Air embolism (traumatic), sequela
+T79.1XXA@Fat embolism (traumatic), initial encounter
+T79.1XXD@Fat embolism (traumatic), subsequent encounter
+T79.1XXS@Fat embolism (traumatic), sequela
+T79.2XXA@Traumatic secondary and recurrent hemor and seroma, init
+T79.2XXD@Traumatic secondary and recurrent hemor and seroma, subs
+T79.2XXS@Traumatic secondary and recurrent hemor and seroma, sequela
+T79.4XXA@Traumatic shock, initial encounter
+T79.4XXD@Traumatic shock, subsequent encounter
+T79.4XXS@Traumatic shock, sequela
+T79.5XXA@Traumatic anuria, initial encounter
+T79.5XXD@Traumatic anuria, subsequent encounter
+T79.5XXS@Traumatic anuria, sequela
+T79.6XXA@Traumatic ischemia of muscle, initial encounter
+T79.6XXD@Traumatic ischemia of muscle, subsequent encounter
+T79.6XXS@Traumatic ischemia of muscle, sequela
+T79.7XXA@Traumatic subcutaneous emphysema, initial encounter
+T79.7XXD@Traumatic subcutaneous emphysema, subsequent encounter
+T79.7XXS@Traumatic subcutaneous emphysema, sequela
+T79.A0XA@Compartment syndrome, unspecified, initial encounter
+T79.A0XD@Compartment syndrome, unspecified, subsequent encounter
+T79.A0XS@Compartment syndrome, unspecified, sequela
+T79.A11A@Traumatic compartment syndrome of r up extrem, init
+T79.A11D@Traumatic compartment syndrome of r up extrem, subs
+T79.A11S@Traumatic compartment syndrome of r up extrem, sequela
+T79.A12A@Traumatic compartment syndrome of left upper extremity, init
+T79.A12D@Traumatic compartment syndrome of left upper extremity, subs
+T79.A12S@Traumatic compartment syndrome of l up extrem, sequela
+T79.A19A@Traumatic compartment syndrome of unsp upper extremity, init
+T79.A19D@Traumatic compartment syndrome of unsp upper extremity, subs
+T79.A19S@Traumatic compartment syndrome of unsp up extrem, sequela
+T79.A21A@Traumatic compartment syndrome of r low extrem, init
+T79.A21D@Traumatic compartment syndrome of r low extrem, subs
+T79.A21S@Traumatic compartment syndrome of r low extrem, sequela
+T79.A22A@Traumatic compartment syndrome of left lower extremity, init
+T79.A22D@Traumatic compartment syndrome of left lower extremity, subs
+T79.A22S@Traumatic compartment syndrome of l low extrem, sequela
+T79.A29A@Traumatic compartment syndrome of unsp lower extremity, init
+T79.A29D@Traumatic compartment syndrome of unsp lower extremity, subs
+T79.A29S@Traumatic compartment syndrome of unsp low extrm, sequela
+T79.A3XA@Traumatic compartment syndrome of abdomen, initial encounter
+T79.A3XD@Traumatic compartment syndrome of abdomen, subs encntr
+T79.A3XS@Traumatic compartment syndrome of abdomen, sequela
+T79.A9XA@Traumatic compartment syndrome of other sites, init encntr
+T79.A9XD@Traumatic compartment syndrome of other sites, subs encntr
+T79.A9XS@Traumatic compartment syndrome of other sites, sequela
+T79.8XXA@Other early complications of trauma, initial encounter
+T79.8XXD@Other early complications of trauma, subsequent encounter
+T79.8XXS@Other early complications of trauma, sequela
+T79.9XXA@Unspecified early complication of trauma, initial encounter
+T79.9XXD@Unspecified early complication of trauma, subs encounter
+T79.9XXS@Unspecified early complication of trauma, sequela
+

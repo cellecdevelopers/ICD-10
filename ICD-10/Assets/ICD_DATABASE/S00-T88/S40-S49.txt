@@ -1,0 +1,2730 @@
+S40.011A@Contusion of right shoulder, initial encounter
+S40.011D@Contusion of right shoulder, subsequent encounter
+S40.011S@Contusion of right shoulder, sequela
+S40.012A@Contusion of left shoulder, initial encounter
+S40.012D@Contusion of left shoulder, subsequent encounter
+S40.012S@Contusion of left shoulder, sequela
+S40.019A@Contusion of unspecified shoulder, initial encounter
+S40.019D@Contusion of unspecified shoulder, subsequent encounter
+S40.019S@Contusion of unspecified shoulder, sequela
+S40.021A@Contusion of right upper arm, initial encounter
+S40.021D@Contusion of right upper arm, subsequent encounter
+S40.021S@Contusion of right upper arm, sequela
+S40.022A@Contusion of left upper arm, initial encounter
+S40.022D@Contusion of left upper arm, subsequent encounter
+S40.022S@Contusion of left upper arm, sequela
+S40.029A@Contusion of unspecified upper arm, initial encounter
+S40.029D@Contusion of unspecified upper arm, subsequent encounter
+S40.029S@Contusion of unspecified upper arm, sequela
+S40.211A@Abrasion of right shoulder, initial encounter
+S40.211D@Abrasion of right shoulder, subsequent encounter
+S40.211S@Abrasion of right shoulder, sequela
+S40.212A@Abrasion of left shoulder, initial encounter
+S40.212D@Abrasion of left shoulder, subsequent encounter
+S40.212S@Abrasion of left shoulder, sequela
+S40.219A@Abrasion of unspecified shoulder, initial encounter
+S40.219D@Abrasion of unspecified shoulder, subsequent encounter
+S40.219S@Abrasion of unspecified shoulder, sequela
+S40.221A@Blister (nonthermal) of right shoulder, initial encounter
+S40.221D@Blister (nonthermal) of right shoulder, subsequent encounter
+S40.221S@Blister (nonthermal) of right shoulder, sequela
+S40.222A@Blister (nonthermal) of left shoulder, initial encounter
+S40.222D@Blister (nonthermal) of left shoulder, subsequent encounter
+S40.222S@Blister (nonthermal) of left shoulder, sequela
+S40.229A@Blister (nonthermal) of unspecified shoulder, init encntr
+S40.229D@Blister (nonthermal) of unspecified shoulder, subs encntr
+S40.229S@Blister (nonthermal) of unspecified shoulder, sequela
+S40.241A@External constriction of right shoulder, initial encounter
+S40.241D@External constriction of right shoulder, subs encntr
+S40.241S@External constriction of right shoulder, sequela
+S40.242A@External constriction of left shoulder, initial encounter
+S40.242D@External constriction of left shoulder, subsequent encounter
+S40.242S@External constriction of left shoulder, sequela
+S40.249A@External constriction of unspecified shoulder, init encntr
+S40.249D@External constriction of unspecified shoulder, subs encntr
+S40.249S@External constriction of unspecified shoulder, sequela
+S40.251A@Superficial foreign body of right shoulder, init encntr
+S40.251D@Superficial foreign body of right shoulder, subs encntr
+S40.251S@Superficial foreign body of right shoulder, sequela
+S40.252A@Superficial foreign body of left shoulder, initial encounter
+S40.252D@Superficial foreign body of left shoulder, subs encntr
+S40.252S@Superficial foreign body of left shoulder, sequela
+S40.259A@Superficial foreign body of unsp shoulder, init encntr
+S40.259D@Superficial foreign body of unsp shoulder, subs encntr
+S40.259S@Superficial foreign body of unspecified shoulder, sequela
+S40.261A@Insect bite (nonvenomous) of right shoulder, init encntr
+S40.261D@Insect bite (nonvenomous) of right shoulder, subs encntr
+S40.261S@Insect bite (nonvenomous) of right shoulder, sequela
+S40.262A@Insect bite (nonvenomous) of left shoulder, init encntr
+S40.262D@Insect bite (nonvenomous) of left shoulder, subs encntr
+S40.262S@Insect bite (nonvenomous) of left shoulder, sequela
+S40.269A@Insect bite (nonvenomous) of unsp shoulder, init encntr
+S40.269D@Insect bite (nonvenomous) of unsp shoulder, subs encntr
+S40.269S@Insect bite (nonvenomous) of unspecified shoulder, sequela
+S40.271A@Other superficial bite of right shoulder, initial encounter
+S40.271D@Other superficial bite of right shoulder, subs encntr
+S40.271S@Other superficial bite of right shoulder, sequela
+S40.272A@Other superficial bite of left shoulder, initial encounter
+S40.272D@Other superficial bite of left shoulder, subs encntr
+S40.272S@Other superficial bite of left shoulder, sequela
+S40.279A@Other superficial bite of unspecified shoulder, init encntr
+S40.279D@Other superficial bite of unspecified shoulder, subs encntr
+S40.279S@Other superficial bite of unspecified shoulder, sequela
+S40.811A@Abrasion of right upper arm, initial encounter
+S40.811D@Abrasion of right upper arm, subsequent encounter
+S40.811S@Abrasion of right upper arm, sequela
+S40.812A@Abrasion of left upper arm, initial encounter
+S40.812D@Abrasion of left upper arm, subsequent encounter
+S40.812S@Abrasion of left upper arm, sequela
+S40.819A@Abrasion of unspecified upper arm, initial encounter
+S40.819D@Abrasion of unspecified upper arm, subsequent encounter
+S40.819S@Abrasion of unspecified upper arm, sequela
+S40.821A@Blister (nonthermal) of right upper arm, initial encounter
+S40.821D@Blister (nonthermal) of right upper arm, subs encntr
+S40.821S@Blister (nonthermal) of right upper arm, sequela
+S40.822A@Blister (nonthermal) of left upper arm, initial encounter
+S40.822D@Blister (nonthermal) of left upper arm, subsequent encounter
+S40.822S@Blister (nonthermal) of left upper arm, sequela
+S40.829A@Blister (nonthermal) of unspecified upper arm, init encntr
+S40.829D@Blister (nonthermal) of unspecified upper arm, subs encntr
+S40.829S@Blister (nonthermal) of unspecified upper arm, sequela
+S40.841A@External constriction of right upper arm, initial encounter
+S40.841D@External constriction of right upper arm, subs encntr
+S40.841S@External constriction of right upper arm, sequela
+S40.842A@External constriction of left upper arm, initial encounter
+S40.842D@External constriction of left upper arm, subs encntr
+S40.842S@External constriction of left upper arm, sequela
+S40.849A@External constriction of unspecified upper arm, init encntr
+S40.849D@External constriction of unspecified upper arm, subs encntr
+S40.849S@External constriction of unspecified upper arm, sequela
+S40.851A@Superficial foreign body of right upper arm, init encntr
+S40.851D@Superficial foreign body of right upper arm, subs encntr
+S40.851S@Superficial foreign body of right upper arm, sequela
+S40.852A@Superficial foreign body of left upper arm, init encntr
+S40.852D@Superficial foreign body of left upper arm, subs encntr
+S40.852S@Superficial foreign body of left upper arm, sequela
+S40.859A@Superficial foreign body of unsp upper arm, init encntr
+S40.859D@Superficial foreign body of unsp upper arm, subs encntr
+S40.859S@Superficial foreign body of unspecified upper arm, sequela
+S40.861A@Insect bite (nonvenomous) of right upper arm, init encntr
+S40.861D@Insect bite (nonvenomous) of right upper arm, subs encntr
+S40.861S@Insect bite (nonvenomous) of right upper arm, sequela
+S40.862A@Insect bite (nonvenomous) of left upper arm, init encntr
+S40.862D@Insect bite (nonvenomous) of left upper arm, subs encntr
+S40.862S@Insect bite (nonvenomous) of left upper arm, sequela
+S40.869A@Insect bite (nonvenomous) of unsp upper arm, init encntr
+S40.869D@Insect bite (nonvenomous) of unsp upper arm, subs encntr
+S40.869S@Insect bite (nonvenomous) of unspecified upper arm, sequela
+S40.871A@Other superficial bite of right upper arm, initial encounter
+S40.871D@Other superficial bite of right upper arm, subs encntr
+S40.871S@Other superficial bite of right upper arm, sequela
+S40.872A@Other superficial bite of left upper arm, initial encounter
+S40.872D@Other superficial bite of left upper arm, subs encntr
+S40.872S@Other superficial bite of left upper arm, sequela
+S40.879A@Other superficial bite of unspecified upper arm, init encntr
+S40.879D@Other superficial bite of unspecified upper arm, subs encntr
+S40.879S@Other superficial bite of unspecified upper arm, sequela
+S40.911A@Unsp superficial injury of right shoulder, init encntr
+S40.911D@Unsp superficial injury of right shoulder, subs encntr
+S40.911S@Unspecified superficial injury of right shoulder, sequela
+S40.912A@Unspecified superficial injury of left shoulder, init encntr
+S40.912D@Unspecified superficial injury of left shoulder, subs encntr
+S40.912S@Unspecified superficial injury of left shoulder, sequela
+S40.919A@Unsp superficial injury of unspecified shoulder, init encntr
+S40.919D@Unsp superficial injury of unspecified shoulder, subs encntr
+S40.919S@Unsp superficial injury of unspecified shoulder, sequela
+S40.921A@Unsp superficial injury of right upper arm, init encntr
+S40.921D@Unsp superficial injury of right upper arm, subs encntr
+S40.921S@Unspecified superficial injury of right upper arm, sequela
+S40.922A@Unsp superficial injury of left upper arm, init encntr
+S40.922D@Unsp superficial injury of left upper arm, subs encntr
+S40.922S@Unspecified superficial injury of left upper arm, sequela
+S40.929A@Unsp superficial injury of unsp upper arm, init encntr
+S40.929D@Unsp superficial injury of unsp upper arm, subs encntr
+S40.929S@Unsp superficial injury of unspecified upper arm, sequela
+S41.001A@Unspecified open wound of right shoulder, initial encounter
+S41.001D@Unspecified open wound of right shoulder, subs encntr
+S41.001S@Unspecified open wound of right shoulder, sequela
+S41.002A@Unspecified open wound of left shoulder, initial encounter
+S41.002D@Unspecified open wound of left shoulder, subs encntr
+S41.002S@Unspecified open wound of left shoulder, sequela
+S41.009A@Unspecified open wound of unspecified shoulder, init encntr
+S41.009D@Unspecified open wound of unspecified shoulder, subs encntr
+S41.009S@Unspecified open wound of unspecified shoulder, sequela
+S41.011A@Laceration w/o foreign body of right shoulder, init encntr
+S41.011D@Laceration w/o foreign body of right shoulder, subs encntr
+S41.011S@Laceration without foreign body of right shoulder, sequela
+S41.012A@Laceration w/o foreign body of left shoulder, init encntr
+S41.012D@Laceration w/o foreign body of left shoulder, subs encntr
+S41.012S@Laceration without foreign body of left shoulder, sequela
+S41.019A@Laceration w/o foreign body of unsp shoulder, init encntr
+S41.019D@Laceration w/o foreign body of unsp shoulder, subs encntr
+S41.019S@Laceration without foreign body of unsp shoulder, sequela
+S41.021A@Laceration with foreign body of right shoulder, init encntr
+S41.021D@Laceration with foreign body of right shoulder, subs encntr
+S41.021S@Laceration with foreign body of right shoulder, sequela
+S41.022A@Laceration with foreign body of left shoulder, init encntr
+S41.022D@Laceration with foreign body of left shoulder, subs encntr
+S41.022S@Laceration with foreign body of left shoulder, sequela
+S41.029A@Laceration with foreign body of unsp shoulder, init encntr
+S41.029D@Laceration with foreign body of unsp shoulder, subs encntr
+S41.029S@Laceration with foreign body of unsp shoulder, sequela
+S41.031A@Puncture wound w/o foreign body of right shoulder, init
+S41.031D@Puncture wound w/o foreign body of right shoulder, subs
+S41.031S@Puncture wound w/o foreign body of right shoulder, sequela
+S41.032A@Puncture wound w/o foreign body of left shoulder, init
+S41.032D@Puncture wound w/o foreign body of left shoulder, subs
+S41.032S@Puncture wound w/o foreign body of left shoulder, sequela
+S41.039A@Puncture wound w/o foreign body of unsp shoulder, init
+S41.039D@Puncture wound w/o foreign body of unsp shoulder, subs
+S41.039S@Puncture wound w/o foreign body of unsp shoulder, sequela
+S41.041A@Puncture wound w foreign body of right shoulder, init encntr
+S41.041D@Puncture wound w foreign body of right shoulder, subs encntr
+S41.041S@Puncture wound with foreign body of right shoulder, sequela
+S41.042A@Puncture wound w foreign body of left shoulder, init encntr
+S41.042D@Puncture wound w foreign body of left shoulder, subs encntr
+S41.042S@Puncture wound with foreign body of left shoulder, sequela
+S41.049A@Puncture wound w foreign body of unsp shoulder, init encntr
+S41.049D@Puncture wound w foreign body of unsp shoulder, subs encntr
+S41.049S@Puncture wound with foreign body of unsp shoulder, sequela
+S41.051A@Open bite of right shoulder, initial encounter
+S41.051D@Open bite of right shoulder, subsequent encounter
+S41.051S@Open bite of right shoulder, sequela
+S41.052A@Open bite of left shoulder, initial encounter
+S41.052D@Open bite of left shoulder, subsequent encounter
+S41.052S@Open bite of left shoulder, sequela
+S41.059A@Open bite of unspecified shoulder, initial encounter
+S41.059D@Open bite of unspecified shoulder, subsequent encounter
+S41.059S@Open bite of unspecified shoulder, sequela
+S41.101A@Unspecified open wound of right upper arm, initial encounter
+S41.101D@Unspecified open wound of right upper arm, subs encntr
+S41.101S@Unspecified open wound of right upper arm, sequela
+S41.102A@Unspecified open wound of left upper arm, initial encounter
+S41.102D@Unspecified open wound of left upper arm, subs encntr
+S41.102S@Unspecified open wound of left upper arm, sequela
+S41.109A@Unspecified open wound of unspecified upper arm, init encntr
+S41.109D@Unspecified open wound of unspecified upper arm, subs encntr
+S41.109S@Unspecified open wound of unspecified upper arm, sequela
+S41.111A@Laceration w/o foreign body of right upper arm, init encntr
+S41.111D@Laceration w/o foreign body of right upper arm, subs encntr
+S41.111S@Laceration without foreign body of right upper arm, sequela
+S41.112A@Laceration w/o foreign body of left upper arm, init encntr
+S41.112D@Laceration w/o foreign body of left upper arm, subs encntr
+S41.112S@Laceration without foreign body of left upper arm, sequela
+S41.119A@Laceration w/o foreign body of unsp upper arm, init encntr
+S41.119D@Laceration w/o foreign body of unsp upper arm, subs encntr
+S41.119S@Laceration without foreign body of unsp upper arm, sequela
+S41.121A@Laceration with foreign body of right upper arm, init encntr
+S41.121D@Laceration with foreign body of right upper arm, subs encntr
+S41.121S@Laceration with foreign body of right upper arm, sequela
+S41.122A@Laceration with foreign body of left upper arm, init encntr
+S41.122D@Laceration with foreign body of left upper arm, subs encntr
+S41.122S@Laceration with foreign body of left upper arm, sequela
+S41.129A@Laceration with foreign body of unsp upper arm, init encntr
+S41.129D@Laceration with foreign body of unsp upper arm, subs encntr
+S41.129S@Laceration with foreign body of unsp upper arm, sequela
+S41.131A@Puncture wound w/o foreign body of right upper arm, init
+S41.131D@Puncture wound w/o foreign body of right upper arm, subs
+S41.131S@Puncture wound w/o foreign body of right upper arm, sequela
+S41.132A@Puncture wound w/o foreign body of left upper arm, init
+S41.132D@Puncture wound w/o foreign body of left upper arm, subs
+S41.132S@Puncture wound w/o foreign body of left upper arm, sequela
+S41.139A@Puncture wound w/o foreign body of unsp upper arm, init
+S41.139D@Puncture wound w/o foreign body of unsp upper arm, subs
+S41.139S@Puncture wound w/o foreign body of unsp upper arm, sequela
+S41.141A@Puncture wound w foreign body of right upper arm, init
+S41.141D@Puncture wound w foreign body of right upper arm, subs
+S41.141S@Puncture wound with foreign body of right upper arm, sequela
+S41.142A@Puncture wound w foreign body of left upper arm, init encntr
+S41.142D@Puncture wound w foreign body of left upper arm, subs encntr
+S41.142S@Puncture wound with foreign body of left upper arm, sequela
+S41.149A@Puncture wound w foreign body of unsp upper arm, init encntr
+S41.149D@Puncture wound w foreign body of unsp upper arm, subs encntr
+S41.149S@Puncture wound with foreign body of unsp upper arm, sequela
+S41.151A@Open bite of right upper arm, initial encounter
+S41.151D@Open bite of right upper arm, subsequent encounter
+S41.151S@Open bite of right upper arm, sequela
+S41.152A@Open bite of left upper arm, initial encounter
+S41.152D@Open bite of left upper arm, subsequent encounter
+S41.152S@Open bite of left upper arm, sequela
+S41.159A@Open bite of unspecified upper arm, initial encounter
+S41.159D@Open bite of unspecified upper arm, subsequent encounter
+S41.159S@Open bite of unspecified upper arm, sequela
+S42.001A@Fracture of unsp part of right clavicle, init for clos fx
+S42.001B@Fracture of unsp part of right clavicle, init for opn fx
+S42.001D@Fx unsp part of r clavicle, subs for fx w routn heal
+S42.001G@Fx unsp part of r clavicle, subs for fx w delay heal
+S42.001K@Fracture of unsp part of r clavicle, subs for fx w nonunion
+S42.001P@Fracture of unsp part of r clavicle, subs for fx w malunion
+S42.001S@Fracture of unspecified part of right clavicle, sequela
+S42.002A@Fracture of unsp part of left clavicle, init for clos fx
+S42.002B@Fracture of unsp part of left clavicle, init for opn fx
+S42.002D@Fx unsp part of l clavicle, subs for fx w routn heal
+S42.002G@Fx unsp part of l clavicle, subs for fx w delay heal
+S42.002K@Fracture of unsp part of l clavicle, subs for fx w nonunion
+S42.002P@Fracture of unsp part of l clavicle, subs for fx w malunion
+S42.002S@Fracture of unspecified part of left clavicle, sequela
+S42.009A@Fracture of unsp part of unsp clavicle, init for clos fx
+S42.009B@Fracture of unsp part of unsp clavicle, init for opn fx
+S42.009D@Fx unsp part of unsp clavicle, subs for fx w routn heal
+S42.009G@Fx unsp part of unsp clavicle, subs for fx w delay heal
+S42.009K@Fx unsp part of unsp clavicle, subs for fx w nonunion
+S42.009P@Fx unsp part of unsp clavicle, subs for fx w malunion
+S42.009S@Fracture of unsp part of unspecified clavicle, sequela
+S42.011A@Anterior disp fx of sternal end of right clavicle, init
+S42.011B@Ant disp fx of sternal end of r clavicle, init for opn fx
+S42.011D@Ant disp fx of sternal end r clavicle, 7thD
+S42.011G@Ant disp fx of sternal end r clavicle, 7thG
+S42.011K@Ant disp fx of sternal end r clavicle, 7thK
+S42.011P@Ant disp fx of sternal end r clavicle, 7thP
+S42.011S@Anterior disp fx of sternal end of right clavicle, sequela
+S42.012A@Anterior disp fx of sternal end of left clavicle, init
+S42.012B@Ant disp fx of sternal end of l clavicle, init for opn fx
+S42.012D@Ant disp fx of sternal end l clavicle, 7thD
+S42.012G@Ant disp fx of sternal end l clavicle, 7thG
+S42.012K@Ant disp fx of sternal end l clavicle, 7thK
+S42.012P@Ant disp fx of sternal end l clavicle, 7thP
+S42.012S@Anterior disp fx of sternal end of left clavicle, sequela
+S42.013A@Anterior disp fx of sternal end of unsp clavicle, init
+S42.013B@Ant disp fx of sternal end of unsp clavicle, init for opn fx
+S42.013D@Ant disp fx of sternal end unsp clavicle, 7thD
+S42.013G@Ant disp fx of sternal end unsp clavicle, 7thG
+S42.013K@Ant disp fx of sternal end unsp clavicle, 7thK
+S42.013P@Ant disp fx of sternal end unsp clavicle, 7thP
+S42.013S@Anterior disp fx of sternal end of unsp clavicle, sequela
+S42.014A@Posterior disp fx of sternal end of right clavicle, init
+S42.014B@Post disp fx of sternal end of r clavicle, init for opn fx
+S42.014D@Post disp fx of sternal end r clavicle, 7thD
+S42.014G@Post disp fx of sternal end r clavicle, 7thG
+S42.014K@Post disp fx of sternal end r clavicle, 7thK
+S42.014P@Post disp fx of sternal end r clavicle, 7thP
+S42.014S@Posterior disp fx of sternal end of right clavicle, sequela
+S42.015A@Posterior disp fx of sternal end of left clavicle, init
+S42.015B@Post disp fx of sternal end of l clavicle, init for opn fx
+S42.015D@Post disp fx of sternal end l clavicle, 7thD
+S42.015G@Post disp fx of sternal end l clavicle, 7thG
+S42.015K@Post disp fx of sternal end l clavicle, 7thK
+S42.015P@Post disp fx of sternal end l clavicle, 7thP
+S42.015S@Posterior disp fx of sternal end of left clavicle, sequela
+S42.016A@Posterior disp fx of sternal end of unsp clavicle, init
+S42.016B@Post disp fx of sternal end unsp clavicle, init for opn fx
+S42.016D@Post disp fx of sternal end unsp clavicle, 7thD
+S42.016G@Post disp fx of sternal end unsp clavicle, 7thG
+S42.016K@Post disp fx of sternal end unsp clavicle, 7thK
+S42.016P@Post disp fx of sternal end unsp clavicle, 7thP
+S42.016S@Posterior disp fx of sternal end of unsp clavicle, sequela
+S42.017A@Nondisp fx of sternal end of right clavicle, init
+S42.017B@Nondisp fx of sternal end of right clavicle, init for opn fx
+S42.017D@Nondisp fx of sternal end r clavicle, 7thD
+S42.017G@Nondisp fx of sternal end r clavicle, 7thG
+S42.017K@Nondisp fx of sternal end r clavicle, subs for fx w nonunion
+S42.017P@Nondisp fx of sternal end r clavicle, subs for fx w malunion
+S42.017S@Nondisp fx of sternal end of right clavicle, sequela
+S42.018A@Nondisp fx of sternal end of left clavicle, init for clos fx
+S42.018B@Nondisp fx of sternal end of left clavicle, init for opn fx
+S42.018D@Nondisp fx of sternal end l clavicle, 7thD
+S42.018G@Nondisp fx of sternal end l clavicle, 7thG
+S42.018K@Nondisp fx of sternal end l clavicle, subs for fx w nonunion
+S42.018P@Nondisp fx of sternal end l clavicle, subs for fx w malunion
+S42.018S@Nondisp fx of sternal end of left clavicle, sequela
+S42.019A@Nondisp fx of sternal end of unsp clavicle, init for clos fx
+S42.019B@Nondisp fx of sternal end of unsp clavicle, init for opn fx
+S42.019D@Nondisp fx of sternal end unsp clavicle, 7thD
+S42.019G@Nondisp fx of sternal end unsp clavicle, 7thG
+S42.019K@Nondisp fx of sternal end unsp clavicle, 7thK
+S42.019P@Nondisp fx of sternal end unsp clavicle, 7thP
+S42.019S@Nondisp fx of sternal end of unspecified clavicle, sequela
+S42.021A@Disp fx of shaft of right clavicle, init for clos fx
+S42.021B@Disp fx of shaft of right clavicle, init for opn fx
+S42.021D@Disp fx of shaft of right clavicle, subs for fx w routn heal
+S42.021G@Disp fx of shaft of right clavicle, subs for fx w delay heal
+S42.021K@Disp fx of shaft of right clavicle, subs for fx w nonunion
+S42.021P@Disp fx of shaft of right clavicle, subs for fx w malunion
+S42.021S@Displaced fracture of shaft of right clavicle, sequela
+S42.022A@Disp fx of shaft of left clavicle, init for clos fx
+S42.022B@Disp fx of shaft of left clavicle, init for opn fx
+S42.022D@Disp fx of shaft of left clavicle, subs for fx w routn heal
+S42.022G@Disp fx of shaft of left clavicle, subs for fx w delay heal
+S42.022K@Disp fx of shaft of left clavicle, subs for fx w nonunion
+S42.022P@Disp fx of shaft of left clavicle, subs for fx w malunion
+S42.022S@Displaced fracture of shaft of left clavicle, sequela
+S42.023A@Disp fx of shaft of unsp clavicle, init for clos fx
+S42.023B@Disp fx of shaft of unsp clavicle, init for opn fx
+S42.023D@Disp fx of shaft of unsp clavicle, subs for fx w routn heal
+S42.023G@Disp fx of shaft of unsp clavicle, subs for fx w delay heal
+S42.023K@Disp fx of shaft of unsp clavicle, subs for fx w nonunion
+S42.023P@Disp fx of shaft of unsp clavicle, subs for fx w malunion
+S42.023S@Displaced fracture of shaft of unspecified clavicle, sequela
+S42.024A@Nondisp fx of shaft of right clavicle, init for clos fx
+S42.024B@Nondisp fx of shaft of right clavicle, init for opn fx
+S42.024D@Nondisp fx of shaft of r clavicle, subs for fx w routn heal
+S42.024G@Nondisp fx of shaft of r clavicle, subs for fx w delay heal
+S42.024K@Nondisp fx of shaft of r clavicle, subs for fx w nonunion
+S42.024P@Nondisp fx of shaft of r clavicle, subs for fx w malunion
+S42.024S@Nondisplaced fracture of shaft of right clavicle, sequela
+S42.025A@Nondisp fx of shaft of left clavicle, init for clos fx
+S42.025B@Nondisp fx of shaft of left clavicle, init for opn fx
+S42.025D@Nondisp fx of shaft of l clavicle, subs for fx w routn heal
+S42.025G@Nondisp fx of shaft of l clavicle, subs for fx w delay heal
+S42.025K@Nondisp fx of shaft of left clavicle, subs for fx w nonunion
+S42.025P@Nondisp fx of shaft of left clavicle, subs for fx w malunion
+S42.025S@Nondisplaced fracture of shaft of left clavicle, sequela
+S42.026A@Nondisp fx of shaft of unsp clavicle, init for clos fx
+S42.026B@Nondisp fx of shaft of unsp clavicle, init for opn fx
+S42.026D@Nondisp fx of shaft of unsp clavicle, 7thD
+S42.026G@Nondisp fx of shaft of unsp clavicle, 7thG
+S42.026K@Nondisp fx of shaft of unsp clavicle, subs for fx w nonunion
+S42.026P@Nondisp fx of shaft of unsp clavicle, subs for fx w malunion
+S42.026S@Nondisp fx of shaft of unspecified clavicle, sequela
+S42.031A@Disp fx of lateral end of right clavicle, init for clos fx
+S42.031B@Disp fx of lateral end of right clavicle, init for opn fx
+S42.031D@Disp fx of lateral end r clavicle, subs for fx w routn heal
+S42.031G@Disp fx of lateral end r clavicle, subs for fx w delay heal
+S42.031K@Disp fx of lateral end of r clavicle, subs for fx w nonunion
+S42.031P@Disp fx of lateral end of r clavicle, subs for fx w malunion
+S42.031S@Displaced fracture of lateral end of right clavicle, sequela
+S42.032A@Disp fx of lateral end of left clavicle, init for clos fx
+S42.032B@Disp fx of lateral end of left clavicle, init for opn fx
+S42.032D@Disp fx of lateral end l clavicle, subs for fx w routn heal
+S42.032G@Disp fx of lateral end l clavicle, subs for fx w delay heal
+S42.032K@Disp fx of lateral end of l clavicle, subs for fx w nonunion
+S42.032P@Disp fx of lateral end of l clavicle, subs for fx w malunion
+S42.032S@Displaced fracture of lateral end of left clavicle, sequela
+S42.033A@Disp fx of lateral end of unsp clavicle, init for clos fx
+S42.033B@Disp fx of lateral end of unsp clavicle, init for opn fx
+S42.033D@Disp fx of lateral end unsp clavicle, 7thD
+S42.033G@Disp fx of lateral end unsp clavicle, 7thG
+S42.033K@Disp fx of lateral end unsp clavicle, subs for fx w nonunion
+S42.033P@Disp fx of lateral end unsp clavicle, subs for fx w malunion
+S42.033S@Disp fx of lateral end of unspecified clavicle, sequela
+S42.034A@Nondisp fx of lateral end of right clavicle, init
+S42.034B@Nondisp fx of lateral end of right clavicle, init for opn fx
+S42.034D@Nondisp fx of lateral end r clavicle, 7thD
+S42.034G@Nondisp fx of lateral end r clavicle, 7thG
+S42.034K@Nondisp fx of lateral end r clavicle, subs for fx w nonunion
+S42.034P@Nondisp fx of lateral end r clavicle, subs for fx w malunion
+S42.034S@Nondisp fx of lateral end of right clavicle, sequela
+S42.035A@Nondisp fx of lateral end of left clavicle, init for clos fx
+S42.035B@Nondisp fx of lateral end of left clavicle, init for opn fx
+S42.035D@Nondisp fx of lateral end l clavicle, 7thD
+S42.035G@Nondisp fx of lateral end l clavicle, 7thG
+S42.035K@Nondisp fx of lateral end l clavicle, subs for fx w nonunion
+S42.035P@Nondisp fx of lateral end l clavicle, subs for fx w malunion
+S42.035S@Nondisp fx of lateral end of left clavicle, sequela
+S42.036A@Nondisp fx of lateral end of unsp clavicle, init for clos fx
+S42.036B@Nondisp fx of lateral end of unsp clavicle, init for opn fx
+S42.036D@Nondisp fx of lateral end unsp clavicle, 7thD
+S42.036G@Nondisp fx of lateral end unsp clavicle, 7thG
+S42.036K@Nondisp fx of lateral end unsp clavicle, 7thK
+S42.036P@Nondisp fx of lateral end unsp clavicle, 7thP
+S42.036S@Nondisp fx of lateral end of unspecified clavicle, sequela
+S42.101A@Fracture of unsp part of scapula, right shoulder, init
+S42.101B@Fx unsp part of scapula, r shoulder, init for opn fx
+S42.101D@Fx unsp part of scapula, r shldr, subs for fx w routn heal
+S42.101G@Fx unsp part of scapula, r shldr, subs for fx w delay heal
+S42.101K@Fx unsp part of scapula, r shoulder, subs for fx w nonunion
+S42.101P@Fx unsp part of scapula, r shoulder, subs for fx w malunion
+S42.101S@Fracture of unsp part of scapula, right shoulder, sequela
+S42.102A@Fracture of unsp part of scapula, left shoulder, init
+S42.102B@Fx unsp part of scapula, l shoulder, init for opn fx
+S42.102D@Fx unsp part of scapula, l shldr, subs for fx w routn heal
+S42.102G@Fx unsp part of scapula, l shldr, subs for fx w delay heal
+S42.102K@Fx unsp part of scapula, l shoulder, subs for fx w nonunion
+S42.102P@Fx unsp part of scapula, l shoulder, subs for fx w malunion
+S42.102S@Fracture of unsp part of scapula, left shoulder, sequela
+S42.109A@Fracture of unsp part of scapula, unsp shoulder, init
+S42.109B@Fx unsp part of scapula, unsp shoulder, init for opn fx
+S42.109D@Fx unsp prt of scapula, unsp shldr, subs for fx w routn heal
+S42.109G@Fx unsp prt of scapula, unsp shldr, subs for fx w delay heal
+S42.109K@Fx unsp part of scapula, unsp shldr, subs for fx w nonunion
+S42.109P@Fx unsp part of scapula, unsp shldr, subs for fx w malunion
+S42.109S@Fracture of unsp part of scapula, unsp shoulder, sequela
+S42.111A@Disp fx of body of scapula, right shoulder, init for clos fx
+S42.111B@Disp fx of body of scapula, right shoulder, init for opn fx
+S42.111D@Disp fx of body of scapula, r shldr, 7thD
+S42.111G@Disp fx of body of scapula, r shldr, 7thG
+S42.111K@Disp fx of body of scapula, r shldr, subs for fx w nonunion
+S42.111P@Disp fx of body of scapula, r shldr, subs for fx w malunion
+S42.111S@Disp fx of body of scapula, right shoulder, sequela
+S42.112A@Disp fx of body of scapula, left shoulder, init for clos fx
+S42.112B@Disp fx of body of scapula, left shoulder, init for opn fx
+S42.112D@Disp fx of body of scapula, l shldr, 7thD
+S42.112G@Disp fx of body of scapula, l shldr, 7thG
+S42.112K@Disp fx of body of scapula, l shldr, subs for fx w nonunion
+S42.112P@Disp fx of body of scapula, l shldr, subs for fx w malunion
+S42.112S@Disp fx of body of scapula, left shoulder, sequela
+S42.113A@Disp fx of body of scapula, unsp shoulder, init for clos fx
+S42.113B@Disp fx of body of scapula, unsp shoulder, init for opn fx
+S42.113D@Disp fx of body of scapula, unsp shldr, 7thD
+S42.113G@Disp fx of body of scapula, unsp shldr, 7thG
+S42.113K@Disp fx of body of scapula, unsp shldr, 7thK
+S42.113P@Disp fx of body of scapula, unsp shldr, 7thP
+S42.113S@Disp fx of body of scapula, unspecified shoulder, sequela
+S42.114A@Nondisp fx of body of scapula, right shoulder, init
+S42.114B@Nondisp fx of body of scapula, r shoulder, init for opn fx
+S42.114D@Nondisp fx of body of scapula, r shldr, 7thD
+S42.114G@Nondisp fx of body of scapula, r shldr, 7thG
+S42.114K@Nondisp fx of body of scapula, r shldr, 7thK
+S42.114P@Nondisp fx of body of scapula, r shldr, 7thP
+S42.114S@Nondisp fx of body of scapula, right shoulder, sequela
+S42.115A@Nondisp fx of body of scapula, left shoulder, init
+S42.115B@Nondisp fx of body of scapula, l shoulder, init for opn fx
+S42.115D@Nondisp fx of body of scapula, l shldr, 7thD
+S42.115G@Nondisp fx of body of scapula, l shldr, 7thG
+S42.115K@Nondisp fx of body of scapula, l shldr, 7thK
+S42.115P@Nondisp fx of body of scapula, l shldr, 7thP
+S42.115S@Nondisp fx of body of scapula, left shoulder, sequela
+S42.116A@Nondisp fx of body of scapula, unsp shoulder, init
+S42.116B@Nondisp fx of body of scapula, unsp shldr, init for opn fx
+S42.116D@Nondisp fx of body of scapula, unsp shldr, 7thD
+S42.116G@Nondisp fx of body of scapula, unsp shldr, 7thG
+S42.116K@Nondisp fx of body of scapula, unsp shldr, 7thK
+S42.116P@Nondisp fx of body of scapula, unsp shldr, 7thP
+S42.116S@Nondisp fx of body of scapula, unspecified shoulder, sequela
+S42.121A@Disp fx of acromial process, right shoulder, init
+S42.121B@Disp fx of acromial process, right shoulder, init for opn fx
+S42.121D@Disp fx of acromial pro, r shldr, subs for fx w routn heal
+S42.121G@Disp fx of acromial pro, r shldr, subs for fx w delay heal
+S42.121K@Disp fx of acromial process, r shldr, subs for fx w nonunion
+S42.121P@Disp fx of acromial process, r shldr, subs for fx w malunion
+S42.121S@Disp fx of acromial process, right shoulder, sequela
+S42.122A@Disp fx of acromial process, left shoulder, init for clos fx
+S42.122B@Disp fx of acromial process, left shoulder, init for opn fx
+S42.122D@Disp fx of acromial pro, l shldr, subs for fx w routn heal
+S42.122G@Disp fx of acromial pro, l shldr, subs for fx w delay heal
+S42.122K@Disp fx of acromial process, l shldr, subs for fx w nonunion
+S42.122P@Disp fx of acromial process, l shldr, subs for fx w malunion
+S42.122S@Disp fx of acromial process, left shoulder, sequela
+S42.123A@Disp fx of acromial process, unsp shoulder, init for clos fx
+S42.123B@Disp fx of acromial process, unsp shoulder, init for opn fx
+S42.123D@Disp fx of acromial pro, unsp shldr, 7thD
+S42.123G@Disp fx of acromial pro, unsp shldr, 7thG
+S42.123K@Disp fx of acromial pro, unsp shldr, subs for fx w nonunion
+S42.123P@Disp fx of acromial pro, unsp shldr, subs for fx w malunion
+S42.123S@Disp fx of acromial process, unspecified shoulder, sequela
+S42.124A@Nondisp fx of acromial process, right shoulder, init
+S42.124B@Nondisp fx of acromial process, r shoulder, init for opn fx
+S42.124D@Nondisp fx of acromial pro, r shldr, 7thD
+S42.124G@Nondisp fx of acromial pro, r shldr, 7thG
+S42.124K@Nondisp fx of acromial pro, r shldr, subs for fx w nonunion
+S42.124P@Nondisp fx of acromial pro, r shldr, subs for fx w malunion
+S42.124S@Nondisp fx of acromial process, right shoulder, sequela
+S42.125A@Nondisp fx of acromial process, left shoulder, init
+S42.125B@Nondisp fx of acromial process, l shoulder, init for opn fx
+S42.125D@Nondisp fx of acromial pro, l shldr, 7thD
+S42.125G@Nondisp fx of acromial pro, l shldr, 7thG
+S42.125K@Nondisp fx of acromial pro, l shldr, subs for fx w nonunion
+S42.125P@Nondisp fx of acromial pro, l shldr, subs for fx w malunion
+S42.125S@Nondisp fx of acromial process, left shoulder, sequela
+S42.126A@Nondisp fx of acromial process, unsp shoulder, init
+S42.126B@Nondisp fx of acromial process, unsp shldr, init for opn fx
+S42.126D@Nondisp fx of acromial pro, unsp shldr, 7thD
+S42.126G@Nondisp fx of acromial pro, unsp shldr, 7thG
+S42.126K@Nondisp fx of acromial pro, unsp shldr, 7thK
+S42.126P@Nondisp fx of acromial pro, unsp shldr, 7thP
+S42.126S@Nondisp fx of acromial process, unsp shoulder, sequela
+S42.131A@Disp fx of coracoid process, right shoulder, init
+S42.131B@Disp fx of coracoid process, right shoulder, init for opn fx
+S42.131D@Disp fx of coracoid pro, r shldr, subs for fx w routn heal
+S42.131G@Disp fx of coracoid pro, r shldr, subs for fx w delay heal
+S42.131K@Disp fx of coracoid process, r shldr, subs for fx w nonunion
+S42.131P@Disp fx of coracoid process, r shldr, subs for fx w malunion
+S42.131S@Disp fx of coracoid process, right shoulder, sequela
+S42.132A@Disp fx of coracoid process, left shoulder, init for clos fx
+S42.132B@Disp fx of coracoid process, left shoulder, init for opn fx
+S42.132D@Disp fx of coracoid pro, l shldr, subs for fx w routn heal
+S42.132G@Disp fx of coracoid pro, l shldr, subs for fx w delay heal
+S42.132K@Disp fx of coracoid process, l shldr, subs for fx w nonunion
+S42.132P@Disp fx of coracoid process, l shldr, subs for fx w malunion
+S42.132S@Disp fx of coracoid process, left shoulder, sequela
+S42.133A@Disp fx of coracoid process, unsp shoulder, init for clos fx
+S42.133B@Disp fx of coracoid process, unsp shoulder, init for opn fx
+S42.133D@Disp fx of coracoid pro, unsp shldr, 7thD
+S42.133G@Disp fx of coracoid pro, unsp shldr, 7thG
+S42.133K@Disp fx of coracoid pro, unsp shldr, subs for fx w nonunion
+S42.133P@Disp fx of coracoid pro, unsp shldr, subs for fx w malunion
+S42.133S@Disp fx of coracoid process, unspecified shoulder, sequela
+S42.134A@Nondisp fx of coracoid process, right shoulder, init
+S42.134B@Nondisp fx of coracoid process, r shoulder, init for opn fx
+S42.134D@Nondisp fx of coracoid pro, r shldr, 7thD
+S42.134G@Nondisp fx of coracoid pro, r shldr, 7thG
+S42.134K@Nondisp fx of coracoid pro, r shldr, subs for fx w nonunion
+S42.134P@Nondisp fx of coracoid pro, r shldr, subs for fx w malunion
+S42.134S@Nondisp fx of coracoid process, right shoulder, sequela
+S42.135A@Nondisp fx of coracoid process, left shoulder, init
+S42.135B@Nondisp fx of coracoid process, l shoulder, init for opn fx
+S42.135D@Nondisp fx of coracoid pro, l shldr, 7thD
+S42.135G@Nondisp fx of coracoid pro, l shldr, 7thG
+S42.135K@Nondisp fx of coracoid pro, l shldr, subs for fx w nonunion
+S42.135P@Nondisp fx of coracoid pro, l shldr, subs for fx w malunion
+S42.135S@Nondisp fx of coracoid process, left shoulder, sequela
+S42.136A@Nondisp fx of coracoid process, unsp shoulder, init
+S42.136B@Nondisp fx of coracoid process, unsp shldr, init for opn fx
+S42.136D@Nondisp fx of coracoid pro, unsp shldr, 7thD
+S42.136G@Nondisp fx of coracoid pro, unsp shldr, 7thG
+S42.136K@Nondisp fx of coracoid pro, unsp shldr, 7thK
+S42.136P@Nondisp fx of coracoid pro, unsp shldr, 7thP
+S42.136S@Nondisp fx of coracoid process, unsp shoulder, sequela
+S42.141A@Disp fx of glenoid cavity of scapula, right shoulder, init
+S42.141B@Disp fx of glenoid cav of scapula, r shldr, init for opn fx
+S42.141D@Disp fx of glenoid cav of scapula, r shldr, 7thD
+S42.141G@Disp fx of glenoid cav of scapula, r shldr, 7thG
+S42.141K@Disp fx of glenoid cav of scapula, r shldr, 7thK
+S42.141P@Disp fx of glenoid cav of scapula, r shldr, 7thP
+S42.141S@Disp fx of glenoid cav of scapula, right shoulder, sequela
+S42.142A@Disp fx of glenoid cavity of scapula, left shoulder, init
+S42.142B@Disp fx of glenoid cav of scapula, l shldr, init for opn fx
+S42.142D@Disp fx of glenoid cav of scapula, l shldr, 7thD
+S42.142G@Disp fx of glenoid cav of scapula, l shldr, 7thG
+S42.142K@Disp fx of glenoid cav of scapula, l shldr, 7thK
+S42.142P@Disp fx of glenoid cav of scapula, l shldr, 7thP
+S42.142S@Disp fx of glenoid cavity of scapula, left shoulder, sequela
+S42.143A@Disp fx of glenoid cavity of scapula, unsp shoulder, init
+S42.143B@Disp fx of glenoid cav of scapula, unsp shldr, 7thB
+S42.143D@Disp fx of glenoid cav of scapula, unsp shldr, 7thD
+S42.143G@Disp fx of glenoid cav of scapula, unsp shldr, 7thG
+S42.143K@Disp fx of glenoid cav of scapula, unsp shldr, 7thK
+S42.143P@Disp fx of glenoid cav of scapula, unsp shldr, 7thP
+S42.143S@Disp fx of glenoid cavity of scapula, unsp shoulder, sequela
+S42.144A@Nondisp fx of glenoid cav of scapula, right shoulder, init
+S42.144B@Nondisp fx of glenoid cav of scapula, r shldr, 7thB
+S42.144D@Nondisp fx of glenoid cav of scapula, r shldr, 7thD
+S42.144G@Nondisp fx of glenoid cav of scapula, r shldr, 7thG
+S42.144K@Nondisp fx of glenoid cav of scapula, r shldr, 7thK
+S42.144P@Nondisp fx of glenoid cav of scapula, r shldr, 7thP
+S42.144S@Nondisp fx of glenoid cav of scapula, r shoulder, sequela
+S42.145A@Nondisp fx of glenoid cavity of scapula, left shoulder, init
+S42.145B@Nondisp fx of glenoid cav of scapula, l shldr, 7thB
+S42.145D@Nondisp fx of glenoid cav of scapula, l shldr, 7thD
+S42.145G@Nondisp fx of glenoid cav of scapula, l shldr, 7thG
+S42.145K@Nondisp fx of glenoid cav of scapula, l shldr, 7thK
+S42.145P@Nondisp fx of glenoid cav of scapula, l shldr, 7thP
+S42.145S@Nondisp fx of glenoid cav of scapula, left shoulder, sequela
+S42.146A@Nondisp fx of glenoid cavity of scapula, unsp shoulder, init
+S42.146B@Nondisp fx of glenoid cav of scapula, unsp shldr, 7thB
+S42.146D@Nondisp fx of glenoid cav of scapula, unsp shldr, 7thD
+S42.146G@Nondisp fx of glenoid cav of scapula, unsp shldr, 7thG
+S42.146K@Nondisp fx of glenoid cav of scapula, unsp shldr, 7thK
+S42.146P@Nondisp fx of glenoid cav of scapula, unsp shldr, 7thP
+S42.146S@Nondisp fx of glenoid cav of scapula, unsp shoulder, sequela
+S42.151A@Disp fx of neck of scapula, right shoulder, init for clos fx
+S42.151B@Disp fx of neck of scapula, right shoulder, init for opn fx
+S42.151D@Disp fx of nk of scapula, r shldr, subs for fx w routn heal
+S42.151G@Disp fx of nk of scapula, r shldr, subs for fx w delay heal
+S42.151K@Disp fx of neck of scapula, r shldr, subs for fx w nonunion
+S42.151P@Disp fx of neck of scapula, r shldr, subs for fx w malunion
+S42.151S@Disp fx of neck of scapula, right shoulder, sequela
+S42.152A@Disp fx of neck of scapula, left shoulder, init for clos fx
+S42.152B@Disp fx of neck of scapula, left shoulder, init for opn fx
+S42.152D@Disp fx of nk of scapula, l shldr, subs for fx w routn heal
+S42.152G@Disp fx of nk of scapula, l shldr, subs for fx w delay heal
+S42.152K@Disp fx of neck of scapula, l shldr, subs for fx w nonunion
+S42.152P@Disp fx of neck of scapula, l shldr, subs for fx w malunion
+S42.152S@Disp fx of neck of scapula, left shoulder, sequela
+S42.153A@Disp fx of neck of scapula, unsp shoulder, init for clos fx
+S42.153B@Disp fx of neck of scapula, unsp shoulder, init for opn fx
+S42.153D@Disp fx of nk of scapula, unsp shldr, 7thD
+S42.153G@Disp fx of nk of scapula, unsp shldr, 7thG
+S42.153K@Disp fx of nk of scapula, unsp shldr, subs for fx w nonunion
+S42.153P@Disp fx of nk of scapula, unsp shldr, subs for fx w malunion
+S42.153S@Disp fx of neck of scapula, unspecified shoulder, sequela
+S42.154A@Nondisp fx of neck of scapula, right shoulder, init
+S42.154B@Nondisp fx of neck of scapula, r shoulder, init for opn fx
+S42.154D@Nondisp fx of nk of scapula, r shldr, 7thD
+S42.154G@Nondisp fx of nk of scapula, r shldr, 7thG
+S42.154K@Nondisp fx of nk of scapula, r shldr, subs for fx w nonunion
+S42.154P@Nondisp fx of nk of scapula, r shldr, subs for fx w malunion
+S42.154S@Nondisp fx of neck of scapula, right shoulder, sequela
+S42.155A@Nondisp fx of neck of scapula, left shoulder, init
+S42.155B@Nondisp fx of neck of scapula, l shoulder, init for opn fx
+S42.155D@Nondisp fx of nk of scapula, l shldr, 7thD
+S42.155G@Nondisp fx of nk of scapula, l shldr, 7thG
+S42.155K@Nondisp fx of nk of scapula, l shldr, subs for fx w nonunion
+S42.155P@Nondisp fx of nk of scapula, l shldr, subs for fx w malunion
+S42.155S@Nondisp fx of neck of scapula, left shoulder, sequela
+S42.156A@Nondisp fx of neck of scapula, unsp shoulder, init
+S42.156B@Nondisp fx of neck of scapula, unsp shldr, init for opn fx
+S42.156D@Nondisp fx of nk of scapula, unsp shldr, 7thD
+S42.156G@Nondisp fx of nk of scapula, unsp shldr, 7thG
+S42.156K@Nondisp fx of nk of scapula, unsp shldr, 7thK
+S42.156P@Nondisp fx of nk of scapula, unsp shldr, 7thP
+S42.156S@Nondisp fx of neck of scapula, unspecified shoulder, sequela
+S42.191A@Fracture of oth part of scapula, right shoulder, init
+S42.191B@Fracture oth prt scapula, right shoulder, init for opn fx
+S42.191D@Fx oth prt scapula, r shoulder, subs for fx w routn heal
+S42.191G@Fx oth prt scapula, r shoulder, subs for fx w delay heal
+S42.191K@Fracture oth prt scapula, r shoulder, subs for fx w nonunion
+S42.191P@Fracture oth prt scapula, r shoulder, subs for fx w malunion
+S42.191S@Fracture of other part of scapula, right shoulder, sequela
+S42.192A@Fracture of oth part of scapula, left shoulder, init
+S42.192B@Fracture oth prt scapula, left shoulder, init for opn fx
+S42.192D@Fx oth prt scapula, l shoulder, subs for fx w routn heal
+S42.192G@Fx oth prt scapula, l shoulder, subs for fx w delay heal
+S42.192K@Fracture oth prt scapula, l shoulder, subs for fx w nonunion
+S42.192P@Fracture oth prt scapula, l shoulder, subs for fx w malunion
+S42.192S@Fracture of other part of scapula, left shoulder, sequela
+S42.199A@Fracture of oth part of scapula, unsp shoulder, init
+S42.199B@Fracture oth prt scapula, unsp shoulder, init for opn fx
+S42.199D@Fx oth prt scapula, unsp shoulder, subs for fx w routn heal
+S42.199G@Fx oth prt scapula, unsp shoulder, subs for fx w delay heal
+S42.199K@Fx oth prt scapula, unsp shoulder, subs for fx w nonunion
+S42.199P@Fx oth prt scapula, unsp shoulder, subs for fx w malunion
+S42.199S@Fracture of other part of scapula, unsp shoulder, sequela
+S42.201A@Unsp fracture of upper end of right humerus, init
+S42.201B@Unsp fracture of upper end of right humerus, init for opn fx
+S42.201D@Unsp fx upper end of r humerus, subs for fx w routn heal
+S42.201G@Unsp fx upper end of r humerus, subs for fx w delay heal
+S42.201K@Unsp fx upper end of r humerus, subs for fx w nonunion
+S42.201P@Unsp fx upper end of r humerus, subs for fx w malunion
+S42.201S@Unspecified fracture of upper end of right humerus, sequela
+S42.202A@Unsp fracture of upper end of left humerus, init for clos fx
+S42.202B@Unsp fracture of upper end of left humerus, init for opn fx
+S42.202D@Unsp fx upper end of l humerus, subs for fx w routn heal
+S42.202G@Unsp fx upper end of l humerus, subs for fx w delay heal
+S42.202K@Unsp fx upper end of l humerus, subs for fx w nonunion
+S42.202P@Unsp fx upper end of l humerus, subs for fx w malunion
+S42.202S@Unspecified fracture of upper end of left humerus, sequela
+S42.209A@Unsp fracture of upper end of unsp humerus, init for clos fx
+S42.209B@Unsp fracture of upper end of unsp humerus, init for opn fx
+S42.209D@Unsp fx upper end of unsp humerus, subs for fx w routn heal
+S42.209G@Unsp fx upper end of unsp humerus, subs for fx w delay heal
+S42.209K@Unsp fx upper end of unsp humerus, subs for fx w nonunion
+S42.209P@Unsp fx upper end of unsp humerus, subs for fx w malunion
+S42.209S@Unsp fracture of upper end of unspecified humerus, sequela
+S42.211A@Unsp disp fx of surgical neck of right humerus, init
+S42.211B@Unsp disp fx of surgical neck of r humerus, init for opn fx
+S42.211D@Unsp disp fx of surg nk of r humer, subs for fx w routn heal
+S42.211G@Unsp disp fx of surg nk of r humer, subs for fx w delay heal
+S42.211K@Unsp disp fx of surg neck of r humer, subs for fx w nonunion
+S42.211P@Unsp disp fx of surg neck of r humer, subs for fx w malunion
+S42.211S@Unsp disp fx of surgical neck of right humerus, sequela
+S42.212A@Unsp disp fx of surgical neck of left humerus, init
+S42.212B@Unsp disp fx of surgical neck of l humerus, init for opn fx
+S42.212D@Unsp disp fx of surg nk of l humer, subs for fx w routn heal
+S42.212G@Unsp disp fx of surg nk of l humer, subs for fx w delay heal
+S42.212K@Unsp disp fx of surg neck of l humer, subs for fx w nonunion
+S42.212P@Unsp disp fx of surg neck of l humer, subs for fx w malunion
+S42.212S@Unsp disp fx of surgical neck of left humerus, sequela
+S42.213A@Unsp disp fx of surgical neck of unsp humerus, init
+S42.213B@Unsp disp fx of surg neck of unsp humerus, init for opn fx
+S42.213D@Unsp disp fx of surg nk of unsp humer, 7thD
+S42.213G@Unsp disp fx of surg nk of unsp humer, 7thG
+S42.213K@Unsp disp fx of surg nk of unsp humer, 7thK
+S42.213P@Unsp disp fx of surg nk of unsp humer, 7thP
+S42.213S@Unsp disp fx of surgical neck of unsp humerus, sequela
+S42.214A@Unsp nondisp fx of surgical neck of right humerus, init
+S42.214B@Unsp nondisp fx of surg neck of r humerus, init for opn fx
+S42.214D@Unsp nondisp fx of surg nk of r humer, 7thD
+S42.214G@Unsp nondisp fx of surg nk of r humer, 7thG
+S42.214K@Unsp nondisp fx of surg nk of r humer, 7thK
+S42.214P@Unsp nondisp fx of surg nk of r humer, 7thP
+S42.214S@Unsp nondisp fx of surgical neck of right humerus, sequela
+S42.215A@Unsp nondisp fx of surgical neck of left humerus, init
+S42.215B@Unsp nondisp fx of surg neck of l humerus, init for opn fx
+S42.215D@Unsp nondisp fx of surg nk of l humer, 7thD
+S42.215G@Unsp nondisp fx of surg nk of l humer, 7thG
+S42.215K@Unsp nondisp fx of surg nk of l humer, 7thK
+S42.215P@Unsp nondisp fx of surg nk of l humer, 7thP
+S42.215S@Unsp nondisp fx of surgical neck of left humerus, sequela
+S42.216A@Unsp nondisp fx of surgical neck of unsp humerus, init
+S42.216B@Unsp nondisp fx of surg neck of unsp humer, init for opn fx
+S42.216D@Unsp nondisp fx of surg nk of unsp humer, 7thD
+S42.216G@Unsp nondisp fx of surg nk of unsp humer, 7thG
+S42.216K@Unsp nondisp fx of surg nk of unsp humer, 7thK
+S42.216P@Unsp nondisp fx of surg nk of unsp humer, 7thP
+S42.216S@Unsp nondisp fx of surgical neck of unsp humerus, sequela
+S42.221A@2-part disp fx of surgical neck of right humerus, init
+S42.221B@2-part disp fx of surg neck of r humerus, init for opn fx
+S42.221D@2-part disp fx of surg nk of r humer, 7thD
+S42.221G@2-part disp fx of surg nk of r humer, 7thG
+S42.221K@2-part disp fx of surg nk of r humer, subs for fx w nonunion
+S42.221P@2-part disp fx of surg nk of r humer, subs for fx w malunion
+S42.221S@2-part disp fx of surgical neck of right humerus, sequela
+S42.222A@2-part disp fx of surgical neck of left humerus, init
+S42.222B@2-part disp fx of surg neck of l humerus, init for opn fx
+S42.222D@2-part disp fx of surg nk of l humer, 7thD
+S42.222G@2-part disp fx of surg nk of l humer, 7thG
+S42.222K@2-part disp fx of surg nk of l humer, subs for fx w nonunion
+S42.222P@2-part disp fx of surg nk of l humer, subs for fx w malunion
+S42.222S@2-part disp fx of surgical neck of left humerus, sequela
+S42.223A@2-part disp fx of surgical neck of unsp humerus, init
+S42.223B@2-part disp fx of surg neck of unsp humerus, init for opn fx
+S42.223D@2-part disp fx of surg nk of unsp humer, 7thD
+S42.223G@2-part disp fx of surg nk of unsp humer, 7thG
+S42.223K@2-part disp fx of surg nk of unsp humer, 7thK
+S42.223P@2-part disp fx of surg nk of unsp humer, 7thP
+S42.223S@2-part disp fx of surgical neck of unsp humerus, sequela
+S42.224A@2-part nondisp fx of surgical neck of right humerus, init
+S42.224B@2-part nondisp fx of surg neck of r humerus, init for opn fx
+S42.224D@2-part nondisp fx of surg nk of r humer, 7thD
+S42.224G@2-part nondisp fx of surg nk of r humer, 7thG
+S42.224K@2-part nondisp fx of surg nk of r humer, 7thK
+S42.224P@2-part nondisp fx of surg nk of r humer, 7thP
+S42.224S@2-part nondisp fx of surgical neck of right humerus, sequela
+S42.225A@2-part nondisp fx of surgical neck of left humerus, init
+S42.225B@2-part nondisp fx of surg neck of l humerus, init for opn fx
+S42.225D@2-part nondisp fx of surg nk of l humer, 7thD
+S42.225G@2-part nondisp fx of surg nk of l humer, 7thG
+S42.225K@2-part nondisp fx of surg nk of l humer, 7thK
+S42.225P@2-part nondisp fx of surg nk of l humer, 7thP
+S42.225S@2-part nondisp fx of surgical neck of left humerus, sequela
+S42.226A@2-part nondisp fx of surgical neck of unsp humerus, init
+S42.226B@2-part nondisp fx of surg nk of unsp humer, init for opn fx
+S42.226D@2-part nondisp fx of surg nk of unsp humer, 7thD
+S42.226G@2-part nondisp fx of surg nk of unsp humer, 7thG
+S42.226K@2-part nondisp fx of surg nk of unsp humer, 7thK
+S42.226P@2-part nondisp fx of surg nk of unsp humer, 7thP
+S42.226S@2-part nondisp fx of surgical neck of unsp humerus, sequela
+S42.231A@3-part fracture of surgical neck of right humerus, init
+S42.231B@3-part fx surgical neck of r humerus, init for opn fx
+S42.231D@3-part fx surg neck of r humerus, subs for fx w routn heal
+S42.231G@3-part fx surg neck of r humerus, subs for fx w delay heal
+S42.231K@3-part fx surgical neck of r humerus, subs for fx w nonunion
+S42.231P@3-part fx surgical neck of r humerus, subs for fx w malunion
+S42.231S@3-part fracture of surgical neck of right humerus, sequela
+S42.232A@3-part fracture of surgical neck of left humerus, init
+S42.232B@3-part fx surgical neck of l humerus, init for opn fx
+S42.232D@3-part fx surg neck of l humerus, subs for fx w routn heal
+S42.232G@3-part fx surg neck of l humerus, subs for fx w delay heal
+S42.232K@3-part fx surgical neck of l humerus, subs for fx w nonunion
+S42.232P@3-part fx surgical neck of l humerus, subs for fx w malunion
+S42.232S@3-part fracture of surgical neck of left humerus, sequela
+S42.239A@3-part fracture of surgical neck of unsp humerus, init
+S42.239B@3-part fx surgical neck of unsp humerus, init for opn fx
+S42.239D@3-part fx surg neck of unsp humer, subs for fx w routn heal
+S42.239G@3-part fx surg neck of unsp humer, subs for fx w delay heal
+S42.239K@3-part fx surg neck of unsp humerus, subs for fx w nonunion
+S42.239P@3-part fx surg neck of unsp humerus, subs for fx w malunion
+S42.239S@3-part fracture of surgical neck of unsp humerus, sequela
+S42.241A@4-part fracture of surgical neck of right humerus, init
+S42.241B@4-part fx surgical neck of r humerus, init for opn fx
+S42.241D@4-part fx surg neck of r humerus, subs for fx w routn heal
+S42.241G@4-part fx surg neck of r humerus, subs for fx w delay heal
+S42.241K@4-part fx surgical neck of r humerus, subs for fx w nonunion
+S42.241P@4-part fx surgical neck of r humerus, subs for fx w malunion
+S42.241S@4-part fracture of surgical neck of right humerus, sequela
+S42.242A@4-part fracture of surgical neck of left humerus, init
+S42.242B@4-part fx surgical neck of l humerus, init for opn fx
+S42.242D@4-part fx surg neck of l humerus, subs for fx w routn heal
+S42.242G@4-part fx surg neck of l humerus, subs for fx w delay heal
+S42.242K@4-part fx surgical neck of l humerus, subs for fx w nonunion
+S42.242P@4-part fx surgical neck of l humerus, subs for fx w malunion
+S42.242S@4-part fracture of surgical neck of left humerus, sequela
+S42.249A@4-part fracture of surgical neck of unsp humerus, init
+S42.249B@4-part fx surgical neck of unsp humerus, init for opn fx
+S42.249D@4-part fx surg neck of unsp humer, subs for fx w routn heal
+S42.249G@4-part fx surg neck of unsp humer, subs for fx w delay heal
+S42.249K@4-part fx surg neck of unsp humerus, subs for fx w nonunion
+S42.249P@4-part fx surg neck of unsp humerus, subs for fx w malunion
+S42.249S@4-part fracture of surgical neck of unsp humerus, sequela
+S42.251A@Disp fx of greater tuberosity of right humerus, init
+S42.251B@Disp fx of greater tuberosity of r humerus, init for opn fx
+S42.251D@Disp fx of greater tuberosity of r humer, 7thD
+S42.251G@Disp fx of greater tuberosity of r humer, 7thG
+S42.251K@Disp fx of greater tuberosity of r humer, 7thK
+S42.251P@Disp fx of greater tuberosity of r humer, 7thP
+S42.251S@Disp fx of greater tuberosity of right humerus, sequela
+S42.252A@Disp fx of greater tuberosity of left humerus, init
+S42.252B@Disp fx of greater tuberosity of l humerus, init for opn fx
+S42.252D@Disp fx of greater tuberosity of l humer, 7thD
+S42.252G@Disp fx of greater tuberosity of l humer, 7thG
+S42.252K@Disp fx of greater tuberosity of l humer, 7thK
+S42.252P@Disp fx of greater tuberosity of l humer, 7thP
+S42.252S@Disp fx of greater tuberosity of left humerus, sequela
+S42.253A@Disp fx of greater tuberosity of unsp humerus, init
+S42.253B@Disp fx of greater tuberosity of unsp humer, init for opn fx
+S42.253D@Disp fx of greater tuberosity of unsp humer, 7thD
+S42.253G@Disp fx of greater tuberosity of unsp humer, 7thG
+S42.253K@Disp fx of greater tuberosity of unsp humer, 7thK
+S42.253P@Disp fx of greater tuberosity of unsp humer, 7thP
+S42.253S@Disp fx of greater tuberosity of unsp humerus, sequela
+S42.254A@Nondisp fx of greater tuberosity of right humerus, init
+S42.254B@Nondisp fx of greater tuberosity of r humer, init for opn fx
+S42.254D@Nondisp fx of greater tuberosity of r humer, 7thD
+S42.254G@Nondisp fx of greater tuberosity of r humer, 7thG
+S42.254K@Nondisp fx of greater tuberosity of r humer, 7thK
+S42.254P@Nondisp fx of greater tuberosity of r humer, 7thP
+S42.254S@Nondisp fx of greater tuberosity of right humerus, sequela
+S42.255A@Nondisp fx of greater tuberosity of left humerus, init
+S42.255B@Nondisp fx of greater tuberosity of l humer, init for opn fx
+S42.255D@Nondisp fx of greater tuberosity of l humer, 7thD
+S42.255G@Nondisp fx of greater tuberosity of l humer, 7thG
+S42.255K@Nondisp fx of greater tuberosity of l humer, 7thK
+S42.255P@Nondisp fx of greater tuberosity of l humer, 7thP
+S42.255S@Nondisp fx of greater tuberosity of left humerus, sequela
+S42.256A@Nondisp fx of greater tuberosity of unsp humerus, init
+S42.256B@Nondisp fx of greater tuberosity of unsp humer, 7thB
+S42.256D@Nondisp fx of greater tuberosity of unsp humer, 7thD
+S42.256G@Nondisp fx of greater tuberosity of unsp humer, 7thG
+S42.256K@Nondisp fx of greater tuberosity of unsp humer, 7thK
+S42.256P@Nondisp fx of greater tuberosity of unsp humer, 7thP
+S42.256S@Nondisp fx of greater tuberosity of unsp humerus, sequela
+S42.261A@Disp fx of lesser tuberosity of right humerus, init
+S42.261B@Disp fx of lesser tuberosity of r humerus, init for opn fx
+S42.261D@Disp fx of less tuberosity of r humer, 7thD
+S42.261G@Disp fx of less tuberosity of r humer, 7thG
+S42.261K@Disp fx of less tuberosity of r humer, 7thK
+S42.261P@Disp fx of less tuberosity of r humer, 7thP
+S42.261S@Disp fx of lesser tuberosity of right humerus, sequela
+S42.262A@Disp fx of lesser tuberosity of left humerus, init
+S42.262B@Disp fx of lesser tuberosity of l humerus, init for opn fx
+S42.262D@Disp fx of less tuberosity of l humer, 7thD
+S42.262G@Disp fx of less tuberosity of l humer, 7thG
+S42.262K@Disp fx of less tuberosity of l humer, 7thK
+S42.262P@Disp fx of less tuberosity of l humer, 7thP
+S42.262S@Disp fx of lesser tuberosity of left humerus, sequela
+S42.263A@Disp fx of lesser tuberosity of unsp humerus, init
+S42.263B@Disp fx of lesser tuberosity of unsp humer, init for opn fx
+S42.263D@Disp fx of less tuberosity of unsp humer, 7thD
+S42.263G@Disp fx of less tuberosity of unsp humer, 7thG
+S42.263K@Disp fx of less tuberosity of unsp humer, 7thK
+S42.263P@Disp fx of less tuberosity of unsp humer, 7thP
+S42.263S@Disp fx of lesser tuberosity of unspecified humerus, sequela
+S42.264A@Nondisp fx of lesser tuberosity of right humerus, init
+S42.264B@Nondisp fx of lesser tuberosity of r humer, init for opn fx
+S42.264D@Nondisp fx of less tuberosity of r humer, 7thD
+S42.264G@Nondisp fx of less tuberosity of r humer, 7thG
+S42.264K@Nondisp fx of less tuberosity of r humer, 7thK
+S42.264P@Nondisp fx of less tuberosity of r humer, 7thP
+S42.264S@Nondisp fx of lesser tuberosity of right humerus, sequela
+S42.265A@Nondisp fx of lesser tuberosity of left humerus, init
+S42.265B@Nondisp fx of lesser tuberosity of l humer, init for opn fx
+S42.265D@Nondisp fx of less tuberosity of l humer, 7thD
+S42.265G@Nondisp fx of less tuberosity of l humer, 7thG
+S42.265K@Nondisp fx of less tuberosity of l humer, 7thK
+S42.265P@Nondisp fx of less tuberosity of l humer, 7thP
+S42.265S@Nondisp fx of lesser tuberosity of left humerus, sequela
+S42.266A@Nondisp fx of lesser tuberosity of unsp humerus, init
+S42.266B@Nondisp fx of less tuberosity of unsp humer, init for opn fx
+S42.266D@Nondisp fx of less tuberosity of unsp humer, 7thD
+S42.266G@Nondisp fx of less tuberosity of unsp humer, 7thG
+S42.266K@Nondisp fx of less tuberosity of unsp humer, 7thK
+S42.266P@Nondisp fx of less tuberosity of unsp humer, 7thP
+S42.266S@Nondisp fx of lesser tuberosity of unsp humerus, sequela
+S42.271A@Torus fracture of upper end of right humerus, init
+S42.271D@Torus fx upper end of r humerus, subs for fx w routn heal
+S42.271G@Torus fx upper end of r humerus, subs for fx w delay heal
+S42.271K@Torus fx upper end of r humerus, subs for fx w nonunion
+S42.271P@Torus fx upper end of r humerus, subs for fx w malunion
+S42.271S@Torus fracture of upper end of right humerus, sequela
+S42.272A@Torus fracture of upper end of left humerus, init
+S42.272D@Torus fx upper end of l humerus, subs for fx w routn heal
+S42.272G@Torus fx upper end of l humerus, subs for fx w delay heal
+S42.272K@Torus fx upper end of l humerus, subs for fx w nonunion
+S42.272P@Torus fx upper end of l humerus, subs for fx w malunion
+S42.272S@Torus fracture of upper end of left humerus, sequela
+S42.279A@Torus fracture of upper end of unsp humerus, init
+S42.279D@Torus fx upper end of unsp humerus, subs for fx w routn heal
+S42.279G@Torus fx upper end of unsp humerus, subs for fx w delay heal
+S42.279K@Torus fx upper end of unsp humerus, subs for fx w nonunion
+S42.279P@Torus fx upper end of unsp humerus, subs for fx w malunion
+S42.279S@Torus fracture of upper end of unspecified humerus, sequela
+S42.291A@Oth disp fx of upper end of right humerus, init for clos fx
+S42.291B@Oth disp fx of upper end of right humerus, init for opn fx
+S42.291D@Oth disp fx of upper end r humer, subs for fx w routn heal
+S42.291G@Oth disp fx of upper end r humer, subs for fx w delay heal
+S42.291K@Oth disp fx of upper end of r humer, subs for fx w nonunion
+S42.291P@Oth disp fx of upper end of r humer, subs for fx w malunion
+S42.291S@Other disp fx of upper end of right humerus, sequela
+S42.292A@Oth disp fx of upper end of left humerus, init for clos fx
+S42.292B@Oth disp fx of upper end of left humerus, init for opn fx
+S42.292D@Oth disp fx of upper end l humer, subs for fx w routn heal
+S42.292G@Oth disp fx of upper end l humer, subs for fx w delay heal
+S42.292K@Oth disp fx of upper end of l humer, subs for fx w nonunion
+S42.292P@Oth disp fx of upper end of l humer, subs for fx w malunion
+S42.292S@Other disp fx of upper end of left humerus, sequela
+S42.293A@Oth disp fx of upper end of unsp humerus, init for clos fx
+S42.293B@Oth disp fx of upper end of unsp humerus, init for opn fx
+S42.293D@Oth disp fx of upr end unsp humer, subs for fx w routn heal
+S42.293G@Oth disp fx of upr end unsp humer, subs for fx w delay heal
+S42.293K@Oth disp fx of upper end unsp humer, subs for fx w nonunion
+S42.293P@Oth disp fx of upper end unsp humer, subs for fx w malunion
+S42.293S@Other disp fx of upper end of unspecified humerus, sequela
+S42.294A@Oth nondisp fx of upper end of right humerus, init
+S42.294B@Oth nondisp fx of upper end of r humerus, init for opn fx
+S42.294D@Oth nondisp fx of upr end r humer, subs for fx w routn heal
+S42.294G@Oth nondisp fx of upr end r humer, subs for fx w delay heal
+S42.294K@Oth nondisp fx of upper end r humer, subs for fx w nonunion
+S42.294P@Oth nondisp fx of upper end r humer, subs for fx w malunion
+S42.294S@Other nondisp fx of upper end of right humerus, sequela
+S42.295A@Oth nondisp fx of upper end of left humerus, init
+S42.295B@Oth nondisp fx of upper end of left humerus, init for opn fx
+S42.295D@Oth nondisp fx of upr end l humer, subs for fx w routn heal
+S42.295G@Oth nondisp fx of upr end l humer, subs for fx w delay heal
+S42.295K@Oth nondisp fx of upper end l humer, subs for fx w nonunion
+S42.295P@Oth nondisp fx of upper end l humer, subs for fx w malunion
+S42.295S@Other nondisp fx of upper end of left humerus, sequela
+S42.296A@Oth nondisp fx of upper end of unsp humerus, init
+S42.296B@Oth nondisp fx of upper end of unsp humerus, init for opn fx
+S42.296D@Oth nondisp fx of upr end unsp humer, 7thD
+S42.296G@Oth nondisp fx of upr end unsp humer, 7thG
+S42.296K@Oth nondisp fx of upr end unsp humer, subs for fx w nonunion
+S42.296P@Oth nondisp fx of upr end unsp humer, subs for fx w malunion
+S42.296S@Other nondisp fx of upper end of unsp humerus, sequela
+S42.301A@Unsp fracture of shaft of humerus, right arm, init
+S42.301B@Unsp fx shaft of humerus, right arm, init for opn fx
+S42.301D@Unsp fx shaft of humer, right arm, subs for fx w routn heal
+S42.301G@Unsp fx shaft of humer, right arm, subs for fx w delay heal
+S42.301K@Unsp fx shaft of humerus, right arm, subs for fx w nonunion
+S42.301P@Unsp fx shaft of humerus, right arm, subs for fx w malunion
+S42.301S@Unspecified fracture of shaft of humerus, right arm, sequela
+S42.302A@Unsp fracture of shaft of humerus, left arm, init
+S42.302B@Unsp fracture of shaft of humerus, left arm, init for opn fx
+S42.302D@Unsp fx shaft of humerus, left arm, subs for fx w routn heal
+S42.302G@Unsp fx shaft of humerus, left arm, subs for fx w delay heal
+S42.302K@Unsp fx shaft of humerus, left arm, subs for fx w nonunion
+S42.302P@Unsp fx shaft of humerus, left arm, subs for fx w malunion
+S42.302S@Unspecified fracture of shaft of humerus, left arm, sequela
+S42.309A@Unsp fracture of shaft of humerus, unsp arm, init
+S42.309B@Unsp fracture of shaft of humerus, unsp arm, init for opn fx
+S42.309D@Unsp fx shaft of humerus, unsp arm, subs for fx w routn heal
+S42.309G@Unsp fx shaft of humerus, unsp arm, subs for fx w delay heal
+S42.309K@Unsp fx shaft of humerus, unsp arm, subs for fx w nonunion
+S42.309P@Unsp fx shaft of humerus, unsp arm, subs for fx w malunion
+S42.309S@Unsp fracture of shaft of humerus, unspecified arm, sequela
+S42.311A@Greenstick fracture of shaft of humerus, right arm, init
+S42.311D@Greenstick fx shaft of humer, r arm, 7thD
+S42.311G@Greenstick fx shaft of humer, r arm, 7thG
+S42.311K@Greenstick fx shaft of humer, r arm, subs for fx w nonunion
+S42.311P@Greenstick fx shaft of humer, r arm, subs for fx w malunion
+S42.311S@Greenstick fracture of shaft of humerus, right arm, sequela
+S42.312A@Greenstick fracture of shaft of humerus, left arm, init
+S42.312D@Greenstick fx shaft of humer, l arm, 7thD
+S42.312G@Greenstick fx shaft of humer, l arm, 7thG
+S42.312K@Greenstick fx shaft of humer, l arm, subs for fx w nonunion
+S42.312P@Greenstick fx shaft of humer, l arm, subs for fx w malunion
+S42.312S@Greenstick fracture of shaft of humerus, left arm, sequela
+S42.319A@Greenstick fracture of shaft of humerus, unsp arm, init
+S42.319D@Greenstick fx shaft of humer, unsp arm, 7thD
+S42.319G@Greenstick fx shaft of humer, unsp arm, 7thG
+S42.319K@Greenstick fx shaft of humer, unsp arm, 7thK
+S42.319P@Greenstick fx shaft of humer, unsp arm, 7thP
+S42.319S@Greenstick fracture of shaft of humerus, unsp arm, sequela
+S42.321A@Displaced transverse fx shaft of humerus, right arm, init
+S42.321B@Displ transverse fx shaft of humer, r arm, init for opn fx
+S42.321D@Displ transverse fx shaft of humer, r arm, 7thD
+S42.321G@Displ transverse fx shaft of humer, r arm, 7thG
+S42.321K@Displ transverse fx shaft of humer, r arm, 7thK
+S42.321P@Displ transverse fx shaft of humer, r arm, 7thP
+S42.321S@Displaced transverse fx shaft of humerus, right arm, sequela
+S42.322A@Displaced transverse fx shaft of humerus, left arm, init
+S42.322B@Displ transverse fx shaft of humer, l arm, init for opn fx
+S42.322D@Displ transverse fx shaft of humer, l arm, 7thD
+S42.322G@Displ transverse fx shaft of humer, l arm, 7thG
+S42.322K@Displ transverse fx shaft of humer, l arm, 7thK
+S42.322P@Displ transverse fx shaft of humer, l arm, 7thP
+S42.322S@Displaced transverse fx shaft of humerus, left arm, sequela
+S42.323A@Displaced transverse fx shaft of humerus, unsp arm, init
+S42.323B@Displ transverse fx shaft of humer, unsp arm, 7thB
+S42.323D@Displ transverse fx shaft of humer, unsp arm, 7thD
+S42.323G@Displ transverse fx shaft of humer, unsp arm, 7thG
+S42.323K@Displ transverse fx shaft of humer, unsp arm, 7thK
+S42.323P@Displ transverse fx shaft of humer, unsp arm, 7thP
+S42.323S@Displaced transverse fx shaft of humerus, unsp arm, sequela
+S42.324A@Nondisp transverse fx shaft of humerus, right arm, init
+S42.324B@Nondisp transverse fx shaft of humer, r arm, init for opn fx
+S42.324D@Nondisp transverse fx shaft of humer, r arm, 7thD
+S42.324G@Nondisp transverse fx shaft of humer, r arm, 7thG
+S42.324K@Nondisp transverse fx shaft of humer, r arm, 7thK
+S42.324P@Nondisp transverse fx shaft of humer, r arm, 7thP
+S42.324S@Nondisp transverse fx shaft of humerus, right arm, sequela
+S42.325A@Nondisp transverse fx shaft of humerus, left arm, init
+S42.325B@Nondisp transverse fx shaft of humer, l arm, init for opn fx
+S42.325D@Nondisp transverse fx shaft of humer, l arm, 7thD
+S42.325G@Nondisp transverse fx shaft of humer, l arm, 7thG
+S42.325K@Nondisp transverse fx shaft of humer, l arm, 7thK
+S42.325P@Nondisp transverse fx shaft of humer, l arm, 7thP
+S42.325S@Nondisp transverse fx shaft of humerus, left arm, sequela
+S42.326A@Nondisp transverse fx shaft of humerus, unsp arm, init
+S42.326B@Nondisp transverse fx shaft of humer, unsp arm, 7thB
+S42.326D@Nondisp transverse fx shaft of humer, unsp arm, 7thD
+S42.326G@Nondisp transverse fx shaft of humer, unsp arm, 7thG
+S42.326K@Nondisp transverse fx shaft of humer, unsp arm, 7thK
+S42.326P@Nondisp transverse fx shaft of humer, unsp arm, 7thP
+S42.326S@Nondisp transverse fx shaft of humerus, unsp arm, sequela
+S42.331A@Displaced oblique fx shaft of humerus, right arm, init
+S42.331B@Displ oblique fx shaft of humer, right arm, init for opn fx
+S42.331D@Displ oblique fx shaft of humer, r arm, 7thD
+S42.331G@Displ oblique fx shaft of humer, r arm, 7thG
+S42.331K@Displ oblique fx shaft of humer, r arm, 7thK
+S42.331P@Displ oblique fx shaft of humer, r arm, 7thP
+S42.331S@Displaced oblique fx shaft of humerus, right arm, sequela
+S42.332A@Displaced oblique fx shaft of humerus, left arm, init
+S42.332B@Displ oblique fx shaft of humerus, left arm, init for opn fx
+S42.332D@Displ oblique fx shaft of humer, l arm, 7thD
+S42.332G@Displ oblique fx shaft of humer, l arm, 7thG
+S42.332K@Displ oblique fx shaft of humer, l arm, 7thK
+S42.332P@Displ oblique fx shaft of humer, l arm, 7thP
+S42.332S@Displaced oblique fx shaft of humerus, left arm, sequela
+S42.333A@Displaced oblique fx shaft of humerus, unsp arm, init
+S42.333B@Displ oblique fx shaft of humerus, unsp arm, init for opn fx
+S42.333D@Displ oblique fx shaft of humer, unsp arm, 7thD
+S42.333G@Displ oblique fx shaft of humer, unsp arm, 7thG
+S42.333K@Displ oblique fx shaft of humer, unsp arm, 7thK
+S42.333P@Displ oblique fx shaft of humer, unsp arm, 7thP
+S42.333S@Displaced oblique fx shaft of humerus, unsp arm, sequela
+S42.334A@Nondisp oblique fx shaft of humerus, right arm, init
+S42.334B@Nondisp oblique fx shaft of humer, r arm, init for opn fx
+S42.334D@Nondisp oblique fx shaft of humer, r arm, 7thD
+S42.334G@Nondisp oblique fx shaft of humer, r arm, 7thG
+S42.334K@Nondisp oblique fx shaft of humer, r arm, 7thK
+S42.334P@Nondisp oblique fx shaft of humer, r arm, 7thP
+S42.334S@Nondisp oblique fx shaft of humerus, right arm, sequela
+S42.335A@Nondisp oblique fracture of shaft of humerus, left arm, init
+S42.335B@Nondisp oblique fx shaft of humer, left arm, init for opn fx
+S42.335D@Nondisp oblique fx shaft of humer, l arm, 7thD
+S42.335G@Nondisp oblique fx shaft of humer, l arm, 7thG
+S42.335K@Nondisp oblique fx shaft of humer, l arm, 7thK
+S42.335P@Nondisp oblique fx shaft of humer, l arm, 7thP
+S42.335S@Nondisp oblique fx shaft of humerus, left arm, sequela
+S42.336A@Nondisp oblique fracture of shaft of humerus, unsp arm, init
+S42.336B@Nondisp oblique fx shaft of humer, unsp arm, init for opn fx
+S42.336D@Nondisp oblique fx shaft of humer, unsp arm, 7thD
+S42.336G@Nondisp oblique fx shaft of humer, unsp arm, 7thG
+S42.336K@Nondisp oblique fx shaft of humer, unsp arm, 7thK
+S42.336P@Nondisp oblique fx shaft of humer, unsp arm, 7thP
+S42.336S@Nondisp oblique fx shaft of humerus, unsp arm, sequela
+S42.341A@Displaced spiral fx shaft of humerus, right arm, init
+S42.341B@Displ spiral fx shaft of humerus, right arm, init for opn fx
+S42.341D@Displ spiral fx shaft of humer, r arm, 7thD
+S42.341G@Displ spiral fx shaft of humer, r arm, 7thG
+S42.341K@Displ spiral fx shaft of humer, r arm, 7thK
+S42.341P@Displ spiral fx shaft of humer, r arm, 7thP
+S42.341S@Displaced spiral fx shaft of humerus, right arm, sequela
+S42.342A@Displaced spiral fx shaft of humerus, left arm, init
+S42.342B@Displ spiral fx shaft of humerus, left arm, init for opn fx
+S42.342D@Displ spiral fx shaft of humer, l arm, 7thD
+S42.342G@Displ spiral fx shaft of humer, l arm, 7thG
+S42.342K@Displ spiral fx shaft of humer, l arm, 7thK
+S42.342P@Displ spiral fx shaft of humer, l arm, 7thP
+S42.342S@Displaced spiral fx shaft of humerus, left arm, sequela
+S42.343A@Displaced spiral fx shaft of humerus, unsp arm, init
+S42.343B@Displ spiral fx shaft of humerus, unsp arm, init for opn fx
+S42.343D@Displ spiral fx shaft of humer, unsp arm, 7thD
+S42.343G@Displ spiral fx shaft of humer, unsp arm, 7thG
+S42.343K@Displ spiral fx shaft of humer, unsp arm, 7thK
+S42.343P@Displ spiral fx shaft of humer, unsp arm, 7thP
+S42.343S@Displaced spiral fx shaft of humerus, unsp arm, sequela
+S42.344A@Nondisp spiral fracture of shaft of humerus, right arm, init
+S42.344B@Nondisp spiral fx shaft of humer, right arm, init for opn fx
+S42.344D@Nondisp spiral fx shaft of humer, r arm, 7thD
+S42.344G@Nondisp spiral fx shaft of humer, r arm, 7thG
+S42.344K@Nondisp spiral fx shaft of humer, r arm, 7thK
+S42.344P@Nondisp spiral fx shaft of humer, r arm, 7thP
+S42.344S@Nondisp spiral fx shaft of humerus, right arm, sequela
+S42.345A@Nondisp spiral fracture of shaft of humerus, left arm, init
+S42.345B@Nondisp spiral fx shaft of humer, left arm, init for opn fx
+S42.345D@Nondisp spiral fx shaft of humer, l arm, 7thD
+S42.345G@Nondisp spiral fx shaft of humer, l arm, 7thG
+S42.345K@Nondisp spiral fx shaft of humer, l arm, 7thK
+S42.345P@Nondisp spiral fx shaft of humer, l arm, 7thP
+S42.345S@Nondisp spiral fx shaft of humerus, left arm, sequela
+S42.346A@Nondisp spiral fracture of shaft of humerus, unsp arm, init
+S42.346B@Nondisp spiral fx shaft of humer, unsp arm, init for opn fx
+S42.346D@Nondisp spiral fx shaft of humer, unsp arm, 7thD
+S42.346G@Nondisp spiral fx shaft of humer, unsp arm, 7thG
+S42.346K@Nondisp spiral fx shaft of humer, unsp arm, 7thK
+S42.346P@Nondisp spiral fx shaft of humer, unsp arm, 7thP
+S42.346S@Nondisp spiral fx shaft of humerus, unsp arm, sequela
+S42.351A@Displaced comminuted fx shaft of humerus, right arm, init
+S42.351B@Displ commnt fx shaft of humerus, right arm, init for opn fx
+S42.351D@Displ commnt fx shaft of humer, r arm, 7thD
+S42.351G@Displ commnt fx shaft of humer, r arm, 7thG
+S42.351K@Displ commnt fx shaft of humer, r arm, 7thK
+S42.351P@Displ commnt fx shaft of humer, r arm, 7thP
+S42.351S@Displaced comminuted fx shaft of humerus, right arm, sequela
+S42.352A@Displaced comminuted fx shaft of humerus, left arm, init
+S42.352B@Displ commnt fx shaft of humerus, left arm, init for opn fx
+S42.352D@Displ commnt fx shaft of humer, l arm, 7thD
+S42.352G@Displ commnt fx shaft of humer, l arm, 7thG
+S42.352K@Displ commnt fx shaft of humer, l arm, 7thK
+S42.352P@Displ commnt fx shaft of humer, l arm, 7thP
+S42.352S@Displaced comminuted fx shaft of humerus, left arm, sequela
+S42.353A@Displaced comminuted fx shaft of humerus, unsp arm, init
+S42.353B@Displ commnt fx shaft of humerus, unsp arm, init for opn fx
+S42.353D@Displ commnt fx shaft of humer, unsp arm, 7thD
+S42.353G@Displ commnt fx shaft of humer, unsp arm, 7thG
+S42.353K@Displ commnt fx shaft of humer, unsp arm, 7thK
+S42.353P@Displ commnt fx shaft of humer, unsp arm, 7thP
+S42.353S@Displaced comminuted fx shaft of humerus, unsp arm, sequela
+S42.354A@Nondisp comminuted fx shaft of humerus, right arm, init
+S42.354B@Nondisp commnt fx shaft of humer, right arm, init for opn fx
+S42.354D@Nondisp commnt fx shaft of humer, r arm, 7thD
+S42.354G@Nondisp commnt fx shaft of humer, r arm, 7thG
+S42.354K@Nondisp commnt fx shaft of humer, r arm, 7thK
+S42.354P@Nondisp commnt fx shaft of humer, r arm, 7thP
+S42.354S@Nondisp comminuted fx shaft of humerus, right arm, sequela
+S42.355A@Nondisp comminuted fx shaft of humerus, left arm, init
+S42.355B@Nondisp commnt fx shaft of humer, left arm, init for opn fx
+S42.355D@Nondisp commnt fx shaft of humer, l arm, 7thD
+S42.355G@Nondisp commnt fx shaft of humer, l arm, 7thG
+S42.355K@Nondisp commnt fx shaft of humer, l arm, 7thK
+S42.355P@Nondisp commnt fx shaft of humer, l arm, 7thP
+S42.355S@Nondisp comminuted fx shaft of humerus, left arm, sequela
+S42.356A@Nondisp comminuted fx shaft of humerus, unsp arm, init
+S42.356B@Nondisp commnt fx shaft of humer, unsp arm, init for opn fx
+S42.356D@Nondisp commnt fx shaft of humer, unsp arm, 7thD
+S42.356G@Nondisp commnt fx shaft of humer, unsp arm, 7thG
+S42.356K@Nondisp commnt fx shaft of humer, unsp arm, 7thK
+S42.356P@Nondisp commnt fx shaft of humer, unsp arm, 7thP
+S42.356S@Nondisp comminuted fx shaft of humerus, unsp arm, sequela
+S42.361A@Displaced segmental fx shaft of humerus, right arm, init
+S42.361B@Displ seg fx shaft of humerus, right arm, init for opn fx
+S42.361D@Displ seg fx shaft of humer, r arm, subs for fx w routn heal
+S42.361G@Displ seg fx shaft of humer, r arm, subs for fx w delay heal
+S42.361K@Displ seg fx shaft of humer, r arm, subs for fx w nonunion
+S42.361P@Displ seg fx shaft of humer, r arm, subs for fx w malunion
+S42.361S@Displaced segmental fx shaft of humerus, right arm, sequela
+S42.362A@Displaced segmental fx shaft of humerus, left arm, init
+S42.362B@Displ seg fx shaft of humerus, left arm, init for opn fx
+S42.362D@Displ seg fx shaft of humer, l arm, subs for fx w routn heal
+S42.362G@Displ seg fx shaft of humer, l arm, subs for fx w delay heal
+S42.362K@Displ seg fx shaft of humer, l arm, subs for fx w nonunion
+S42.362P@Displ seg fx shaft of humer, l arm, subs for fx w malunion
+S42.362S@Displaced segmental fx shaft of humerus, left arm, sequela
+S42.363A@Displaced segmental fx shaft of humerus, unsp arm, init
+S42.363B@Displ seg fx shaft of humerus, unsp arm, init for opn fx
+S42.363D@Displ seg fx shaft of humer, unsp arm, 7thD
+S42.363G@Displ seg fx shaft of humer, unsp arm, 7thG
+S42.363K@Displ seg fx shaft of humer, unsp arm, 7thK
+S42.363P@Displ seg fx shaft of humer, unsp arm, 7thP
+S42.363S@Displaced segmental fx shaft of humerus, unsp arm, sequela
+S42.364A@Nondisp segmental fx shaft of humerus, right arm, init
+S42.364B@Nondisp seg fx shaft of humerus, right arm, init for opn fx
+S42.364D@Nondisp seg fx shaft of humer, r arm, 7thD
+S42.364G@Nondisp seg fx shaft of humer, r arm, 7thG
+S42.364K@Nondisp seg fx shaft of humer, r arm, subs for fx w nonunion
+S42.364P@Nondisp seg fx shaft of humer, r arm, subs for fx w malunion
+S42.364S@Nondisp segmental fx shaft of humerus, right arm, sequela
+S42.365A@Nondisp segmental fx shaft of humerus, left arm, init
+S42.365B@Nondisp seg fx shaft of humerus, left arm, init for opn fx
+S42.365D@Nondisp seg fx shaft of humer, l arm, 7thD
+S42.365G@Nondisp seg fx shaft of humer, l arm, 7thG
+S42.365K@Nondisp seg fx shaft of humer, l arm, subs for fx w nonunion
+S42.365P@Nondisp seg fx shaft of humer, l arm, subs for fx w malunion
+S42.365S@Nondisp segmental fx shaft of humerus, left arm, sequela
+S42.366A@Nondisp segmental fx shaft of humerus, unsp arm, init
+S42.366B@Nondisp seg fx shaft of humerus, unsp arm, init for opn fx
+S42.366D@Nondisp seg fx shaft of humer, unsp arm, 7thD
+S42.366G@Nondisp seg fx shaft of humer, unsp arm, 7thG
+S42.366K@Nondisp seg fx shaft of humer, unsp arm, 7thK
+S42.366P@Nondisp seg fx shaft of humer, unsp arm, 7thP
+S42.366S@Nondisp segmental fx shaft of humerus, unsp arm, sequela
+S42.391A@Oth fracture of shaft of right humerus, init for clos fx
+S42.391B@Oth fracture of shaft of right humerus, init for opn fx
+S42.391D@Oth fracture of shaft of r humerus, subs for fx w routn heal
+S42.391G@Oth fracture of shaft of r humerus, subs for fx w delay heal
+S42.391K@Oth fracture of shaft of r humerus, subs for fx w nonunion
+S42.391P@Oth fracture of shaft of r humerus, subs for fx w malunion
+S42.391S@Other fracture of shaft of right humerus, sequela
+S42.392A@Oth fracture of shaft of left humerus, init for clos fx
+S42.392B@Oth fracture of shaft of left humerus, init for opn fx
+S42.392D@Oth fracture of shaft of l humerus, subs for fx w routn heal
+S42.392G@Oth fracture of shaft of l humerus, subs for fx w delay heal
+S42.392K@Oth fracture of shaft of l humerus, subs for fx w nonunion
+S42.392P@Oth fracture of shaft of l humerus, subs for fx w malunion
+S42.392S@Other fracture of shaft of left humerus, sequela
+S42.399A@Oth fracture of shaft of unsp humerus, init for clos fx
+S42.399B@Oth fracture of shaft of unsp humerus, init for opn fx
+S42.399D@Oth fx shaft of unsp humerus, subs for fx w routn heal
+S42.399G@Oth fx shaft of unsp humerus, subs for fx w delay heal
+S42.399K@Oth fx shaft of unsp humerus, subs for fx w nonunion
+S42.399P@Oth fx shaft of unsp humerus, subs for fx w malunion
+S42.399S@Other fracture of shaft of unspecified humerus, sequela
+S42.401A@Unsp fracture of lower end of right humerus, init
+S42.401B@Unsp fracture of lower end of right humerus, init for opn fx
+S42.401D@Unsp fx lower end of r humerus, subs for fx w routn heal
+S42.401G@Unsp fx lower end of r humerus, subs for fx w delay heal
+S42.401K@Unsp fx lower end of r humerus, subs for fx w nonunion
+S42.401P@Unsp fx lower end of r humerus, subs for fx w malunion
+S42.401S@Unspecified fracture of lower end of right humerus, sequela
+S42.402A@Unsp fracture of lower end of left humerus, init for clos fx
+S42.402B@Unsp fracture of lower end of left humerus, init for opn fx
+S42.402D@Unsp fx lower end of l humerus, subs for fx w routn heal
+S42.402G@Unsp fx lower end of l humerus, subs for fx w delay heal
+S42.402K@Unsp fx lower end of l humerus, subs for fx w nonunion
+S42.402P@Unsp fx lower end of l humerus, subs for fx w malunion
+S42.402S@Unspecified fracture of lower end of left humerus, sequela
+S42.409A@Unsp fracture of lower end of unsp humerus, init for clos fx
+S42.409B@Unsp fracture of lower end of unsp humerus, init for opn fx
+S42.409D@Unsp fx lower end of unsp humerus, subs for fx w routn heal
+S42.409G@Unsp fx lower end of unsp humerus, subs for fx w delay heal
+S42.409K@Unsp fx lower end of unsp humerus, subs for fx w nonunion
+S42.409P@Unsp fx lower end of unsp humerus, subs for fx w malunion
+S42.409S@Unsp fracture of lower end of unspecified humerus, sequela
+S42.411A@Displ simple suprcndl fx w/o intrcndl fx r humerus, init
+S42.411B@Displ simp suprcndl fx w/o intrcndl fx r humer, 7thB
+S42.411D@Displ simp suprcndl fx w/o intrcndl fx r humer, 7thD
+S42.411G@Displ simp suprcndl fx w/o intrcndl fx r humer, 7thG
+S42.411K@Displ simp suprcndl fx w/o intrcndl fx r humer, 7thK
+S42.411P@Displ simp suprcndl fx w/o intrcndl fx r humer, 7thP
+S42.411S@Displ simple suprcndl fx w/o intrcndl fx r humerus, sequela
+S42.412A@Displ simple suprcndl fx w/o intrcndl fx l humerus, init
+S42.412B@Displ simp suprcndl fx w/o intrcndl fx l humer, 7thB
+S42.412D@Displ simp suprcndl fx w/o intrcndl fx l humer, 7thD
+S42.412G@Displ simp suprcndl fx w/o intrcndl fx l humer, 7thG
+S42.412K@Displ simp suprcndl fx w/o intrcndl fx l humer, 7thK
+S42.412P@Displ simp suprcndl fx w/o intrcndl fx l humer, 7thP
+S42.412S@Displ simple suprcndl fx w/o intrcndl fx l humerus, sequela
+S42.413A@Displ simple suprcndl fx w/o intrcndl fx unsp humerus, init
+S42.413B@Displ simp suprcndl fx w/o intrcndl fx unsp humer, 7thB
+S42.413D@Displ simp suprcndl fx w/o intrcndl fx unsp humer, 7thD
+S42.413G@Displ simp suprcndl fx w/o intrcndl fx unsp humer, 7thG
+S42.413K@Displ simp suprcndl fx w/o intrcndl fx unsp humer, 7thK
+S42.413P@Displ simp suprcndl fx w/o intrcndl fx unsp humer, 7thP
+S42.413S@Displ simple suprcndl fx w/o intrcndl fx unsp humer, sequela
+S42.414A@Nondisp simple suprcndl fx w/o intrcndl fx r humerus, init
+S42.414B@Nondisp simp suprcndl fx w/o intrcndl fx r humer, 7thB
+S42.414D@Nondisp simp suprcndl fx w/o intrcndl fx r humer, 7thD
+S42.414G@Nondisp simp suprcndl fx w/o intrcndl fx r humer, 7thG
+S42.414K@Nondisp simp suprcndl fx w/o intrcndl fx r humer, 7thK
+S42.414P@Nondisp simp suprcndl fx w/o intrcndl fx r humer, 7thP
+S42.414S@Nondisp simple suprcndl fx w/o intrcndl fx r humer, sequela
+S42.415A@Nondisp simple suprcndl fx w/o intrcndl fx l humerus, init
+S42.415B@Nondisp simp suprcndl fx w/o intrcndl fx l humer, 7thB
+S42.415D@Nondisp simp suprcndl fx w/o intrcndl fx l humer, 7thD
+S42.415G@Nondisp simp suprcndl fx w/o intrcndl fx l humer, 7thG
+S42.415K@Nondisp simp suprcndl fx w/o intrcndl fx l humer, 7thK
+S42.415P@Nondisp simp suprcndl fx w/o intrcndl fx l humer, 7thP
+S42.415S@Nondisp simple suprcndl fx w/o intrcndl fx l humer, sequela
+S42.416A@Nondisp simple suprcndl fx w/o intrcndl fx unsp humer, init
+S42.416B@Nondisp simp suprcndl fx w/o intrcndl fx unsp humer, 7thB
+S42.416D@Nondisp simp suprcndl fx w/o intrcndl fx unsp humer, 7thD
+S42.416G@Nondisp simp suprcndl fx w/o intrcndl fx unsp humer, 7thG
+S42.416K@Nondisp simp suprcndl fx w/o intrcndl fx unsp humer, 7thK
+S42.416P@Nondisp simp suprcndl fx w/o intrcndl fx unsp humer, 7thP
+S42.416S@Nondisp simple suprcndl fx w/o intrcndl fx unsp humer, sqla
+S42.421A@Displ commnt suprcndl fx w/o intrcndl fx r humerus, init
+S42.421B@Displ commnt suprcndl fx w/o intrcndl fx r humer, 7thB
+S42.421D@Displ commnt suprcndl fx w/o intrcndl fx r humer, 7thD
+S42.421G@Displ commnt suprcndl fx w/o intrcndl fx r humer, 7thG
+S42.421K@Displ commnt suprcndl fx w/o intrcndl fx r humer, 7thK
+S42.421P@Displ commnt suprcndl fx w/o intrcndl fx r humer, 7thP
+S42.421S@Displ commnt suprcndl fx w/o intrcndl fx r humerus, sequela
+S42.422A@Displ commnt suprcndl fx w/o intrcndl fx l humerus, init
+S42.422B@Displ commnt suprcndl fx w/o intrcndl fx l humer, 7thB
+S42.422D@Displ commnt suprcndl fx w/o intrcndl fx l humer, 7thD
+S42.422G@Displ commnt suprcndl fx w/o intrcndl fx l humer, 7thG
+S42.422K@Displ commnt suprcndl fx w/o intrcndl fx l humer, 7thK
+S42.422P@Displ commnt suprcndl fx w/o intrcndl fx l humer, 7thP
+S42.422S@Displ commnt suprcndl fx w/o intrcndl fx l humerus, sequela
+S42.423A@Displ commnt suprcndl fx w/o intrcndl fx unsp humerus, init
+S42.423B@Displ commnt suprcndl fx w/o intrcndl fx unsp humer, 7thB
+S42.423D@Displ commnt suprcndl fx w/o intrcndl fx unsp humer, 7thD
+S42.423G@Displ commnt suprcndl fx w/o intrcndl fx unsp humer, 7thG
+S42.423K@Displ commnt suprcndl fx w/o intrcndl fx unsp humer, 7thK
+S42.423P@Displ commnt suprcndl fx w/o intrcndl fx unsp humer, 7thP
+S42.423S@Displ commnt suprcndl fx w/o intrcndl fx unsp humer, sequela
+S42.424A@Nondisp commnt suprcndl fx w/o intrcndl fx r humerus, init
+S42.424B@Nondisp commnt suprcndl fx w/o intrcndl fx r humer, 7thB
+S42.424D@Nondisp commnt suprcndl fx w/o intrcndl fx r humer, 7thD
+S42.424G@Nondisp commnt suprcndl fx w/o intrcndl fx r humer, 7thG
+S42.424K@Nondisp commnt suprcndl fx w/o intrcndl fx r humer, 7thK
+S42.424P@Nondisp commnt suprcndl fx w/o intrcndl fx r humer, 7thP
+S42.424S@Nondisp commnt suprcndl fx w/o intrcndl fx r humer, sequela
+S42.425A@Nondisp commnt suprcndl fx w/o intrcndl fx l humerus, init
+S42.425B@Nondisp commnt suprcndl fx w/o intrcndl fx l humer, 7thB
+S42.425D@Nondisp commnt suprcndl fx w/o intrcndl fx l humer, 7thD
+S42.425G@Nondisp commnt suprcndl fx w/o intrcndl fx l humer, 7thG
+S42.425K@Nondisp commnt suprcndl fx w/o intrcndl fx l humer, 7thK
+S42.425P@Nondisp commnt suprcndl fx w/o intrcndl fx l humer, 7thP
+S42.425S@Nondisp commnt suprcndl fx w/o intrcndl fx l humer, sequela
+S42.426A@Nondisp commnt suprcndl fx w/o intrcndl fx unsp humer, init
+S42.426B@Nondisp commnt suprcndl fx w/o intrcndl fx unsp humer, 7thB
+S42.426D@Nondisp commnt suprcndl fx w/o intrcndl fx unsp humer, 7thD
+S42.426G@Nondisp commnt suprcndl fx w/o intrcndl fx unsp humer, 7thG
+S42.426K@Nondisp commnt suprcndl fx w/o intrcndl fx unsp humer, 7thK
+S42.426P@Nondisp commnt suprcndl fx w/o intrcndl fx unsp humer, 7thP
+S42.426S@Nondisp commnt suprcndl fx w/o intrcndl fx unsp humer, sqla
+S42.431A@Disp fx (avulsion) of lateral epicondyle of r humerus, init
+S42.431B@Disp fx of lateral epicondyle of r humerus, init for opn fx
+S42.431D@Disp fx of lateral epicondyl of r humer, 7thD
+S42.431G@Disp fx of lateral epicondyl of r humer, 7thG
+S42.431K@Disp fx of lateral epicondyl of r humer, 7thK
+S42.431P@Disp fx of lateral epicondyl of r humer, 7thP
+S42.431S@Disp fx of lateral epicondyle of r humerus, sequela
+S42.432A@Disp fx (avulsion) of lateral epicondyle of l humerus, init
+S42.432B@Disp fx of lateral epicondyle of l humerus, init for opn fx
+S42.432D@Disp fx of lateral epicondyl of l humer, 7thD
+S42.432G@Disp fx of lateral epicondyl of l humer, 7thG
+S42.432K@Disp fx of lateral epicondyl of l humer, 7thK
+S42.432P@Disp fx of lateral epicondyl of l humer, 7thP
+S42.432S@Disp fx of lateral epicondyle of l humerus, sequela
+S42.433A@Disp fx of lateral epicondyle of unsp humerus, init
+S42.433B@Disp fx of lateral epicondyl of unsp humer, init for opn fx
+S42.433D@Disp fx of lateral epicondyl of unsp humer, 7thD
+S42.433G@Disp fx of lateral epicondyl of unsp humer, 7thG
+S42.433K@Disp fx of lateral epicondyl of unsp humer, 7thK
+S42.433P@Disp fx of lateral epicondyl of unsp humer, 7thP
+S42.433S@Disp fx of lateral epicondyle of unsp humerus, sequela
+S42.434A@Nondisp fx of lateral epicondyle of r humerus, init
+S42.434B@Nondisp fx of lateral epicondyl of r humer, init for opn fx
+S42.434D@Nondisp fx of lateral epicondyl of r humer, 7thD
+S42.434G@Nondisp fx of lateral epicondyl of r humer, 7thG
+S42.434K@Nondisp fx of lateral epicondyl of r humer, 7thK
+S42.434P@Nondisp fx of lateral epicondyl of r humer, 7thP
+S42.434S@Nondisp fx of lateral epicondyle of r humerus, sequela
+S42.435A@Nondisp fx of lateral epicondyle of l humerus, init
+S42.435B@Nondisp fx of lateral epicondyl of l humer, init for opn fx
+S42.435D@Nondisp fx of lateral epicondyl of l humer, 7thD
+S42.435G@Nondisp fx of lateral epicondyl of l humer, 7thG
+S42.435K@Nondisp fx of lateral epicondyl of l humer, 7thK
+S42.435P@Nondisp fx of lateral epicondyl of l humer, 7thP
+S42.435S@Nondisp fx of lateral epicondyle of l humerus, sequela
+S42.436A@Nondisp fx of lateral epicondyle of unsp humerus, init
+S42.436B@Nondisp fx of lateral epicondyl of unsp humer, 7thB
+S42.436D@Nondisp fx of lateral epicondyl of unsp humer, 7thD
+S42.436G@Nondisp fx of lateral epicondyl of unsp humer, 7thG
+S42.436K@Nondisp fx of lateral epicondyl of unsp humer, 7thK
+S42.436P@Nondisp fx of lateral epicondyl of unsp humer, 7thP
+S42.436S@Nondisp fx of lateral epicondyle of unsp humerus, sequela
+S42.441A@Disp fx (avulsion) of medial epicondyle of r humerus, init
+S42.441B@Disp fx of medial epicondyle of r humerus, init for opn fx
+S42.441D@Disp fx of med epicondyl of r humer, 7thD
+S42.441G@Disp fx of med epicondyl of r humer, 7thG
+S42.441K@Disp fx of med epicondyl of r humer, subs for fx w nonunion
+S42.441P@Disp fx of med epicondyl of r humer, subs for fx w malunion
+S42.441S@Disp fx of medial epicondyle of r humerus, sequela
+S42.442A@Disp fx (avulsion) of medial epicondyle of l humerus, init
+S42.442B@Disp fx of medial epicondyle of l humerus, init for opn fx
+S42.442D@Disp fx of med epicondyl of l humer, 7thD
+S42.442G@Disp fx of med epicondyl of l humer, 7thG
+S42.442K@Disp fx of med epicondyl of l humer, subs for fx w nonunion
+S42.442P@Disp fx of med epicondyl of l humer, subs for fx w malunion
+S42.442S@Disp fx of medial epicondyle of l humerus, sequela
+S42.443A@Disp fx of medial epicondyle of unsp humerus, init
+S42.443B@Disp fx of medial epicondyl of unsp humerus, init for opn fx
+S42.443D@Disp fx of med epicondyl of unsp humer, 7thD
+S42.443G@Disp fx of med epicondyl of unsp humer, 7thG
+S42.443K@Disp fx of med epicondyl of unsp humer, 7thK
+S42.443P@Disp fx of med epicondyl of unsp humer, 7thP
+S42.443S@Disp fx of medial epicondyle of unsp humerus, sequela
+S42.444A@Nondisp fx of medial epicondyle of r humerus, init
+S42.444B@Nondisp fx of medial epicondyl of r humerus, init for opn fx
+S42.444D@Nondisp fx of med epicondyl of r humer, 7thD
+S42.444G@Nondisp fx of med epicondyl of r humer, 7thG
+S42.444K@Nondisp fx of med epicondyl of r humer, 7thK
+S42.444P@Nondisp fx of med epicondyl of r humer, 7thP
+S42.444S@Nondisp fx of medial epicondyle of r humerus, sequela
+S42.445A@Nondisp fx of medial epicondyle of l humerus, init
+S42.445B@Nondisp fx of medial epicondyl of l humerus, init for opn fx
+S42.445D@Nondisp fx of med epicondyl of l humer, 7thD
+S42.445G@Nondisp fx of med epicondyl of l humer, 7thG
+S42.445K@Nondisp fx of med epicondyl of l humer, 7thK
+S42.445P@Nondisp fx of med epicondyl of l humer, 7thP
+S42.445S@Nondisp fx of medial epicondyle of l humerus, sequela
+S42.446A@Nondisp fx of medial epicondyle of unsp humerus, init
+S42.446B@Nondisp fx of med epicondyl of unsp humer, init for opn fx
+S42.446D@Nondisp fx of med epicondyl of unsp humer, 7thD
+S42.446G@Nondisp fx of med epicondyl of unsp humer, 7thG
+S42.446K@Nondisp fx of med epicondyl of unsp humer, 7thK
+S42.446P@Nondisp fx of med epicondyl of unsp humer, 7thP
+S42.446S@Nondisp fx of medial epicondyle of unsp humerus, sequela
+S42.447A@Incarcerated fracture of medial epicondyl of r humerus, init
+S42.447B@Incarcerated fx of med epicondyl of r humer, init for opn fx
+S42.447D@Incarcerated fx of med epicondyl of r humer, 7thD
+S42.447G@Incarcerated fx of med epicondyl of r humer, 7thG
+S42.447K@Incarcerated fx of med epicondyl of r humer, 7thK
+S42.447P@Incarcerated fx of med epicondyl of r humer, 7thP
+S42.447S@Incarcerated fx of medial epicondyl of r humerus, sequela
+S42.448A@Incarcerated fracture of medial epicondyl of l humerus, init
+S42.448B@Incarcerated fx of med epicondyl of l humer, init for opn fx
+S42.448D@Incarcerated fx of med epicondyl of l humer, 7thD
+S42.448G@Incarcerated fx of med epicondyl of l humer, 7thG
+S42.448K@Incarcerated fx of med epicondyl of l humer, 7thK
+S42.448P@Incarcerated fx of med epicondyl of l humer, 7thP
+S42.448S@Incarcerated fx of medial epicondyl of l humerus, sequela
+S42.449A@Incarcerated fx of medial epicondyl of unsp humerus, init
+S42.449B@Incarcerated fx of med epicondyl of unsp humer, 7thB
+S42.449D@Incarcerated fx of med epicondyl of unsp humer, 7thD
+S42.449G@Incarcerated fx of med epicondyl of unsp humer, 7thG
+S42.449K@Incarcerated fx of med epicondyl of unsp humer, 7thK
+S42.449P@Incarcerated fx of med epicondyl of unsp humer, 7thP
+S42.449S@Incarcerated fx of medial epicondyl of unsp humerus, sequela
+S42.451A@Disp fx of lateral condyle of right humerus, init
+S42.451B@Disp fx of lateral condyle of right humerus, init for opn fx
+S42.451D@Disp fx of lateral condyle of r humer, 7thD
+S42.451G@Disp fx of lateral condyle of r humer, 7thG
+S42.451K@Disp fx of lateral condyle of r humer, 7thK
+S42.451P@Disp fx of lateral condyle of r humer, 7thP
+S42.451S@Disp fx of lateral condyle of right humerus, sequela
+S42.452A@Disp fx of lateral condyle of left humerus, init for clos fx
+S42.452B@Disp fx of lateral condyle of left humerus, init for opn fx
+S42.452D@Disp fx of lateral condyle of l humer, 7thD
+S42.452G@Disp fx of lateral condyle of l humer, 7thG
+S42.452K@Disp fx of lateral condyle of l humer, 7thK
+S42.452P@Disp fx of lateral condyle of l humer, 7thP
+S42.452S@Disp fx of lateral condyle of left humerus, sequela
+S42.453A@Disp fx of lateral condyle of unsp humerus, init for clos fx
+S42.453B@Disp fx of lateral condyle of unsp humerus, init for opn fx
+S42.453D@Disp fx of lateral condyle of unsp humer, 7thD
+S42.453G@Disp fx of lateral condyle of unsp humer, 7thG
+S42.453K@Disp fx of lateral condyle of unsp humer, 7thK
+S42.453P@Disp fx of lateral condyle of unsp humer, 7thP
+S42.453S@Disp fx of lateral condyle of unspecified humerus, sequela
+S42.454A@Nondisp fx of lateral condyle of right humerus, init
+S42.454B@Nondisp fx of lateral condyle of r humerus, init for opn fx
+S42.454D@Nondisp fx of lateral condyle of r humer, 7thD
+S42.454G@Nondisp fx of lateral condyle of r humer, 7thG
+S42.454K@Nondisp fx of lateral condyle of r humer, 7thK
+S42.454P@Nondisp fx of lateral condyle of r humer, 7thP
+S42.454S@Nondisp fx of lateral condyle of right humerus, sequela
+S42.455A@Nondisp fx of lateral condyle of left humerus, init
+S42.455B@Nondisp fx of lateral condyle of l humerus, init for opn fx
+S42.455D@Nondisp fx of lateral condyle of l humer, 7thD
+S42.455G@Nondisp fx of lateral condyle of l humer, 7thG
+S42.455K@Nondisp fx of lateral condyle of l humer, 7thK
+S42.455P@Nondisp fx of lateral condyle of l humer, 7thP
+S42.455S@Nondisp fx of lateral condyle of left humerus, sequela
+S42.456A@Nondisp fx of lateral condyle of unsp humerus, init
+S42.456B@Nondisp fx of lateral condyle of unsp humer, init for opn fx
+S42.456D@Nondisp fx of lateral condyle of unsp humer, 7thD
+S42.456G@Nondisp fx of lateral condyle of unsp humer, 7thG
+S42.456K@Nondisp fx of lateral condyle of unsp humer, 7thK
+S42.456P@Nondisp fx of lateral condyle of unsp humer, 7thP
+S42.456S@Nondisp fx of lateral condyle of unsp humerus, sequela
+S42.461A@Disp fx of medial condyle of right humerus, init for clos fx
+S42.461B@Disp fx of medial condyle of right humerus, init for opn fx
+S42.461D@Disp fx of med condyle of r humer, subs for fx w routn heal
+S42.461G@Disp fx of med condyle of r humer, subs for fx w delay heal
+S42.461K@Disp fx of medial condyle of r humer, subs for fx w nonunion
+S42.461P@Disp fx of medial condyle of r humer, subs for fx w malunion
+S42.461S@Disp fx of medial condyle of right humerus, sequela
+S42.462A@Disp fx of medial condyle of left humerus, init for clos fx
+S42.462B@Disp fx of medial condyle of left humerus, init for opn fx
+S42.462D@Disp fx of med condyle of l humer, subs for fx w routn heal
+S42.462G@Disp fx of med condyle of l humer, subs for fx w delay heal
+S42.462K@Disp fx of medial condyle of l humer, subs for fx w nonunion
+S42.462P@Disp fx of medial condyle of l humer, subs for fx w malunion
+S42.462S@Disp fx of medial condyle of left humerus, sequela
+S42.463A@Disp fx of medial condyle of unsp humerus, init for clos fx
+S42.463B@Disp fx of medial condyle of unsp humerus, init for opn fx
+S42.463D@Disp fx of med condyle of unsp humer, 7thD
+S42.463G@Disp fx of med condyle of unsp humer, 7thG
+S42.463K@Disp fx of med condyle of unsp humer, subs for fx w nonunion
+S42.463P@Disp fx of med condyle of unsp humer, subs for fx w malunion
+S42.463S@Disp fx of medial condyle of unspecified humerus, sequela
+S42.464A@Nondisp fx of medial condyle of right humerus, init
+S42.464B@Nondisp fx of medial condyle of r humerus, init for opn fx
+S42.464D@Nondisp fx of med condyle of r humer, 7thD
+S42.464G@Nondisp fx of med condyle of r humer, 7thG
+S42.464K@Nondisp fx of med condyle of r humer, subs for fx w nonunion
+S42.464P@Nondisp fx of med condyle of r humer, subs for fx w malunion
+S42.464S@Nondisp fx of medial condyle of right humerus, sequela
+S42.465A@Nondisp fx of medial condyle of left humerus, init
+S42.465B@Nondisp fx of medial condyle of l humerus, init for opn fx
+S42.465D@Nondisp fx of med condyle of l humer, 7thD
+S42.465G@Nondisp fx of med condyle of l humer, 7thG
+S42.465K@Nondisp fx of med condyle of l humer, subs for fx w nonunion
+S42.465P@Nondisp fx of med condyle of l humer, subs for fx w malunion
+S42.465S@Nondisp fx of medial condyle of left humerus, sequela
+S42.466A@Nondisp fx of medial condyle of unsp humerus, init
+S42.466B@Nondisp fx of medial condyle of unsp humer, init for opn fx
+S42.466D@Nondisp fx of med condyle of unsp humer, 7thD
+S42.466G@Nondisp fx of med condyle of unsp humer, 7thG
+S42.466K@Nondisp fx of med condyle of unsp humer, 7thK
+S42.466P@Nondisp fx of med condyle of unsp humer, 7thP
+S42.466S@Nondisp fx of medial condyle of unspecified humerus, sequela
+S42.471A@Displaced transcondylar fracture of right humerus, init
+S42.471B@Displaced transcondy fracture of r humerus, init for opn fx
+S42.471D@Displaced transcondy fx r humerus, subs for fx w routn heal
+S42.471G@Displaced transcondy fx r humerus, subs for fx w delay heal
+S42.471K@Displaced transcondy fx r humerus, subs for fx w nonunion
+S42.471P@Displaced transcondy fx r humerus, subs for fx w malunion
+S42.471S@Displaced transcondylar fracture of right humerus, sequela
+S42.472A@Displaced transcondylar fracture of left humerus, init
+S42.472B@Displaced transcondy fracture of l humerus, init for opn fx
+S42.472D@Displaced transcondy fx l humerus, subs for fx w routn heal
+S42.472G@Displaced transcondy fx l humerus, subs for fx w delay heal
+S42.472K@Displaced transcondy fx l humerus, subs for fx w nonunion
+S42.472P@Displaced transcondy fx l humerus, subs for fx w malunion
+S42.472S@Displaced transcondylar fracture of left humerus, sequela
+S42.473A@Displaced transcondylar fracture of unsp humerus, init
+S42.473B@Displaced transcondy fx unsp humerus, init for opn fx
+S42.473D@Displ transcondy fx unsp humerus, subs for fx w routn heal
+S42.473G@Displ transcondy fx unsp humerus, subs for fx w delay heal
+S42.473K@Displaced transcondy fx unsp humerus, subs for fx w nonunion
+S42.473P@Displaced transcondy fx unsp humerus, subs for fx w malunion
+S42.473S@Displaced transcondylar fracture of unsp humerus, sequela
+S42.474A@Nondisplaced transcondylar fracture of right humerus, init
+S42.474B@Nondisp transcondy fracture of r humerus, init for opn fx
+S42.474D@Nondisp transcondy fx r humerus, subs for fx w routn heal
+S42.474G@Nondisp transcondy fx r humerus, subs for fx w delay heal
+S42.474K@Nondisp transcondy fx r humerus, subs for fx w nonunion
+S42.474P@Nondisp transcondy fx r humerus, subs for fx w malunion
+S42.474S@Nondisplaced transcondylar fracture of r humerus, sequela
+S42.475A@Nondisplaced transcondylar fracture of left humerus, init
+S42.475B@Nondisp transcondy fracture of l humerus, init for opn fx
+S42.475D@Nondisp transcondy fx l humerus, subs for fx w routn heal
+S42.475G@Nondisp transcondy fx l humerus, subs for fx w delay heal
+S42.475K@Nondisp transcondy fx l humerus, subs for fx w nonunion
+S42.475P@Nondisp transcondy fx l humerus, subs for fx w malunion
+S42.475S@Nondisplaced transcondylar fracture of left humerus, sequela
+S42.476A@Nondisplaced transcondylar fracture of unsp humerus, init
+S42.476B@Nondisp transcondy fracture of unsp humerus, init for opn fx
+S42.476D@Nondisp transcondy fx unsp humerus, subs for fx w routn heal
+S42.476G@Nondisp transcondy fx unsp humerus, subs for fx w delay heal
+S42.476K@Nondisp transcondy fx unsp humerus, subs for fx w nonunion
+S42.476P@Nondisp transcondy fx unsp humerus, subs for fx w malunion
+S42.476S@Nondisplaced transcondylar fracture of unsp humerus, sequela
+S42.481A@Torus fracture of lower end of right humerus, init
+S42.481D@Torus fx lower end of r humerus, subs for fx w routn heal
+S42.481G@Torus fx lower end of r humerus, subs for fx w delay heal
+S42.481K@Torus fx lower end of r humerus, subs for fx w nonunion
+S42.481P@Torus fx lower end of r humerus, subs for fx w malunion
+S42.481S@Torus fracture of lower end of right humerus, sequela
+S42.482A@Torus fracture of lower end of left humerus, init
+S42.482D@Torus fx lower end of l humerus, subs for fx w routn heal
+S42.482G@Torus fx lower end of l humerus, subs for fx w delay heal
+S42.482K@Torus fx lower end of l humerus, subs for fx w nonunion
+S42.482P@Torus fx lower end of l humerus, subs for fx w malunion
+S42.482S@Torus fracture of lower end of left humerus, sequela
+S42.489A@Torus fracture of lower end of unsp humerus, init
+S42.489D@Torus fx lower end of unsp humerus, subs for fx w routn heal
+S42.489G@Torus fx lower end of unsp humerus, subs for fx w delay heal
+S42.489K@Torus fx lower end of unsp humerus, subs for fx w nonunion
+S42.489P@Torus fx lower end of unsp humerus, subs for fx w malunion
+S42.489S@Torus fracture of lower end of unspecified humerus, sequela
+S42.491A@Oth disp fx of lower end of right humerus, init for clos fx
+S42.491B@Oth disp fx of lower end of right humerus, init for opn fx
+S42.491D@Oth disp fx of lower end r humer, subs for fx w routn heal
+S42.491G@Oth disp fx of lower end r humer, subs for fx w delay heal
+S42.491K@Oth disp fx of lower end of r humer, subs for fx w nonunion
+S42.491P@Oth disp fx of lower end of r humer, subs for fx w malunion
+S42.491S@Other disp fx of lower end of right humerus, sequela
+S42.492A@Oth disp fx of lower end of left humerus, init for clos fx
+S42.492B@Oth disp fx of lower end of left humerus, init for opn fx
+S42.492D@Oth disp fx of lower end l humer, subs for fx w routn heal
+S42.492G@Oth disp fx of lower end l humer, subs for fx w delay heal
+S42.492K@Oth disp fx of lower end of l humer, subs for fx w nonunion
+S42.492P@Oth disp fx of lower end of l humer, subs for fx w malunion
+S42.492S@Other disp fx of lower end of left humerus, sequela
+S42.493A@Oth disp fx of lower end of unsp humerus, init for clos fx
+S42.493B@Oth disp fx of lower end of unsp humerus, init for opn fx
+S42.493D@Oth disp fx of low end unsp humer, subs for fx w routn heal
+S42.493G@Oth disp fx of low end unsp humer, subs for fx w delay heal
+S42.493K@Oth disp fx of lower end unsp humer, subs for fx w nonunion
+S42.493P@Oth disp fx of lower end unsp humer, subs for fx w malunion
+S42.493S@Other disp fx of lower end of unspecified humerus, sequela
+S42.494A@Oth nondisp fx of lower end of right humerus, init
+S42.494B@Oth nondisp fx of lower end of r humerus, init for opn fx
+S42.494D@Oth nondisp fx of low end r humer, subs for fx w routn heal
+S42.494G@Oth nondisp fx of low end r humer, subs for fx w delay heal
+S42.494K@Oth nondisp fx of lower end r humer, subs for fx w nonunion
+S42.494P@Oth nondisp fx of lower end r humer, subs for fx w malunion
+S42.494S@Other nondisp fx of lower end of right humerus, sequela
+S42.495A@Oth nondisp fx of lower end of left humerus, init
+S42.495B@Oth nondisp fx of lower end of left humerus, init for opn fx
+S42.495D@Oth nondisp fx of low end l humer, subs for fx w routn heal
+S42.495G@Oth nondisp fx of low end l humer, subs for fx w delay heal
+S42.495K@Oth nondisp fx of lower end l humer, subs for fx w nonunion
+S42.495P@Oth nondisp fx of lower end l humer, subs for fx w malunion
+S42.495S@Other nondisp fx of lower end of left humerus, sequela
+S42.496A@Oth nondisp fx of lower end of unsp humerus, init
+S42.496B@Oth nondisp fx of lower end of unsp humerus, init for opn fx
+S42.496D@Oth nondisp fx of low end unsp humer, 7thD
+S42.496G@Oth nondisp fx of low end unsp humer, 7thG
+S42.496K@Oth nondisp fx of low end unsp humer, subs for fx w nonunion
+S42.496P@Oth nondisp fx of low end unsp humer, subs for fx w malunion
+S42.496S@Other nondisp fx of lower end of unsp humerus, sequela
+S42.90XA@Fracture of unsp shoulder girdle, part unsp, init
+S42.90XB@Fracture of unsp shoulder girdle, part unsp, init for opn fx
+S42.90XD@Fx unsp shoulder girdle, part unsp, subs for fx w routn heal
+S42.90XG@Fx unsp shoulder girdle, part unsp, subs for fx w delay heal
+S42.90XK@Fx unsp shoulder girdle, part unsp, subs for fx w nonunion
+S42.90XP@Fx unsp shoulder girdle, part unsp, subs for fx w malunion
+S42.90XS@Fracture of unsp shoulder girdle, part unspecified, sequela
+S42.91XA@Fracture of right shoulder girdle, part unsp, init
+S42.91XB@Fracture of r shoulder girdle, part unsp, init for opn fx
+S42.91XD@Fx r shoulder girdle, part unsp, subs for fx w routn heal
+S42.91XG@Fx r shoulder girdle, part unsp, subs for fx w delay heal
+S42.91XK@Fx r shoulder girdle, part unsp, subs for fx w nonunion
+S42.91XP@Fx r shoulder girdle, part unsp, subs for fx w malunion
+S42.91XS@Fracture of right shoulder girdle, part unspecified, sequela
+S42.92XA@Fracture of left shoulder girdle, part unsp, init
+S42.92XB@Fracture of left shoulder girdle, part unsp, init for opn fx
+S42.92XD@Fx l shoulder girdle, part unsp, subs for fx w routn heal
+S42.92XG@Fx l shoulder girdle, part unsp, subs for fx w delay heal
+S42.92XK@Fx l shoulder girdle, part unsp, subs for fx w nonunion
+S42.92XP@Fx l shoulder girdle, part unsp, subs for fx w malunion
+S42.92XS@Fracture of left shoulder girdle, part unspecified, sequela
+S43.001A@Unspecified subluxation of right shoulder joint, init encntr
+S43.001D@Unspecified subluxation of right shoulder joint, subs encntr
+S43.001S@Unspecified subluxation of right shoulder joint, sequela
+S43.002A@Unspecified subluxation of left shoulder joint, init encntr
+S43.002D@Unspecified subluxation of left shoulder joint, subs encntr
+S43.002S@Unspecified subluxation of left shoulder joint, sequela
+S43.003A@Unsp subluxation of unspecified shoulder joint, init encntr
+S43.003D@Unsp subluxation of unspecified shoulder joint, subs encntr
+S43.003S@Unsp subluxation of unspecified shoulder joint, sequela
+S43.004A@Unspecified dislocation of right shoulder joint, init encntr
+S43.004D@Unspecified dislocation of right shoulder joint, subs encntr
+S43.004S@Unspecified dislocation of right shoulder joint, sequela
+S43.005A@Unspecified dislocation of left shoulder joint, init encntr
+S43.005D@Unspecified dislocation of left shoulder joint, subs encntr
+S43.005S@Unspecified dislocation of left shoulder joint, sequela
+S43.006A@Unsp dislocation of unspecified shoulder joint, init encntr
+S43.006D@Unsp dislocation of unspecified shoulder joint, subs encntr
+S43.006S@Unsp dislocation of unspecified shoulder joint, sequela
+S43.011A@Anterior subluxation of right humerus, initial encounter
+S43.011D@Anterior subluxation of right humerus, subsequent encounter
+S43.011S@Anterior subluxation of right humerus, sequela
+S43.012A@Anterior subluxation of left humerus, initial encounter
+S43.012D@Anterior subluxation of left humerus, subsequent encounter
+S43.012S@Anterior subluxation of left humerus, sequela
+S43.013A@Anterior subluxation of unspecified humerus, init encntr
+S43.013D@Anterior subluxation of unspecified humerus, subs encntr
+S43.013S@Anterior subluxation of unspecified humerus, sequela
+S43.014A@Anterior dislocation of right humerus, initial encounter
+S43.014D@Anterior dislocation of right humerus, subsequent encounter
+S43.014S@Anterior dislocation of right humerus, sequela
+S43.015A@Anterior dislocation of left humerus, initial encounter
+S43.015D@Anterior dislocation of left humerus, subsequent encounter
+S43.015S@Anterior dislocation of left humerus, sequela
+S43.016A@Anterior dislocation of unspecified humerus, init encntr
+S43.016D@Anterior dislocation of unspecified humerus, subs encntr
+S43.016S@Anterior dislocation of unspecified humerus, sequela
+S43.021A@Posterior subluxation of right humerus, initial encounter
+S43.021D@Posterior subluxation of right humerus, subsequent encounter
+S43.021S@Posterior subluxation of right humerus, sequela
+S43.022A@Posterior subluxation of left humerus, initial encounter
+S43.022D@Posterior subluxation of left humerus, subsequent encounter
+S43.022S@Posterior subluxation of left humerus, sequela
+S43.023A@Posterior subluxation of unspecified humerus, init encntr
+S43.023D@Posterior subluxation of unspecified humerus, subs encntr
+S43.023S@Posterior subluxation of unspecified humerus, sequela
+S43.024A@Posterior dislocation of right humerus, initial encounter
+S43.024D@Posterior dislocation of right humerus, subsequent encounter
+S43.024S@Posterior dislocation of right humerus, sequela
+S43.025A@Posterior dislocation of left humerus, initial encounter
+S43.025D@Posterior dislocation of left humerus, subsequent encounter
+S43.025S@Posterior dislocation of left humerus, sequela
+S43.026A@Posterior dislocation of unspecified humerus, init encntr
+S43.026D@Posterior dislocation of unspecified humerus, subs encntr
+S43.026S@Posterior dislocation of unspecified humerus, sequela
+S43.031A@Inferior subluxation of right humerus, initial encounter
+S43.031D@Inferior subluxation of right humerus, subsequent encounter
+S43.031S@Inferior subluxation of right humerus, sequela
+S43.032A@Inferior subluxation of left humerus, initial encounter
+S43.032D@Inferior subluxation of left humerus, subsequent encounter
+S43.032S@Inferior subluxation of left humerus, sequela
+S43.033A@Inferior subluxation of unspecified humerus, init encntr
+S43.033D@Inferior subluxation of unspecified humerus, subs encntr
+S43.033S@Inferior subluxation of unspecified humerus, sequela
+S43.034A@Inferior dislocation of right humerus, initial encounter
+S43.034D@Inferior dislocation of right humerus, subsequent encounter
+S43.034S@Inferior dislocation of right humerus, sequela
+S43.035A@Inferior dislocation of left humerus, initial encounter
+S43.035D@Inferior dislocation of left humerus, subsequent encounter
+S43.035S@Inferior dislocation of left humerus, sequela
+S43.036A@Inferior dislocation of unspecified humerus, init encntr
+S43.036D@Inferior dislocation of unspecified humerus, subs encntr
+S43.036S@Inferior dislocation of unspecified humerus, sequela
+S43.081A@Other subluxation of right shoulder joint, initial encounter
+S43.081D@Other subluxation of right shoulder joint, subs encntr
+S43.081S@Other subluxation of right shoulder joint, sequela
+S43.082A@Other subluxation of left shoulder joint, initial encounter
+S43.082D@Other subluxation of left shoulder joint, subs encntr
+S43.082S@Other subluxation of left shoulder joint, sequela
+S43.083A@Other subluxation of unspecified shoulder joint, init encntr
+S43.083D@Other subluxation of unspecified shoulder joint, subs encntr
+S43.083S@Other subluxation of unspecified shoulder joint, sequela
+S43.084A@Other dislocation of right shoulder joint, initial encounter
+S43.084D@Other dislocation of right shoulder joint, subs encntr
+S43.084S@Other dislocation of right shoulder joint, sequela
+S43.085A@Other dislocation of left shoulder joint, initial encounter
+S43.085D@Other dislocation of left shoulder joint, subs encntr
+S43.085S@Other dislocation of left shoulder joint, sequela
+S43.086A@Other dislocation of unspecified shoulder joint, init encntr
+S43.086D@Other dislocation of unspecified shoulder joint, subs encntr
+S43.086S@Other dislocation of unspecified shoulder joint, sequela
+S43.101A@Unsp dislocation of right acromioclavicular joint, init
+S43.101D@Unsp dislocation of right acromioclavicular joint, subs
+S43.101S@Unsp dislocation of right acromioclavicular joint, sequela
+S43.102A@Unsp dislocation of left acromioclavicular joint, init
+S43.102D@Unsp dislocation of left acromioclavicular joint, subs
+S43.102S@Unsp dislocation of left acromioclavicular joint, sequela
+S43.109A@Unsp dislocation of unsp acromioclavicular joint, init
+S43.109D@Unsp dislocation of unsp acromioclavicular joint, subs
+S43.109S@Unsp dislocation of unsp acromioclavicular joint, sequela
+S43.111A@Subluxation of right acromioclavicular joint, init encntr
+S43.111D@Subluxation of right acromioclavicular joint, subs encntr
+S43.111S@Subluxation of right acromioclavicular joint, sequela
+S43.112A@Subluxation of left acromioclavicular joint, init encntr
+S43.112D@Subluxation of left acromioclavicular joint, subs encntr
+S43.112S@Subluxation of left acromioclavicular joint, sequela
+S43.119A@Subluxation of unsp acromioclavicular joint, init encntr
+S43.119D@Subluxation of unsp acromioclavicular joint, subs encntr
+S43.119S@Subluxation of unspecified acromioclavicular joint, sequela
+S43.121A@Dislocation of r acromioclav jt, 100%-200% displacmnt, init
+S43.121D@Dislocation of r acromioclav jt, 100%-200% displacmnt, subs
+S43.121S@Disloc of r acromioclav jt, 100%-200% displacmnt, sequela
+S43.122A@Dislocation of l acromioclav jt, 100%-200% displacmnt, init
+S43.122D@Dislocation of l acromioclav jt, 100%-200% displacmnt, subs
+S43.122S@Disloc of l acromioclav jt, 100%-200% displacmnt, sequela
+S43.129A@Disloc of unsp acromioclav jt, 100%-200% displacmnt, init
+S43.129D@Disloc of unsp acromioclav jt, 100%-200% displacmnt, subs
+S43.129S@Disloc of unsp acromioclav jt, 100%-200% displacmnt, sequela
+S43.131A@Dislocation of r acromioclav jt, > 200% displacmnt, init
+S43.131D@Dislocation of r acromioclav jt, > 200% displacmnt, subs
+S43.131S@Dislocation of r acromioclav jt, > 200% displacmnt, sequela
+S43.132A@Dislocation of l acromioclav jt, > 200% displacmnt, init
+S43.132D@Dislocation of l acromioclav jt, > 200% displacmnt, subs
+S43.132S@Dislocation of l acromioclav jt, > 200% displacmnt, sequela
+S43.139A@Dislocation of unsp acromioclav jt, > 200% displacmnt, init
+S43.139D@Dislocation of unsp acromioclav jt, > 200% displacmnt, subs
+S43.139S@Disloc of unsp acromioclav jt, > 200% displacmnt, sequela
+S43.141A@Inferior dislocation of right acromioclavicular joint, init
+S43.141D@Inferior dislocation of right acromioclavicular joint, subs
+S43.141S@Inferior dislocation of r acromioclav jt, sequela
+S43.142A@Inferior dislocation of left acromioclavicular joint, init
+S43.142D@Inferior dislocation of left acromioclavicular joint, subs
+S43.142S@Inferior dislocation of l acromioclav jt, sequela
+S43.149A@Inferior dislocation of unsp acromioclavicular joint, init
+S43.149D@Inferior dislocation of unsp acromioclavicular joint, subs
+S43.149S@Inferior dislocation of unsp acromioclav jt, sequela
+S43.151A@Posterior dislocation of right acromioclavicular joint, init
+S43.151D@Posterior dislocation of right acromioclavicular joint, subs
+S43.151S@Posterior dislocation of r acromioclav jt, sequela
+S43.152A@Posterior dislocation of left acromioclavicular joint, init
+S43.152D@Posterior dislocation of left acromioclavicular joint, subs
+S43.152S@Posterior dislocation of l acromioclav jt, sequela
+S43.159A@Posterior dislocation of unsp acromioclavicular joint, init
+S43.159D@Posterior dislocation of unsp acromioclavicular joint, subs
+S43.159S@Posterior dislocation of unsp acromioclav jt, sequela
+S43.201A@Unsp subluxation of right sternoclavicular joint, init
+S43.201D@Unsp subluxation of right sternoclavicular joint, subs
+S43.201S@Unsp subluxation of right sternoclavicular joint, sequela
+S43.202A@Unsp subluxation of left sternoclavicular joint, init encntr
+S43.202D@Unsp subluxation of left sternoclavicular joint, subs encntr
+S43.202S@Unsp subluxation of left sternoclavicular joint, sequela
+S43.203A@Unsp subluxation of unsp sternoclavicular joint, init encntr
+S43.203D@Unsp subluxation of unsp sternoclavicular joint, subs encntr
+S43.203S@Unsp subluxation of unsp sternoclavicular joint, sequela
+S43.204A@Unsp dislocation of right sternoclavicular joint, init
+S43.204D@Unsp dislocation of right sternoclavicular joint, subs
+S43.204S@Unsp dislocation of right sternoclavicular joint, sequela
+S43.205A@Unsp dislocation of left sternoclavicular joint, init encntr
+S43.205D@Unsp dislocation of left sternoclavicular joint, subs encntr
+S43.205S@Unsp dislocation of left sternoclavicular joint, sequela
+S43.206A@Unsp dislocation of unsp sternoclavicular joint, init encntr
+S43.206D@Unsp dislocation of unsp sternoclavicular joint, subs encntr
+S43.206S@Unsp dislocation of unsp sternoclavicular joint, sequela
+S43.211A@Anterior subluxation of right sternoclavicular joint, init
+S43.211D@Anterior subluxation of right sternoclavicular joint, subs
+S43.211S@Anterior subluxation of r sternoclav jt, sequela
+S43.212A@Anterior subluxation of left sternoclavicular joint, init
+S43.212D@Anterior subluxation of left sternoclavicular joint, subs
+S43.212S@Anterior subluxation of left sternoclavicular joint, sequela
+S43.213A@Anterior subluxation of unsp sternoclavicular joint, init
+S43.213D@Anterior subluxation of unsp sternoclavicular joint, subs
+S43.213S@Anterior subluxation of unsp sternoclavicular joint, sequela
+S43.214A@Anterior dislocation of right sternoclavicular joint, init
+S43.214D@Anterior dislocation of right sternoclavicular joint, subs
+S43.214S@Anterior dislocation of r sternoclav jt, sequela
+S43.215A@Anterior dislocation of left sternoclavicular joint, init
+S43.215D@Anterior dislocation of left sternoclavicular joint, subs
+S43.215S@Anterior dislocation of left sternoclavicular joint, sequela
+S43.216A@Anterior dislocation of unsp sternoclavicular joint, init
+S43.216D@Anterior dislocation of unsp sternoclavicular joint, subs
+S43.216S@Anterior dislocation of unsp sternoclavicular joint, sequela
+S43.221A@Posterior subluxation of right sternoclavicular joint, init
+S43.221D@Posterior subluxation of right sternoclavicular joint, subs
+S43.221S@Posterior subluxation of r sternoclav jt, sequela
+S43.222A@Posterior subluxation of left sternoclavicular joint, init
+S43.222D@Posterior subluxation of left sternoclavicular joint, subs
+S43.222S@Posterior subluxation of l sternoclav jt, sequela
+S43.223A@Posterior subluxation of unsp sternoclavicular joint, init
+S43.223D@Posterior subluxation of unsp sternoclavicular joint, subs
+S43.223S@Posterior subluxation of unsp sternoclav jt, sequela
+S43.224A@Posterior dislocation of right sternoclavicular joint, init
+S43.224D@Posterior dislocation of right sternoclavicular joint, subs
+S43.224S@Posterior dislocation of r sternoclav jt, sequela
+S43.225A@Posterior dislocation of left sternoclavicular joint, init
+S43.225D@Posterior dislocation of left sternoclavicular joint, subs
+S43.225S@Posterior dislocation of l sternoclav jt, sequela
+S43.226A@Posterior dislocation of unsp sternoclavicular joint, init
+S43.226D@Posterior dislocation of unsp sternoclavicular joint, subs
+S43.226S@Posterior dislocation of unsp sternoclav jt, sequela
+S43.301A@Subluxation of unsp parts of right shoulder girdle, init
+S43.301D@Subluxation of unsp parts of right shoulder girdle, subs
+S43.301S@Subluxation of unsp parts of right shoulder girdle, sequela
+S43.302A@Subluxation of unsp parts of left shoulder girdle, init
+S43.302D@Subluxation of unsp parts of left shoulder girdle, subs
+S43.302S@Subluxation of unsp parts of left shoulder girdle, sequela
+S43.303A@Subluxation of unsp parts of unsp shoulder girdle, init
+S43.303D@Subluxation of unsp parts of unsp shoulder girdle, subs
+S43.303S@Subluxation of unsp parts of unsp shoulder girdle, sequela
+S43.304A@Dislocation of unsp parts of right shoulder girdle, init
+S43.304D@Dislocation of unsp parts of right shoulder girdle, subs
+S43.304S@Dislocation of unsp parts of right shoulder girdle, sequela
+S43.305A@Dislocation of unsp parts of left shoulder girdle, init
+S43.305D@Dislocation of unsp parts of left shoulder girdle, subs
+S43.305S@Dislocation of unsp parts of left shoulder girdle, sequela
+S43.306A@Dislocation of unsp parts of unsp shoulder girdle, init
+S43.306D@Dislocation of unsp parts of unsp shoulder girdle, subs
+S43.306S@Dislocation of unsp parts of unsp shoulder girdle, sequela
+S43.311A@Subluxation of right scapula, initial encounter
+S43.311D@Subluxation of right scapula, subsequent encounter
+S43.311S@Subluxation of right scapula, sequela
+S43.312A@Subluxation of left scapula, initial encounter
+S43.312D@Subluxation of left scapula, subsequent encounter
+S43.312S@Subluxation of left scapula, sequela
+S43.313A@Subluxation of unspecified scapula, initial encounter
+S43.313D@Subluxation of unspecified scapula, subsequent encounter
+S43.313S@Subluxation of unspecified scapula, sequela
+S43.314A@Dislocation of right scapula, initial encounter
+S43.314D@Dislocation of right scapula, subsequent encounter
+S43.314S@Dislocation of right scapula, sequela
+S43.315A@Dislocation of left scapula, initial encounter
+S43.315D@Dislocation of left scapula, subsequent encounter
+S43.315S@Dislocation of left scapula, sequela
+S43.316A@Dislocation of unspecified scapula, initial encounter
+S43.316D@Dislocation of unspecified scapula, subsequent encounter
+S43.316S@Dislocation of unspecified scapula, sequela
+S43.391A@Subluxation of oth prt right shoulder girdle, init encntr
+S43.391D@Subluxation of oth prt right shoulder girdle, subs encntr
+S43.391S@Subluxation of other parts of right shoulder girdle, sequela
+S43.392A@Subluxation of oth prt left shoulder girdle, init encntr
+S43.392D@Subluxation of oth prt left shoulder girdle, subs encntr
+S43.392S@Subluxation of other parts of left shoulder girdle, sequela
+S43.393A@Subluxation of oth prt unsp shoulder girdle, init encntr
+S43.393D@Subluxation of oth prt unsp shoulder girdle, subs encntr
+S43.393S@Subluxation of other parts of unsp shoulder girdle, sequela
+S43.394A@Dislocation of oth prt right shoulder girdle, init encntr
+S43.394D@Dislocation of oth prt right shoulder girdle, subs encntr
+S43.394S@Dislocation of other parts of right shoulder girdle, sequela
+S43.395A@Dislocation of oth prt left shoulder girdle, init encntr
+S43.395D@Dislocation of oth prt left shoulder girdle, subs encntr
+S43.395S@Dislocation of other parts of left shoulder girdle, sequela
+S43.396A@Dislocation of oth prt unsp shoulder girdle, init encntr
+S43.396D@Dislocation of oth prt unsp shoulder girdle, subs encntr
+S43.396S@Dislocation of other parts of unsp shoulder girdle, sequela
+S43.401A@Unspecified sprain of right shoulder joint, init encntr
+S43.401D@Unspecified sprain of right shoulder joint, subs encntr
+S43.401S@Unspecified sprain of right shoulder joint, sequela
+S43.402A@Unspecified sprain of left shoulder joint, initial encounter
+S43.402D@Unspecified sprain of left shoulder joint, subs encntr
+S43.402S@Unspecified sprain of left shoulder joint, sequela
+S43.409A@Unsp sprain of unspecified shoulder joint, init encntr
+S43.409D@Unsp sprain of unspecified shoulder joint, subs encntr
+S43.409S@Unspecified sprain of unspecified shoulder joint, sequela
+S43.411A@Sprain of right coracohumeral (ligament), initial encounter
+S43.411D@Sprain of right coracohumeral (ligament), subs encntr
+S43.411S@Sprain of right coracohumeral (ligament), sequela
+S43.412A@Sprain of left coracohumeral (ligament), initial encounter
+S43.412D@Sprain of left coracohumeral (ligament), subs encntr
+S43.412S@Sprain of left coracohumeral (ligament), sequela
+S43.419A@Sprain of unspecified coracohumeral (ligament), init encntr
+S43.419D@Sprain of unspecified coracohumeral (ligament), subs encntr
+S43.419S@Sprain of unspecified coracohumeral (ligament), sequela
+S43.421A@Sprain of right rotator cuff capsule, initial encounter
+S43.421D@Sprain of right rotator cuff capsule, subsequent encounter
+S43.421S@Sprain of right rotator cuff capsule, sequela
+S43.422A@Sprain of left rotator cuff capsule, initial encounter
+S43.422D@Sprain of left rotator cuff capsule, subsequent encounter
+S43.422S@Sprain of left rotator cuff capsule, sequela
+S43.429A@Sprain of unspecified rotator cuff capsule, init encntr
+S43.429D@Sprain of unspecified rotator cuff capsule, subs encntr
+S43.429S@Sprain of unspecified rotator cuff capsule, sequela
+S43.431A@Superior glenoid labrum lesion of right shoulder, init
+S43.431D@Superior glenoid labrum lesion of right shoulder, subs
+S43.431S@Superior glenoid labrum lesion of right shoulder, sequela
+S43.432A@Superior glenoid labrum lesion of left shoulder, init encntr
+S43.432D@Superior glenoid labrum lesion of left shoulder, subs encntr
+S43.432S@Superior glenoid labrum lesion of left shoulder, sequela
+S43.439A@Superior glenoid labrum lesion of unsp shoulder, init encntr
+S43.439D@Superior glenoid labrum lesion of unsp shoulder, subs encntr
+S43.439S@Superior glenoid labrum lesion of unsp shoulder, sequela
+S43.491A@Other sprain of right shoulder joint, initial encounter
+S43.491D@Other sprain of right shoulder joint, subsequent encounter
+S43.491S@Other sprain of right shoulder joint, sequela
+S43.492A@Other sprain of left shoulder joint, initial encounter
+S43.492D@Other sprain of left shoulder joint, subsequent encounter
+S43.492S@Other sprain of left shoulder joint, sequela
+S43.499A@Other sprain of unspecified shoulder joint, init encntr
+S43.499D@Other sprain of unspecified shoulder joint, subs encntr
+S43.499S@Other sprain of unspecified shoulder joint, sequela
+S43.50XA@Sprain of unspecified acromioclavicular joint, init encntr
+S43.50XD@Sprain of unspecified acromioclavicular joint, subs encntr
+S43.50XS@Sprain of unspecified acromioclavicular joint, sequela
+S43.51XA@Sprain of right acromioclavicular joint, initial encounter
+S43.51XD@Sprain of right acromioclavicular joint, subs encntr
+S43.51XS@Sprain of right acromioclavicular joint, sequela
+S43.52XA@Sprain of left acromioclavicular joint, initial encounter
+S43.52XD@Sprain of left acromioclavicular joint, subsequent encounter
+S43.52XS@Sprain of left acromioclavicular joint, sequela
+S43.60XA@Sprain of unspecified sternoclavicular joint, init encntr
+S43.60XD@Sprain of unspecified sternoclavicular joint, subs encntr
+S43.60XS@Sprain of unspecified sternoclavicular joint, sequela
+S43.61XA@Sprain of right sternoclavicular joint, initial encounter
+S43.61XD@Sprain of right sternoclavicular joint, subsequent encounter
+S43.61XS@Sprain of right sternoclavicular joint, sequela
+S43.62XA@Sprain of left sternoclavicular joint, initial encounter
+S43.62XD@Sprain of left sternoclavicular joint, subsequent encounter
+S43.62XS@Sprain of left sternoclavicular joint, sequela
+S43.80XA@Sprain of oth parts of unsp shoulder girdle, init encntr
+S43.80XD@Sprain of oth parts of unsp shoulder girdle, subs encntr
+S43.80XS@Sprain of oth parts of unspecified shoulder girdle, sequela
+S43.81XA@Sprain of oth parts of right shoulder girdle, init encntr
+S43.81XD@Sprain of oth parts of right shoulder girdle, subs encntr
+S43.81XS@Sprain of oth parts of right shoulder girdle, sequela
+S43.82XA@Sprain of oth parts of left shoulder girdle, init encntr
+S43.82XD@Sprain of oth parts of left shoulder girdle, subs encntr
+S43.82XS@Sprain of oth parts of left shoulder girdle, sequela
+S43.90XA@Sprain of unsp parts of unsp shoulder girdle, init encntr
+S43.90XD@Sprain of unsp parts of unsp shoulder girdle, subs encntr
+S43.90XS@Sprain of unsp parts of unspecified shoulder girdle, sequela
+S43.91XA@Sprain of unsp parts of right shoulder girdle, init encntr
+S43.91XD@Sprain of unsp parts of right shoulder girdle, subs encntr
+S43.91XS@Sprain of unsp parts of right shoulder girdle, sequela
+S43.92XA@Sprain of unsp parts of left shoulder girdle, init encntr
+S43.92XD@Sprain of unsp parts of left shoulder girdle, subs encntr
+S43.92XS@Sprain of unspecified parts of left shoulder girdle, sequela
+S44.00XA@Injury of ulnar nerve at upper arm level, unsp arm, init
+S44.00XD@Injury of ulnar nerve at upper arm level, unsp arm, subs
+S44.00XS@Injury of ulnar nerve at upper arm level, unsp arm, sequela
+S44.01XA@Injury of ulnar nerve at upper arm level, right arm, init
+S44.01XD@Injury of ulnar nerve at upper arm level, right arm, subs
+S44.01XS@Injury of ulnar nerve at upper arm level, right arm, sequela
+S44.02XA@Injury of ulnar nerve at upper arm level, left arm, init
+S44.02XD@Injury of ulnar nerve at upper arm level, left arm, subs
+S44.02XS@Injury of ulnar nerve at upper arm level, left arm, sequela
+S44.10XA@Injury of median nerve at upper arm level, unsp arm, init
+S44.10XD@Injury of median nerve at upper arm level, unsp arm, subs
+S44.10XS@Injury of median nerve at upper arm level, unsp arm, sequela
+S44.11XA@Injury of median nerve at upper arm level, right arm, init
+S44.11XD@Injury of median nerve at upper arm level, right arm, subs
+S44.11XS@Injury of median nrv at upper arm level, right arm, sequela
+S44.12XA@Injury of median nerve at upper arm level, left arm, init
+S44.12XD@Injury of median nerve at upper arm level, left arm, subs
+S44.12XS@Injury of median nerve at upper arm level, left arm, sequela
+S44.20XA@Injury of radial nerve at upper arm level, unsp arm, init
+S44.20XD@Injury of radial nerve at upper arm level, unsp arm, subs
+S44.20XS@Injury of radial nerve at upper arm level, unsp arm, sequela
+S44.21XA@Injury of radial nerve at upper arm level, right arm, init
+S44.21XD@Injury of radial nerve at upper arm level, right arm, subs
+S44.21XS@Injury of radial nrv at upper arm level, right arm, sequela
+S44.22XA@Injury of radial nerve at upper arm level, left arm, init
+S44.22XD@Injury of radial nerve at upper arm level, left arm, subs
+S44.22XS@Injury of radial nerve at upper arm level, left arm, sequela
+S44.30XA@Injury of axillary nerve, unspecified arm, initial encounter
+S44.30XD@Injury of axillary nerve, unspecified arm, subs encntr
+S44.30XS@Injury of axillary nerve, unspecified arm, sequela
+S44.31XA@Injury of axillary nerve, right arm, initial encounter
+S44.31XD@Injury of axillary nerve, right arm, subsequent encounter
+S44.31XS@Injury of axillary nerve, right arm, sequela
+S44.32XA@Injury of axillary nerve, left arm, initial encounter
+S44.32XD@Injury of axillary nerve, left arm, subsequent encounter
+S44.32XS@Injury of axillary nerve, left arm, sequela
+S44.40XA@Injury of musculocutaneous nerve, unsp arm, init encntr
+S44.40XD@Injury of musculocutaneous nerve, unsp arm, subs encntr
+S44.40XS@Injury of musculocutaneous nerve, unspecified arm, sequela
+S44.41XA@Injury of musculocutaneous nerve, right arm, init encntr
+S44.41XD@Injury of musculocutaneous nerve, right arm, subs encntr
+S44.41XS@Injury of musculocutaneous nerve, right arm, sequela
+S44.42XA@Injury of musculocutaneous nerve, left arm, init encntr
+S44.42XD@Injury of musculocutaneous nerve, left arm, subs encntr
+S44.42XS@Injury of musculocutaneous nerve, left arm, sequela
+S44.50XA@Inj cutan sensory nerve at shldr/up arm, unsp arm, init
+S44.50XD@Inj cutan sensory nerve at shldr/up arm, unsp arm, subs
+S44.50XS@Inj cutan sensory nerve at shldr/up arm, unsp arm, sequela
+S44.51XA@Inj cutan sensory nerve at shldr/up arm, right arm, init
+S44.51XD@Inj cutan sensory nerve at shldr/up arm, right arm, subs
+S44.51XS@Inj cutan sensory nerve at shldr/up arm, right arm, sequela
+S44.52XA@Inj cutan sensory nerve at shldr/up arm, left arm, init
+S44.52XD@Inj cutan sensory nerve at shldr/up arm, left arm, subs
+S44.52XS@Inj cutan sensory nerve at shldr/up arm, left arm, sequela
+S44.8X1A@Injury of nerves at shldr/up arm, right arm, init
+S44.8X1D@Injury of nerves at shldr/up arm, right arm, subs
+S44.8X1S@Injury of nerves at shldr/up arm, right arm, sequela
+S44.8X2A@Injury of nerves at shldr/up arm, left arm, init
+S44.8X2D@Injury of nerves at shldr/up arm, left arm, subs
+S44.8X2S@Injury of nerves at shldr/up arm, left arm, sequela
+S44.8X9A@Injury of nerves at shldr/up arm, unsp arm, init
+S44.8X9D@Injury of nerves at shldr/up arm, unsp arm, subs
+S44.8X9S@Injury of nerves at shldr/up arm, unsp arm, sequela
+S44.90XA@Injury of unsp nerve at shldr/up arm, unsp arm, init
+S44.90XD@Injury of unsp nerve at shldr/up arm, unsp arm, subs
+S44.90XS@Injury of unsp nerve at shldr/up arm, unsp arm, sequela
+S44.91XA@Injury of unsp nerve at shldr/up arm, right arm, init
+S44.91XD@Injury of unsp nerve at shldr/up arm, right arm, subs
+S44.91XS@Injury of unsp nerve at shldr/up arm, right arm, sequela
+S44.92XA@Injury of unsp nerve at shldr/up arm, left arm, init
+S44.92XD@Injury of unsp nerve at shldr/up arm, left arm, subs
+S44.92XS@Injury of unsp nerve at shldr/up arm, left arm, sequela
+S45.001A@Unsp injury of axillary artery, right side, init encntr
+S45.001D@Unsp injury of axillary artery, right side, subs encntr
+S45.001S@Unspecified injury of axillary artery, right side, sequela
+S45.002A@Unsp injury of axillary artery, left side, init encntr
+S45.002D@Unsp injury of axillary artery, left side, subs encntr
+S45.002S@Unspecified injury of axillary artery, left side, sequela
+S45.009A@Unsp injury of axillary artery, unsp side, init encntr
+S45.009D@Unsp injury of axillary artery, unsp side, subs encntr
+S45.009S@Unsp injury of axillary artery, unspecified side, sequela
+S45.011A@Laceration of axillary artery, right side, initial encounter
+S45.011D@Laceration of axillary artery, right side, subs encntr
+S45.011S@Laceration of axillary artery, right side, sequela
+S45.012A@Laceration of axillary artery, left side, initial encounter
+S45.012D@Laceration of axillary artery, left side, subs encntr
+S45.012S@Laceration of axillary artery, left side, sequela
+S45.019A@Laceration of axillary artery, unspecified side, init encntr
+S45.019D@Laceration of axillary artery, unspecified side, subs encntr
+S45.019S@Laceration of axillary artery, unspecified side, sequela
+S45.091A@Oth injury of axillary artery, right side, init encntr
+S45.091D@Oth injury of axillary artery, right side, subs encntr
+S45.091S@Oth injury of axillary artery, right side, sequela
+S45.092A@Oth injury of axillary artery, left side, init encntr
+S45.092D@Oth injury of axillary artery, left side, subs encntr
+S45.092S@Oth injury of axillary artery, left side, sequela
+S45.099A@Oth injury of axillary artery, unspecified side, init encntr
+S45.099D@Oth injury of axillary artery, unspecified side, subs encntr
+S45.099S@Oth injury of axillary artery, unspecified side, sequela
+S45.101A@Unsp injury of brachial artery, right side, init encntr
+S45.101D@Unsp injury of brachial artery, right side, subs encntr
+S45.101S@Unspecified injury of brachial artery, right side, sequela
+S45.102A@Unsp injury of brachial artery, left side, init encntr
+S45.102D@Unsp injury of brachial artery, left side, subs encntr
+S45.102S@Unspecified injury of brachial artery, left side, sequela
+S45.109A@Unsp injury of brachial artery, unsp side, init encntr
+S45.109D@Unsp injury of brachial artery, unsp side, subs encntr
+S45.109S@Unsp injury of brachial artery, unspecified side, sequela
+S45.111A@Laceration of brachial artery, right side, initial encounter
+S45.111D@Laceration of brachial artery, right side, subs encntr
+S45.111S@Laceration of brachial artery, right side, sequela
+S45.112A@Laceration of brachial artery, left side, initial encounter
+S45.112D@Laceration of brachial artery, left side, subs encntr
+S45.112S@Laceration of brachial artery, left side, sequela
+S45.119A@Laceration of brachial artery, unspecified side, init encntr
+S45.119D@Laceration of brachial artery, unspecified side, subs encntr
+S45.119S@Laceration of brachial artery, unspecified side, sequela
+S45.191A@Oth injury of brachial artery, right side, init encntr
+S45.191D@Oth injury of brachial artery, right side, subs encntr
+S45.191S@Oth injury of brachial artery, right side, sequela
+S45.192A@Oth injury of brachial artery, left side, init encntr
+S45.192D@Oth injury of brachial artery, left side, subs encntr
+S45.192S@Oth injury of brachial artery, left side, sequela
+S45.199A@Oth injury of brachial artery, unspecified side, init encntr
+S45.199D@Oth injury of brachial artery, unspecified side, subs encntr
+S45.199S@Oth injury of brachial artery, unspecified side, sequela
+S45.201A@Unsp injury of axillary or brachial vein, right side, init
+S45.201D@Unsp injury of axillary or brachial vein, right side, subs
+S45.201S@Unsp injury of axillary or brach vein, right side, sequela
+S45.202A@Unsp injury of axillary or brachial vein, left side, init
+S45.202D@Unsp injury of axillary or brachial vein, left side, subs
+S45.202S@Unsp injury of axillary or brachial vein, left side, sequela
+S45.209A@Unsp injury of axillary or brachial vein, unsp side, init
+S45.209D@Unsp injury of axillary or brachial vein, unsp side, subs
+S45.209S@Unsp injury of axillary or brachial vein, unsp side, sequela
+S45.211A@Laceration of axillary or brachial vein, right side, init
+S45.211D@Laceration of axillary or brachial vein, right side, subs
+S45.211S@Laceration of axillary or brachial vein, right side, sequela
+S45.212A@Laceration of axillary or brachial vein, left side, init
+S45.212D@Laceration of axillary or brachial vein, left side, subs
+S45.212S@Laceration of axillary or brachial vein, left side, sequela
+S45.219A@Laceration of axillary or brachial vein, unsp side, init
+S45.219D@Laceration of axillary or brachial vein, unsp side, subs
+S45.219S@Laceration of axillary or brachial vein, unsp side, sequela
+S45.291A@Inj axillary or brachial vein, right side, init encntr
+S45.291D@Inj axillary or brachial vein, right side, subs encntr
+S45.291S@Oth injury of axillary or brachial vein, right side, sequela
+S45.292A@Inj axillary or brachial vein, left side, init encntr
+S45.292D@Inj axillary or brachial vein, left side, subs encntr
+S45.292S@Oth injury of axillary or brachial vein, left side, sequela
+S45.299A@Inj axillary or brachial vein, unsp side, init encntr
+S45.299D@Inj axillary or brachial vein, unsp side, subs encntr
+S45.299S@Oth injury of axillary or brachial vein, unsp side, sequela
+S45.301A@Unsp injury of superfic vn at shldr/up arm, right arm, init
+S45.301D@Unsp injury of superfic vn at shldr/up arm, right arm, subs
+S45.301S@Unsp inj superfic vn at shldr/up arm, right arm, sequela
+S45.302A@Unsp injury of superfic vn at shldr/up arm, left arm, init
+S45.302D@Unsp injury of superfic vn at shldr/up arm, left arm, subs
+S45.302S@Unsp inj superfic vn at shldr/up arm, left arm, sequela
+S45.309A@Unsp injury of superfic vn at shldr/up arm, unsp arm, init
+S45.309D@Unsp injury of superfic vn at shldr/up arm, unsp arm, subs
+S45.309S@Unsp inj superfic vn at shldr/up arm, unsp arm, sequela
+S45.311A@Laceration of superfic vn at shldr/up arm, right arm, init
+S45.311D@Laceration of superfic vn at shldr/up arm, right arm, subs
+S45.311S@Lacerat superfic vn at shldr/up arm, right arm, sequela
+S45.312A@Laceration of superfic vn at shldr/up arm, left arm, init
+S45.312D@Laceration of superfic vn at shldr/up arm, left arm, subs
+S45.312S@Laceration of superfic vn at shldr/up arm, left arm, sequela
+S45.319A@Laceration of superfic vn at shldr/up arm, unsp arm, init
+S45.319D@Laceration of superfic vn at shldr/up arm, unsp arm, subs
+S45.319S@Laceration of superfic vn at shldr/up arm, unsp arm, sequela
+S45.391A@Inj superficial vein at shldr/up arm, right arm, init
+S45.391D@Inj superficial vein at shldr/up arm, right arm, subs
+S45.391S@Inj superficial vein at shldr/up arm, right arm, sequela
+S45.392A@Inj superficial vein at shldr/up arm, left arm, init
+S45.392D@Inj superficial vein at shldr/up arm, left arm, subs
+S45.392S@Inj superficial vein at shldr/up arm, left arm, sequela
+S45.399A@Inj superficial vein at shldr/up arm, unsp arm, init
+S45.399D@Inj superficial vein at shldr/up arm, unsp arm, subs
+S45.399S@Inj superficial vein at shldr/up arm, unsp arm, sequela
+S45.801A@Unsp inj blood vessels at shldr/up arm, right arm, init
+S45.801D@Unsp inj blood vessels at shldr/up arm, right arm, subs
+S45.801S@Unsp inj blood vessels at shldr/up arm, right arm, sequela
+S45.802A@Unsp injury of blood vessels at shldr/up arm, left arm, init
+S45.802D@Unsp injury of blood vessels at shldr/up arm, left arm, subs
+S45.802S@Unsp inj blood vessels at shldr/up arm, left arm, sequela
+S45.809A@Unsp injury of blood vessels at shldr/up arm, unsp arm, init
+S45.809D@Unsp injury of blood vessels at shldr/up arm, unsp arm, subs
+S45.809S@Unsp inj blood vessels at shldr/up arm, unsp arm, sequela
+S45.811A@Laceration of blood vessels at shldr/up arm, right arm, init
+S45.811D@Laceration of blood vessels at shldr/up arm, right arm, subs
+S45.811S@Lacerat blood vessels at shldr/up arm, right arm, sequela
+S45.812A@Laceration of blood vessels at shldr/up arm, left arm, init
+S45.812D@Laceration of blood vessels at shldr/up arm, left arm, subs
+S45.812S@Lacerat blood vessels at shldr/up arm, left arm, sequela
+S45.819A@Laceration of blood vessels at shldr/up arm, unsp arm, init
+S45.819D@Laceration of blood vessels at shldr/up arm, unsp arm, subs
+S45.819S@Lacerat blood vessels at shldr/up arm, unsp arm, sequela
+S45.891A@Inj oth blood vessels at shldr/up arm, right arm, init
+S45.891D@Inj oth blood vessels at shldr/up arm, right arm, subs
+S45.891S@Inj oth blood vessels at shldr/up arm, right arm, sequela
+S45.892A@Inj oth blood vessels at shldr/up arm, left arm, init
+S45.892D@Inj oth blood vessels at shldr/up arm, left arm, subs
+S45.892S@Inj oth blood vessels at shldr/up arm, left arm, sequela
+S45.899A@Inj oth blood vessels at shldr/up arm, unsp arm, init
+S45.899D@Inj oth blood vessels at shldr/up arm, unsp arm, subs
+S45.899S@Inj oth blood vessels at shldr/up arm, unsp arm, sequela
+S45.901A@Unsp inj unsp blood vess at shldr/up arm, right arm, init
+S45.901D@Unsp inj unsp blood vess at shldr/up arm, right arm, subs
+S45.901S@Unsp inj unsp blood vess at shldr/up arm, right arm, sequela
+S45.902A@Unsp inj unsp blood vess at shldr/up arm, left arm, init
+S45.902D@Unsp inj unsp blood vess at shldr/up arm, left arm, subs
+S45.902S@Unsp inj unsp blood vess at shldr/up arm, left arm, sequela
+S45.909A@Unsp inj unsp blood vess at shldr/up arm, unsp arm, init
+S45.909D@Unsp inj unsp blood vess at shldr/up arm, unsp arm, subs
+S45.909S@Unsp inj unsp blood vess at shldr/up arm, unsp arm, sequela
+S45.911A@Lacerat unsp blood vessel at shldr/up arm, right arm, init
+S45.911D@Lacerat unsp blood vessel at shldr/up arm, right arm, subs
+S45.911S@Lacerat unsp blood vess at shldr/up arm, right arm, sequela
+S45.912A@Lacerat unsp blood vessel at shldr/up arm, left arm, init
+S45.912D@Lacerat unsp blood vessel at shldr/up arm, left arm, subs
+S45.912S@Lacerat unsp blood vessel at shldr/up arm, left arm, sequela
+S45.919A@Lacerat unsp blood vessel at shldr/up arm, unsp arm, init
+S45.919D@Lacerat unsp blood vessel at shldr/up arm, unsp arm, subs
+S45.919S@Lacerat unsp blood vessel at shldr/up arm, unsp arm, sequela
+S45.991A@Inj unsp blood vessel at shldr/up arm, right arm, init
+S45.991D@Inj unsp blood vessel at shldr/up arm, right arm, subs
+S45.991S@Inj unsp blood vessel at shldr/up arm, right arm, sequela
+S45.992A@Inj unsp blood vessel at shldr/up arm, left arm, init
+S45.992D@Inj unsp blood vessel at shldr/up arm, left arm, subs
+S45.992S@Inj unsp blood vessel at shldr/up arm, left arm, sequela
+S45.999A@Inj unsp blood vessel at shldr/up arm, unsp arm, init
+S45.999D@Inj unsp blood vessel at shldr/up arm, unsp arm, subs
+S45.999S@Inj unsp blood vessel at shldr/up arm, unsp arm, sequela
+S46.001A@Unsp inj musc/tend the rotator cuff of r shoulder, init
+S46.001D@Unsp inj musc/tend the rotator cuff of r shoulder, subs
+S46.001S@Unsp inj musc/tend the rotator cuff of r shoulder, sequela
+S46.002A@Unsp inj musc/tend the rotator cuff of l shoulder, init
+S46.002D@Unsp inj musc/tend the rotator cuff of l shoulder, subs
+S46.002S@Unsp inj musc/tend the rotator cuff of l shoulder, sequela
+S46.009A@Unsp inj musc/tend the rotator cuff of unsp shoulder, init
+S46.009D@Unsp inj musc/tend the rotator cuff of unsp shoulder, subs
+S46.009S@Unsp inj musc/tend the rotator cuff of unsp shldr, sequela
+S46.011A@Strain of musc/tend the rotator cuff of right shoulder, init
+S46.011D@Strain of musc/tend the rotator cuff of right shoulder, subs
+S46.011S@Strain of musc/tend the rotator cuff of r shoulder, sequela
+S46.012A@Strain of musc/tend the rotator cuff of left shoulder, init
+S46.012D@Strain of musc/tend the rotator cuff of left shoulder, subs
+S46.012S@Strain of musc/tend the rotator cuff of l shoulder, sequela
+S46.019A@Strain of musc/tend the rotator cuff of unsp shoulder, init
+S46.019D@Strain of musc/tend the rotator cuff of unsp shoulder, subs
+S46.019S@Strain musc/tend the rotator cuff of unsp shoulder, sequela
+S46.021A@Laceration of musc/tend the rotator cuff of r shoulder, init
+S46.021D@Laceration of musc/tend the rotator cuff of r shoulder, subs
+S46.021S@Lacerat musc/tend the rotator cuff of r shoulder, sequela
+S46.022A@Lacerat musc/tend the rotator cuff of left shoulder, init
+S46.022D@Lacerat musc/tend the rotator cuff of left shoulder, subs
+S46.022S@Lacerat musc/tend the rotator cuff of left shoulder, sequela
+S46.029A@Lacerat musc/tend the rotator cuff of unsp shoulder, init
+S46.029D@Lacerat musc/tend the rotator cuff of unsp shoulder, subs
+S46.029S@Lacerat musc/tend the rotator cuff of unsp shoulder, sequela
+S46.091A@Inj musc/tend the rotator cuff of right shoulder, init
+S46.091D@Inj musc/tend the rotator cuff of right shoulder, subs
+S46.091S@Inj musc/tend the rotator cuff of right shoulder, sequela
+S46.092A@Inj musc/tend the rotator cuff of left shoulder, init
+S46.092D@Inj musc/tend the rotator cuff of left shoulder, subs
+S46.092S@Inj musc/tend the rotator cuff of left shoulder, sequela
+S46.099A@Inj musc/tend the rotator cuff of unsp shoulder, init
+S46.099D@Inj musc/tend the rotator cuff of unsp shoulder, subs
+S46.099S@Inj musc/tend the rotator cuff of unsp shoulder, sequela
+S46.101A@Unsp injury of musc/fasc/tend long hd bicep, right arm, init
+S46.101D@Unsp injury of musc/fasc/tend long hd bicep, right arm, subs
+S46.101S@Unsp inj musc/fasc/tend long hd bicep, right arm, sequela
+S46.102A@Unsp injury of musc/fasc/tend long hd bicep, left arm, init
+S46.102D@Unsp injury of musc/fasc/tend long hd bicep, left arm, subs
+S46.102S@Unsp inj musc/fasc/tend long hd bicep, left arm, sequela
+S46.109A@Unsp injury of musc/fasc/tend long hd bicep, unsp arm, init
+S46.109D@Unsp injury of musc/fasc/tend long hd bicep, unsp arm, subs
+S46.109S@Unsp inj musc/fasc/tend long hd bicep, unsp arm, sequela
+S46.111A@Strain of musc/fasc/tend long hd bicep, right arm, init
+S46.111D@Strain of musc/fasc/tend long hd bicep, right arm, subs
+S46.111S@Strain of musc/fasc/tend long hd bicep, right arm, sequela
+S46.112A@Strain of musc/fasc/tend long head of biceps, left arm, init
+S46.112D@Strain of musc/fasc/tend long head of biceps, left arm, subs
+S46.112S@Strain of musc/fasc/tend long hd bicep, left arm, sequela
+S46.119A@Strain of musc/fasc/tend long head of biceps, unsp arm, init
+S46.119D@Strain of musc/fasc/tend long head of biceps, unsp arm, subs
+S46.119S@Strain of musc/fasc/tend long hd bicep, unsp arm, sequela
+S46.121A@Laceration of musc/fasc/tend long hd bicep, right arm, init
+S46.121D@Laceration of musc/fasc/tend long hd bicep, right arm, subs
+S46.121S@Lacerat musc/fasc/tend long hd bicep, right arm, sequela
+S46.122A@Laceration of musc/fasc/tend long hd bicep, left arm, init
+S46.122D@Laceration of musc/fasc/tend long hd bicep, left arm, subs
+S46.122S@Lacerat musc/fasc/tend long hd bicep, left arm, sequela
+S46.129A@Laceration of musc/fasc/tend long hd bicep, unsp arm, init
+S46.129D@Laceration of musc/fasc/tend long hd bicep, unsp arm, subs
+S46.129S@Lacerat musc/fasc/tend long hd bicep, unsp arm, sequela
+S46.191A@Inj musc/fasc/tend long head of biceps, right arm, init
+S46.191D@Inj musc/fasc/tend long head of biceps, right arm, subs
+S46.191S@Inj musc/fasc/tend long head of biceps, right arm, sequela
+S46.192A@Inj musc/fasc/tend long head of biceps, left arm, init
+S46.192D@Inj musc/fasc/tend long head of biceps, left arm, subs
+S46.192S@Inj musc/fasc/tend long head of biceps, left arm, sequela
+S46.199A@Inj musc/fasc/tend long head of biceps, unsp arm, init
+S46.199D@Inj musc/fasc/tend long head of biceps, unsp arm, subs
+S46.199S@Inj musc/fasc/tend long head of biceps, unsp arm, sequela
+S46.201A@Unsp injury of musc/fasc/tend prt biceps, right arm, init
+S46.201D@Unsp injury of musc/fasc/tend prt biceps, right arm, subs
+S46.201S@Unsp injury of musc/fasc/tend prt biceps, right arm, sequela
+S46.202A@Unsp injury of musc/fasc/tend prt biceps, left arm, init
+S46.202D@Unsp injury of musc/fasc/tend prt biceps, left arm, subs
+S46.202S@Unsp injury of musc/fasc/tend prt biceps, left arm, sequela
+S46.209A@Unsp injury of musc/fasc/tend prt biceps, unsp arm, init
+S46.209D@Unsp injury of musc/fasc/tend prt biceps, unsp arm, subs
+S46.209S@Unsp injury of musc/fasc/tend prt biceps, unsp arm, sequela
+S46.211A@Strain of musc/fasc/tend prt biceps, right arm, init
+S46.211D@Strain of musc/fasc/tend prt biceps, right arm, subs
+S46.211S@Strain of musc/fasc/tend prt biceps, right arm, sequela
+S46.212A@Strain of musc/fasc/tend prt biceps, left arm, init
+S46.212D@Strain of musc/fasc/tend prt biceps, left arm, subs
+S46.212S@Strain of musc/fasc/tend prt biceps, left arm, sequela
+S46.219A@Strain of musc/fasc/tend prt biceps, unsp arm, init
+S46.219D@Strain of musc/fasc/tend prt biceps, unsp arm, subs
+S46.219S@Strain of musc/fasc/tend prt biceps, unsp arm, sequela
+S46.221A@Laceration of musc/fasc/tend prt biceps, right arm, init
+S46.221D@Laceration of musc/fasc/tend prt biceps, right arm, subs
+S46.221S@Laceration of musc/fasc/tend prt biceps, right arm, sequela
+S46.222A@Laceration of musc/fasc/tend prt biceps, left arm, init
+S46.222D@Laceration of musc/fasc/tend prt biceps, left arm, subs
+S46.222S@Laceration of musc/fasc/tend prt biceps, left arm, sequela
+S46.229A@Laceration of musc/fasc/tend prt biceps, unsp arm, init
+S46.229D@Laceration of musc/fasc/tend prt biceps, unsp arm, subs
+S46.229S@Laceration of musc/fasc/tend prt biceps, unsp arm, sequela
+S46.291A@Inj muscle, fascia and tendon of prt biceps, right arm, init
+S46.291D@Inj muscle, fascia and tendon of prt biceps, right arm, subs
+S46.291S@Inj musc/fasc/tend prt biceps, right arm, sequela
+S46.292A@Inj muscle, fascia and tendon of prt biceps, left arm, init
+S46.292D@Inj muscle, fascia and tendon of prt biceps, left arm, subs
+S46.292S@Inj musc/fasc/tend prt biceps, left arm, sequela
+S46.299A@Inj muscle, fascia and tendon of prt biceps, unsp arm, init
+S46.299D@Inj muscle, fascia and tendon of prt biceps, unsp arm, subs
+S46.299S@Inj musc/fasc/tend prt biceps, unsp arm, sequela
+S46.301A@Unsp injury of musc/fasc/tend triceps, right arm, init
+S46.301D@Unsp injury of musc/fasc/tend triceps, right arm, subs
+S46.301S@Unsp injury of musc/fasc/tend triceps, right arm, sequela
+S46.302A@Unsp injury of musc/fasc/tend triceps, left arm, init
+S46.302D@Unsp injury of musc/fasc/tend triceps, left arm, subs
+S46.302S@Unsp injury of musc/fasc/tend triceps, left arm, sequela
+S46.309A@Unsp injury of musc/fasc/tend triceps, unsp arm, init
+S46.309D@Unsp injury of musc/fasc/tend triceps, unsp arm, subs
+S46.309S@Unsp injury of musc/fasc/tend triceps, unsp arm, sequela
+S46.311A@Strain of musc/fasc/tend triceps, right arm, init
+S46.311D@Strain of musc/fasc/tend triceps, right arm, subs
+S46.311S@Strain of musc/fasc/tend triceps, right arm, sequela
+S46.312A@Strain of musc/fasc/tend triceps, left arm, init
+S46.312D@Strain of musc/fasc/tend triceps, left arm, subs
+S46.312S@Strain of musc/fasc/tend triceps, left arm, sequela
+S46.319A@Strain of musc/fasc/tend triceps, unsp arm, init
+S46.319D@Strain of musc/fasc/tend triceps, unsp arm, subs
+S46.319S@Strain of musc/fasc/tend triceps, unsp arm, sequela
+S46.321A@Laceration of musc/fasc/tend triceps, right arm, init
+S46.321D@Laceration of musc/fasc/tend triceps, right arm, subs
+S46.321S@Laceration of musc/fasc/tend triceps, right arm, sequela
+S46.322A@Laceration of musc/fasc/tend triceps, left arm, init
+S46.322D@Laceration of musc/fasc/tend triceps, left arm, subs
+S46.322S@Laceration of musc/fasc/tend triceps, left arm, sequela
+S46.329A@Laceration of musc/fasc/tend triceps, unsp arm, init
+S46.329D@Laceration of musc/fasc/tend triceps, unsp arm, subs
+S46.329S@Laceration of musc/fasc/tend triceps, unsp arm, sequela
+S46.391A@Inj muscle, fascia and tendon of triceps, right arm, init
+S46.391D@Inj muscle, fascia and tendon of triceps, right arm, subs
+S46.391S@Inj muscle, fascia and tendon of triceps, right arm, sequela
+S46.392A@Inj muscle, fascia and tendon of triceps, left arm, init
+S46.392D@Inj muscle, fascia and tendon of triceps, left arm, subs
+S46.392S@Inj muscle, fascia and tendon of triceps, left arm, sequela
+S46.399A@Inj muscle, fascia and tendon of triceps, unsp arm, init
+S46.399D@Inj muscle, fascia and tendon of triceps, unsp arm, subs
+S46.399S@Inj muscle, fascia and tendon of triceps, unsp arm, sequela
+S46.801A@Unsp inj musc/fasc/tend at shldr/up arm, right arm, init
+S46.801D@Unsp inj musc/fasc/tend at shldr/up arm, right arm, subs
+S46.801S@Unsp inj musc/fasc/tend at shldr/up arm, right arm, sequela
+S46.802A@Unsp inj musc/fasc/tend at shldr/up arm, left arm, init
+S46.802D@Unsp inj musc/fasc/tend at shldr/up arm, left arm, subs
+S46.802S@Unsp inj musc/fasc/tend at shldr/up arm, left arm, sequela
+S46.809A@Unsp inj musc/fasc/tend at shldr/up arm, unsp arm, init
+S46.809D@Unsp inj musc/fasc/tend at shldr/up arm, unsp arm, subs
+S46.809S@Unsp inj musc/fasc/tend at shldr/up arm, unsp arm, sequela
+S46.811A@Strain of musc/fasc/tend at shldr/up arm, right arm, init
+S46.811D@Strain of musc/fasc/tend at shldr/up arm, right arm, subs
+S46.811S@Strain of musc/fasc/tend at shldr/up arm, right arm, sequela
+S46.812A@Strain of musc/fasc/tend at shldr/up arm, left arm, init
+S46.812D@Strain of musc/fasc/tend at shldr/up arm, left arm, subs
+S46.812S@Strain of musc/fasc/tend at shldr/up arm, left arm, sequela
+S46.819A@Strain of musc/fasc/tend at shldr/up arm, unsp arm, init
+S46.819D@Strain of musc/fasc/tend at shldr/up arm, unsp arm, subs
+S46.819S@Strain of musc/fasc/tend at shldr/up arm, unsp arm, sequela
+S46.821A@Lacerat musc/fasc/tend at shldr/up arm, right arm, init
+S46.821D@Lacerat musc/fasc/tend at shldr/up arm, right arm, subs
+S46.821S@Lacerat musc/fasc/tend at shldr/up arm, right arm, sequela
+S46.822A@Laceration of musc/fasc/tend at shldr/up arm, left arm, init
+S46.822D@Laceration of musc/fasc/tend at shldr/up arm, left arm, subs
+S46.822S@Lacerat musc/fasc/tend at shldr/up arm, left arm, sequela
+S46.829A@Laceration of musc/fasc/tend at shldr/up arm, unsp arm, init
+S46.829D@Laceration of musc/fasc/tend at shldr/up arm, unsp arm, subs
+S46.829S@Lacerat musc/fasc/tend at shldr/up arm, unsp arm, sequela
+S46.891A@Inj musc/fasc/tend at shldr/up arm, right arm, init
+S46.891D@Inj musc/fasc/tend at shldr/up arm, right arm, subs
+S46.891S@Inj musc/fasc/tend at shldr/up arm, right arm, sequela
+S46.892A@Inj musc/fasc/tend at shldr/up arm, left arm, init
+S46.892D@Inj musc/fasc/tend at shldr/up arm, left arm, subs
+S46.892S@Inj musc/fasc/tend at shldr/up arm, left arm, sequela
+S46.899A@Inj musc/fasc/tend at shldr/up arm, unsp arm, init
+S46.899D@Inj musc/fasc/tend at shldr/up arm, unsp arm, subs
+S46.899S@Inj musc/fasc/tend at shldr/up arm, unsp arm, sequela
+S46.901A@Unsp inj unsp musc/fasc/tend at shldr/up arm, r arm, init
+S46.901D@Unsp inj unsp musc/fasc/tend at shldr/up arm, r arm, subs
+S46.901S@Unsp inj unsp musc/fasc/tend at shldr/up arm, r arm, sqla
+S46.902A@Unsp inj unsp musc/fasc/tend at shldr/up arm, left arm, init
+S46.902D@Unsp inj unsp musc/fasc/tend at shldr/up arm, left arm, subs
+S46.902S@Unsp inj unsp musc/fasc/tend at shldr/up arm, left arm, sqla
+S46.909A@Unsp inj unsp musc/fasc/tend at shldr/up arm, unsp arm, init
+S46.909D@Unsp inj unsp musc/fasc/tend at shldr/up arm, unsp arm, subs
+S46.909S@Unsp inj unsp musc/fasc/tend at shldr/up arm, unsp arm, sqla
+S46.911A@Strain unsp musc/fasc/tend at shldr/up arm, right arm, init
+S46.911D@Strain unsp musc/fasc/tend at shldr/up arm, right arm, subs
+S46.911S@Strain unsp musc/fasc/tend at shldr/up arm, right arm, sqla
+S46.912A@Strain unsp musc/fasc/tend at shldr/up arm, left arm, init
+S46.912D@Strain unsp musc/fasc/tend at shldr/up arm, left arm, subs
+S46.912S@Strain unsp musc/fasc/tend at shldr/up arm, left arm, sqla
+S46.919A@Strain unsp musc/fasc/tend at shldr/up arm, unsp arm, init
+S46.919D@Strain unsp musc/fasc/tend at shldr/up arm, unsp arm, subs
+S46.919S@Strain unsp musc/fasc/tend at shldr/up arm, unsp arm, sqla
+S46.921A@Lacerat unsp musc/fasc/tend at shldr/up arm, right arm, init
+S46.921D@Lacerat unsp musc/fasc/tend at shldr/up arm, right arm, subs
+S46.921S@Lacerat unsp musc/fasc/tend at shldr/up arm, right arm, sqla
+S46.922A@Lacerat unsp musc/fasc/tend at shldr/up arm, left arm, init
+S46.922D@Lacerat unsp musc/fasc/tend at shldr/up arm, left arm, subs
+S46.922S@Lacerat unsp musc/fasc/tend at shldr/up arm, left arm, sqla
+S46.929A@Lacerat unsp musc/fasc/tend at shldr/up arm, unsp arm, init
+S46.929D@Lacerat unsp musc/fasc/tend at shldr/up arm, unsp arm, subs
+S46.929S@Lacerat unsp musc/fasc/tend at shldr/up arm, unsp arm, sqla
+S46.991A@Inj unsp musc/fasc/tend at shldr/up arm, right arm, init
+S46.991D@Inj unsp musc/fasc/tend at shldr/up arm, right arm, subs
+S46.991S@Inj unsp musc/fasc/tend at shldr/up arm, right arm, sequela
+S46.992A@Inj unsp musc/fasc/tend at shldr/up arm, left arm, init
+S46.992D@Inj unsp musc/fasc/tend at shldr/up arm, left arm, subs
+S46.992S@Inj unsp musc/fasc/tend at shldr/up arm, left arm, sequela
+S46.999A@Inj unsp musc/fasc/tend at shldr/up arm, unsp arm, init
+S46.999D@Inj unsp musc/fasc/tend at shldr/up arm, unsp arm, subs
+S46.999S@Inj unsp musc/fasc/tend at shldr/up arm, unsp arm, sequela
+S47.1XXA@Crushing injury of right shoulder and upper arm, init encntr
+S47.1XXD@Crushing injury of right shoulder and upper arm, subs encntr
+S47.1XXS@Crushing injury of right shoulder and upper arm, sequela
+S47.2XXA@Crushing injury of left shoulder and upper arm, init encntr
+S47.2XXD@Crushing injury of left shoulder and upper arm, subs encntr
+S47.2XXS@Crushing injury of left shoulder and upper arm, sequela
+S47.9XXA@Crushing injury of shoulder and upper arm, unsp arm, init
+S47.9XXD@Crushing injury of shoulder and upper arm, unsp arm, subs
+S47.9XXS@Crushing injury of shoulder and upper arm, unsp arm, sequela
+S48.011A@Complete traumatic amputation at right shoulder joint, init
+S48.011D@Complete traumatic amputation at right shoulder joint, subs
+S48.011S@Complete traumatic amputation at r shoulder jt, sequela
+S48.012A@Complete traumatic amputation at left shoulder joint, init
+S48.012D@Complete traumatic amputation at left shoulder joint, subs
+S48.012S@Complete traumatic amputation at l shoulder jt, sequela
+S48.019A@Complete traumatic amputation at unsp shoulder joint, init
+S48.019D@Complete traumatic amputation at unsp shoulder joint, subs
+S48.019S@Complete traumatic amputation at unsp shoulder jt, sequela
+S48.021A@Partial traumatic amputation at right shoulder joint, init
+S48.021D@Partial traumatic amputation at right shoulder joint, subs
+S48.021S@Partial traumatic amputation at r shoulder jt, sequela
+S48.022A@Partial traumatic amputation at left shoulder joint, init
+S48.022D@Partial traumatic amputation at left shoulder joint, subs
+S48.022S@Partial traumatic amputation at left shoulder joint, sequela
+S48.029A@Partial traumatic amputation at unsp shoulder joint, init
+S48.029D@Partial traumatic amputation at unsp shoulder joint, subs
+S48.029S@Partial traumatic amputation at unsp shoulder joint, sequela
+S48.111A@Complete traum amp at level betw r shoulder and elbow, init
+S48.111D@Complete traum amp at level betw r shoulder and elbow, subs
+S48.111S@Complete traum amp at level betw r shldr and elbow, sequela
+S48.112A@Complete traum amp at level betw l shoulder and elbow, init
+S48.112D@Complete traum amp at level betw l shoulder and elbow, subs
+S48.112S@Complete traum amp at level betw l shldr and elbow, sequela
+S48.119A@Complete traum amp at level betw unsp shldr and elbow, init
+S48.119D@Complete traum amp at level betw unsp shldr and elbow, subs
+S48.119S@Complete traum amp at level betw unsp shldr and elbow, sqla
+S48.121A@Partial traum amp at level betw r shoulder and elbow, init
+S48.121D@Partial traum amp at level betw r shoulder and elbow, subs
+S48.121S@Partial traum amp at level betw r shldr and elbow, sequela
+S48.122A@Partial traum amp at level betw l shoulder and elbow, init
+S48.122D@Partial traum amp at level betw l shoulder and elbow, subs
+S48.122S@Partial traum amp at level betw l shldr and elbow, sequela
+S48.129A@Partial traum amp at level betw unsp shldr and elbow, init
+S48.129D@Partial traum amp at level betw unsp shldr and elbow, subs
+S48.129S@Part traum amp at level betw unsp shldr and elbow, sequela
+S48.911A@Complete traum amp of right shldr/up arm, level unsp, init
+S48.911D@Complete traum amp of right shldr/up arm, level unsp, subs
+S48.911S@Complete traum amp of right shldr/up arm, level unsp, sqla
+S48.912A@Complete traum amp of left shldr/up arm, level unsp, init
+S48.912D@Complete traum amp of left shldr/up arm, level unsp, subs
+S48.912S@Complete traum amp of left shldr/up arm, level unsp, sequela
+S48.919A@Complete traum amp of unsp shldr/up arm, level unsp, init
+S48.919D@Complete traum amp of unsp shldr/up arm, level unsp, subs
+S48.919S@Complete traum amp of unsp shldr/up arm, level unsp, sequela
+S48.921A@Partial traum amp of right shldr/up arm, level unsp, init
+S48.921D@Partial traum amp of right shldr/up arm, level unsp, subs
+S48.921S@Partial traum amp of right shldr/up arm, level unsp, sequela
+S48.922A@Partial traumatic amp of left shldr/up arm, level unsp, init
+S48.922D@Partial traumatic amp of left shldr/up arm, level unsp, subs
+S48.922S@Partial traum amp of left shldr/up arm, level unsp, sequela
+S48.929A@Partial traumatic amp of unsp shldr/up arm, level unsp, init
+S48.929D@Partial traumatic amp of unsp shldr/up arm, level unsp, subs
+S48.929S@Partial traum amp of unsp shldr/up arm, level unsp, sequela
+S49.001A@Unsp physeal fx upper end of humerus, right arm, init
+S49.001D@Unsp physl fx upr end humer, r arm, subs for fx w routn heal
+S49.001G@Unsp physl fx upr end humer, r arm, subs for fx w delay heal
+S49.001K@Unsp physl fx upper end humer, r arm, subs for fx w nonunion
+S49.001P@Unsp physl fx upper end humer, r arm, subs for fx w malunion
+S49.001S@Unsp physeal fx upper end of humerus, right arm, sequela
+S49.002A@Unsp physeal fx upper end of humerus, left arm, init
+S49.002D@Unsp physl fx upr end humer, l arm, subs for fx w routn heal
+S49.002G@Unsp physl fx upr end humer, l arm, subs for fx w delay heal
+S49.002K@Unsp physl fx upr end humer, l arm, subs for fx w nonunion
+S49.002P@Unsp physl fx upr end humer, l arm, subs for fx w malunion
+S49.002S@Unsp physeal fx upper end of humerus, left arm, sequela
+S49.009A@Unsp physeal fx upper end of humerus, unsp arm, init
+S49.009D@Unsp physl fx upr end humer, unsp arm, 7thD
+S49.009G@Unsp physl fx upr end humer, unsp arm, 7thG
+S49.009K@Unsp physl fx upr end humer, unsp arm, 7thK
+S49.009P@Unsp physl fx upr end humer, unsp arm, 7thP
+S49.009S@Unsp physeal fx upper end of humerus, unsp arm, sequela
+S49.011A@Sltr-haris Type I physl fx upper end humer, right arm, init
+S49.011D@Sltr-haris Type I physl fx upr end humer, r arm, 7thD
+S49.011G@Sltr-haris Type I physl fx upr end humer, r arm, 7thG
+S49.011K@Sltr-haris Type I physl fx upr end humer, r arm, 7thK
+S49.011P@Sltr-haris Type I physl fx upr end humer, r arm, 7thP
+S49.011S@Sltr-haris Type I physl fx upper end humer, right arm, sqla
+S49.012A@Sltr-haris Type I physl fx upper end humer, left arm, init
+S49.012D@Sltr-haris Type I physl fx upr end humer, l arm, 7thD
+S49.012G@Sltr-haris Type I physl fx upr end humer, l arm, 7thG
+S49.012K@Sltr-haris Type I physl fx upr end humer, l arm, 7thK
+S49.012P@Sltr-haris Type I physl fx upr end humer, l arm, 7thP
+S49.012S@Sltr-haris Type I physl fx upper end humer, left arm, sqla
+S49.019A@Sltr-haris Type I physl fx upper end humer, unsp arm, init
+S49.019D@Sltr-haris Type I physl fx upr end humer, unsp arm, 7thD
+S49.019G@Sltr-haris Type I physl fx upr end humer, unsp arm, 7thG
+S49.019K@Sltr-haris Type I physl fx upr end humer, unsp arm, 7thK
+S49.019P@Sltr-haris Type I physl fx upr end humer, unsp arm, 7thP
+S49.019S@Sltr-haris Type I physl fx upper end humer, unsp arm, sqla
+S49.021A@Sltr-haris Type II physl fx upper end humer, right arm, init
+S49.021D@Sltr-haris Type II physl fx upr end humer, r arm, 7thD
+S49.021G@Sltr-haris Type II physl fx upr end humer, r arm, 7thG
+S49.021K@Sltr-haris Type II physl fx upr end humer, r arm, 7thK
+S49.021P@Sltr-haris Type II physl fx upr end humer, r arm, 7thP
+S49.021S@Sltr-haris Type II physl fx upper end humer, right arm, sqla
+S49.022A@Sltr-haris Type II physl fx upper end humer, left arm, init
+S49.022D@Sltr-haris Type II physl fx upr end humer, l arm, 7thD
+S49.022G@Sltr-haris Type II physl fx upr end humer, l arm, 7thG
+S49.022K@Sltr-haris Type II physl fx upr end humer, l arm, 7thK
+S49.022P@Sltr-haris Type II physl fx upr end humer, l arm, 7thP
+S49.022S@Sltr-haris Type II physl fx upper end humer, left arm, sqla
+S49.029A@Sltr-haris Type II physl fx upper end humer, unsp arm, init
+S49.029D@Sltr-haris Type II physl fx upr end humer, unsp arm, 7thD
+S49.029G@Sltr-haris Type II physl fx upr end humer, unsp arm, 7thG
+S49.029K@Sltr-haris Type II physl fx upr end humer, unsp arm, 7thK
+S49.029P@Sltr-haris Type II physl fx upr end humer, unsp arm, 7thP
+S49.029S@Sltr-haris Type II physl fx upper end humer, unsp arm, sqla
+S49.031A@Sltr-haris Type III physl fx upper end humer, r arm, init
+S49.031D@Sltr-haris Type III physl fx upr end humer, r arm, 7thD
+S49.031G@Sltr-haris Type III physl fx upr end humer, r arm, 7thG
+S49.031K@Sltr-haris Type III physl fx upr end humer, r arm, 7thK
+S49.031P@Sltr-haris Type III physl fx upr end humer, r arm, 7thP
+S49.031S@Sltr-haris Type III physl fx upper end humer, r arm, sqla
+S49.032A@Sltr-haris Type III physl fx upper end humer, left arm, init
+S49.032D@Sltr-haris Type III physl fx upr end humer, l arm, 7thD
+S49.032G@Sltr-haris Type III physl fx upr end humer, l arm, 7thG
+S49.032K@Sltr-haris Type III physl fx upr end humer, l arm, 7thK
+S49.032P@Sltr-haris Type III physl fx upr end humer, l arm, 7thP
+S49.032S@Sltr-haris Type III physl fx upper end humer, left arm, sqla
+S49.039A@Sltr-haris Type III physl fx upper end humer, unsp arm, init
+S49.039D@Sltr-haris Type III physl fx upr end humer, unsp arm, 7thD
+S49.039G@Sltr-haris Type III physl fx upr end humer, unsp arm, 7thG
+S49.039K@Sltr-haris Type III physl fx upr end humer, unsp arm, 7thK
+S49.039P@Sltr-haris Type III physl fx upr end humer, unsp arm, 7thP
+S49.039S@Sltr-haris Type III physl fx upper end humer, unsp arm, sqla
+S49.041A@Sltr-haris Type IV physl fx upper end humer, right arm, init
+S49.041D@Sltr-haris Type IV physl fx upr end humer, r arm, 7thD
+S49.041G@Sltr-haris Type IV physl fx upr end humer, r arm, 7thG
+S49.041K@Sltr-haris Type IV physl fx upr end humer, r arm, 7thK
+S49.041P@Sltr-haris Type IV physl fx upr end humer, r arm, 7thP
+S49.041S@Sltr-haris Type IV physl fx upper end humer, right arm, sqla
+S49.042A@Sltr-haris Type IV physl fx upper end humer, left arm, init
+S49.042D@Sltr-haris Type IV physl fx upr end humer, l arm, 7thD
+S49.042G@Sltr-haris Type IV physl fx upr end humer, l arm, 7thG
+S49.042K@Sltr-haris Type IV physl fx upr end humer, l arm, 7thK
+S49.042P@Sltr-haris Type IV physl fx upr end humer, l arm, 7thP
+S49.042S@Sltr-haris Type IV physl fx upper end humer, left arm, sqla
+S49.049A@Sltr-haris Type IV physl fx upper end humer, unsp arm, init
+S49.049D@Sltr-haris Type IV physl fx upr end humer, unsp arm, 7thD
+S49.049G@Sltr-haris Type IV physl fx upr end humer, unsp arm, 7thG
+S49.049K@Sltr-haris Type IV physl fx upr end humer, unsp arm, 7thK
+S49.049P@Sltr-haris Type IV physl fx upr end humer, unsp arm, 7thP
+S49.049S@Sltr-haris Type IV physl fx upper end humer, unsp arm, sqla
+S49.091A@Oth physeal fx upper end of humerus, right arm, init
+S49.091D@Oth physl fx upr end humer, r arm, subs for fx w routn heal
+S49.091G@Oth physl fx upr end humer, r arm, subs for fx w delay heal
+S49.091K@Oth physl fx upper end humer, r arm, subs for fx w nonunion
+S49.091P@Oth physl fx upper end humer, r arm, subs for fx w malunion
+S49.091S@Oth physeal fx upper end of humerus, right arm, sequela
+S49.092A@Oth physeal fracture of upper end of humerus, left arm, init
+S49.092D@Oth physl fx upr end humer, l arm, subs for fx w routn heal
+S49.092G@Oth physl fx upr end humer, l arm, subs for fx w delay heal
+S49.092K@Oth physl fx upr end humer, left arm, subs for fx w nonunion
+S49.092P@Oth physl fx upr end humer, left arm, subs for fx w malunion
+S49.092S@Oth physeal fx upper end of humerus, left arm, sequela
+S49.099A@Oth physeal fracture of upper end of humerus, unsp arm, init
+S49.099D@Oth physl fx upr end humer, unsp arm, 7thD
+S49.099G@Oth physl fx upr end humer, unsp arm, 7thG
+S49.099K@Oth physl fx upr end humer, unsp arm, subs for fx w nonunion
+S49.099P@Oth physl fx upr end humer, unsp arm, subs for fx w malunion
+S49.099S@Oth physeal fx upper end of humerus, unsp arm, sequela
+S49.101A@Unsp physeal fx lower end of humerus, right arm, init
+S49.101D@Unsp physl fx low end humer, r arm, subs for fx w routn heal
+S49.101G@Unsp physl fx low end humer, r arm, subs for fx w delay heal
+S49.101K@Unsp physl fx low end humer, r arm, subs for fx w nonunion
+S49.101P@Unsp physl fx low end humer, r arm, subs for fx w malunion
+S49.101S@Unsp physeal fx lower end of humerus, right arm, sequela
+S49.102A@Unsp physeal fx lower end of humerus, left arm, init
+S49.102D@Unsp physl fx low end humer, l arm, subs for fx w routn heal
+S49.102G@Unsp physl fx low end humer, l arm, subs for fx w delay heal
+S49.102K@Unsp physl fx low end humer, l arm, subs for fx w nonunion
+S49.102P@Unsp physl fx low end humer, l arm, subs for fx w malunion
+S49.102S@Unsp physeal fx lower end of humerus, left arm, sequela
+S49.109A@Unsp physeal fx lower end of humerus, unsp arm, init
+S49.109D@Unsp physl fx low end humer, unsp arm, 7thD
+S49.109G@Unsp physl fx low end humer, unsp arm, 7thG
+S49.109K@Unsp physl fx low end humer, unsp arm, 7thK
+S49.109P@Unsp physl fx low end humer, unsp arm, 7thP
+S49.109S@Unsp physeal fx lower end of humerus, unsp arm, sequela
+S49.111A@Sltr-haris Type I physl fx lower end humer, right arm, init
+S49.111D@Sltr-haris Type I physl fx low end humer, r arm, 7thD
+S49.111G@Sltr-haris Type I physl fx low end humer, r arm, 7thG
+S49.111K@Sltr-haris Type I physl fx low end humer, r arm, 7thK
+S49.111P@Sltr-haris Type I physl fx low end humer, r arm, 7thP
+S49.111S@Sltr-haris Type I physl fx lower end humer, right arm, sqla
+S49.112A@Sltr-haris Type I physl fx lower end humer, left arm, init
+S49.112D@Sltr-haris Type I physl fx low end humer, l arm, 7thD
+S49.112G@Sltr-haris Type I physl fx low end humer, l arm, 7thG
+S49.112K@Sltr-haris Type I physl fx low end humer, l arm, 7thK
+S49.112P@Sltr-haris Type I physl fx low end humer, l arm, 7thP
+S49.112S@Sltr-haris Type I physl fx lower end humer, left arm, sqla
+S49.119A@Sltr-haris Type I physl fx lower end humer, unsp arm, init
+S49.119D@Sltr-haris Type I physl fx low end humer, unsp arm, 7thD
+S49.119G@Sltr-haris Type I physl fx low end humer, unsp arm, 7thG
+S49.119K@Sltr-haris Type I physl fx low end humer, unsp arm, 7thK
+S49.119P@Sltr-haris Type I physl fx low end humer, unsp arm, 7thP
+S49.119S@Sltr-haris Type I physl fx lower end humer, unsp arm, sqla
+S49.121A@Sltr-haris Type II physl fx lower end humer, right arm, init
+S49.121D@Sltr-haris Type II physl fx low end humer, r arm, 7thD
+S49.121G@Sltr-haris Type II physl fx low end humer, r arm, 7thG
+S49.121K@Sltr-haris Type II physl fx low end humer, r arm, 7thK
+S49.121P@Sltr-haris Type II physl fx low end humer, r arm, 7thP
+S49.121S@Sltr-haris Type II physl fx lower end humer, right arm, sqla
+S49.122A@Sltr-haris Type II physl fx lower end humer, left arm, init
+S49.122D@Sltr-haris Type II physl fx low end humer, l arm, 7thD
+S49.122G@Sltr-haris Type II physl fx low end humer, l arm, 7thG
+S49.122K@Sltr-haris Type II physl fx low end humer, l arm, 7thK
+S49.122P@Sltr-haris Type II physl fx low end humer, l arm, 7thP
+S49.122S@Sltr-haris Type II physl fx lower end humer, left arm, sqla
+S49.129A@Sltr-haris Type II physl fx lower end humer, unsp arm, init
+S49.129D@Sltr-haris Type II physl fx low end humer, unsp arm, 7thD
+S49.129G@Sltr-haris Type II physl fx low end humer, unsp arm, 7thG
+S49.129K@Sltr-haris Type II physl fx low end humer, unsp arm, 7thK
+S49.129P@Sltr-haris Type II physl fx low end humer, unsp arm, 7thP
+S49.129S@Sltr-haris Type II physl fx lower end humer, unsp arm, sqla
+S49.131A@Sltr-haris Type III physl fx low end humer, right arm, init
+S49.131D@Sltr-haris Type III physl fx low end humer, r arm, 7thD
+S49.131G@Sltr-haris Type III physl fx low end humer, r arm, 7thG
+S49.131K@Sltr-haris Type III physl fx low end humer, r arm, 7thK
+S49.131P@Sltr-haris Type III physl fx low end humer, r arm, 7thP
+S49.131S@Sltr-haris Type III physl fx low end humer, right arm, sqla
+S49.132A@Sltr-haris Type III physl fx lower end humer, left arm, init
+S49.132D@Sltr-haris Type III physl fx low end humer, l arm, 7thD
+S49.132G@Sltr-haris Type III physl fx low end humer, l arm, 7thG
+S49.132K@Sltr-haris Type III physl fx low end humer, l arm, 7thK
+S49.132P@Sltr-haris Type III physl fx low end humer, l arm, 7thP
+S49.132S@Sltr-haris Type III physl fx lower end humer, left arm, sqla
+S49.139A@Sltr-haris Type III physl fx lower end humer, unsp arm, init
+S49.139D@Sltr-haris Type III physl fx low end humer, unsp arm, 7thD
+S49.139G@Sltr-haris Type III physl fx low end humer, unsp arm, 7thG
+S49.139K@Sltr-haris Type III physl fx low end humer, unsp arm, 7thK
+S49.139P@Sltr-haris Type III physl fx low end humer, unsp arm, 7thP
+S49.139S@Sltr-haris Type III physl fx lower end humer, unsp arm, sqla
+S49.141A@Sltr-haris Type IV physl fx lower end humer, right arm, init
+S49.141D@Sltr-haris Type IV physl fx low end humer, r arm, 7thD
+S49.141G@Sltr-haris Type IV physl fx low end humer, r arm, 7thG
+S49.141K@Sltr-haris Type IV physl fx low end humer, r arm, 7thK
+S49.141P@Sltr-haris Type IV physl fx low end humer, r arm, 7thP
+S49.141S@Sltr-haris Type IV physl fx lower end humer, right arm, sqla
+S49.142A@Sltr-haris Type IV physl fx lower end humer, left arm, init
+S49.142D@Sltr-haris Type IV physl fx low end humer, l arm, 7thD
+S49.142G@Sltr-haris Type IV physl fx low end humer, l arm, 7thG
+S49.142K@Sltr-haris Type IV physl fx low end humer, l arm, 7thK
+S49.142P@Sltr-haris Type IV physl fx low end humer, l arm, 7thP
+S49.142S@Sltr-haris Type IV physl fx lower end humer, left arm, sqla
+S49.149A@Sltr-haris Type IV physl fx lower end humer, unsp arm, init
+S49.149D@Sltr-haris Type IV physl fx low end humer, unsp arm, 7thD
+S49.149G@Sltr-haris Type IV physl fx low end humer, unsp arm, 7thG
+S49.149K@Sltr-haris Type IV physl fx low end humer, unsp arm, 7thK
+S49.149P@Sltr-haris Type IV physl fx low end humer, unsp arm, 7thP
+S49.149S@Sltr-haris Type IV physl fx lower end humer, unsp arm, sqla
+S49.191A@Oth physeal fx lower end of humerus, right arm, init
+S49.191D@Oth physl fx low end humer, r arm, subs for fx w routn heal
+S49.191G@Oth physl fx low end humer, r arm, subs for fx w delay heal
+S49.191K@Oth physl fx low end humer, r arm, subs for fx w nonunion
+S49.191P@Oth physl fx low end humer, r arm, subs for fx w malunion
+S49.191S@Oth physeal fx lower end of humerus, right arm, sequela
+S49.192A@Oth physeal fracture of lower end of humerus, left arm, init
+S49.192D@Oth physl fx low end humer, l arm, subs for fx w routn heal
+S49.192G@Oth physl fx low end humer, l arm, subs for fx w delay heal
+S49.192K@Oth physl fx low end humer, left arm, subs for fx w nonunion
+S49.192P@Oth physl fx low end humer, left arm, subs for fx w malunion
+S49.192S@Oth physeal fx lower end of humerus, left arm, sequela
+S49.199A@Oth physeal fracture of lower end of humerus, unsp arm, init
+S49.199D@Oth physl fx low end humer, unsp arm, 7thD
+S49.199G@Oth physl fx low end humer, unsp arm, 7thG
+S49.199K@Oth physl fx low end humer, unsp arm, subs for fx w nonunion
+S49.199P@Oth physl fx low end humer, unsp arm, subs for fx w malunion
+S49.199S@Oth physeal fx lower end of humerus, unsp arm, sequela
+S49.80XA@Oth injuries of shoulder and upper arm, unsp arm, init
+S49.80XD@Oth injuries of shoulder and upper arm, unsp arm, subs
+S49.80XS@Oth injuries of shoulder and upper arm, unsp arm, sequela
+S49.81XA@Oth injuries of right shoulder and upper arm, init encntr
+S49.81XD@Oth injuries of right shoulder and upper arm, subs encntr
+S49.81XS@Oth injuries of right shoulder and upper arm, sequela
+S49.82XA@Oth injuries of left shoulder and upper arm, init encntr
+S49.82XD@Oth injuries of left shoulder and upper arm, subs encntr
+S49.82XS@Oth injuries of left shoulder and upper arm, sequela
+S49.90XA@Unsp injury of shoulder and upper arm, unsp arm, init encntr
+S49.90XD@Unsp injury of shoulder and upper arm, unsp arm, subs encntr
+S49.90XS@Unsp injury of shoulder and upper arm, unsp arm, sequela
+S49.91XA@Unsp injury of right shoulder and upper arm, init encntr
+S49.91XD@Unsp injury of right shoulder and upper arm, subs encntr
+S49.91XS@Unspecified injury of right shoulder and upper arm, sequela
+S49.92XA@Unsp injury of left shoulder and upper arm, init encntr
+S49.92XD@Unsp injury of left shoulder and upper arm, subs encntr
+S49.92XS@Unspecified injury of left shoulder and upper arm, sequela

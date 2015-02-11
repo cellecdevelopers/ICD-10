@@ -1,0 +1,1485 @@
+T80.0XXA@Air embolism fol infusion, tranfs and theraputc inject, init
+T80.0XXD@Air embolism fol infusion, tranfs and theraputc inject, subs
+T80.0XXS@Air emblsm fol infusn, tranfs and theraputc inject, sequela
+T80.1XXA@Vascular comp fol infusn, tranfs and theraputc inject, init
+T80.1XXD@Vascular comp fol infusn, tranfs and theraputc inject, subs
+T80.1XXS@Vasc comp fol infusn, tranfs and theraputc inject, sequela
+T80.211A@Bloodstream infection due to central venous catheter, init
+T80.211D@Bloodstream infection due to central venous catheter, subs
+T80.211S@Bloodstream infct due to central venous catheter, sequela
+T80.212A@Local infection due to central venous catheter, init encntr
+T80.212D@Local infection due to central venous catheter, subs encntr
+T80.212S@Local infection due to central venous catheter, sequela
+T80.218A@Other infection due to central venous catheter, init encntr
+T80.218D@Other infection due to central venous catheter, subs encntr
+T80.218S@Other infection due to central venous catheter, sequela
+T80.219A@Unsp infection due to central venous catheter, init encntr
+T80.219D@Unsp infection due to central venous catheter, subs encntr
+T80.219S@Unsp infection due to central venous catheter, sequela
+T80.22XA@Acute infct fol tranfs,infusn,inject blood/products, init
+T80.22XD@Acute infct fol tranfs,infusn,inject blood/products, subs
+T80.22XS@Acute infct fol tranfs,infusn,inject blood/products, sequela
+T80.29XA@Infct fol oth infusion, transfuse and theraputc inject, init
+T80.29XD@Infct fol oth infusion, transfuse and theraputc inject, subs
+T80.29XS@Infct fol oth infusion, tranfs and theraputc inject, sequela
+T80.30XA@ABO incompat react due to tranfs of bld/bld prod, unsp, init
+T80.30XD@ABO incompat react due to tranfs of bld/bld prod, unsp, subs
+T80.30XS@ABO incompat react due to tranfs of bld/bld prod, unsp, sqla
+T80.310A@ABO incompatibility w acute hemolytic transfs react, init
+T80.310D@ABO incompatibility w acute hemolytic transfs react, subs
+T80.310S@ABO incompatibility w acute hemolytic transfs react, sequela
+T80.311A@ABO incompatibility w delayed hemolytic transfs react, init
+T80.311D@ABO incompatibility w delayed hemolytic transfs react, subs
+T80.311S@ABO incompat w delayed hemolytic transfs react, sequela
+T80.319A@ABO incompatibility w hemolytic transfs react, unsp, init
+T80.319D@ABO incompatibility w hemolytic transfs react, unsp, subs
+T80.319S@ABO incompatibility w hemolytic transfs react, unsp, sequela
+T80.39XA@Oth ABO incompat react due to tranfs of bld/bld prod, init
+T80.39XD@Oth ABO incompat react due to tranfs of bld/bld prod, subs
+T80.39XS@Oth ABO incompat react due to tranfs of bld/bld prod, sqla
+T80.40XA@Rh incompat react due to tranfs of bld/bld prod, unsp, init
+T80.40XD@Rh incompat react due to tranfs of bld/bld prod, unsp, subs
+T80.40XS@Rh incompat react due to tranfs of bld/bld prod, unsp, sqla
+T80.410A@Rh incompatibility w acute hemolytic transfs react, init
+T80.410D@Rh incompatibility w acute hemolytic transfs react, subs
+T80.410S@Rh incompatibility w acute hemolytic transfs react, sequela
+T80.411A@Rh incompatibility w delayed hemolytic transfs react, init
+T80.411D@Rh incompatibility w delayed hemolytic transfs react, subs
+T80.411S@Rh incompat w delayed hemolytic transfs react, sequela
+T80.419A@Rh incompatibility w hemolytic transfs react, unsp, init
+T80.419D@Rh incompatibility w hemolytic transfs react, unsp, subs
+T80.419S@Rh incompatibility w hemolytic transfs react, unsp, sequela
+T80.49XA@Oth Rh incompat reaction due to tranfs of bld/bld prod, init
+T80.49XD@Oth Rh incompat reaction due to tranfs of bld/bld prod, subs
+T80.49XS@Oth Rh incompat react due to tranfs of bld/bld prod, sequela
+T80.A0XA@Non-ABO incompat react d/t tranfs of bld/bld prod,unsp, init
+T80.A0XD@Non-ABO incompat react d/t tranfs of bld/bld prod,unsp, subs
+T80.A0XS@Non-ABO incompat react d/t tranfs of bld/bld prod,unsp, sqla
+T80.A10A@Non-ABO incompat w acute hemolytic transfs react, init
+T80.A10D@Non-ABO incompat w acute hemolytic transfs react, subs
+T80.A10S@Non-ABO incompat w acute hemolytic transfs react, sequela
+T80.A11A@Non-ABO incompat w delayed hemolytic transfs react, init
+T80.A11D@Non-ABO incompat w delayed hemolytic transfs react, subs
+T80.A11S@Non-ABO incompat w delayed hemolytic transfs react, sequela
+T80.A19A@Non-ABO incompat w hemolytic transfs react, unsp, init
+T80.A19D@Non-ABO incompat w hemolytic transfs react, unsp, subs
+T80.A19S@Non-ABO incompat w hemolytic transfs react, unsp, sequela
+T80.A9XA@Oth non-ABO incompat react d/t tranfs of bld/bld prod, init
+T80.A9XD@Oth non-ABO incompat react d/t tranfs of bld/bld prod, subs
+T80.A9XS@Oth non-ABO incompat react d/t tranfs of bld/bld prod, sqla
+T80.51XA@Anaphylactic reaction due to admin blood/products, init
+T80.51XD@Anaphylactic reaction due to admin blood/products, subs
+T80.51XS@Anaphylactic reaction due to admin blood/products, sequela
+T80.52XA@Anaphylactic reaction due to vaccination, initial encounter
+T80.52XD@Anaphylactic reaction due to vaccination, subs encntr
+T80.52XS@Anaphylactic reaction due to vaccination, sequela
+T80.59XA@Anaphylactic reaction due to other serum, initial encounter
+T80.59XD@Anaphylactic reaction due to other serum, subs encntr
+T80.59XS@Anaphylactic reaction due to other serum, sequela
+T80.61XA@Oth serum reaction due to admin blood/products, init
+T80.61XD@Oth serum reaction due to admin blood/products, subs
+T80.61XS@Oth serum reaction due to admin blood/products, sequela
+T80.62XA@Other serum reaction due to vaccination, initial encounter
+T80.62XD@Other serum reaction due to vaccination, subs encntr
+T80.62XS@Other serum reaction due to vaccination, sequela
+T80.69XA@Other serum reaction due to other serum, initial encounter
+T80.69XD@Other serum reaction due to other serum, subs encntr
+T80.69XS@Other serum reaction due to other serum, sequela
+T80.810A@Extravasation of vesicant antineoplastic chemotherapy, init
+T80.810D@Extravasation of vesicant antineoplastic chemotherapy, subs
+T80.810S@Extravasation of vesicant antineopl chemotherapy, sequela
+T80.818A@Extravasation of other vesicant agent, initial encounter
+T80.818D@Extravasation of other vesicant agent, subsequent encounter
+T80.818S@Extravasation of other vesicant agent, sequela
+T80.89XA@Oth comp fol infusion, transfuse and theraputc inject, init
+T80.89XD@Oth comp fol infusion, transfuse and theraputc inject, subs
+T80.89XS@Oth comp fol infusion, tranfs and theraputc inject, sequela
+T80.90XA@Unsp comp following infusion and therapeutic injection, init
+T80.90XD@Unsp comp following infusion and therapeutic injection, subs
+T80.90XS@Unsp comp fol infusion and theraputc injection, sequela
+T80.910A@Acute hemolytic transfs react, unsp incompatibility, init
+T80.910D@Acute hemolytic transfs react, unsp incompatibility, subs
+T80.910S@Acute hemolytic transfs react, unsp incompatibility, sequela
+T80.911A@Delayed hemolytic transfs react, unsp incompatibility, init
+T80.911D@Delayed hemolytic transfs react, unsp incompatibility, subs
+T80.911S@Delayed hemolytic transfs react, unsp incompat, sequela
+T80.919A@Hemolytic transfs react, unsp incompat, unsp ac/delay, init
+T80.919D@Hemolytic transfs react, unsp incompat, unsp ac/delay, subs
+T80.919S@Hemolytic transfs react, unsp incompat, unsp ac/delay, sqla
+T80.92XA@Unspecified transfusion reaction, initial encounter
+T80.92XD@Unspecified transfusion reaction, subsequent encounter
+T80.92XS@Unspecified transfusion reaction, sequela
+T81.10XA@Postprocedural shock unspecified, initial encounter
+T81.10XD@Postprocedural shock unspecified, subsequent encounter
+T81.10XS@Postprocedural shock unspecified, sequela
+T81.11XA@Postprocedural  cardiogenic shock, initial encounter
+T81.11XD@Postprocedural  cardiogenic shock, subsequent encounter
+T81.11XS@Postprocedural  cardiogenic shock, sequela
+T81.12XA@Postprocedural septic shock, initial encounter
+T81.12XD@Postprocedural septic shock, subsequent encounter
+T81.12XS@Postprocedural septic shock, sequela
+T81.19XA@Other postprocedural shock, initial encounter
+T81.19XD@Other postprocedural shock, subsequent encounter
+T81.19XS@Other postprocedural shock, sequela
+T81.30XA@Disruption of wound, unspecified, initial encounter
+T81.30XD@Disruption of wound, unspecified, subsequent encounter
+T81.30XS@Disruption of wound, unspecified, sequela
+T81.31XA@Disruption of external operation (surgical) wound, NEC, init
+T81.31XD@Disruption of external operation (surgical) wound, NEC, subs
+T81.31XS@Disrupt of external operation (surgical) wound, NEC, sequela
+T81.32XA@Disruption of internal operation (surgical) wound, NEC, init
+T81.32XD@Disruption of internal operation (surgical) wound, NEC, subs
+T81.32XS@Disrupt of internal operation (surgical) wound, NEC, sequela
+T81.33XA@Disruption of traumatic injury wound repair, init encntr
+T81.33XD@Disruption of traumatic injury wound repair, subs encntr
+T81.33XS@Disruption of traumatic injury wound repair, sequela
+T81.4XXA@Infection following a procedure, initial encounter
+T81.4XXD@Infection following a procedure, subsequent encounter
+T81.4XXS@Infection following a procedure, sequela
+T81.500A@Unsp comp of fb acc left in body fol surgical op, init
+T81.500D@Unsp comp of fb acc left in body fol surgical op, subs
+T81.500S@Unsp comp of fb acc left in body fol surgical op, sequela
+T81.501A@Unsp comp of fb acc left in body fol infusn/transfusn, init
+T81.501D@Unsp comp of fb acc left in body fol infusn/transfusn, subs
+T81.501S@Unsp comp of fb acc left in body fol infusn/transfusn, sqla
+T81.502A@Unsp comp of fb acc left in body fol kidney dialysis, init
+T81.502D@Unsp comp of fb acc left in body fol kidney dialysis, subs
+T81.502S@Unsp comp of fb acc left in body fol kidney dialysis, sqla
+T81.503A@Unsp comp of fb acc left in body fol inject or immuniz, init
+T81.503D@Unsp comp of fb acc left in body fol inject or immuniz, subs
+T81.503S@Unsp comp of fb acc left in body fol inject or immuniz, sqla
+T81.504A@Unsp comp of fb acc left in body following endo exam, init
+T81.504D@Unsp comp of fb acc left in body following endo exam, subs
+T81.504S@Unsp comp of fb acc left in body fol endo exam, sequela
+T81.505A@Unsp comp of fb acc left in body following heart cath, init
+T81.505D@Unsp comp of fb acc left in body following heart cath, subs
+T81.505S@Unsp comp of fb acc left in body fol heart cath, sequela
+T81.506A@Unsp comp of fb acc left in body following punctr/cath, init
+T81.506D@Unsp comp of fb acc left in body following punctr/cath, subs
+T81.506S@Unsp comp of fb acc left in body fol punctr/cath, sequela
+T81.507A@Unsp comp of fb acc left in body fol remov cath/pack, init
+T81.507D@Unsp comp of fb acc left in body fol remov cath/pack, subs
+T81.507S@Unsp comp of fb acc left in body fol remov cath/pack, sqla
+T81.508A@Unsp comp of fb acc left in body fol oth procedure, init
+T81.508D@Unsp comp of fb acc left in body fol oth procedure, subs
+T81.508S@Unsp comp of fb acc left in body fol oth procedure, sequela
+T81.509A@Unsp comp of fb acc left in body fol unsp procedure, init
+T81.509D@Unsp comp of fb acc left in body fol unsp procedure, subs
+T81.509S@Unsp comp of fb acc left in body fol unsp procedure, sequela
+T81.510A@Adhes due to fb acc left in body fol surgical op, init
+T81.510D@Adhes due to fb acc left in body fol surgical op, subs
+T81.510S@Adhes due to fb acc left in body fol surgical op, sequela
+T81.511A@Adhes due to fb acc left in body fol infusn/transfusn, init
+T81.511D@Adhes due to fb acc left in body fol infusn/transfusn, subs
+T81.511S@Adhes due to fb acc left in body fol infusn/transfusn, sqla
+T81.512A@Adhes due to fb acc left in body fol kidney dialysis, init
+T81.512D@Adhes due to fb acc left in body fol kidney dialysis, subs
+T81.512S@Adhes due to fb acc left in body fol kidney dialysis, sqla
+T81.513A@Adhes due to fb acc left in body fol inject or immuniz, init
+T81.513D@Adhes due to fb acc left in body fol inject or immuniz, subs
+T81.513S@Adhes due to fb acc left in body fol inject or immuniz, sqla
+T81.514A@Adhes due to fb acc left in body following endo exam, init
+T81.514D@Adhes due to fb acc left in body following endo exam, subs
+T81.514S@Adhes due to fb acc left in body fol endo exam, sequela
+T81.515A@Adhes due to fb acc left in body following heart cath, init
+T81.515D@Adhes due to fb acc left in body following heart cath, subs
+T81.515S@Adhes due to fb acc left in body fol heart cath, sequela
+T81.516A@Adhes due to fb acc left in body following punctr/cath, init
+T81.516D@Adhes due to fb acc left in body following punctr/cath, subs
+T81.516S@Adhes due to fb acc left in body fol punctr/cath, sequela
+T81.517A@Adhes due to fb acc left in body fol remov cath/pack, init
+T81.517D@Adhes due to fb acc left in body fol remov cath/pack, subs
+T81.517S@Adhes due to fb acc left in body fol remov cath/pack, sqla
+T81.518A@Adhes due to fb acc left in body fol oth procedure, init
+T81.518D@Adhes due to fb acc left in body fol oth procedure, subs
+T81.518S@Adhes due to fb acc left in body fol oth procedure, sequela
+T81.519A@Adhes due to fb acc left in body fol unsp procedure, init
+T81.519D@Adhes due to fb acc left in body fol unsp procedure, subs
+T81.519S@Adhes due to fb acc left in body fol unsp procedure, sequela
+T81.520A@Obst due to fb acc left in body fol surgical operation, init
+T81.520D@Obst due to fb acc left in body fol surgical operation, subs
+T81.520S@Obst due to fb acc left in body fol surgical op, sequela
+T81.521A@Obst due to fb acc left in body fol infusn/transfusn, init
+T81.521D@Obst due to fb acc left in body fol infusn/transfusn, subs
+T81.521S@Obst due to fb acc left in body fol infusn/transfusn, sqla
+T81.522A@Obst due to fb acc left in body fol kidney dialysis, init
+T81.522D@Obst due to fb acc left in body fol kidney dialysis, subs
+T81.522S@Obst due to fb acc left in body fol kidney dialysis, sequela
+T81.523A@Obst due to fb acc left in body fol inject or immuniz, init
+T81.523D@Obst due to fb acc left in body fol inject or immuniz, subs
+T81.523S@Obst due to fb acc left in body fol inject or immuniz, sqla
+T81.524A@Obst due to fb acc left in body following endo exam, init
+T81.524D@Obst due to fb acc left in body following endo exam, subs
+T81.524S@Obst due to fb acc left in body following endo exam, sequela
+T81.525A@Obst due to fb acc left in body following heart cath, init
+T81.525D@Obst due to fb acc left in body following heart cath, subs
+T81.525S@Obst due to fb acc left in body fol heart cath, sequela
+T81.526A@Obst due to fb acc left in body following punctr/cath, init
+T81.526D@Obst due to fb acc left in body following punctr/cath, subs
+T81.526S@Obst due to fb acc left in body fol punctr/cath, sequela
+T81.527A@Obst due to fb acc left in body fol remov cath/pack, init
+T81.527D@Obst due to fb acc left in body fol remov cath/pack, subs
+T81.527S@Obst due to fb acc left in body fol remov cath/pack, sequela
+T81.528A@Obst due to fb acc left in body fol oth procedure, init
+T81.528D@Obst due to fb acc left in body fol oth procedure, subs
+T81.528S@Obst due to fb acc left in body fol oth procedure, sequela
+T81.529A@Obst due to fb acc left in body fol unsp procedure, init
+T81.529D@Obst due to fb acc left in body fol unsp procedure, subs
+T81.529S@Obst due to fb acc left in body fol unsp procedure, sequela
+T81.530A@Perf due to fb acc left in body fol surgical operation, init
+T81.530D@Perf due to fb acc left in body fol surgical operation, subs
+T81.530S@Perf due to fb acc left in body fol surgical op, sequela
+T81.531A@Perf due to fb acc left in body fol infusn/transfusn, init
+T81.531D@Perf due to fb acc left in body fol infusn/transfusn, subs
+T81.531S@Perf due to fb acc left in body fol infusn/transfusn, sqla
+T81.532A@Perf due to fb acc left in body fol kidney dialysis, init
+T81.532D@Perf due to fb acc left in body fol kidney dialysis, subs
+T81.532S@Perf due to fb acc left in body fol kidney dialysis, sequela
+T81.533A@Perf due to fb acc left in body fol inject or immuniz, init
+T81.533D@Perf due to fb acc left in body fol inject or immuniz, subs
+T81.533S@Perf due to fb acc left in body fol inject or immuniz, sqla
+T81.534A@Perf due to fb acc left in body following endo exam, init
+T81.534D@Perf due to fb acc left in body following endo exam, subs
+T81.534S@Perf due to fb acc left in body following endo exam, sequela
+T81.535A@Perf due to fb acc left in body following heart cath, init
+T81.535D@Perf due to fb acc left in body following heart cath, subs
+T81.535S@Perf due to fb acc left in body fol heart cath, sequela
+T81.536A@Perf due to fb acc left in body following punctr/cath, init
+T81.536D@Perf due to fb acc left in body following punctr/cath, subs
+T81.536S@Perf due to fb acc left in body fol punctr/cath, sequela
+T81.537A@Perf due to fb acc left in body fol remov cath/pack, init
+T81.537D@Perf due to fb acc left in body fol remov cath/pack, subs
+T81.537S@Perf due to fb acc left in body fol remov cath/pack, sequela
+T81.538A@Perf due to fb acc left in body fol oth procedure, init
+T81.538D@Perf due to fb acc left in body fol oth procedure, subs
+T81.538S@Perf due to fb acc left in body fol oth procedure, sequela
+T81.539A@Perf due to fb acc left in body fol unsp procedure, init
+T81.539D@Perf due to fb acc left in body fol unsp procedure, subs
+T81.539S@Perf due to fb acc left in body fol unsp procedure, sequela
+T81.590A@Oth comp of fb acc left in body fol surgical operation, init
+T81.590D@Oth comp of fb acc left in body fol surgical operation, subs
+T81.590S@Oth comp of fb acc left in body fol surgical op, sequela
+T81.591A@Oth comp of fb acc left in body fol infusn/transfusn, init
+T81.591D@Oth comp of fb acc left in body fol infusn/transfusn, subs
+T81.591S@Oth comp of fb acc left in body fol infusn/transfusn, sqla
+T81.592A@Oth comp of fb acc left in body fol kidney dialysis, init
+T81.592D@Oth comp of fb acc left in body fol kidney dialysis, subs
+T81.592S@Oth comp of fb acc left in body fol kidney dialysis, sequela
+T81.593A@Oth comp of fb acc left in body fol inject or immuniz, init
+T81.593D@Oth comp of fb acc left in body fol inject or immuniz, subs
+T81.593S@Oth comp of fb acc left in body fol inject or immuniz, sqla
+T81.594A@Oth comp of fb acc left in body following endo exam, init
+T81.594D@Oth comp of fb acc left in body following endo exam, subs
+T81.594S@Oth comp of fb acc left in body following endo exam, sequela
+T81.595A@Oth comp of fb acc left in body following heart cath, init
+T81.595D@Oth comp of fb acc left in body following heart cath, subs
+T81.595S@Oth comp of fb acc left in body fol heart cath, sequela
+T81.596A@Oth comp of fb acc left in body following punctr/cath, init
+T81.596D@Oth comp of fb acc left in body following punctr/cath, subs
+T81.596S@Oth comp of fb acc left in body fol punctr/cath, sequela
+T81.597A@Oth comp of fb acc left in body fol remov cath/pack, init
+T81.597D@Oth comp of fb acc left in body fol remov cath/pack, subs
+T81.597S@Oth comp of fb acc left in body fol remov cath/pack, sequela
+T81.598A@Oth comp of fb acc left in body fol oth procedure, init
+T81.598D@Oth comp of fb acc left in body fol oth procedure, subs
+T81.598S@Oth comp of fb acc left in body fol oth procedure, sequela
+T81.599A@Oth comp of fb acc left in body fol unsp procedure, init
+T81.599D@Oth comp of fb acc left in body fol unsp procedure, subs
+T81.599S@Oth comp of fb acc left in body fol unsp procedure, sequela
+T81.60XA@Unsp acute reaction to foreign sub acc left dur proc, init
+T81.60XD@Unsp acute reaction to foreign sub acc left dur proc, subs
+T81.60XS@Unsp acute react to foreign sub acc left dur proc, sequela
+T81.61XA@Aseptic peritonitis due to forn sub acc left dur proc, init
+T81.61XD@Aseptic peritonitis due to forn sub acc left dur proc, subs
+T81.61XS@Aseptic peritonitis due to forn sub acc left dur proc, sqla
+T81.69XA@Oth acute reaction to foreign sub acc left dur proc, init
+T81.69XD@Oth acute reaction to foreign sub acc left dur proc, subs
+T81.69XS@Oth acute reaction to foreign sub acc left dur proc, sequela
+T81.710A@Complication of mesent art following a procedure, NEC, init
+T81.710D@Complication of mesent art following a procedure, NEC, subs
+T81.710S@Comp of mesent art following a procedure, NEC, sequela
+T81.711A@Comp of renal artery following a procedure, NEC, init
+T81.711D@Comp of renal artery following a procedure, NEC, subs
+T81.711S@Comp of renal artery following a procedure, NEC, sequela
+T81.718A@Complication of artery following a procedure, NEC, init
+T81.718D@Complication of artery following a procedure, NEC, subs
+T81.718S@Complication of artery following a procedure, NEC, sequela
+T81.719A@Complication of unsp artery following a procedure, NEC, init
+T81.719D@Complication of unsp artery following a procedure, NEC, subs
+T81.719S@Comp of unsp artery following a procedure, NEC, sequela
+T81.72XA@Complication of vein following a procedure, NEC, init
+T81.72XD@Complication of vein following a procedure, NEC, subs
+T81.72XS@Complication of vein following a procedure, NEC, sequela
+T81.81XA@Complication of inhalation therapy, initial encounter
+T81.81XD@Complication of inhalation therapy, subsequent encounter
+T81.81XS@Complication of inhalation therapy, sequela
+T81.82XA@Emphysema (subcutaneous) resulting from a procedure, init
+T81.82XD@Emphysema (subcutaneous) resulting from a procedure, subs
+T81.82XS@Emphysema (subcutaneous) resulting from a procedure, sequela
+T81.83XA@Persistent postprocedural fistula, initial encounter
+T81.83XD@Persistent postprocedural fistula, subsequent encounter
+T81.83XS@Persistent postprocedural fistula, sequela
+T81.89XA@Oth complications of procedures, NEC, init
+T81.89XD@Oth complications of procedures, NEC, subs
+T81.89XS@Oth complications of procedures, NEC, sequela
+T81.9XXA@Unspecified complication of procedure, initial encounter
+T81.9XXD@Unspecified complication of procedure, subsequent encounter
+T81.9XXS@Unspecified complication of procedure, sequela
+T82.01XA@Breakdown (mechanical) of heart valve prosthesis, init
+T82.01XD@Breakdown (mechanical) of heart valve prosthesis, subs
+T82.01XS@Breakdown (mechanical) of heart valve prosthesis, sequela
+T82.02XA@Displacement of heart valve prosthesis, initial encounter
+T82.02XD@Displacement of heart valve prosthesis, subsequent encounter
+T82.02XS@Displacement of heart valve prosthesis, sequela
+T82.03XA@Leakage of heart valve prosthesis, initial encounter
+T82.03XD@Leakage of heart valve prosthesis, subsequent encounter
+T82.03XS@Leakage of heart valve prosthesis, sequela
+T82.09XA@Mech compl of heart valve prosthesis, initial encounter
+T82.09XD@Mech compl of heart valve prosthesis, subsequent encounter
+T82.09XS@Mech compl of heart valve prosthesis, sequela
+T82.110A@Breakdown (mechanical) of cardiac electrode, init encntr
+T82.110D@Breakdown (mechanical) of cardiac electrode, subs encntr
+T82.110S@Breakdown (mechanical) of cardiac electrode, sequela
+T82.111A@Breakdown of cardiac pulse generator (battery), init
+T82.111D@Breakdown of cardiac pulse generator (battery), subs
+T82.111S@Breakdown of cardiac pulse generator (battery), sequela
+T82.118A@Breakdown (mechanical) of cardiac electronic device, init
+T82.118D@Breakdown (mechanical) of cardiac electronic device, subs
+T82.118S@Breakdown (mechanical) of cardiac electronic device, sequela
+T82.119A@Breakdown of unsp cardiac electronic device, init
+T82.119D@Breakdown of unsp cardiac electronic device, subs
+T82.119S@Breakdown of unsp cardiac electronic device, sequela
+T82.120A@Displacement of cardiac electrode, initial encounter
+T82.120D@Displacement of cardiac electrode, subsequent encounter
+T82.120S@Displacement of cardiac electrode, sequela
+T82.121A@Displacement of cardiac pulse generator (battery), init
+T82.121D@Displacement of cardiac pulse generator (battery), subs
+T82.121S@Displacement of cardiac pulse generator (battery), sequela
+T82.128A@Displacement of other cardiac electronic device, init encntr
+T82.128D@Displacement of other cardiac electronic device, subs encntr
+T82.128S@Displacement of other cardiac electronic device, sequela
+T82.129A@Displacement of unsp cardiac electronic device, init encntr
+T82.129D@Displacement of unsp cardiac electronic device, subs encntr
+T82.129S@Displacement of unsp cardiac electronic device, sequela
+T82.190A@Mech compl of cardiac electrode, initial encounter
+T82.190D@Mech compl of cardiac electrode, subsequent encounter
+T82.190S@Other mechanical complication of cardiac electrode, sequela
+T82.191A@Mech compl of cardiac pulse generator (battery), init encntr
+T82.191D@Mech compl of cardiac pulse generator (battery), subs encntr
+T82.191S@Mech compl of cardiac pulse generator (battery), sequela
+T82.198A@Mech compl of other cardiac electronic device, init encntr
+T82.198D@Mech compl of other cardiac electronic device, subs encntr
+T82.198S@Mech compl of other cardiac electronic device, sequela
+T82.199A@Mech compl of unspecified cardiac device, initial encounter
+T82.199D@Mech compl of unspecified cardiac device, subs encntr
+T82.199S@Mech compl of unspecified cardiac device, sequela
+T82.211A@Breakdown (mechanical) of coronary artery bypass graft, init
+T82.211D@Breakdown (mechanical) of coronary artery bypass graft, subs
+T82.211S@Breakdown (mechanical) of cor art bypass graft, sequela
+T82.212A@Displacement of coronary artery bypass graft, init encntr
+T82.212D@Displacement of coronary artery bypass graft, subs encntr
+T82.212S@Displacement of coronary artery bypass graft, sequela
+T82.213A@Leakage of coronary artery bypass graft, initial encounter
+T82.213D@Leakage of coronary artery bypass graft, subs encntr
+T82.213S@Leakage of coronary artery bypass graft, sequela
+T82.218A@Mech compl of coronary artery bypass graft, init encntr
+T82.218D@Mech compl of coronary artery bypass graft, subs encntr
+T82.218S@Mech compl of coronary artery bypass graft, sequela
+T82.221A@Breakdown (mechanical) of biological heart valve graft, init
+T82.221D@Breakdown (mechanical) of biological heart valve graft, subs
+T82.221S@Breakdown of biological heart valve graft, sequela
+T82.222A@Displacement of biological heart valve graft, init encntr
+T82.222D@Displacement of biological heart valve graft, subs encntr
+T82.222S@Displacement of biological heart valve graft, sequela
+T82.223A@Leakage of biological heart valve graft, initial encounter
+T82.223D@Leakage of biological heart valve graft, subs encntr
+T82.223S@Leakage of biological heart valve graft, sequela
+T82.228A@Mech compl of biological heart valve graft, init encntr
+T82.228D@Mech compl of biological heart valve graft, subs encntr
+T82.228S@Mech compl of biological heart valve graft, sequela
+T82.310A@Breakdown (mechanical) of aortic (bifurcation) graft, init
+T82.310D@Breakdown (mechanical) of aortic (bifurcation) graft, subs
+T82.310S@Breakdown of aortic (bifurcation) graft, sequela
+T82.311A@Breakdown of carotid arterial graft (bypass), init
+T82.311D@Breakdown of carotid arterial graft (bypass), subs
+T82.311S@Breakdown of carotid arterial graft (bypass), sequela
+T82.312A@Breakdown of femoral arterial graft (bypass), init
+T82.312D@Breakdown of femoral arterial graft (bypass), subs
+T82.312S@Breakdown of femoral arterial graft (bypass), sequela
+T82.318A@Breakdown (mechanical) of other vascular grafts, init encntr
+T82.318D@Breakdown (mechanical) of other vascular grafts, subs encntr
+T82.318S@Breakdown (mechanical) of other vascular grafts, sequela
+T82.319A@Breakdown (mechanical) of unsp vascular grafts, init encntr
+T82.319D@Breakdown (mechanical) of unsp vascular grafts, subs encntr
+T82.319S@Breakdown (mechanical) of unsp vascular grafts, sequela
+T82.320A@Displacement of aortic (bifurcation) graft, init
+T82.320D@Displacement of aortic (bifurcation) graft, subs
+T82.320S@Displacement of aortic (bifurcation) graft, sequela
+T82.321A@Displacement of carotid arterial graft (bypass), init encntr
+T82.321D@Displacement of carotid arterial graft (bypass), subs encntr
+T82.321S@Displacement of carotid arterial graft (bypass), sequela
+T82.322A@Displacement of femoral arterial graft (bypass), init encntr
+T82.322D@Displacement of femoral arterial graft (bypass), subs encntr
+T82.322S@Displacement of femoral arterial graft (bypass), sequela
+T82.328A@Displacement of other vascular grafts, initial encounter
+T82.328D@Displacement of other vascular grafts, subsequent encounter
+T82.328S@Displacement of other vascular grafts, sequela
+T82.329A@Displacement of unspecified vascular grafts, init encntr
+T82.329D@Displacement of unspecified vascular grafts, subs encntr
+T82.329S@Displacement of unspecified vascular grafts, sequela
+T82.330A@Leakage of aortic (bifurcation) graft (replacement), init
+T82.330D@Leakage of aortic (bifurcation) graft (replacement), subs
+T82.330S@Leakage of aortic (bifurcation) graft (replacement), sequela
+T82.331A@Leakage of carotid arterial graft (bypass), init encntr
+T82.331D@Leakage of carotid arterial graft (bypass), subs encntr
+T82.331S@Leakage of carotid arterial graft (bypass), sequela
+T82.332A@Leakage of femoral arterial graft (bypass), init encntr
+T82.332D@Leakage of femoral arterial graft (bypass), subs encntr
+T82.332S@Leakage of femoral arterial graft (bypass), sequela
+T82.338A@Leakage of other vascular grafts, initial encounter
+T82.338D@Leakage of other vascular grafts, subsequent encounter
+T82.338S@Leakage of other vascular grafts, sequela
+T82.339A@Leakage of unspecified vascular graft, initial encounter
+T82.339D@Leakage of unspecified vascular graft, subsequent encounter
+T82.339S@Leakage of unspecified vascular graft, sequela
+T82.390A@Mech compl of aortic (bifurcation) graft (replacement), init
+T82.390D@Mech compl of aortic (bifurcation) graft (replacement), subs
+T82.390S@Mech compl of aortic (bifurcation) graft, sequela
+T82.391A@Mech compl of carotid arterial graft (bypass), init encntr
+T82.391D@Mech compl of carotid arterial graft (bypass), subs encntr
+T82.391S@Mech compl of carotid arterial graft (bypass), sequela
+T82.392A@Mech compl of femoral arterial graft (bypass), init encntr
+T82.392D@Mech compl of femoral arterial graft (bypass), subs encntr
+T82.392S@Mech compl of femoral arterial graft (bypass), sequela
+T82.398A@Mech compl of other vascular grafts, initial encounter
+T82.398D@Mech compl of other vascular grafts, subsequent encounter
+T82.398S@Mech compl of other vascular grafts, sequela
+T82.399A@Mech compl of unspecified vascular grafts, initial encounter
+T82.399D@Mech compl of unspecified vascular grafts, subs encntr
+T82.399S@Mech compl of unspecified vascular grafts, sequela
+T82.41XA@Breakdown (mechanical) of vascular dialysis catheter, init
+T82.41XD@Breakdown (mechanical) of vascular dialysis catheter, subs
+T82.41XS@Breakdown of vascular dialysis catheter, sequela
+T82.42XA@Displacement of vascular dialysis catheter, init encntr
+T82.42XD@Displacement of vascular dialysis catheter, subs encntr
+T82.42XS@Displacement of vascular dialysis catheter, sequela
+T82.43XA@Leakage of vascular dialysis catheter, initial encounter
+T82.43XD@Leakage of vascular dialysis catheter, subsequent encounter
+T82.43XS@Leakage of vascular dialysis catheter, sequela
+T82.49XA@Oth complication of vascular dialysis catheter, init encntr
+T82.49XD@Oth complication of vascular dialysis catheter, subs encntr
+T82.49XS@Other complication of vascular dialysis catheter, sequela
+T82.510A@Breakdown of surgically created AV fistula, init
+T82.510D@Breakdown of surgically created AV fistula, subs
+T82.510S@Breakdown of surgically created AV fistula, sequela
+T82.511A@Breakdown (mechanical) of surgically created AV shunt, init
+T82.511D@Breakdown (mechanical) of surgically created AV shunt, subs
+T82.511S@Breakdown of surgically created AV shunt, sequela
+T82.512A@Breakdown (mechanical) of artificial heart, init encntr
+T82.512D@Breakdown (mechanical) of artificial heart, subs encntr
+T82.512S@Breakdown (mechanical) of artificial heart, sequela
+T82.513A@Breakdown of balloon (counterpulsation) device, init
+T82.513D@Breakdown of balloon (counterpulsation) device, subs
+T82.513S@Breakdown of balloon (counterpulsation) device, sequela
+T82.514A@Breakdown (mechanical) of infusion catheter, init encntr
+T82.514D@Breakdown (mechanical) of infusion catheter, subs encntr
+T82.514S@Breakdown (mechanical) of infusion catheter, sequela
+T82.515A@Breakdown (mechanical) of umbrella device, initial encounter
+T82.515D@Breakdown (mechanical) of umbrella device, subs encntr
+T82.515S@Breakdown (mechanical) of umbrella device, sequela
+T82.518A@Breakdown of cardiac and vascular devices and implants, init
+T82.518D@Breakdown of cardiac and vascular devices and implants, subs
+T82.518S@Brkdwn cardiac and vascular devices and implants, sequela
+T82.519A@Brkdwn unsp cardiac and vascular devices and implants, init
+T82.519D@Brkdwn unsp cardiac and vascular devices and implants, subs
+T82.519S@Brkdwn unsp cardiac and vascular devices and implnt, sequela
+T82.520A@Displacement of surgically created AV fistula, init
+T82.520D@Displacement of surgically created AV fistula, subs
+T82.520S@Displacement of surgically created AV fistula, sequela
+T82.521A@Displacement of surgically created arteriovenous shunt, init
+T82.521D@Displacement of surgically created arteriovenous shunt, subs
+T82.521S@Displacement of surgically created AV shunt, sequela
+T82.522A@Displacement of artificial heart, initial encounter
+T82.522D@Displacement of artificial heart, subsequent encounter
+T82.522S@Displacement of artificial heart, sequela
+T82.523A@Displacement of balloon (counterpulsation) device, init
+T82.523D@Displacement of balloon (counterpulsation) device, subs
+T82.523S@Displacement of balloon (counterpulsation) device, sequela
+T82.524A@Displacement of infusion catheter, initial encounter
+T82.524D@Displacement of infusion catheter, subsequent encounter
+T82.524S@Displacement of infusion catheter, sequela
+T82.525A@Displacement of umbrella device, initial encounter
+T82.525D@Displacement of umbrella device, subsequent encounter
+T82.525S@Displacement of umbrella device, sequela
+T82.528A@Displacmnt of cardiac and vascular devices and implnt, init
+T82.528D@Displacmnt of cardiac and vascular devices and implnt, subs
+T82.528S@Displacmnt of cardiac and vasc devices and implnt, sequela
+T82.529A@Displacmnt of unsp cardiac and vasc devices and implnt, init
+T82.529D@Displacmnt of unsp cardiac and vasc devices and implnt, subs
+T82.529S@Displacmnt of unsp card and vasc devices and implnt, sequela
+T82.530A@Leakage of surgically created arteriovenous fistula, init
+T82.530D@Leakage of surgically created arteriovenous fistula, subs
+T82.530S@Leakage of surgically created arteriovenous fistula, sequela
+T82.531A@Leakage of surgically created arteriovenous shunt, init
+T82.531D@Leakage of surgically created arteriovenous shunt, subs
+T82.531S@Leakage of surgically created arteriovenous shunt, sequela
+T82.532A@Leakage of artificial heart, initial encounter
+T82.532D@Leakage of artificial heart, subsequent encounter
+T82.532S@Leakage of artificial heart, sequela
+T82.533A@Leakage of balloon (counterpulsation) device, init encntr
+T82.533D@Leakage of balloon (counterpulsation) device, subs encntr
+T82.533S@Leakage of balloon (counterpulsation) device, sequela
+T82.534A@Leakage of infusion catheter, initial encounter
+T82.534D@Leakage of infusion catheter, subsequent encounter
+T82.534S@Leakage of infusion catheter, sequela
+T82.535A@Leakage of umbrella device, initial encounter
+T82.535D@Leakage of umbrella device, subsequent encounter
+T82.535S@Leakage of umbrella device, sequela
+T82.538A@Leakage of cardiac and vascular devices and implants, init
+T82.538D@Leakage of cardiac and vascular devices and implants, subs
+T82.538S@Leakage of cardiac and vascular devices and implnt, sequela
+T82.539A@Leakage of unsp cardiac and vasc devices and implnt, init
+T82.539D@Leakage of unsp cardiac and vasc devices and implnt, subs
+T82.539S@Leakage of unsp cardiac and vasc devices and implnt, sequela
+T82.590A@Mech compl of surgically created arteriovenous fistula, init
+T82.590D@Mech compl of surgically created arteriovenous fistula, subs
+T82.590S@Mech compl of surgically created AV fistula, sequela
+T82.591A@Mech compl of surgically created arteriovenous shunt, init
+T82.591D@Mech compl of surgically created arteriovenous shunt, subs
+T82.591S@Mech compl of surgically created AV shunt, sequela
+T82.592A@Mech compl of artificial heart, initial encounter
+T82.592D@Mech compl of artificial heart, subsequent encounter
+T82.592S@Other mechanical complication of artificial heart, sequela
+T82.593A@Mech compl of balloon (counterpulsation) device, init encntr
+T82.593D@Mech compl of balloon (counterpulsation) device, subs encntr
+T82.593S@Mech compl of balloon (counterpulsation) device, sequela
+T82.594A@Mech compl of infusion catheter, initial encounter
+T82.594D@Mech compl of infusion catheter, subsequent encounter
+T82.594S@Other mechanical complication of infusion catheter, sequela
+T82.595A@Mech compl of umbrella device, initial encounter
+T82.595D@Mech compl of umbrella device, subsequent encounter
+T82.595S@Other mechanical complication of umbrella device, sequela
+T82.598A@Mech compl of cardiac and vascular devices and implnt, init
+T82.598D@Mech compl of cardiac and vascular devices and implnt, subs
+T82.598S@Mech compl of cardiac and vasc devices and implnt, sequela
+T82.599A@Mech compl of unsp cardiac and vasc devices and implnt, init
+T82.599D@Mech compl of unsp cardiac and vasc devices and implnt, subs
+T82.599S@Mech compl of unsp card and vasc devices and implnt, sequela
+T82.6XXA@Infect/inflm reaction due to cardiac valve prosthesis, init
+T82.6XXD@Infect/inflm reaction due to cardiac valve prosthesis, subs
+T82.6XXS@Infect/inflm reaction due to cardiac valve prosth, sequela
+T82.7XXA@Infect/inflm react d/t oth cardi/vasc dev/implnt/grft, init
+T82.7XXD@Infect/inflm react d/t oth cardi/vasc dev/implnt/grft, subs
+T82.7XXS@Infect/inflm react d/t oth cardi/vasc dev/implnt/grft, sqla
+T82.817A@Embolism of cardiac prosth dev/grft, init
+T82.817D@Embolism of cardiac prosth dev/grft, subs
+T82.817S@Embolism of cardiac prosth dev/grft, sequela
+T82.818A@Embolism of vascular prosth dev/grft, init
+T82.818D@Embolism of vascular prosth dev/grft, subs
+T82.818S@Embolism of vascular prosth dev/grft, sequela
+T82.827A@Fibrosis of cardiac prosth dev/grft, init
+T82.827D@Fibrosis of cardiac prosth dev/grft, subs
+T82.827S@Fibrosis of cardiac prosth dev/grft, sequela
+T82.828A@Fibrosis of vascular prosth dev/grft, init
+T82.828D@Fibrosis of vascular prosth dev/grft, subs
+T82.828S@Fibrosis of vascular prosth dev/grft, sequela
+T82.837A@Hemorrhage of cardiac prosth dev/grft, init
+T82.837D@Hemorrhage of cardiac prosth dev/grft, subs
+T82.837S@Hemorrhage of cardiac prosth dev/grft, sequela
+T82.838A@Hemorrhage of vascular prosth dev/grft, init
+T82.838D@Hemorrhage of vascular prosth dev/grft, subs
+T82.838S@Hemorrhage of vascular prosth dev/grft, sequela
+T82.847A@Pain from cardiac prosth dev/grft, init
+T82.847D@Pain from cardiac prosth dev/grft, subs
+T82.847S@Pain from cardiac prosth dev/grft, sequela
+T82.848A@Pain from vascular prosth dev/grft, init
+T82.848D@Pain from vascular prosth dev/grft, subs
+T82.848S@Pain from vascular prosth dev/grft, sequela
+T82.857A@Stenosis of cardiac prosth dev/grft, init
+T82.857D@Stenosis of cardiac prosth dev/grft, subs
+T82.857S@Stenosis of cardiac prosth dev/grft, sequela
+T82.858A@Stenosis of vascular prosth dev/grft, init
+T82.858D@Stenosis of vascular prosth dev/grft, subs
+T82.858S@Stenosis of vascular prosth dev/grft, sequela
+T82.867A@Thrombosis of cardiac prosth dev/grft, init
+T82.867D@Thrombosis of cardiac prosth dev/grft, subs
+T82.867S@Thrombosis of cardiac prosth dev/grft, sequela
+T82.868A@Thrombosis of vascular prosth dev/grft, init
+T82.868D@Thrombosis of vascular prosth dev/grft, subs
+T82.868S@Thrombosis of vascular prosth dev/grft, sequela
+T82.897A@Oth complication of cardiac prosth dev/grft, init
+T82.897D@Oth complication of cardiac prosth dev/grft, subs
+T82.897S@Oth complication of cardiac prosth dev/grft, sequela
+T82.898A@Oth complication of vascular prosth dev/grft, init
+T82.898D@Oth complication of vascular prosth dev/grft, subs
+T82.898S@Oth complication of vascular prosth dev/grft, sequela
+T82.9XXA@Unsp comp of cardiac and vascular prosth dev/grft, init
+T82.9XXD@Unsp comp of cardiac and vascular prosth dev/grft, subs
+T82.9XXS@Unsp comp of cardiac and vascular prosth dev/grft, sequela
+T83.010A@Breakdown (mechanical) of cystostomy catheter, init encntr
+T83.010D@Breakdown (mechanical) of cystostomy catheter, subs encntr
+T83.010S@Breakdown (mechanical) of cystostomy catheter, sequela
+T83.018A@Breakdown (mechanical) of indwelling urethral catheter, init
+T83.018D@Breakdown (mechanical) of indwelling urethral catheter, subs
+T83.018S@Breakdown of indwelling urethral catheter, sequela
+T83.020A@Displacement of cystostomy catheter, initial encounter
+T83.020D@Displacement of cystostomy catheter, subsequent encounter
+T83.020S@Displacement of cystostomy catheter, sequela
+T83.028A@Displacement of oth indwelling urethral catheter, init
+T83.028D@Displacement of oth indwelling urethral catheter, subs
+T83.028S@Displacement of other indwelling urethral catheter, sequela
+T83.030A@Leakage of cystostomy catheter, initial encounter
+T83.030D@Leakage of cystostomy catheter, subsequent encounter
+T83.030S@Leakage of cystostomy catheter, sequela
+T83.038A@Leakage of other indwelling urethral catheter, init encntr
+T83.038D@Leakage of other indwelling urethral catheter, subs encntr
+T83.038S@Leakage of other indwelling urethral catheter, sequela
+T83.090A@Mech compl of cystostomy catheter, initial encounter
+T83.090D@Mech compl of cystostomy catheter, subsequent encounter
+T83.090S@Mech compl of cystostomy catheter, sequela
+T83.098A@Mech compl of oth indwelling urethral catheter, init encntr
+T83.098D@Mech compl of oth indwelling urethral catheter, subs encntr
+T83.098S@Mech compl of other indwelling urethral catheter, sequela
+T83.110A@Breakdown of urinary electronic stimulator device, init
+T83.110D@Breakdown of urinary electronic stimulator device, subs
+T83.110S@Breakdown of urinary electronic stimulator device, sequela
+T83.111A@Breakdown (mechanical) of urinary sphincter implant, init
+T83.111D@Breakdown (mechanical) of urinary sphincter implant, subs
+T83.111S@Breakdown (mechanical) of urinary sphincter implant, sequela
+T83.112A@Breakdown (mechanical) of urinary stent, initial encounter
+T83.112D@Breakdown (mechanical) of urinary stent, subs encntr
+T83.112S@Breakdown (mechanical) of urinary stent, sequela
+T83.118A@Breakdown (mechanical) of urinary devices and implants, init
+T83.118D@Breakdown (mechanical) of urinary devices and implants, subs
+T83.118S@Breakdown of urinary devices and implants, sequela
+T83.120A@Displacement of urinary electronic stimulator device, init
+T83.120D@Displacement of urinary electronic stimulator device, subs
+T83.120S@Displacmnt of urinary electronic stimulator device, sequela
+T83.121A@Displacement of urinary sphincter implant, initial encounter
+T83.121D@Displacement of urinary sphincter implant, subs encntr
+T83.121S@Displacement of urinary sphincter implant, sequela
+T83.122A@Displacement of urinary stent, initial encounter
+T83.122D@Displacement of urinary stent, subsequent encounter
+T83.122S@Displacement of urinary stent, sequela
+T83.128A@Displacement of oth urinary devices and implants, init
+T83.128D@Displacement of oth urinary devices and implants, subs
+T83.128S@Displacement of other urinary devices and implants, sequela
+T83.190A@Mech compl of urinary electronic stimulator device, init
+T83.190D@Mech compl of urinary electronic stimulator device, subs
+T83.190S@Mech compl of urinary electronic stimulator device, sequela
+T83.191A@Mech compl of urinary sphincter implant, initial encounter
+T83.191D@Mech compl of urinary sphincter implant, subs encntr
+T83.191S@Mech compl of urinary sphincter implant, sequela
+T83.192A@Mech compl of urinary stent, initial encounter
+T83.192D@Mech compl of urinary stent, subsequent encounter
+T83.192S@Other mechanical complication of urinary stent, sequela
+T83.198A@Mech compl of oth urinary devices and implants, init encntr
+T83.198D@Mech compl of oth urinary devices and implants, subs encntr
+T83.198S@Mech compl of other urinary devices and implants, sequela
+T83.21XA@Breakdown (mechanical) of graft of urinary organ, init
+T83.21XD@Breakdown (mechanical) of graft of urinary organ, subs
+T83.21XS@Breakdown (mechanical) of graft of urinary organ, sequela
+T83.22XA@Displacement of graft of urinary organ, initial encounter
+T83.22XD@Displacement of graft of urinary organ, subsequent encounter
+T83.22XS@Displacement of graft of urinary organ, sequela
+T83.23XA@Leakage of graft of urinary organ, initial encounter
+T83.23XD@Leakage of graft of urinary organ, subsequent encounter
+T83.23XS@Leakage of graft of urinary organ, sequela
+T83.29XA@Mech compl of graft of urinary organ, initial encounter
+T83.29XD@Mech compl of graft of urinary organ, subsequent encounter
+T83.29XS@Mech compl of graft of urinary organ, sequela
+T83.31XA@Breakdown (mechanical) of intrauterine contracep dev, init
+T83.31XD@Breakdown (mechanical) of intrauterine contracep dev, subs
+T83.31XS@Breakdown of intrauterine contracep dev, sequela
+T83.32XA@Displacement of intrauterine contraceptive device, init
+T83.32XD@Displacement of intrauterine contraceptive device, subs
+T83.32XS@Displacement of intrauterine contraceptive device, sequela
+T83.39XA@Mech compl of intrauterine contraceptive device, init encntr
+T83.39XD@Mech compl of intrauterine contraceptive device, subs encntr
+T83.39XS@Mech compl of intrauterine contraceptive device, sequela
+T83.410A@Breakdown of penile (implanted) prosthesis, init
+T83.410D@Breakdown of penile (implanted) prosthesis, subs
+T83.410S@Breakdown of penile (implanted) prosthesis, sequela
+T83.418A@Breakdown of prosth dev/implnt/grft of genitl trct, init
+T83.418D@Breakdown of prosth dev/implnt/grft of genitl trct, subs
+T83.418S@Breakdown of prosth dev/implnt/grft of genitl trct, sequela
+T83.420A@Displacement of penile (implanted) prosthesis, init encntr
+T83.420D@Displacement of penile (implanted) prosthesis, subs encntr
+T83.420S@Displacement of penile (implanted) prosthesis, sequela
+T83.428A@Displacement of prosth dev/implnt/grft of genitl trct, init
+T83.428D@Displacement of prosth dev/implnt/grft of genitl trct, subs
+T83.428S@Displacmnt of prosth dev/implnt/grft of genitl trct, sequela
+T83.490A@Mech compl of penile (implanted) prosthesis, init encntr
+T83.490D@Mech compl of penile (implanted) prosthesis, subs encntr
+T83.490S@Mech compl of penile (implanted) prosthesis, sequela
+T83.498A@Mech compl of prosth dev/implnt/grft of genital tract, init
+T83.498D@Mech compl of prosth dev/implnt/grft of genital tract, subs
+T83.498S@Mech compl of prosth dev/implnt/grft of genitl trct, sequela
+T83.51XA@Infect/inflm reaction due to indwell urinary catheter, init
+T83.51XD@Infect/inflm reaction due to indwell urinary catheter, subs
+T83.51XS@Infect/inflm reaction due to indwell urinary cath, sequela
+T83.59XA@Infect/inflm react d/t prosth dev/grft in urinry sys, init
+T83.59XD@Infect/inflm react d/t prosth dev/grft in urinry sys, subs
+T83.59XS@Infect/inflm react d/t prosth dev/grft in urinry sys, sqla
+T83.6XXA@Infect/inflm react d/t prosth dev/grft in genitl trct, init
+T83.6XXD@Infect/inflm react d/t prosth dev/grft in genitl trct, subs
+T83.6XXS@Infect/inflm react d/t prosth dev/grft in genitl trct, sqla
+T83.711A@Erosion of implnt vag prstht mtrl to surrnd org/tiss, init
+T83.711D@Erosion of implnt vag prstht mtrl to surrnd org/tiss, subs
+T83.711S@Erosion of implnt vag prstht mtrl to surrnd org/tiss, sqla
+T83.718A@Erosion of implanted prstht mtrl to surrnd org/tiss, init
+T83.718D@Erosion of implanted prstht mtrl to surrnd org/tiss, subs
+T83.718S@Erosion of implanted prstht mtrl to surrnd org/tiss, sequela
+T83.721A@Exposure of implnt vag prstht mtrl into vagina, init encntr
+T83.721D@Exposure of implnt vag prstht mtrl into vagina, subs encntr
+T83.721S@Exposure of implnt vag prstht mtrl into vagina, sequela
+T83.728A@Exposure of implanted prstht mtrl to surrnd org/tiss, init
+T83.728D@Exposure of implanted prstht mtrl to surrnd org/tiss, subs
+T83.728S@Exposure of implnt prstht mtrl to surrnd org/tiss, sequela
+T83.81XA@Embolism of genitourinary prosth dev/grft, init
+T83.81XD@Embolism of genitourinary prosth dev/grft, subs
+T83.81XS@Embolism of genitourinary prosth dev/grft, sequela
+T83.82XA@Fibrosis of genitourinary prosth dev/grft, init
+T83.82XD@Fibrosis of genitourinary prosth dev/grft, subs
+T83.82XS@Fibrosis of genitourinary prosth dev/grft, sequela
+T83.83XA@Hemorrhage of genitourinary prosth dev/grft, init
+T83.83XD@Hemorrhage of genitourinary prosth dev/grft, subs
+T83.83XS@Hemorrhage of genitourinary prosth dev/grft, sequela
+T83.84XA@Pain from genitourinary prosth dev/grft, init
+T83.84XD@Pain from genitourinary prosth dev/grft, subs
+T83.84XS@Pain from genitourinary prosth dev/grft, sequela
+T83.85XA@Stenosis of genitourinary prosth dev/grft, init
+T83.85XD@Stenosis of genitourinary prosth dev/grft, subs
+T83.85XS@Stenosis of genitourinary prosth dev/grft, sequela
+T83.86XA@Thrombosis of genitourinary prosth dev/grft, init
+T83.86XD@Thrombosis of genitourinary prosth dev/grft, subs
+T83.86XS@Thrombosis of genitourinary prosth dev/grft, sequela
+T83.89XA@Oth complication of genitourinary prosth dev/grft, init
+T83.89XD@Oth complication of genitourinary prosth dev/grft, subs
+T83.89XS@Oth complication of genitourinary prosth dev/grft, sequela
+T83.9XXA@Unsp complication of genitourinary prosth dev/grft, init
+T83.9XXD@Unsp complication of genitourinary prosth dev/grft, subs
+T83.9XXS@Unsp complication of genitourinary prosth dev/grft, sequela
+T84.010A@Broken internal right hip prosthesis, initial encounter
+T84.010D@Broken internal right hip prosthesis, subsequent encounter
+T84.010S@Broken internal right hip prosthesis, sequela
+T84.011A@Broken internal left hip prosthesis, initial encounter
+T84.011D@Broken internal left hip prosthesis, subsequent encounter
+T84.011S@Broken internal left hip prosthesis, sequela
+T84.012A@Broken internal right knee prosthesis, initial encounter
+T84.012D@Broken internal right knee prosthesis, subsequent encounter
+T84.012S@Broken internal right knee prosthesis, sequela
+T84.013A@Broken internal left knee prosthesis, initial encounter
+T84.013D@Broken internal left knee prosthesis, subsequent encounter
+T84.013S@Broken internal left knee prosthesis, sequela
+T84.018A@Broken internal joint prosthesis, other site, init encntr
+T84.018D@Broken internal joint prosthesis, other site, subs encntr
+T84.018S@Broken internal joint prosthesis, other site, sequela
+T84.019A@Broken internal joint prosthesis, unsp site, init encntr
+T84.019D@Broken internal joint prosthesis, unsp site, subs encntr
+T84.019S@Broken internal joint prosthesis, unspecified site, sequela
+T84.020A@Dislocation of internal right hip prosthesis, init encntr
+T84.020D@Dislocation of internal right hip prosthesis, subs encntr
+T84.020S@Dislocation of internal right hip prosthesis, sequela
+T84.021A@Dislocation of internal left hip prosthesis, init encntr
+T84.021D@Dislocation of internal left hip prosthesis, subs encntr
+T84.021S@Dislocation of internal left hip prosthesis, sequela
+T84.022A@Instability of internal right knee prosthesis, init encntr
+T84.022D@Instability of internal right knee prosthesis, subs encntr
+T84.022S@Instability of internal right knee prosthesis, sequela
+T84.023A@Instability of internal left knee prosthesis, init encntr
+T84.023D@Instability of internal left knee prosthesis, subs encntr
+T84.023S@Instability of internal left knee prosthesis, sequela
+T84.028A@Dislocation of other internal joint prosthesis, init encntr
+T84.028D@Dislocation of other internal joint prosthesis, subs encntr
+T84.028S@Dislocation of other internal joint prosthesis, sequela
+T84.029A@Dislocation of unsp internal joint prosthesis, init encntr
+T84.029D@Dislocation of unsp internal joint prosthesis, subs encntr
+T84.029S@Dislocation of unsp internal joint prosthesis, sequela
+T84.030A@Mech loosening of internal right hip prosthetic joint, init
+T84.030D@Mech loosening of internal right hip prosthetic joint, subs
+T84.030S@Mech loosening of internal right hip prosth joint, sequela
+T84.031A@Mech loosening of internal left hip prosthetic joint, init
+T84.031D@Mech loosening of internal left hip prosthetic joint, subs
+T84.031S@Mech loosening of internal left hip prosth joint, sequela
+T84.032A@Mech loosening of internal right knee prosthetic joint, init
+T84.032D@Mech loosening of internal right knee prosthetic joint, subs
+T84.032S@Mech loosening of internal right knee prosth joint, sequela
+T84.033A@Mech loosening of internal left knee prosthetic joint, init
+T84.033D@Mech loosening of internal left knee prosthetic joint, subs
+T84.033S@Mech loosening of internal left knee prosth joint, sequela
+T84.038A@Mechanical loosening of oth internal prosthetic joint, init
+T84.038D@Mechanical loosening of oth internal prosthetic joint, subs
+T84.038S@Mechanical loosening of internal prosthetic joint, sequela
+T84.039A@Mechanical loosening of unsp internal prosthetic joint, init
+T84.039D@Mechanical loosening of unsp internal prosthetic joint, subs
+T84.039S@Mech loosening of unsp internal prosthetic joint, sequela
+T84.040A@Periprosth fracture around internal prosth r hip jt, init
+T84.040D@Periprosth fracture around internal prosth r hip jt, subs
+T84.040S@Periprosth fracture around internal prosth r hip jt, sequela
+T84.041A@Periprosth fracture around internal prosth l hip jt, init
+T84.041D@Periprosth fracture around internal prosth l hip jt, subs
+T84.041S@Periprosth fracture around internal prosth l hip jt, sequela
+T84.042A@Periprosth fracture around internal prosth r knee jt, init
+T84.042D@Periprosth fracture around internal prosth r knee jt, subs
+T84.042S@Periprosth fx around internal prosth r knee jt, sequela
+T84.043A@Periprosth fracture around internal prosth l knee jt, init
+T84.043D@Periprosth fracture around internal prosth l knee jt, subs
+T84.043S@Periprosth fx around internal prosth l knee jt, sequela
+T84.048A@Periprosth fracture around oth internal prosth joint, init
+T84.048D@Periprosth fracture around oth internal prosth joint, subs
+T84.048S@Periprosth fx around oth internal prosth joint, sequela
+T84.049A@Periprosth fracture around unsp internal prosth joint, init
+T84.049D@Periprosth fracture around unsp internal prosth joint, subs
+T84.049S@Periprosth fx around unsp internal prosth joint, sequela
+T84.050A@Periprosth osteolysis of internal prosthetic r hip jt, init
+T84.050D@Periprosth osteolysis of internal prosthetic r hip jt, subs
+T84.050S@Periprosth osteolys of internal prosthetic r hip jt, sequela
+T84.051A@Periprosth osteolysis of internal prosthetic l hip jt, init
+T84.051D@Periprosth osteolysis of internal prosthetic l hip jt, subs
+T84.051S@Periprosth osteolys of internal prosthetic l hip jt, sequela
+T84.052A@Periprosth osteolysis of internal prosthetic r knee jt, init
+T84.052D@Periprosth osteolysis of internal prosthetic r knee jt, subs
+T84.052S@Periprosth osteolys of internal prosth r knee jt, sequela
+T84.053A@Periprosth osteolysis of internal prosthetic l knee jt, init
+T84.053D@Periprosth osteolysis of internal prosthetic l knee jt, subs
+T84.053S@Periprosth osteolys of internal prosth l knee jt, sequela
+T84.058A@Periprosthetic osteolysis of internal prosthetic joint, init
+T84.058D@Periprosthetic osteolysis of internal prosthetic joint, subs
+T84.058S@Periprosth osteolysis of internal prosthetic joint, sequela
+T84.059A@Periprosth osteolys of unsp internal prosthetic joint, init
+T84.059D@Periprosth osteolys of unsp internal prosthetic joint, subs
+T84.059S@Periprosth osteolys of unsp internal prosth joint, sequela
+T84.060A@Wear of artic bearing surface of int prosth r hip jt, init
+T84.060D@Wear of artic bearing surface of int prosth r hip jt, subs
+T84.060S@Wear of artic bearing surface of int prosth r hip jt, sqla
+T84.061A@Wear of artic bearing surface of int prosth l hip jt, init
+T84.061D@Wear of artic bearing surface of int prosth l hip jt, subs
+T84.061S@Wear of artic bearing surface of int prosth l hip jt, sqla
+T84.062A@Wear of artic bearing surface of int prosth r knee jt, init
+T84.062D@Wear of artic bearing surface of int prosth r knee jt, subs
+T84.062S@Wear of artic bearing surface of int prosth r knee jt, sqla
+T84.063A@Wear of artic bearing surface of int prosth l knee jt, init
+T84.063D@Wear of artic bearing surface of int prosth l knee jt, subs
+T84.063S@Wear of artic bearing surface of int prosth l knee jt, sqla
+T84.068A@Wear of artic bearing surface of internal prosth joint, init
+T84.068D@Wear of artic bearing surface of internal prosth joint, subs
+T84.068S@Wear of artic bearing surface of int prosth joint, sequela
+T84.069A@Wear of artic bearing surface of unsp int prosth joint, init
+T84.069D@Wear of artic bearing surface of unsp int prosth joint, subs
+T84.069S@Wear of artic bearing surface of unsp int prosth joint, sqla
+T84.090A@Mech compl of internal right hip prosthesis, init encntr
+T84.090D@Mech compl of internal right hip prosthesis, subs encntr
+T84.090S@Mech compl of internal right hip prosthesis, sequela
+T84.091A@Mech compl of internal left hip prosthesis, init encntr
+T84.091D@Mech compl of internal left hip prosthesis, subs encntr
+T84.091S@Mech compl of internal left hip prosthesis, sequela
+T84.092A@Mech compl of internal right knee prosthesis, init encntr
+T84.092D@Mech compl of internal right knee prosthesis, subs encntr
+T84.092S@Mech compl of internal right knee prosthesis, sequela
+T84.093A@Mech compl of internal left knee prosthesis, init encntr
+T84.093D@Mech compl of internal left knee prosthesis, subs encntr
+T84.093S@Mech compl of internal left knee prosthesis, sequela
+T84.098A@Mech compl of other internal joint prosthesis, init encntr
+T84.098D@Mech compl of other internal joint prosthesis, subs encntr
+T84.098S@Mech compl of other internal joint prosthesis, sequela
+T84.099A@Mech compl of unsp internal joint prosthesis, init encntr
+T84.099D@Mech compl of unsp internal joint prosthesis, subs encntr
+T84.099S@Mech compl of unspecified internal joint prosthesis, sequela
+T84.110A@Breakdown (mechanical) of int fix of right humerus, init
+T84.110D@Breakdown (mechanical) of int fix of right humerus, subs
+T84.110S@Breakdown (mechanical) of int fix of right humerus, sequela
+T84.111A@Breakdown (mechanical) of int fix of left humerus, init
+T84.111D@Breakdown (mechanical) of int fix of left humerus, subs
+T84.111S@Breakdown (mechanical) of int fix of left humerus, sequela
+T84.112A@Breakdown (mechanical) of int fix of bone of r forearm, init
+T84.112D@Breakdown (mechanical) of int fix of bone of r forearm, subs
+T84.112S@Breakdown of int fix of bone of r forearm, sequela
+T84.113A@Breakdown of int fix of bone of left forearm, init
+T84.113D@Breakdown of int fix of bone of left forearm, subs
+T84.113S@Breakdown of int fix of bone of left forearm, sequela
+T84.114A@Breakdown (mechanical) of int fix of right femur, init
+T84.114D@Breakdown (mechanical) of int fix of right femur, subs
+T84.114S@Breakdown (mechanical) of int fix of right femur, sequela
+T84.115A@Breakdown (mechanical) of int fix of left femur, init
+T84.115D@Breakdown (mechanical) of int fix of left femur, subs
+T84.115S@Breakdown (mechanical) of int fix of left femur, sequela
+T84.116A@Breakdown (mechanical) of int fix of bone of r low leg, init
+T84.116D@Breakdown (mechanical) of int fix of bone of r low leg, subs
+T84.116S@Breakdown of int fix of bone of r low leg, sequela
+T84.117A@Breakdown (mechanical) of int fix of bone of l low leg, init
+T84.117D@Breakdown (mechanical) of int fix of bone of l low leg, subs
+T84.117S@Breakdown of int fix of bone of l low leg, sequela
+T84.119A@Breakdown (mechanical) of int fix of unsp bone of limb, init
+T84.119D@Breakdown (mechanical) of int fix of unsp bone of limb, subs
+T84.119S@Breakdown of int fix of unsp bone of limb, sequela
+T84.120A@Displacement of int fix of right humerus, init
+T84.120D@Displacement of int fix of right humerus, subs
+T84.120S@Displacement of int fix of right humerus, sequela
+T84.121A@Displacement of int fix of left humerus, init
+T84.121D@Displacement of int fix of left humerus, subs
+T84.121S@Displacement of int fix of left humerus, sequela
+T84.122A@Displacement of int fix of bone of right forearm, init
+T84.122D@Displacement of int fix of bone of right forearm, subs
+T84.122S@Displacement of int fix of bone of right forearm, sequela
+T84.123A@Displacement of int fix of bone of left forearm, init
+T84.123D@Displacement of int fix of bone of left forearm, subs
+T84.123S@Displacement of int fix of bone of left forearm, sequela
+T84.124A@Displacement of int fix of right femur, init
+T84.124D@Displacement of int fix of right femur, subs
+T84.124S@Displacement of int fix of right femur, sequela
+T84.125A@Displacement of internal fixation device of left femur, init
+T84.125D@Displacement of internal fixation device of left femur, subs
+T84.125S@Displacement of int fix of left femur, sequela
+T84.126A@Displacement of int fix of bone of right lower leg, init
+T84.126D@Displacement of int fix of bone of right lower leg, subs
+T84.126S@Displacement of int fix of bone of right lower leg, sequela
+T84.127A@Displacement of int fix of bone of left lower leg, init
+T84.127D@Displacement of int fix of bone of left lower leg, subs
+T84.127S@Displacement of int fix of bone of left lower leg, sequela
+T84.129A@Displacement of int fix of unsp bone of limb, init
+T84.129D@Displacement of int fix of unsp bone of limb, subs
+T84.129S@Displacement of int fix of unsp bone of limb, sequela
+T84.190A@Mech compl of int fix of right humerus, init
+T84.190D@Mech compl of int fix of right humerus, subs
+T84.190S@Mech compl of int fix of right humerus, sequela
+T84.191A@Mech compl of internal fixation device of left humerus, init
+T84.191D@Mech compl of internal fixation device of left humerus, subs
+T84.191S@Mech compl of int fix of left humerus, sequela
+T84.192A@Mech compl of int fix of bone of right forearm, init
+T84.192D@Mech compl of int fix of bone of right forearm, subs
+T84.192S@Mech compl of int fix of bone of right forearm, sequela
+T84.193A@Mech compl of int fix of bone of left forearm, init
+T84.193D@Mech compl of int fix of bone of left forearm, subs
+T84.193S@Mech compl of int fix of bone of left forearm, sequela
+T84.194A@Mech compl of internal fixation device of right femur, init
+T84.194D@Mech compl of internal fixation device of right femur, subs
+T84.194S@Mech compl of int fix of right femur, sequela
+T84.195A@Mech compl of internal fixation device of left femur, init
+T84.195D@Mech compl of internal fixation device of left femur, subs
+T84.195S@Mech compl of int fix of left femur, sequela
+T84.196A@Mech compl of int fix of bone of right lower leg, init
+T84.196D@Mech compl of int fix of bone of right lower leg, subs
+T84.196S@Mech compl of int fix of bone of right lower leg, sequela
+T84.197A@Mech compl of int fix of bone of left lower leg, init
+T84.197D@Mech compl of int fix of bone of left lower leg, subs
+T84.197S@Mech compl of int fix of bone of left lower leg, sequela
+T84.199A@Mech compl of int fix of unsp bone of limb, init
+T84.199D@Mech compl of int fix of unsp bone of limb, subs
+T84.199S@Mech compl of int fix of unsp bone of limb, sequela
+T84.210A@Breakdown of int fix of bones of hand and fingers, init
+T84.210D@Breakdown of int fix of bones of hand and fingers, subs
+T84.210S@Breakdown of int fix of bones of hand and fingers, sequela
+T84.213A@Breakdown of int fix of bones of foot and toes, init
+T84.213D@Breakdown of int fix of bones of foot and toes, subs
+T84.213S@Breakdown of int fix of bones of foot and toes, sequela
+T84.216A@Breakdown (mechanical) of int fix of vertebrae, init
+T84.216D@Breakdown (mechanical) of int fix of vertebrae, subs
+T84.216S@Breakdown (mechanical) of int fix of vertebrae, sequela
+T84.218A@Breakdown (mechanical) of int fix of bones, init
+T84.218D@Breakdown (mechanical) of int fix of bones, subs
+T84.218S@Breakdown (mechanical) of int fix of bones, sequela
+T84.220A@Displacement of int fix of bones of hand and fingers, init
+T84.220D@Displacement of int fix of bones of hand and fingers, subs
+T84.220S@Displacmnt of int fix of bones of hand and fingers, sequela
+T84.223A@Displacement of int fix of bones of foot and toes, init
+T84.223D@Displacement of int fix of bones of foot and toes, subs
+T84.223S@Displacement of int fix of bones of foot and toes, sequela
+T84.226A@Displacement of internal fixation device of vertebrae, init
+T84.226D@Displacement of internal fixation device of vertebrae, subs
+T84.226S@Displacement of int fix of vertebrae, sequela
+T84.228A@Displacement of internal fixation device of oth bones, init
+T84.228D@Displacement of internal fixation device of oth bones, subs
+T84.228S@Displacement of internal fixation device of bones, sequela
+T84.290A@Mech compl of int fix of bones of hand and fingers, init
+T84.290D@Mech compl of int fix of bones of hand and fingers, subs
+T84.290S@Mech compl of int fix of bones of hand and fingers, sequela
+T84.293A@Mech compl of int fix of bones of foot and toes, init
+T84.293D@Mech compl of int fix of bones of foot and toes, subs
+T84.293S@Mech compl of int fix of bones of foot and toes, sequela
+T84.296A@Mech compl of internal fixation device of vertebrae, init
+T84.296D@Mech compl of internal fixation device of vertebrae, subs
+T84.296S@Mech compl of internal fixation device of vertebrae, sequela
+T84.298A@Mech compl of internal fixation device of oth bones, init
+T84.298D@Mech compl of internal fixation device of oth bones, subs
+T84.298S@Mech compl of internal fixation device of oth bones, sequela
+T84.310A@Breakdown (mechanical) of electronic bone stimulator, init
+T84.310D@Breakdown (mechanical) of electronic bone stimulator, subs
+T84.310S@Breakdown of electronic bone stimulator, sequela
+T84.318A@Breakdown of bone devices, implants and grafts, init
+T84.318D@Breakdown of bone devices, implants and grafts, subs
+T84.318S@Breakdown of bone devices, implants and grafts, sequela
+T84.320A@Displacement of electronic bone stimulator, init encntr
+T84.320D@Displacement of electronic bone stimulator, subs encntr
+T84.320S@Displacement of electronic bone stimulator, sequela
+T84.328A@Displacement of oth bone devices, implants and grafts, init
+T84.328D@Displacement of oth bone devices, implants and grafts, subs
+T84.328S@Displacement of bone devices, implants and grafts, sequela
+T84.390A@Mech compl of electronic bone stimulator, initial encounter
+T84.390D@Mech compl of electronic bone stimulator, subs encntr
+T84.390S@Mech compl of electronic bone stimulator, sequela
+T84.398A@Mech compl of oth bone devices, implants and grafts, init
+T84.398D@Mech compl of oth bone devices, implants and grafts, subs
+T84.398S@Mech compl of oth bone devices, implants and grafts, sequela
+T84.410A@Breakdown (mechanical) of muscle and tendon graft, init
+T84.410D@Breakdown (mechanical) of muscle and tendon graft, subs
+T84.410S@Breakdown (mechanical) of muscle and tendon graft, sequela
+T84.418A@Brkdwn internal orth devices, implants and grafts, init
+T84.418D@Brkdwn internal orth devices, implants and grafts, subs
+T84.418S@Brkdwn internal orth devices, implants and grafts, sequela
+T84.420A@Displacement of muscle and tendon graft, initial encounter
+T84.420D@Displacement of muscle and tendon graft, subs encntr
+T84.420S@Displacement of muscle and tendon graft, sequela
+T84.428A@Displacmnt of internal orth devices, implnt and grafts, init
+T84.428D@Displacmnt of internal orth devices, implnt and grafts, subs
+T84.428S@Displacmnt of int orth devices, implnt and grafts, sequela
+T84.490A@Mech compl of muscle and tendon graft, initial encounter
+T84.490D@Mech compl of muscle and tendon graft, subsequent encounter
+T84.490S@Mech compl of muscle and tendon graft, sequela
+T84.498A@Mech compl of internal orth devices, implnt and grafts, init
+T84.498D@Mech compl of internal orth devices, implnt and grafts, subs
+T84.498S@Mech compl of int orth devices, implnt and grafts, sequela
+T84.50XA@Infect/inflm reaction due to unsp int joint prosth, init
+T84.50XD@Infect/inflm reaction due to unsp int joint prosth, subs
+T84.50XS@Infect/inflm reaction due to unsp int joint prosth, sequela
+T84.51XA@Infect/inflm reaction due to internal right hip prosth, init
+T84.51XD@Infect/inflm reaction due to internal right hip prosth, subs
+T84.51XS@Infect/inflm reaction due to internal r hip prosth, sequela
+T84.52XA@Infect/inflm reaction due to internal left hip prosth, init
+T84.52XD@Infect/inflm reaction due to internal left hip prosth, subs
+T84.52XS@Infect/inflm reaction due to int left hip prosth, sequela
+T84.53XA@Infect/inflm reaction due to internal r knee prosth, init
+T84.53XD@Infect/inflm reaction due to internal r knee prosth, subs
+T84.53XS@Infect/inflm reaction due to internal r knee prosth, sequela
+T84.54XA@Infect/inflm reaction due to internal left knee prosth, init
+T84.54XD@Infect/inflm reaction due to internal left knee prosth, subs
+T84.54XS@Infect/inflm reaction due to internal l knee prosth, sequela
+T84.59XA@Infect/inflm reaction due to oth internal joint prosth, init
+T84.59XD@Infect/inflm reaction due to oth internal joint prosth, subs
+T84.59XS@Infect/inflm reaction due to oth int joint prosth, sequela
+T84.60XA@Infect/inflm reaction due to int fix of unsp site, init
+T84.60XD@Infect/inflm reaction due to int fix of unsp site, subs
+T84.60XS@Infect/inflm reaction due to int fix of unsp site, sequela
+T84.610A@Infect/inflm reaction due to int fix of right humerus, init
+T84.610D@Infect/inflm reaction due to int fix of right humerus, subs
+T84.610S@Infect/inflm reaction due to int fix of r humerus, sequela
+T84.611A@Infect/inflm reaction due to int fix of left humerus, init
+T84.611D@Infect/inflm reaction due to int fix of left humerus, subs
+T84.611S@Infect/inflm reaction due to int fix of l humerus, sequela
+T84.612A@Infect/inflm reaction due to int fix of right radius, init
+T84.612D@Infect/inflm reaction due to int fix of right radius, subs
+T84.612S@Infect/inflm reaction due to int fix of r radius, sequela
+T84.613A@Infect/inflm reaction due to int fix of left radius, init
+T84.613D@Infect/inflm reaction due to int fix of left radius, subs
+T84.613S@Infect/inflm reaction due to int fix of left radius, sequela
+T84.614A@Infect/inflm reaction due to int fix of right ulna, init
+T84.614D@Infect/inflm reaction due to int fix of right ulna, subs
+T84.614S@Infect/inflm reaction due to int fix of right ulna, sequela
+T84.615A@Infect/inflm reaction due to int fix of left ulna, init
+T84.615D@Infect/inflm reaction due to int fix of left ulna, subs
+T84.615S@Infect/inflm reaction due to int fix of left ulna, sequela
+T84.619A@Infect/inflm react due to int fix of unsp bone of arm, init
+T84.619D@Infect/inflm react due to int fix of unsp bone of arm, subs
+T84.619S@Infect/inflm react due to int fix of unsp bone of arm, sqla
+T84.620A@Infect/inflm reaction due to int fix of right femur, init
+T84.620D@Infect/inflm reaction due to int fix of right femur, subs
+T84.620S@Infect/inflm reaction due to int fix of right femur, sequela
+T84.621A@Infect/inflm reaction due to int fix of left femur, init
+T84.621D@Infect/inflm reaction due to int fix of left femur, subs
+T84.621S@Infect/inflm reaction due to int fix of left femur, sequela
+T84.622A@Infect/inflm reaction due to int fix of right tibia, init
+T84.622D@Infect/inflm reaction due to int fix of right tibia, subs
+T84.622S@Infect/inflm reaction due to int fix of right tibia, sequela
+T84.623A@Infect/inflm reaction due to int fix of left tibia, init
+T84.623D@Infect/inflm reaction due to int fix of left tibia, subs
+T84.623S@Infect/inflm reaction due to int fix of left tibia, sequela
+T84.624A@Infect/inflm reaction due to int fix of right fibula, init
+T84.624D@Infect/inflm reaction due to int fix of right fibula, subs
+T84.624S@Infect/inflm reaction due to int fix of r fibula, sequela
+T84.625A@Infect/inflm reaction due to int fix of left fibula, init
+T84.625D@Infect/inflm reaction due to int fix of left fibula, subs
+T84.625S@Infect/inflm reaction due to int fix of left fibula, sequela
+T84.629A@Infect/inflm react due to int fix of unsp bone of leg, init
+T84.629D@Infect/inflm react due to int fix of unsp bone of leg, subs
+T84.629S@Infect/inflm react due to int fix of unsp bone of leg, sqla
+T84.63XA@Infect/inflm reaction due to int fix of spine, init
+T84.63XD@Infect/inflm reaction due to int fix of spine, subs
+T84.63XS@Infect/inflm reaction due to int fix of spine, sequela
+T84.69XA@Infect/inflm reaction due to int fix of site, init
+T84.69XD@Infect/inflm reaction due to int fix of site, subs
+T84.69XS@Infect/inflm reaction due to int fix of site, sequela
+T84.7XXA@Infect/inflm react due to oth int orth prosth dev/grft, init
+T84.7XXD@Infect/inflm react due to oth int orth prosth dev/grft, subs
+T84.7XXS@Infect/inflm react due to oth int orth prosth dev/grft, sqla
+T84.81XA@Embolism due to internal orthopedic prosth dev/grft, init
+T84.81XD@Embolism due to internal orthopedic prosth dev/grft, subs
+T84.81XS@Embolism due to internal orthopedic prosth dev/grft, sequela
+T84.82XA@Fibrosis due to internal orthopedic prosth dev/grft, init
+T84.82XD@Fibrosis due to internal orthopedic prosth dev/grft, subs
+T84.82XS@Fibrosis due to internal orthopedic prosth dev/grft, sequela
+T84.83XA@Hemorrhage due to internal orthopedic prosth dev/grft, init
+T84.83XD@Hemorrhage due to internal orthopedic prosth dev/grft, subs
+T84.83XS@Hemor due to internal orthopedic prosth dev/grft, sequela
+T84.84XA@Pain due to internal orthopedic prosth dev/grft, init
+T84.84XD@Pain due to internal orthopedic prosth dev/grft, subs
+T84.84XS@Pain due to internal orthopedic prosth dev/grft, sequela
+T84.85XA@Stenosis due to internal orthopedic prosth dev/grft, init
+T84.85XD@Stenosis due to internal orthopedic prosth dev/grft, subs
+T84.85XS@Stenosis due to internal orthopedic prosth dev/grft, sequela
+T84.86XA@Thrombosis due to internal orthopedic prosth dev/grft, init
+T84.86XD@Thrombosis due to internal orthopedic prosth dev/grft, subs
+T84.86XS@Thrombosis due to internal orth prosth dev/grft, sequela
+T84.89XA@Oth comp of internal orthopedic prosth dev/grft, init
+T84.89XD@Oth comp of internal orthopedic prosth dev/grft, subs
+T84.89XS@Oth comp of internal orthopedic prosth dev/grft, sequela
+T84.9XXA@Unsp comp of internal orthopedic prosth dev/grft, init
+T84.9XXD@Unsp comp of internal orthopedic prosth dev/grft, subs
+T84.9XXS@Unsp comp of internal orthopedic prosth dev/grft, sequela
+T85.01XA@Breakdown of ventricular intracranial shunt, init
+T85.01XD@Breakdown of ventricular intracranial shunt, subs
+T85.01XS@Breakdown of ventricular intracranial shunt, sequela
+T85.02XA@Displacement of ventricular intracranial shunt, init
+T85.02XD@Displacement of ventricular intracranial shunt, subs
+T85.02XS@Displacement of ventricular intracranial shunt, sequela
+T85.03XA@Leakage of ventricular intracranial shunt, init
+T85.03XD@Leakage of ventricular intracranial shunt, subs
+T85.03XS@Leakage of ventricular intracranial shunt, sequela
+T85.09XA@Mech compl of ventricular intracranial shunt, init
+T85.09XD@Mech compl of ventricular intracranial shunt, subs
+T85.09XS@Mech compl of ventricular intracranial shunt, sequela
+T85.110A@Brkdwn implanted electronic neurostim of brain, init
+T85.110D@Brkdwn implanted electronic neurostim of brain, subs
+T85.110S@Brkdwn implanted electronic neurostim of brain, sequela
+T85.111A@Brkdwn implanted electronic neurostim of periph nrv, init
+T85.111D@Brkdwn implanted electronic neurostim of periph nrv, subs
+T85.111S@Brkdwn implanted electronic neurostim of periph nrv, sequela
+T85.112A@Brkdwn implanted electronic neurostim of spinal cord, init
+T85.112D@Brkdwn implanted electronic neurostim of spinal cord, subs
+T85.112S@Brkdwn implanted electrnc neurostim of spinal cord, sequela
+T85.118A@Brkdwn implanted electronic stimulator of nervous sys, init
+T85.118D@Brkdwn implanted electronic stimulator of nervous sys, subs
+T85.118S@Brkdwn implanted electrnc stimulator of nervous sys, sequela
+T85.120A@Displacmnt of implanted electronic neurostim of brain, init
+T85.120D@Displacmnt of implanted electronic neurostim of brain, subs
+T85.120S@Displacmnt of implanted electrnc neurostim of brain, sequela
+T85.121A@Displacmnt of implnt electrnc neurostim of periph nrv, init
+T85.121D@Displacmnt of implnt electrnc neurostim of periph nrv, subs
+T85.121S@Displacmnt of implnt electrnc neurostim of periph nrv, sqla
+T85.122A@Displacmnt of implnt electrnc neurostim of spinal cord, init
+T85.122D@Displacmnt of implnt electrnc neurostim of spinal cord, subs
+T85.122S@Displacmnt of implnt electrnc neurostim of spinal cord, sqla
+T85.128A@Displacmnt of implnt electrnc stimultr of nervous sys, init
+T85.128D@Displacmnt of implnt electrnc stimultr of nervous sys, subs
+T85.128S@Displacmnt of implnt electrnc stimultr of nrv sys, sequela
+T85.190A@Mech compl of implanted electronic neurostim of brain, init
+T85.190D@Mech compl of implanted electronic neurostim of brain, subs
+T85.190S@Mech compl of implanted electrnc neurostim of brain, sequela
+T85.191A@Mech compl of implnt electrnc neurostim of periph nrv, init
+T85.191D@Mech compl of implnt electrnc neurostim of periph nrv, subs
+T85.191S@Mech compl of implnt electrnc neurostim of periph nrv, sqla
+T85.192A@Mech compl of implnt electrnc neurostim of spinal cord, init
+T85.192D@Mech compl of implnt electrnc neurostim of spinal cord, subs
+T85.192S@Mech compl of implnt electrnc neurostim of spinal cord, sqla
+T85.199A@Mech compl of implnt electrnc stimultr of nervous sys, init
+T85.199D@Mech compl of implnt electrnc stimultr of nervous sys, subs
+T85.199S@Mech compl of implnt electrnc stimultr of nrv sys, sequela
+T85.21XA@Breakdown (mechanical) of intraocular lens, init encntr
+T85.21XD@Breakdown (mechanical) of intraocular lens, subs encntr
+T85.21XS@Breakdown (mechanical) of intraocular lens, sequela
+T85.22XA@Displacement of intraocular lens, initial encounter
+T85.22XD@Displacement of intraocular lens, subsequent encounter
+T85.22XS@Displacement of intraocular lens, sequela
+T85.29XA@Mech compl of intraocular lens, initial encounter
+T85.29XD@Mech compl of intraocular lens, subsequent encounter
+T85.29XS@Other mechanical complication of intraocular lens, sequela
+T85.310A@Breakdown of prosthetic orbit of right eye, init
+T85.310D@Breakdown of prosthetic orbit of right eye, subs
+T85.310S@Breakdown of prosthetic orbit of right eye, sequela
+T85.311A@Breakdown (mechanical) of prosthetic orbit of left eye, init
+T85.311D@Breakdown (mechanical) of prosthetic orbit of left eye, subs
+T85.311S@Breakdown of prosthetic orbit of left eye, sequela
+T85.318A@Breakdown (mechanical) of ocular prosth dev/grft, init
+T85.318D@Breakdown (mechanical) of ocular prosth dev/grft, subs
+T85.318S@Breakdown (mechanical) of ocular prosth dev/grft, sequela
+T85.320A@Displacement of prosthetic orbit of right eye, init encntr
+T85.320D@Displacement of prosthetic orbit of right eye, subs encntr
+T85.320S@Displacement of prosthetic orbit of right eye, sequela
+T85.321A@Displacement of prosthetic orbit of left eye, init encntr
+T85.321D@Displacement of prosthetic orbit of left eye, subs encntr
+T85.321S@Displacement of prosthetic orbit of left eye, sequela
+T85.328A@Displacement of ocular prosth dev/grft, init
+T85.328D@Displacement of ocular prosth dev/grft, subs
+T85.328S@Displacement of ocular prosth dev/grft, sequela
+T85.390A@Mech compl of prosthetic orbit of right eye, init encntr
+T85.390D@Mech compl of prosthetic orbit of right eye, subs encntr
+T85.390S@Mech compl of prosthetic orbit of right eye, sequela
+T85.391A@Mech compl of prosthetic orbit of left eye, init encntr
+T85.391D@Mech compl of prosthetic orbit of left eye, subs encntr
+T85.391S@Mech compl of prosthetic orbit of left eye, sequela
+T85.398A@Mech compl of ocular prosth dev/grft, init
+T85.398D@Mech compl of ocular prosth dev/grft, subs
+T85.398S@Mech compl of ocular prosth dev/grft, sequela
+T85.41XA@Breakdown of breast prosthesis and implant, init
+T85.41XD@Breakdown of breast prosthesis and implant, subs
+T85.41XS@Breakdown of breast prosthesis and implant, sequela
+T85.42XA@Displacement of breast prosthesis and implant, init encntr
+T85.42XD@Displacement of breast prosthesis and implant, subs encntr
+T85.42XS@Displacement of breast prosthesis and implant, sequela
+T85.43XA@Leakage of breast prosthesis and implant, initial encounter
+T85.43XD@Leakage of breast prosthesis and implant, subs encntr
+T85.43XS@Leakage of breast prosthesis and implant, sequela
+T85.44XA@Capsular contracture of breast implant, initial encounter
+T85.44XD@Capsular contracture of breast implant, subsequent encounter
+T85.44XS@Capsular contracture of breast implant, sequela
+T85.49XA@Mech compl of breast prosthesis and implant, init encntr
+T85.49XD@Mech compl of breast prosthesis and implant, subs encntr
+T85.49XS@Mech compl of breast prosthesis and implant, sequela
+T85.510A@Breakdown (mechanical) of bile duct prosthesis, init encntr
+T85.510D@Breakdown (mechanical) of bile duct prosthesis, subs encntr
+T85.510S@Breakdown (mechanical) of bile duct prosthesis, sequela
+T85.511A@Breakdown of esophageal anti-reflux device, init
+T85.511D@Breakdown of esophageal anti-reflux device, subs
+T85.511S@Breakdown of esophageal anti-reflux device, sequela
+T85.518A@Breakdown (mechanical) of GI prosth dev/grft, init
+T85.518D@Breakdown (mechanical) of GI prosth dev/grft, subs
+T85.518S@Breakdown (mechanical) of GI prosth dev/grft, sequela
+T85.520A@Displacement of bile duct prosthesis, initial encounter
+T85.520D@Displacement of bile duct prosthesis, subsequent encounter
+T85.520S@Displacement of bile duct prosthesis, sequela
+T85.521A@Displacement of esophageal anti-reflux device, init encntr
+T85.521D@Displacement of esophageal anti-reflux device, subs encntr
+T85.521S@Displacement of esophageal anti-reflux device, sequela
+T85.528A@Displacement of gastrointestinal prosth dev/grft, init
+T85.528D@Displacement of gastrointestinal prosth dev/grft, subs
+T85.528S@Displacement of gastrointestinal prosth dev/grft, sequela
+T85.590A@Mech compl of bile duct prosthesis, initial encounter
+T85.590D@Mech compl of bile duct prosthesis, subsequent encounter
+T85.590S@Mech compl of bile duct prosthesis, sequela
+T85.591A@Mech compl of esophageal anti-reflux device, init encntr
+T85.591D@Mech compl of esophageal anti-reflux device, subs encntr
+T85.591S@Mech compl of esophageal anti-reflux device, sequela
+T85.598A@Mech compl of gastrointestinal prosth dev/grft, init
+T85.598D@Mech compl of gastrointestinal prosth dev/grft, subs
+T85.598S@Mech compl of gastrointestinal prosth dev/grft, sequela
+T85.610A@Breakdown of epidural and subdural infusion catheter, init
+T85.610D@Breakdown of epidural and subdural infusion catheter, subs
+T85.610S@Brkdwn epidural and subdural infusion catheter, sequela
+T85.611A@Breakdown of intraperitoneal dialysis catheter, init
+T85.611D@Breakdown of intraperitoneal dialysis catheter, subs
+T85.611S@Breakdown of intraperitoneal dialysis catheter, sequela
+T85.612A@Breakdown (mechanical) of permanent sutures, init encntr
+T85.612D@Breakdown (mechanical) of permanent sutures, subs encntr
+T85.612S@Breakdown (mechanical) of permanent sutures, sequela
+T85.613A@Breakdown of artificial skin grft /decellular alloderm, init
+T85.613D@Breakdown of artificial skin grft /decellular alloderm, subs
+T85.613S@Brkdwn artificial skin grft /decellular alloderm, sequela
+T85.614A@Breakdown (mechanical) of insulin pump, initial encounter
+T85.614D@Breakdown (mechanical) of insulin pump, subsequent encounter
+T85.614S@Breakdown (mechanical) of insulin pump, sequela
+T85.618A@Breakdown (mechanical) of internal prosth dev/grft, init
+T85.618D@Breakdown (mechanical) of internal prosth dev/grft, subs
+T85.618S@Breakdown (mechanical) of internal prosth dev/grft, sequela
+T85.620A@Displacmnt of epidural and subdural infusion catheter, init
+T85.620D@Displacmnt of epidural and subdural infusion catheter, subs
+T85.620S@Displacmnt of epidural and subdural infusion cath, sequela
+T85.621A@Displacement of intraperitoneal dialysis catheter, init
+T85.621D@Displacement of intraperitoneal dialysis catheter, subs
+T85.621S@Displacement of intraperitoneal dialysis catheter, sequela
+T85.622A@Displacement of permanent sutures, initial encounter
+T85.622D@Displacement of permanent sutures, subsequent encounter
+T85.622S@Displacement of permanent sutures, sequela
+T85.623A@Displacmnt of artif skin grft /decellular alloderm, init
+T85.623D@Displacmnt of artif skin grft /decellular alloderm, subs
+T85.623S@Displacmnt of artif skin grft /decellular alloderm, sequela
+T85.624A@Displacement of insulin pump, initial encounter
+T85.624D@Displacement of insulin pump, subsequent encounter
+T85.624S@Displacement of insulin pump, sequela
+T85.628A@Displacement of internal prosth dev/grft, init
+T85.628D@Displacement of internal prosth dev/grft, subs
+T85.628S@Displacement of internal prosth dev/grft, sequela
+T85.630A@Leakage of epidural and subdural infusion catheter, init
+T85.630D@Leakage of epidural and subdural infusion catheter, subs
+T85.630S@Leakage of epidural and subdural infusion catheter, sequela
+T85.631A@Leakage of intraperitoneal dialysis catheter, init encntr
+T85.631D@Leakage of intraperitoneal dialysis catheter, subs encntr
+T85.631S@Leakage of intraperitoneal dialysis catheter, sequela
+T85.633A@Leakage of insulin pump, initial encounter
+T85.633D@Leakage of insulin pump, subsequent encounter
+T85.633S@Leakage of insulin pump, sequela
+T85.638A@Leakage of internal prosth dev/grft, init
+T85.638D@Leakage of internal prosth dev/grft, subs
+T85.638S@Leakage of internal prosth dev/grft, sequela
+T85.690A@Mech compl of epidural and subdural infusion catheter, init
+T85.690D@Mech compl of epidural and subdural infusion catheter, subs
+T85.690S@Mech compl of epidural and subdural infusion cath, sequela
+T85.691A@Mech compl of intraperitoneal dialysis catheter, init encntr
+T85.691D@Mech compl of intraperitoneal dialysis catheter, subs encntr
+T85.691S@Mech compl of intraperitoneal dialysis catheter, sequela
+T85.692A@Mech compl of permanent sutures, initial encounter
+T85.692D@Mech compl of permanent sutures, subsequent encounter
+T85.692S@Other mechanical complication of permanent sutures, sequela
+T85.693A@Mech compl of artif skin grft /decellular alloderm, init
+T85.693D@Mech compl of artif skin grft /decellular alloderm, subs
+T85.693S@Mech compl of artif skin grft /decellular alloderm, sequela
+T85.694A@Mech compl of insulin pump, initial encounter
+T85.694D@Mech compl of insulin pump, subsequent encounter
+T85.694S@Other mechanical complication of insulin pump, sequela
+T85.698A@Mech compl of internal prosth dev/grft, init
+T85.698D@Mech compl of internal prosth dev/grft, subs
+T85.698S@Mech compl of internal prosth dev/grft, sequela
+T85.71XA@Infect/inflm reaction due to periton dialysis catheter, init
+T85.71XD@Infect/inflm reaction due to periton dialysis catheter, subs
+T85.71XS@Infect/inflm reaction due to periton dialysis cath, sequela
+T85.72XA@Infect/inflm reaction due to insulin pump, init
+T85.72XD@Infect/inflm reaction due to insulin pump, subs
+T85.72XS@Infect/inflm reaction due to insulin pump, sequela
+T85.79XA@Infect/inflm reaction due to oth int prosth dev/grft, init
+T85.79XD@Infect/inflm reaction due to oth int prosth dev/grft, subs
+T85.79XS@Infect/inflm react due to oth int prosth dev/grft, sequela
+T85.81XA@Embolism due to internal prosth dev/grft, NEC, init
+T85.81XD@Embolism due to internal prosth dev/grft, NEC, subs
+T85.81XS@Embolism due to internal prosth dev/grft, NEC, sequela
+T85.82XA@Fibrosis due to internal prosth dev/grft, NEC, init
+T85.82XD@Fibrosis due to internal prosth dev/grft, NEC, subs
+T85.82XS@Fibrosis due to internal prosth dev/grft, NEC, sequela
+T85.83XA@Hemorrhage due to internal prosth dev/grft, NEC, init
+T85.83XD@Hemorrhage due to internal prosth dev/grft, NEC, subs
+T85.83XS@Hemorrhage due to internal prosth dev/grft, NEC, sequela
+T85.84XA@Pain due to internal prosth dev/grft, NEC, init
+T85.84XD@Pain due to internal prosth dev/grft, NEC, subs
+T85.84XS@Pain due to internal prosth dev/grft, NEC, sequela
+T85.85XA@Stenosis due to internal prosth dev/grft, NEC, init
+T85.85XD@Stenosis due to internal prosth dev/grft, NEC, subs
+T85.85XS@Stenosis due to internal prosth dev/grft, NEC, sequela
+T85.86XA@Thrombosis due to internal prosth dev/grft, NEC, init
+T85.86XD@Thrombosis due to internal prosth dev/grft, NEC, subs
+T85.86XS@Thrombosis due to internal prosth dev/grft, NEC, sequela
+T85.89XA@Oth complication of internal prosth dev/grft, NEC, init
+T85.89XD@Oth complication of internal prosth dev/grft, NEC, subs
+T85.89XS@Oth complication of internal prosth dev/grft, NEC, sequela
+T85.9XXA@Unsp complication of internal prosth dev/grft, init
+T85.9XXD@Unsp complication of internal prosth dev/grft, subs
+T85.9XXS@Unsp complication of internal prosth dev/grft, sequela
+T86.00@Unspecified complication of bone marrow transplant
+T86.01@Bone marrow transplant rejection
+T86.02@Bone marrow transplant failure
+T86.03@Bone marrow transplant infection
+T86.09@Other complications of bone marrow transplant
+T86.10@Unspecified complication of kidney transplant
+T86.11@Kidney transplant rejection
+T86.12@Kidney transplant failure
+T86.13@Kidney transplant infection
+T86.19@Other complication of kidney transplant
+T86.20@Unspecified complication of heart transplant
+T86.21@Heart transplant rejection
+T86.22@Heart transplant failure
+T86.23@Heart transplant infection
+T86.290@Cardiac allograft vasculopathy
+T86.298@Other complications of heart transplant
+T86.30@Unspecified complication of heart-lung transplant
+T86.31@Heart-lung transplant rejection
+T86.32@Heart-lung transplant failure
+T86.33@Heart-lung transplant infection
+T86.39@Other complications of heart-lung transplant
+T86.40@Unspecified complication of liver transplant
+T86.41@Liver transplant rejection
+T86.42@Liver transplant failure
+T86.43@Liver transplant infection
+T86.49@Other complications of liver transplant
+T86.5@Complications of stem cell transplant
+T86.810@Lung transplant rejection
+T86.811@Lung transplant failure
+T86.812@Lung transplant infection
+T86.818@Other complications of lung transplant
+T86.819@Unspecified complication of lung transplant
+T86.820@Skin graft (allograft) rejection
+T86.821@Skin graft (allograft) (autograft) failure
+T86.822@Skin graft (allograft) (autograft) infection
+T86.828@Other complications of skin graft (allograft) (autograft)
+T86.829@Unsp complication of skin graft (allograft) (autograft)
+T86.830@Bone graft rejection
+T86.831@Bone graft failure
+T86.832@Bone graft infection
+T86.838@Other complications of bone graft
+T86.839@Unspecified complication of bone graft
+T86.840@Corneal transplant rejection
+T86.841@Corneal transplant failure
+T86.842@Corneal transplant infection
+T86.848@Other complications of corneal transplant
+T86.849@Unspecified complication of corneal transplant
+T86.850@Intestine transplant rejection
+T86.851@Intestine transplant failure
+T86.852@Intestine transplant infection
+T86.858@Other complications of intestine transplant
+T86.859@Unspecified complication of intestine transplant
+T86.890@Other transplanted tissue rejection
+T86.891@Other transplanted tissue failure
+T86.892@Other transplanted tissue infection
+T86.898@Other complications of other transplanted tissue
+T86.899@Unspecified complication of other transplanted tissue
+T86.90@Unsp complication of unsp transplanted organ and tissue
+T86.91@Unspecified transplanted organ and tissue rejection
+T86.92@Unspecified transplanted organ and tissue failure
+T86.93@Unspecified transplanted organ and tissue infection
+T86.99@Other complications of unsp transplanted organ and tissue
+T87.0X1@Complications of reattached (part of) right upper extremity
+T87.0X2@Complications of reattached (part of) left upper extremity
+T87.0X9@Complications of reattached (part of) unsp upper extremity
+T87.1X1@Complications of reattached (part of) right lower extremity
+T87.1X2@Complications of reattached (part of) left lower extremity
+T87.1X9@Complications of reattached (part of) unsp lower extremity
+T87.2@Complications of other reattached body part
+T87.30@Neuroma of amputation stump, unspecified extremity
+T87.31@Neuroma of amputation stump, right upper extremity
+T87.32@Neuroma of amputation stump, left upper extremity
+T87.33@Neuroma of amputation stump, right lower extremity
+T87.34@Neuroma of amputation stump, left lower extremity
+T87.40@Infection of amputation stump, unspecified extremity
+T87.41@Infection of amputation stump, right upper extremity
+T87.42@Infection of amputation stump, left upper extremity
+T87.43@Infection of amputation stump, right lower extremity
+T87.44@Infection of amputation stump, left lower extremity
+T87.50@Necrosis of amputation stump, unspecified extremity
+T87.51@Necrosis of amputation stump, right upper extremity
+T87.52@Necrosis of amputation stump, left upper extremity
+T87.53@Necrosis of amputation stump, right lower extremity
+T87.54@Necrosis of amputation stump, left lower extremity
+T87.81@Dehiscence of amputation stump
+T87.89@Other complications of amputation stump
+T87.9@Unspecified complications of amputation stump
+T88.0XXA@Infection following immunization, initial encounter
+T88.0XXD@Infection following immunization, subsequent encounter
+T88.0XXS@Infection following immunization, sequela
+T88.1XXA@Oth complications following immunization, NEC, init
+T88.1XXD@Oth complications following immunization, NEC, subs
+T88.1XXS@Oth complications following immunization, NEC, sequela
+T88.2XXA@Shock due to anesthesia, initial encounter
+T88.2XXD@Shock due to anesthesia, subsequent encounter
+T88.2XXS@Shock due to anesthesia, sequela
+T88.3XXA@Malignant hyperthermia due to anesthesia, initial encounter
+T88.3XXD@Malignant hyperthermia due to anesthesia, subs encntr
+T88.3XXS@Malignant hyperthermia due to anesthesia, sequela
+T88.4XXA@Failed or difficult intubation, initial encounter
+T88.4XXD@Failed or difficult intubation, subsequent encounter
+T88.4XXS@Failed or difficult intubation, sequela
+T88.51XA@Hypothermia following anesthesia, initial encounter
+T88.51XD@Hypothermia following anesthesia, subsequent encounter
+T88.51XS@Hypothermia following anesthesia, sequela
+T88.52XA@Failed moderate sedation during procedure, initial encounter
+T88.52XD@Failed moderate sedation during procedure, subs encntr
+T88.52XS@Failed moderate sedation during procedure, sequela
+T88.59XA@Other complications of anesthesia, initial encounter
+T88.59XD@Other complications of anesthesia, subsequent encounter
+T88.59XS@Other complications of anesthesia, sequela
+T88.6XXA@Anaphyl reaction due to advrs eff drug/med prop admin, init
+T88.6XXD@Anaphyl reaction due to advrs eff drug/med prop admin, subs
+T88.6XXS@Anaphyl react due to advrs eff drug/med prop admin, sequela
+T88.7XXA@Unsp adverse effect of drug or medicament, init encntr
+T88.7XXD@Unsp adverse effect of drug or medicament, subs encntr
+T88.7XXS@Unspecified adverse effect of drug or medicament, sequela
+T88.8XXA@Oth complications of surgical and medical care, NEC, init
+T88.8XXD@Oth complications of surgical and medical care, NEC, subs
+T88.8XXS@Oth complications of surgical and medical care, NEC, sequela
+T88.9XXA@Complication of surgical and medical care, unsp, init encntr
+T88.9XXD@Complication of surgical and medical care, unsp, subs encntr
+T88.9XXS@Complication of surgical and medical care, unsp, sequela

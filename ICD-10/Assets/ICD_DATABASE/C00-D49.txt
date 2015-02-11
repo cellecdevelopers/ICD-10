@@ -1,0 +1,1750 @@
+C00.0@Malignant neoplasm of external upper lip
+C00.1@Malignant neoplasm of external lower lip
+C00.2@Malignant neoplasm of external lip, unspecified
+C00.3@Malignant neoplasm of upper lip, inner aspect
+C00.4@Malignant neoplasm of lower lip, inner aspect
+C00.5@Malignant neoplasm of lip, unspecified, inner aspect
+C00.6@Malignant neoplasm of commissure of lip, unspecified
+C00.8@Malignant neoplasm of overlapping sites of lip
+C00.9@Malignant neoplasm of lip, unspecified
+#
+C01.@Malignant neoplasm of base of tongue
+#
+C02.0@Malignant neoplasm of dorsal surface of tongue
+C02.1@Malignant neoplasm of border of tongue
+C02.2@Malignant neoplasm of ventral surface of tongue
+C02.3@Malig neoplasm of anterior two-thirds of tongue, part unsp
+C02.4@Malignant neoplasm of lingual tonsil
+C02.8@Malignant neoplasm of overlapping sites of tongue
+C02.9@Malignant neoplasm of tongue, unspecified
+#
+C03.0@Malignant neoplasm of upper gum
+C03.1@Malignant neoplasm of lower gum
+C03.9@Malignant neoplasm of gum, unspecified
+#
+C04.0@Malignant neoplasm of anterior floor of mouth
+C04.1@Malignant neoplasm of lateral floor of mouth
+C04.8@Malignant neoplasm of overlapping sites of floor of mouth
+C04.9@Malignant neoplasm of floor of mouth, unspecified
+#
+C05.0@Malignant neoplasm of hard palate
+C05.1@Malignant neoplasm of soft palate
+C05.2@Malignant neoplasm of uvula
+C05.8@Malignant neoplasm of overlapping sites of palate
+C05.9@Malignant neoplasm of palate, unspecified
+#
+C06.0@Malignant neoplasm of cheek mucosa
+C06.1@Malignant neoplasm of vestibule of mouth
+C06.2@Malignant neoplasm of retromolar area
+C06.80@Malignant neoplasm of ovrlp sites of unsp parts of mouth
+C06.89@Malignant neoplasm of overlapping sites of oth prt mouth
+C06.9@Malignant neoplasm of mouth, unspecified
+#
+C07.@Malignant neoplasm of parotid gland
+#
+C08.0@Malignant neoplasm of submandibular gland
+C08.1@Malignant neoplasm of sublingual gland
+C08.9@Malignant neoplasm of major salivary gland, unspecified
+#
+C09.0@Malignant neoplasm of tonsillar fossa
+C09.1@Malig neoplasm of tonsillar pillar (anterior) (posterior)
+C09.8@Malignant neoplasm of overlapping sites of tonsil
+C09.9@Malignant neoplasm of tonsil, unspecified
+#
+C10.0@Malignant neoplasm of vallecula
+C10.1@Malignant neoplasm of anterior surface of epiglottis
+C10.2@Malignant neoplasm of lateral wall of oropharynx
+C10.3@Malignant neoplasm of posterior wall of oropharynx
+C10.4@Malignant neoplasm of branchial cleft
+C10.8@Malignant neoplasm of overlapping sites of oropharynx
+C10.9@Malignant neoplasm of oropharynx, unspecified
+#
+C11.0@Malignant neoplasm of superior wall of nasopharynx
+C11.1@Malignant neoplasm of posterior wall of nasopharynx
+C11.2@Malignant neoplasm of lateral wall of nasopharynx
+C11.3@Malignant neoplasm of anterior wall of nasopharynx
+C11.8@Malignant neoplasm of overlapping sites of nasopharynx
+C11.9@Malignant neoplasm of nasopharynx, unspecified
+#
+C12.@Malignant neoplasm of pyriform sinus
+#
+C13.0@Malignant neoplasm of postcricoid region
+C13.1@Malig neoplasm of aryepiglottic fold, hypopharyngeal aspect
+C13.2@Malignant neoplasm of posterior wall of hypopharynx
+C13.8@Malignant neoplasm of overlapping sites of hypopharynx
+C13.9@Malignant neoplasm of hypopharynx, unspecified
+#
+C14.0@Malignant neoplasm of pharynx, unspecified
+C14.2@Malignant neoplasm of Waldeyer's ring
+C14.8@Malig neoplm of ovrlp sites of lip, oral cavity and pharynx
+#
+C15.3@Malignant neoplasm of upper third of esophagus
+C15.4@Malignant neoplasm of middle third of esophagus
+C15.5@Malignant neoplasm of lower third of esophagus
+C15.8@Malignant neoplasm of overlapping sites of esophagus
+C15.9@Malignant neoplasm of esophagus, unspecified
+#
+C16.0@Malignant neoplasm of cardia
+C16.1@Malignant neoplasm of fundus of stomach
+C16.2@Malignant neoplasm of body of stomach
+C16.3@Malignant neoplasm of pyloric antrum
+C16.4@Malignant neoplasm of pylorus
+C16.5@Malignant neoplasm of lesser curvature of stomach, unsp
+C16.6@Malignant neoplasm of greater curvature of stomach, unsp
+C16.8@Malignant neoplasm of overlapping sites of stomach
+C16.9@Malignant neoplasm of stomach, unspecified
+#
+C17.0@Malignant neoplasm of duodenum
+C17.1@Malignant neoplasm of jejunum
+C17.2@Malignant neoplasm of ileum
+C17.3@Meckel's diverticulum, malignant
+C17.8@Malignant neoplasm of overlapping sites of small intestine
+C17.9@Malignant neoplasm of small intestine, unspecified
+#
+C18.0@Malignant neoplasm of cecum
+C18.1@Malignant neoplasm of appendix
+C18.2@Malignant neoplasm of ascending colon
+C18.3@Malignant neoplasm of hepatic flexure
+C18.4@Malignant neoplasm of transverse colon
+C18.5@Malignant neoplasm of splenic flexure
+C18.6@Malignant neoplasm of descending colon
+C18.7@Malignant neoplasm of sigmoid colon
+C18.8@Malignant neoplasm of overlapping sites of colon
+C18.9@Malignant neoplasm of colon, unspecified
+#
+C19.@Malignant neoplasm of rectosigmoid junction
+#
+C20.@Malignant neoplasm of rectum
+#
+C21.0@Malignant neoplasm of anus, unspecified
+C21.1@Malignant neoplasm of anal canal
+C21.2@Malignant neoplasm of cloacogenic zone
+C21.8@Malig neoplasm of ovrlp sites of rectum, anus and anal canal
+#
+C22.0@Liver cell carcinoma
+C22.1@Intrahepatic bile duct carcinoma
+C22.2@Hepatoblastoma
+C22.3@Angiosarcoma of liver
+C22.4@Other sarcomas of liver
+C22.7@Other specified carcinomas of liver
+C22.8@Malignant neoplasm of liver, primary, unspecified as to type
+C22.9@Malig neoplasm of liver, not specified as primary or sec
+#
+C23.@Malignant neoplasm of gallbladder
+#
+C24.0@Malignant neoplasm of extrahepatic bile duct
+C24.1@Malignant neoplasm of ampulla of Vater
+C24.8@Malignant neoplasm of overlapping sites of biliary tract
+C24.9@Malignant neoplasm of biliary tract, unspecified
+#
+C25.0@Malignant neoplasm of head of pancreas
+C25.1@Malignant neoplasm of body of pancreas
+C25.2@Malignant neoplasm of tail of pancreas
+C25.3@Malignant neoplasm of pancreatic duct
+C25.4@Malignant neoplasm of endocrine pancreas
+C25.7@Malignant neoplasm of other parts of pancreas
+C25.8@Malignant neoplasm of overlapping sites of pancreas
+C25.9@Malignant neoplasm of pancreas, unspecified
+#
+C26.0@Malignant neoplasm of intestinal tract, part unspecified
+C26.1@Malignant neoplasm of spleen
+C26.9@Malignant neoplasm of ill-defined sites within the dgstv sys
+#
+C30.0@Malignant neoplasm of nasal cavity
+C30.1@Malignant neoplasm of middle ear
+#
+C31.0@Malignant neoplasm of maxillary sinus
+C31.1@Malignant neoplasm of ethmoidal sinus
+C31.2@Malignant neoplasm of frontal sinus
+C31.3@Malignant neoplasm of sphenoid sinus
+C31.8@Malignant neoplasm of overlapping sites of accessory sinuses
+C31.9@Malignant neoplasm of accessory sinus, unspecified
+#
+C32.0@Malignant neoplasm of glottis
+C32.1@Malignant neoplasm of supraglottis
+C32.2@Malignant neoplasm of subglottis
+C32.3@Malignant neoplasm of laryngeal cartilage
+C32.8@Malignant neoplasm of overlapping sites of larynx
+C32.9@Malignant neoplasm of larynx, unspecified
+#
+C33.@Malignant neoplasm of trachea
+#
+C34.00@Malignant neoplasm of unspecified main bronchus
+C34.01@Malignant neoplasm of right main bronchus
+C34.02@Malignant neoplasm of left main bronchus
+C34.10@Malignant neoplasm of upper lobe, unsp bronchus or lung
+C34.11@Malignant neoplasm of upper lobe, right bronchus or lung
+C34.12@Malignant neoplasm of upper lobe, left bronchus or lung
+C34.2@Malignant neoplasm of middle lobe, bronchus or lung
+C34.30@Malignant neoplasm of lower lobe, unsp bronchus or lung
+C34.31@Malignant neoplasm of lower lobe, right bronchus or lung
+C34.32@Malignant neoplasm of lower lobe, left bronchus or lung
+C34.80@Malignant neoplasm of ovrlp sites of unsp bronchus and lung
+C34.81@Malignant neoplasm of ovrlp sites of right bronchus and lung
+C34.82@Malignant neoplasm of ovrlp sites of left bronchus and lung
+C34.90@Malignant neoplasm of unsp part of unsp bronchus or lung
+C34.91@Malignant neoplasm of unsp part of right bronchus or lung
+C34.92@Malignant neoplasm of unsp part of left bronchus or lung
+#
+C37.@Malignant neoplasm of thymus
+#
+C38.0@Malignant neoplasm of heart
+C38.1@Malignant neoplasm of anterior mediastinum
+C38.2@Malignant neoplasm of posterior mediastinum
+C38.3@Malignant neoplasm of mediastinum, part unspecified
+C38.4@Malignant neoplasm of pleura
+C38.8@Malig neoplm of ovrlp sites of heart, mediastinum and pleura
+#
+C39.0@Malignant neoplasm of upper respiratory tract, part unsp
+C39.9@Malignant neoplasm of lower respiratory tract, part unsp
+C40.00@Malig neoplasm of scapula and long bones of unsp upper limb
+C40.01@Malig neoplasm of scapula and long bones of right upper limb
+C40.02@Malig neoplasm of scapula and long bones of left upper limb
+C40.10@Malignant neoplasm of short bones of unspecified upper limb
+C40.11@Malignant neoplasm of short bones of right upper limb
+C40.12@Malignant neoplasm of short bones of left upper limb
+C40.20@Malignant neoplasm of long bones of unspecified lower limb
+C40.21@Malignant neoplasm of long bones of right lower limb
+C40.22@Malignant neoplasm of long bones of left lower limb
+C40.30@Malignant neoplasm of short bones of unspecified lower limb
+C40.31@Malignant neoplasm of short bones of right lower limb
+C40.32@Malignant neoplasm of short bones of left lower limb
+C40.80@Malig neoplm of ovrlp sites of bone/artic cartl of unsp limb
+C40.81@Malig neoplm of ovrlp sites of bone/artic cartl of r limb
+C40.82@Malig neoplm of ovrlp sites of bone/artic cartl of left limb
+C40.90@Malig neoplasm of unsp bones and artic cartlg of unsp limb
+C40.91@Malig neoplasm of unsp bones and artic cartlg of right limb
+C40.92@Malig neoplasm of unsp bones and artic cartlg of left limb
+C41.0@Malignant neoplasm of bones of skull and face
+C41.1@Malignant neoplasm of mandible
+C41.2@Malignant neoplasm of vertebral column
+C41.3@Malignant neoplasm of ribs, sternum and clavicle
+C41.4@Malignant neoplasm of pelvic bones, sacrum and coccyx
+C41.9@Malignant neoplasm of bone and articular cartilage, unsp
+C43.0@Malignant melanoma of lip
+C43.10@Malignant melanoma of unspecified eyelid, including canthus
+C43.11@Malignant melanoma of right eyelid, including canthus
+C43.12@Malignant melanoma of left eyelid, including canthus
+C43.20@Malignant melanoma of unsp ear and external auricular canal
+C43.21@Malignant melanoma of right ear and external auricular canal
+C43.22@Malignant melanoma of left ear and external auricular canal
+C43.30@Malignant melanoma of unspecified part of face
+C43.31@Malignant melanoma of nose
+C43.39@Malignant melanoma of other parts of face
+C43.4@Malignant melanoma of scalp and neck
+C43.51@Malignant melanoma of anal skin
+C43.52@Malignant melanoma of skin of breast
+C43.59@Malignant melanoma of other part of trunk
+C43.60@Malignant melanoma of unsp upper limb, including shoulder
+C43.61@Malignant melanoma of right upper limb, including shoulder
+C43.62@Malignant melanoma of left upper limb, including shoulder
+C43.70@Malignant melanoma of unspecified lower limb, including hip
+C43.71@Malignant melanoma of right lower limb, including hip
+C43.72@Malignant melanoma of left lower limb, including hip
+C43.8@Malignant melanoma of overlapping sites of skin
+C43.9@Malignant melanoma of skin, unspecified
+C4A.0@Merkel cell carcinoma of lip
+C4A.10@Merkel cell carcinoma of unsp eyelid, including canthus
+C4A.11@Merkel cell carcinoma of right eyelid, including canthus
+C4A.12@Merkel cell carcinoma of left eyelid, including canthus
+C4A.20@Merkel cell carcinoma of unsp ear and external auric canal
+C4A.21@Merkel cell carcinoma of right ear and external auric canal
+C4A.22@Merkel cell carcinoma of left ear and external auric canal
+C4A.30@Merkel cell carcinoma of unspecified part of face
+C4A.31@Merkel cell carcinoma of nose
+C4A.39@Merkel cell carcinoma of other parts of face
+C4A.4@Merkel cell carcinoma of scalp and neck
+C4A.51@Merkel cell carcinoma of anal skin
+C4A.52@Merkel cell carcinoma of skin of breast
+C4A.59@Merkel cell carcinoma of other part of trunk
+C4A.60@Merkel cell carcinoma of unsp upper limb, including shoulder
+C4A.61@Merkel cell carcinoma of right upper limb, inc shoulder
+C4A.62@Merkel cell carcinoma of left upper limb, including shoulder
+C4A.70@Merkel cell carcinoma of unsp lower limb, including hip
+C4A.71@Merkel cell carcinoma of right lower limb, including hip
+C4A.72@Merkel cell carcinoma of left lower limb, including hip
+C4A.8@Merkel cell carcinoma of overlapping sites
+C4A.9@Merkel cell carcinoma, unspecified
+C44.00@Unspecified malignant neoplasm of skin of lip
+C44.01@Basal cell carcinoma of skin of lip
+C44.02@Squamous cell carcinoma of skin of lip
+C44.09@Other specified malignant neoplasm of skin of lip
+C44.101@Unsp malignant neoplasm skin/ unsp eyelid, including canthus
+C44.102@Unsp malignant neoplasm skin/ right eyelid, inc canthus
+C44.109@Unsp malignant neoplasm skin/ left eyelid, including canthus
+C44.111@Basal cell carcinoma skin/ unsp eyelid, including canthus
+C44.112@Basal cell carcinoma skin/ right eyelid, including canthus
+C44.119@Basal cell carcinoma skin/ left eyelid, including canthus
+C44.121@Squamous cell carcinoma skin/ unsp eyelid, including canthus
+C44.122@Squamous cell carcinoma skin/ right eyelid, inc canthus
+C44.129@Squamous cell carcinoma skin/ left eyelid, including canthus
+C44.191@Oth malignant neoplasm skin/ unsp eyelid, including canthus
+C44.192@Oth malignant neoplasm skin/ right eyelid, including canthus
+C44.199@Oth malignant neoplasm skin/ left eyelid, including canthus
+C44.201@Unsp malig neoplasm skin/ unsp ear and external auric canal
+C44.202@Unsp malig neoplasm skin/ right ear and external auric canal
+C44.209@Unsp malig neoplasm skin/ left ear and external auric canal
+C44.211@Basal cell carcinoma skin/ unsp ear and external auric canal
+C44.212@Basal cell carcinoma skin/ r ear and external auric canal
+C44.219@Basal cell carcinoma skin/ left ear and external auric canal
+C44.221@Squamous cell carcinoma skin/ unsp ear and extrn auric canal
+C44.222@Squamous cell carcinoma skin/ r ear and external auric canal
+C44.229@Squamous cell carcinoma skin/ left ear and extrn auric canal
+C44.291@Oth malig neoplasm skin/ unsp ear and external auric canal
+C44.292@Oth malig neoplasm skin/ right ear and external auric canal
+C44.299@Oth malig neoplasm skin/ left ear and external auric canal
+C44.300@Unsp malignant neoplasm of skin of unspecified part of face
+C44.301@Unspecified malignant neoplasm of skin of nose
+C44.309@Unsp malignant neoplasm of skin of other parts of face
+C44.310@Basal cell carcinoma of skin of unspecified parts of face
+C44.311@Basal cell carcinoma of skin of nose
+C44.319@Basal cell carcinoma of skin of other parts of face
+C44.320@Squamous cell carcinoma of skin of unspecified parts of face
+C44.321@Squamous cell carcinoma of skin of nose
+C44.329@Squamous cell carcinoma of skin of other parts of face
+C44.390@Oth malignant neoplasm of skin of unspecified parts of face
+C44.391@Other specified malignant neoplasm of skin of nose
+C44.399@Oth malignant neoplasm of skin of other parts of face
+C44.40@Unspecified malignant neoplasm of skin of scalp and neck
+C44.41@Basal cell carcinoma of skin of scalp and neck
+C44.42@Squamous cell carcinoma of skin of scalp and neck
+C44.49@Other specified malignant neoplasm of skin of scalp and neck
+C44.500@Unspecified malignant neoplasm of anal skin
+C44.501@Unspecified malignant neoplasm of skin of breast
+C44.509@Unsp malignant neoplasm of skin of other part of trunk
+C44.510@Basal cell carcinoma of anal skin
+C44.511@Basal cell carcinoma of skin of breast
+C44.519@Basal cell carcinoma of skin of other part of trunk
+C44.520@Squamous cell carcinoma of anal skin
+C44.521@Squamous cell carcinoma of skin of breast
+C44.529@Squamous cell carcinoma of skin of other part of trunk
+C44.590@Other specified malignant neoplasm of anal skin
+C44.591@Other specified malignant neoplasm of skin of breast
+C44.599@Oth malignant neoplasm of skin of other part of trunk
+C44.601@Unsp malignant neoplasm skin/ unsp upper limb, inc shoulder
+C44.602@Unsp malignant neoplasm skin/ right upper limb, inc shoulder
+C44.609@Unsp malignant neoplasm skin/ left upper limb, inc shoulder
+C44.611@Basal cell carcinoma skin/ unsp upper limb, inc shoulder
+C44.612@Basal cell carcinoma skin/ right upper limb, inc shoulder
+C44.619@Basal cell carcinoma skin/ left upper limb, inc shoulder
+C44.621@Squamous cell carcinoma skin/ unsp upper limb, inc shoulder
+C44.622@Squamous cell carcinoma skin/ right upper limb, inc shoulder
+C44.629@Squamous cell carcinoma skin/ left upper limb, inc shoulder
+C44.691@Oth malignant neoplasm skin/ unsp upper limb, inc shoulder
+C44.692@Oth malignant neoplasm skin/ right upper limb, inc shoulder
+C44.699@Oth malignant neoplasm skin/ left upper limb, inc shoulder
+C44.701@Unsp malignant neoplasm skin/ unsp lower limb, including hip
+C44.702@Unsp malignant neoplasm skin/ right lower limb, inc hip
+C44.709@Unsp malignant neoplasm skin/ left lower limb, including hip
+C44.711@Basal cell carcinoma skin/ unsp lower limb, including hip
+C44.712@Basal cell carcinoma skin/ right lower limb, including hip
+C44.719@Basal cell carcinoma skin/ left lower limb, including hip
+C44.721@Squamous cell carcinoma skin/ unsp lower limb, including hip
+C44.722@Squamous cell carcinoma skin/ right lower limb, inc hip
+C44.729@Squamous cell carcinoma skin/ left lower limb, including hip
+C44.791@Oth malignant neoplasm skin/ unsp lower limb, including hip
+C44.792@Oth malignant neoplasm skin/ right lower limb, including hip
+C44.799@Oth malignant neoplasm skin/ left lower limb, including hip
+C44.80@Unspecified malignant neoplasm of overlapping sites of skin
+C44.81@Basal cell carcinoma of overlapping sites of skin
+C44.82@Squamous cell carcinoma of overlapping sites of skin
+C44.89@Oth malignant neoplasm of overlapping sites of skin
+C44.90@Unspecified malignant neoplasm of skin, unspecified
+C44.91@Basal cell carcinoma of skin, unspecified
+C44.92@Squamous cell carcinoma of skin, unspecified
+C44.99@Other specified malignant neoplasm of skin, unspecified
+C45.0@Mesothelioma of pleura
+C45.1@Mesothelioma of peritoneum
+C45.2@Mesothelioma of pericardium
+C45.7@Mesothelioma of other sites
+C45.9@Mesothelioma, unspecified
+C46.0@Kaposi's sarcoma of skin
+C46.1@Kaposi's sarcoma of soft tissue
+C46.2@Kaposi's sarcoma of palate
+C46.3@Kaposi's sarcoma of lymph nodes
+C46.4@Kaposi's sarcoma of gastrointestinal sites
+C46.50@Kaposi's sarcoma of unspecified lung
+C46.51@Kaposi's sarcoma of right lung
+C46.52@Kaposi's sarcoma of left lung
+C46.7@Kaposi's sarcoma of other sites
+C46.9@Kaposi's sarcoma, unspecified
+C47.0@Malignant neoplasm of prph nerves of head, face and neck
+C47.10@Malig neoplm of prph nerves of unsp upper limb, inc shoulder
+C47.11@Malig neoplm of prph nerves of right upper limb, inc shldr
+C47.12@Malig neoplm of prph nerves of left upper limb, inc shoulder
+C47.20@Malig neoplasm of prph nerves of unsp lower limb, inc hip
+C47.21@Malig neoplasm of prph nerves of right lower limb, inc hip
+C47.22@Malig neoplasm of prph nerves of left lower limb, inc hip
+C47.3@Malignant neoplasm of peripheral nerves of thorax
+C47.4@Malignant neoplasm of peripheral nerves of abdomen
+C47.5@Malignant neoplasm of peripheral nerves of pelvis
+C47.6@Malignant neoplasm of peripheral nerves of trunk, unsp
+C47.8@Malig neoplm of ovrlp sites of prph nrv and autonm nrv sys
+C47.9@Malig neoplasm of prph nerves and autonm nervous sys, unsp
+C48.0@Malignant neoplasm of retroperitoneum
+C48.1@Malignant neoplasm of specified parts of peritoneum
+C48.2@Malignant neoplasm of peritoneum, unspecified
+C48.8@Malig neoplasm of ovrlp sites of retroperiton and peritoneum
+C49.0@Malig neoplm of conn and soft tissue of head, face and neck
+C49.10@Malig neoplm of conn & soft tiss of unsp upr lmb, inc shldr
+C49.11@Malig neoplm of conn and soft tiss of r upr limb, inc shldr
+C49.12@Malig neoplm of conn and soft tiss of l upr limb, inc shldr
+C49.20@Malig neoplm of conn and soft tiss of unsp low limb, inc hip
+C49.21@Malig neoplm of conn and soft tiss of r low limb, inc hip
+C49.22@Malig neoplm of conn and soft tiss of left low limb, inc hip
+C49.3@Malignant neoplasm of connective and soft tissue of thorax
+C49.4@Malignant neoplasm of connective and soft tissue of abdomen
+C49.5@Malignant neoplasm of connective and soft tissue of pelvis
+C49.6@Malignant neoplasm of conn and soft tissue of trunk, unsp
+C49.8@Malignant neoplasm of ovrlp sites of conn and soft tissue
+C49.9@Malignant neoplasm of connective and soft tissue, unsp
+#
+C50.011@Malignant neoplasm of nipple and areola, right female breast
+C50.012@Malignant neoplasm of nipple and areola, left female breast
+C50.019@Malignant neoplasm of nipple and areola, unsp female breast
+C50.021@Malignant neoplasm of nipple and areola, right male breast
+C50.022@Malignant neoplasm of nipple and areola, left male breast
+C50.029@Malignant neoplasm of nipple and areola, unsp male breast
+C50.111@Malignant neoplasm of central portion of right female breast
+C50.112@Malignant neoplasm of central portion of left female breast
+C50.119@Malignant neoplasm of central portion of unsp female breast
+C50.121@Malignant neoplasm of central portion of right male breast
+C50.122@Malignant neoplasm of central portion of left male breast
+C50.129@Malignant neoplasm of central portion of unsp male breast
+C50.211@Malig neoplm of upper-inner quadrant of right female breast
+C50.212@Malig neoplasm of upper-inner quadrant of left female breast
+C50.219@Malig neoplasm of upper-inner quadrant of unsp female breast
+C50.221@Malig neoplasm of upper-inner quadrant of right male breast
+C50.222@Malig neoplasm of upper-inner quadrant of left male breast
+C50.229@Malig neoplasm of upper-inner quadrant of unsp male breast
+C50.311@Malig neoplm of lower-inner quadrant of right female breast
+C50.312@Malig neoplasm of lower-inner quadrant of left female breast
+C50.319@Malig neoplasm of lower-inner quadrant of unsp female breast
+C50.321@Malig neoplasm of lower-inner quadrant of right male breast
+C50.322@Malig neoplasm of lower-inner quadrant of left male breast
+C50.329@Malig neoplasm of lower-inner quadrant of unsp male breast
+C50.411@Malig neoplm of upper-outer quadrant of right female breast
+C50.412@Malig neoplasm of upper-outer quadrant of left female breast
+C50.419@Malig neoplasm of upper-outer quadrant of unsp female breast
+C50.421@Malig neoplasm of upper-outer quadrant of right male breast
+C50.422@Malig neoplasm of upper-outer quadrant of left male breast
+C50.429@Malig neoplasm of upper-outer quadrant of unsp male breast
+C50.511@Malig neoplm of lower-outer quadrant of right female breast
+C50.512@Malig neoplasm of lower-outer quadrant of left female breast
+C50.519@Malig neoplasm of lower-outer quadrant of unsp female breast
+C50.521@Malig neoplasm of lower-outer quadrant of right male breast
+C50.522@Malig neoplasm of lower-outer quadrant of left male breast
+C50.529@Malig neoplasm of lower-outer quadrant of unsp male breast
+C50.611@Malignant neoplasm of axillary tail of right female breast
+C50.612@Malignant neoplasm of axillary tail of left female breast
+C50.619@Malignant neoplasm of axillary tail of unsp female breast
+C50.621@Malignant neoplasm of axillary tail of right male breast
+C50.622@Malignant neoplasm of axillary tail of left male breast
+C50.629@Malignant neoplasm of axillary tail of unsp male breast
+C50.811@Malignant neoplasm of ovrlp sites of right female breast
+C50.812@Malignant neoplasm of ovrlp sites of left female breast
+C50.819@Malignant neoplasm of ovrlp sites of unsp female breast
+C50.821@Malignant neoplasm of overlapping sites of right male breast
+C50.822@Malignant neoplasm of overlapping sites of left male breast
+C50.829@Malignant neoplasm of overlapping sites of unsp male breast
+C50.911@Malignant neoplasm of unsp site of right female breast
+C50.912@Malignant neoplasm of unspecified site of left female breast
+C50.919@Malignant neoplasm of unsp site of unspecified female breast
+C50.921@Malignant neoplasm of unspecified site of right male breast
+C50.922@Malignant neoplasm of unspecified site of left male breast
+C50.929@Malignant neoplasm of unsp site of unspecified male breast
+#
+C51.0@Malignant neoplasm of labium majus
+C51.1@Malignant neoplasm of labium minus
+C51.2@Malignant neoplasm of clitoris
+C51.8@Malignant neoplasm of overlapping sites of vulva
+C51.9@Malignant neoplasm of vulva, unspecified
+#
+C52.@Malignant neoplasm of vagina
+#
+C53.0@Malignant neoplasm of endocervix
+C53.1@Malignant neoplasm of exocervix
+C53.8@Malignant neoplasm of overlapping sites of cervix uteri
+C53.9@Malignant neoplasm of cervix uteri, unspecified
+#
+C54.0@Malignant neoplasm of isthmus uteri
+C54.1@Malignant neoplasm of endometrium
+C54.2@Malignant neoplasm of myometrium
+C54.3@Malignant neoplasm of fundus uteri
+C54.8@Malignant neoplasm of overlapping sites of corpus uteri
+C54.9@Malignant neoplasm of corpus uteri, unspecified
+#
+C55.@Malignant neoplasm of uterus, part unspecified
+#
+C56.1@Malignant neoplasm of right ovary
+C56.2@Malignant neoplasm of left ovary
+C56.9@Malignant neoplasm of unspecified ovary
+#
+C57.00@Malignant neoplasm of unspecified fallopian tube
+C57.01@Malignant neoplasm of right fallopian tube
+C57.02@Malignant neoplasm of left fallopian tube
+C57.10@Malignant neoplasm of unspecified broad ligament
+C57.11@Malignant neoplasm of right broad ligament
+C57.12@Malignant neoplasm of left broad ligament
+C57.20@Malignant neoplasm of unspecified round ligament
+C57.21@Malignant neoplasm of right round ligament
+C57.22@Malignant neoplasm of left round ligament
+C57.3@Malignant neoplasm of parametrium
+C57.4@Malignant neoplasm of uterine adnexa, unspecified
+C57.7@Malignant neoplasm of other specified female genital organs
+C57.8@Malignant neoplasm of ovrlp sites of female genital organs
+C57.9@Malignant neoplasm of female genital organ, unspecified
+#
+C58.@Malignant neoplasm of placenta
+#
+C60.0@Malignant neoplasm of prepuce
+C60.1@Malignant neoplasm of glans penis
+C60.2@Malignant neoplasm of body of penis
+C60.8@Malignant neoplasm of overlapping sites of penis
+C60.9@Malignant neoplasm of penis, unspecified
+#
+C61.@Malignant neoplasm of prostate
+#
+C62.00@Malignant neoplasm of unspecified undescended testis
+C62.01@Malignant neoplasm of undescended right testis
+C62.02@Malignant neoplasm of undescended left testis
+C62.10@Malignant neoplasm of unspecified descended testis
+C62.11@Malignant neoplasm of descended right testis
+C62.12@Malignant neoplasm of descended left testis
+C62.90@Malig neoplasm of unsp testis, unsp descended or undescended
+C62.91@Malig neoplm of right testis, unsp descended or undescended
+C62.92@Malig neoplasm of left testis, unsp descended or undescended
+#
+C63.00@Malignant neoplasm of unspecified epididymis
+C63.01@Malignant neoplasm of right epididymis
+C63.02@Malignant neoplasm of left epididymis
+C63.10@Malignant neoplasm of unspecified spermatic cord
+C63.11@Malignant neoplasm of right spermatic cord
+C63.12@Malignant neoplasm of left spermatic cord
+C63.2@Malignant neoplasm of scrotum
+C63.7@Malignant neoplasm of other specified male genital organs
+C63.8@Malignant neoplasm of ovrlp sites of male genital organs
+C63.9@Malignant neoplasm of male genital organ, unspecified
+#
+C64.1@Malignant neoplasm of right kidney, except renal pelvis
+C64.2@Malignant neoplasm of left kidney, except renal pelvis
+C64.9@Malignant neoplasm of unsp kidney, except renal pelvis
+#
+C65.1@Malignant neoplasm of right renal pelvis
+C65.2@Malignant neoplasm of left renal pelvis
+C65.9@Malignant neoplasm of unspecified renal pelvis
+#
+C66.1@Malignant neoplasm of right ureter
+C66.2@Malignant neoplasm of left ureter
+C66.9@Malignant neoplasm of unspecified ureter
+#
+C67.0@Malignant neoplasm of trigone of bladder
+C67.1@Malignant neoplasm of dome of bladder
+C67.2@Malignant neoplasm of lateral wall of bladder
+C67.3@Malignant neoplasm of anterior wall of bladder
+C67.4@Malignant neoplasm of posterior wall of bladder
+C67.5@Malignant neoplasm of bladder neck
+C67.6@Malignant neoplasm of ureteric orifice
+C67.7@Malignant neoplasm of urachus
+C67.8@Malignant neoplasm of overlapping sites of bladder
+C67.9@Malignant neoplasm of bladder, unspecified
+#
+C68.0@Malignant neoplasm of urethra
+C68.1@Malignant neoplasm of paraurethral glands
+C68.8@Malignant neoplasm of overlapping sites of urinary organs
+C68.9@Malignant neoplasm of urinary organ, unspecified
+#
+C69.00@Malignant neoplasm of unspecified conjunctiva
+C69.01@Malignant neoplasm of right conjunctiva
+C69.02@Malignant neoplasm of left conjunctiva
+C69.10@Malignant neoplasm of unspecified cornea
+C69.11@Malignant neoplasm of right cornea
+C69.12@Malignant neoplasm of left cornea
+C69.20@Malignant neoplasm of unspecified retina
+C69.21@Malignant neoplasm of right retina
+C69.22@Malignant neoplasm of left retina
+C69.30@Malignant neoplasm of unspecified choroid
+C69.31@Malignant neoplasm of right choroid
+C69.32@Malignant neoplasm of left choroid
+C69.40@Malignant neoplasm of unspecified ciliary body
+C69.41@Malignant neoplasm of right ciliary body
+C69.42@Malignant neoplasm of left ciliary body
+C69.50@Malignant neoplasm of unspecified lacrimal gland and duct
+C69.51@Malignant neoplasm of right lacrimal gland and duct
+C69.52@Malignant neoplasm of left lacrimal gland and duct
+C69.60@Malignant neoplasm of unspecified orbit
+C69.61@Malignant neoplasm of right orbit
+C69.62@Malignant neoplasm of left orbit
+C69.80@Malignant neoplasm of ovrlp sites of unsp eye and adnexa
+C69.81@Malignant neoplasm of ovrlp sites of right eye and adnexa
+C69.82@Malignant neoplasm of ovrlp sites of left eye and adnexa
+C69.90@Malignant neoplasm of unspecified site of unspecified eye
+C69.91@Malignant neoplasm of unspecified site of right eye
+C69.92@Malignant neoplasm of unspecified site of left eye
+#
+C70.0@Malignant neoplasm of cerebral meninges
+C70.1@Malignant neoplasm of spinal meninges
+C70.9@Malignant neoplasm of meninges, unspecified
+#
+C71.0@Malignant neoplasm of cerebrum, except lobes and ventricles
+C71.1@Malignant neoplasm of frontal lobe
+C71.2@Malignant neoplasm of temporal lobe
+C71.3@Malignant neoplasm of parietal lobe
+C71.4@Malignant neoplasm of occipital lobe
+C71.5@Malignant neoplasm of cerebral ventricle
+C71.6@Malignant neoplasm of cerebellum
+C71.7@Malignant neoplasm of brain stem
+C71.8@Malignant neoplasm of overlapping sites of brain
+C71.9@Malignant neoplasm of brain, unspecified
+#
+C72.0@Malignant neoplasm of spinal cord
+C72.1@Malignant neoplasm of cauda equina
+C72.20@Malignant neoplasm of unspecified olfactory nerve
+C72.21@Malignant neoplasm of right olfactory nerve
+C72.22@Malignant neoplasm of left olfactory nerve
+C72.30@Malignant neoplasm of unspecified optic nerve
+C72.31@Malignant neoplasm of right optic nerve
+C72.32@Malignant neoplasm of left optic nerve
+C72.40@Malignant neoplasm of unspecified acoustic nerve
+C72.41@Malignant neoplasm of right acoustic nerve
+C72.42@Malignant neoplasm of left acoustic nerve
+C72.50@Malignant neoplasm of unspecified cranial nerve
+C72.59@Malignant neoplasm of other cranial nerves
+C72.9@Malignant neoplasm of central nervous system, unspecified
+#
+C73.@Malignant neoplasm of thyroid gland
+#
+C74.00@Malignant neoplasm of cortex of unspecified adrenal gland
+C74.01@Malignant neoplasm of cortex of right adrenal gland
+C74.02@Malignant neoplasm of cortex of left adrenal gland
+C74.10@Malignant neoplasm of medulla of unspecified adrenal gland
+C74.11@Malignant neoplasm of medulla of right adrenal gland
+C74.12@Malignant neoplasm of medulla of left adrenal gland
+C74.90@Malignant neoplasm of unsp part of unspecified adrenal gland
+C74.91@Malignant neoplasm of unsp part of right adrenal gland
+C74.92@Malignant neoplasm of unspecified part of left adrenal gland
+#
+C75.0@Malignant neoplasm of parathyroid gland
+C75.1@Malignant neoplasm of pituitary gland
+C75.2@Malignant neoplasm of craniopharyngeal duct
+C75.3@Malignant neoplasm of pineal gland
+C75.4@Malignant neoplasm of carotid body
+C75.5@Malignant neoplasm of aortic body and other paraganglia
+C75.8@Malignant neoplasm with pluriglandular involvement, unsp
+C75.9@Malignant neoplasm of endocrine gland, unspecified
+#
+C7A.00@Malignant carcinoid tumor of unspecified site
+C7A.010@Malignant carcinoid tumor of the duodenum
+C7A.011@Malignant carcinoid tumor of the jejunum
+C7A.012@Malignant carcinoid tumor of the ileum
+C7A.019@Malignant carcinoid tumor of the sm int, unsp portion
+C7A.020@Malignant carcinoid tumor of the appendix
+C7A.021@Malignant carcinoid tumor of the cecum
+C7A.022@Malignant carcinoid tumor of the ascending colon
+C7A.023@Malignant carcinoid tumor of the transverse colon
+C7A.024@Malignant carcinoid tumor of the descending colon
+C7A.025@Malignant carcinoid tumor of the sigmoid colon
+C7A.026@Malignant carcinoid tumor of the rectum
+C7A.029@Malignant carcinoid tumor of the lg int, unsp portion
+C7A.090@Malignant carcinoid tumor of the bronchus and lung
+C7A.091@Malignant carcinoid tumor of the thymus
+C7A.092@Malignant carcinoid tumor of the stomach
+C7A.093@Malignant carcinoid tumor of the kidney
+C7A.094@Malignant carcinoid tumor of the foregut NOS
+C7A.095@Malignant carcinoid tumor of the midgut NOS
+C7A.096@Malignant carcinoid tumor of the hindgut NOS
+C7A.098@Malignant carcinoid tumors of other sites
+C7A.1@Malignant poorly differentiated neuroendocrine tumors
+C7A.8@Other malignant neuroendocrine tumors
+#
+C7B.00@Secondary carcinoid tumors, unspecified site
+C7B.01@Secondary carcinoid tumors of distant lymph nodes
+C7B.02@Secondary carcinoid tumors of liver
+C7B.03@Secondary carcinoid tumors of bone
+C7B.04@Secondary carcinoid tumors of peritoneum
+C7B.09@Secondary carcinoid tumors of other sites
+C7B.1@Secondary Merkel cell carcinoma
+C7B.8@Other secondary neuroendocrine tumors
+#
+C76.0@Malignant neoplasm of head, face and neck
+C76.1@Malignant neoplasm of thorax
+C76.2@Malignant neoplasm of abdomen
+C76.3@Malignant neoplasm of pelvis
+C76.40@Malignant neoplasm of unspecified upper limb
+C76.41@Malignant neoplasm of right upper limb
+C76.42@Malignant neoplasm of left upper limb
+C76.50@Malignant neoplasm of unspecified lower limb
+C76.51@Malignant neoplasm of right lower limb
+C76.52@Malignant neoplasm of left lower limb
+C76.8@Malignant neoplasm of other specified ill-defined sites
+#
+C77.0@Sec and unsp malig neoplasm of nodes of head, face and neck
+C77.1@Secondary and unsp malignant neoplasm of intrathorac nodes
+C77.2@Secondary and unsp malignant neoplasm of intra-abd nodes
+C77.3@Sec and unsp malig neoplasm of axilla and upper limb nodes
+C77.4@Sec and unsp malig neoplasm of inguinal and lower limb nodes
+C77.5@Secondary and unsp malignant neoplasm of intrapelv nodes
+C77.8@Sec and unsp malig neoplasm of nodes of multiple regions
+C77.9@Secondary and unsp malignant neoplasm of lymph node, unsp
+#
+C78.00@Secondary malignant neoplasm of unspecified lung
+C78.01@Secondary malignant neoplasm of right lung
+C78.02@Secondary malignant neoplasm of left lung
+C78.1@Secondary malignant neoplasm of mediastinum
+C78.2@Secondary malignant neoplasm of pleura
+C78.30@Secondary malignant neoplasm of unsp respiratory organ
+C78.39@Secondary malignant neoplasm of other respiratory organs
+C78.4@Secondary malignant neoplasm of small intestine
+C78.5@Secondary malignant neoplasm of large intestine and rectum
+C78.6@Secondary malignant neoplasm of retroperiton and peritoneum
+C78.7@Secondary malig neoplasm of liver and intrahepatic bile duct
+C78.80@Secondary malignant neoplasm of unspecified digestive organ
+C78.89@Secondary malignant neoplasm of other digestive organs
+#
+C79.00@Secondary malignant neoplasm of unsp kidney and renal pelvis
+C79.01@Secondary malignant neoplasm of r kidney and renal pelvis
+C79.02@Secondary malignant neoplasm of left kidney and renal pelvis
+C79.10@Secondary malignant neoplasm of unspecified urinary organs
+C79.11@Secondary malignant neoplasm of bladder
+C79.19@Secondary malignant neoplasm of other urinary organs
+C79.2@Secondary malignant neoplasm of skin
+C79.31@Secondary malignant neoplasm of brain
+C79.32@Secondary malignant neoplasm of cerebral meninges
+C79.40@Secondary malignant neoplasm of unsp part of nervous system
+C79.49@Secondary malignant neoplasm of oth parts of nervous system
+C79.51@Secondary malignant neoplasm of bone
+C79.52@Secondary malignant neoplasm of bone marrow
+C79.60@Secondary malignant neoplasm of unspecified ovary
+C79.61@Secondary malignant neoplasm of right ovary
+C79.62@Secondary malignant neoplasm of left ovary
+C79.70@Secondary malignant neoplasm of unspecified adrenal gland
+C79.71@Secondary malignant neoplasm of right adrenal gland
+C79.72@Secondary malignant neoplasm of left adrenal gland
+C79.81@Secondary malignant neoplasm of breast
+C79.82@Secondary malignant neoplasm of genital organs
+C79.89@Secondary malignant neoplasm of other specified sites
+C79.9@Secondary malignant neoplasm of unspecified site
+#
+C80.0@Disseminated malignant neoplasm, unspecified
+C80.1@Malignant (primary) neoplasm, unspecified
+C80.2@Malignant neoplasm associated with transplanted organ
+#
+C81.00@Nodular lymphocyte predominant Hodgkin lymphoma, unsp site
+C81.01@Nodlr lymphocy predom Hdgkn lymph, nodes of head, face, & nk
+C81.02@Nodular lymphocy predom Hodgkin lymphoma, intrathorac nodes
+C81.03@Nodular lymphocyte predom Hodgkin lymphoma, intra-abd nodes
+C81.04@Nodlr lymphocy predom Hdgkn lymph, nodes of axla and upr lmb
+C81.05@Nodlr lymphocy predom Hdgkn lymph,nodes of ing rgn & low lmb
+C81.06@Nodular lymphocyte predom Hodgkin lymphoma, intrapelv nodes
+C81.07@Nodular lymphocyte predominant Hodgkin lymphoma, spleen
+C81.08@Nodular lymphocyte predom Hodgkin lymphoma, nodes mult site
+C81.09@Nodlr lymphocy predom Hdgkn lymph, extrnod & solid org site
+C81.10@Nodular sclerosis classical Hodgkin lymphoma, unsp site
+C81.11@Nodlr scler class Hdgkn lymph, nodes of head, face, and neck
+C81.12@Nodular sclerosis class Hodgkin lymphoma, intrathorac nodes
+C81.13@Nodular sclerosis class Hodgkin lymphoma, intra-abd nodes
+C81.14@Nodlr scler class Hdgkn lymph, nodes of axla and upper limb
+C81.15@Nodlr scler class Hdgkn lymph, nodes of ing rgn and low limb
+C81.16@Nodular sclerosis class Hodgkin lymphoma, intrapelv nodes
+C81.17@Nodular sclerosis classical Hodgkin lymphoma, spleen
+C81.18@Nodular sclerosis class Hodgkin lymphoma, nodes mult site
+C81.19@Nodlr scler class Hdgkn lymph, extrnod and solid organ sites
+C81.20@Mixed cellularity classical Hodgkin lymphoma, unsp site
+C81.21@Mix cellular class Hdgkn lymph, nodes of head, face, and nk
+C81.22@Mixed cellular classical Hodgkin lymphoma, intrathorac nodes
+C81.23@Mixed cellular classical Hodgkin lymphoma, intra-abd nodes
+C81.24@Mix cellular class Hdgkn lymph, nodes of axla and upper limb
+C81.25@Mix cellular class Hdgkn lymph, nodes of ing rgn and low lmb
+C81.26@Mixed cellular classical Hodgkin lymphoma, intrapelv nodes
+C81.27@Mixed cellularity classical Hodgkin lymphoma, spleen
+C81.28@Mixed cellular classical Hodgkin lymphoma, nodes mult site
+C81.29@Mix cellular class Hdgkn lymph, extrnod and solid org sites
+C81.30@Lymphocyte depleted classical Hodgkin lymphoma, unsp site
+C81.31@Lymphocy deplet class Hdgkn lymph, nodes of head, face, & nk
+C81.32@Lymphocy depleted class Hodgkin lymphoma, intrathorac nodes
+C81.33@Lymphocy depleted class Hodgkin lymphoma, intra-abd nodes
+C81.34@Lymphocy deplet class Hdgkn lymph, nodes of axla and upr lmb
+C81.35@Lymphocy deplet class Hdgkn lymph,nodes of ing rgn & low lmb
+C81.36@Lymphocy depleted class Hodgkin lymphoma, intrapelv nodes
+C81.37@Lymphocyte depleted classical Hodgkin lymphoma, spleen
+C81.38@Lymphocy depleted class Hodgkin lymphoma, nodes mult site
+C81.39@Lymphocy deplet class Hdgkn lymph, extrnod & solid org site
+C81.40@Lymphocyte-rich classical Hodgkin lymphoma, unspecified site
+C81.41@Lymp-rich class Hodgkin lymph, nodes of head, face, and neck
+C81.42@Lymp-rich classical Hodgkin lymphoma, intrathorac nodes
+C81.43@Lymp-rich classical Hodgkin lymphoma, intra-abd lymph nodes
+C81.44@Lymp-rich class Hdgkn lymph, nodes of axilla and upper limb
+C81.45@Lymp-rich class Hdgkn lymph, nodes of ing rgn and lower limb
+C81.46@Lymp-rich classical Hodgkin lymphoma, intrapelv lymph nodes
+C81.47@Lymphocyte-rich classical Hodgkin lymphoma, spleen
+C81.48@Lymp-rich classical Hodgkin lymphoma, lymph nodes mult site
+C81.49@Lymp-rich class Hodgkin lymph, extrnod and solid organ sites
+C81.70@Other classical Hodgkin lymphoma, unspecified site
+C81.71@Oth class Hodgkin lymphoma, nodes of head, face, and neck
+C81.72@Other classical Hodgkin lymphoma, intrathoracic lymph nodes
+C81.73@Oth classical Hodgkin lymphoma, intra-abdominal lymph nodes
+C81.74@Oth class Hodgkin lymphoma, nodes of axilla and upper limb
+C81.75@Oth class Hodgkin lymph, nodes of ing region and lower limb
+C81.76@Other classical Hodgkin lymphoma, intrapelvic lymph nodes
+C81.77@Other classical Hodgkin lymphoma, spleen
+C81.78@Oth classical Hodgkin lymphoma, lymph nodes mult site
+C81.79@Oth class Hodgkin lymphoma, extrnod and solid organ sites
+C81.90@Hodgkin lymphoma, unspecified, unspecified site
+C81.91@Hodgkin lymphoma, unsp, lymph nodes of head, face, and neck
+C81.92@Hodgkin lymphoma, unspecified, intrathoracic lymph nodes
+C81.93@Hodgkin lymphoma, unspecified, intra-abdominal lymph nodes
+C81.94@Hodgkin lymphoma, unsp, lymph nodes of axilla and upper limb
+C81.95@Hodgkin lymphoma, unsp, nodes of ing region and lower limb
+C81.96@Hodgkin lymphoma, unspecified, intrapelvic lymph nodes
+C81.97@Hodgkin lymphoma, unspecified, spleen
+C81.98@Hodgkin lymphoma, unspecified, lymph nodes of multiple sites
+C81.99@Hodgkin lymphoma, unsp, extranodal and solid organ sites
+#
+C82.00@Follicular lymphoma grade I, unspecified site
+C82.01@Follicular lymphoma grade I, nodes of head, face, and neck
+C82.02@Follicular lymphoma grade I, intrathoracic lymph nodes
+C82.03@Follicular lymphoma grade I, intra-abdominal lymph nodes
+C82.04@Follicular lymphoma grade I, nodes of axilla and upper limb
+C82.05@Foliclar lymph grade I, nodes of ing region and lower limb
+C82.06@Follicular lymphoma grade I, intrapelvic lymph nodes
+C82.07@Follicular lymphoma grade I, spleen
+C82.08@Follicular lymphoma grade I, lymph nodes of multiple sites
+C82.09@Follicular lymphoma grade I, extrnod and solid organ sites
+C82.10@Follicular lymphoma grade II, unspecified site
+C82.11@Follicular lymphoma grade II, nodes of head, face, and neck
+C82.12@Follicular lymphoma grade II, intrathoracic lymph nodes
+C82.13@Follicular lymphoma grade II, intra-abdominal lymph nodes
+C82.14@Follicular lymphoma grade II, nodes of axilla and upper limb
+C82.15@Foliclar lymph grade II, nodes of ing region and lower limb
+C82.16@Follicular lymphoma grade II, intrapelvic lymph nodes
+C82.17@Follicular lymphoma grade II, spleen
+C82.18@Follicular lymphoma grade II, lymph nodes of multiple sites
+C82.19@Follicular lymphoma grade II, extrnod and solid organ sites
+C82.20@Follicular lymphoma grade III, unspecified, unspecified site
+C82.21@Foliclar lymph grade III, unsp, nodes of head, face, and nk
+C82.22@Follicular lymphoma grade III, unsp, intrathorac lymph nodes
+C82.23@Follicular lymphoma grade III, unsp, intra-abd lymph nodes
+C82.24@Foliclar lymph grade III, unsp, nodes of axla and upper limb
+C82.25@Foliclar lymph grade III, unsp, nodes of ing rgn and low lmb
+C82.26@Follicular lymphoma grade III, unsp, intrapelvic lymph nodes
+C82.27@Follicular lymphoma grade III, unspecified, spleen
+C82.28@Follicular lymphoma grade III, unsp, lymph nodes mult site
+C82.29@Foliclar lymph grade III, unsp, extrnod and solid org sites
+C82.30@Follicular lymphoma grade IIIa, unspecified site
+C82.31@Foliclar lymphoma grade IIIa, nodes of head, face, and neck
+C82.32@Follicular lymphoma grade IIIa, intrathoracic lymph nodes
+C82.33@Follicular lymphoma grade IIIa, intra-abdominal lymph nodes
+C82.34@Foliclar lymphoma grade IIIa, nodes of axilla and upper limb
+C82.35@Foliclar lymph grade IIIa, nodes of ing rgn and lower limb
+C82.36@Follicular lymphoma grade IIIa, intrapelvic lymph nodes
+C82.37@Follicular lymphoma grade IIIa, spleen
+C82.38@Follicular lymphoma grade IIIa, lymph nodes mult site
+C82.39@Foliclar lymphoma grade IIIa, extrnod and solid organ sites
+C82.40@Follicular lymphoma grade IIIb, unspecified site
+C82.41@Foliclar lymphoma grade IIIb, nodes of head, face, and neck
+C82.42@Follicular lymphoma grade IIIb, intrathoracic lymph nodes
+C82.43@Follicular lymphoma grade IIIb, intra-abdominal lymph nodes
+C82.44@Foliclar lymphoma grade IIIb, nodes of axilla and upper limb
+C82.45@Foliclar lymph grade IIIb, nodes of ing rgn and lower limb
+C82.46@Follicular lymphoma grade IIIb, intrapelvic lymph nodes
+C82.47@Follicular lymphoma grade IIIb, spleen
+C82.48@Follicular lymphoma grade IIIb, lymph nodes mult site
+C82.49@Foliclar lymphoma grade IIIb, extrnod and solid organ sites
+C82.50@Diffuse follicle center lymphoma, unspecified site
+C82.51@Diffuse folicl center lymph, nodes of head, face, and neck
+C82.52@Diffuse follicle center lymphoma, intrathoracic lymph nodes
+C82.53@Diffuse follicle center lymphoma, intra-abd lymph nodes
+C82.54@Diffuse folicl center lymph, nodes of axilla and upper limb
+C82.55@Diffus folicl cntr lymph, nodes of ing region and lower limb
+C82.56@Diffuse follicle center lymphoma, intrapelvic lymph nodes
+C82.57@Diffuse follicle center lymphoma, spleen
+C82.58@Diffuse follicle center lymphoma, lymph nodes mult site
+C82.59@Diffuse folicl center lymph, extrnod and solid organ sites
+C82.60@Cutaneous follicle center lymphoma, unspecified site
+C82.61@Cutan folicl center lymphoma, nodes of head, face, and neck
+C82.62@Cutaneous follicle center lymphoma, intrathorac lymph nodes
+C82.63@Cutaneous follicle center lymphoma, intra-abd lymph nodes
+C82.64@Cutan folicl center lymphoma, nodes of axilla and upper limb
+C82.65@Cutan folicl cntr lymph, nodes of ing region and lower limb
+C82.66@Cutaneous follicle center lymphoma, intrapelvic lymph nodes
+C82.67@Cutaneous follicle center lymphoma, spleen
+C82.68@Cutaneous follicle center lymphoma, lymph nodes mult site
+C82.69@Cutan folicl center lymphoma, extrnod and solid organ sites
+C82.80@Other types of follicular lymphoma, unspecified site
+C82.81@Oth types of foliclar lymph, nodes of head, face, and neck
+C82.82@Oth types of follicular lymphoma, intrathoracic lymph nodes
+C82.83@Oth types of follicular lymphoma, intra-abd lymph nodes
+C82.84@Oth types of foliclar lymph, nodes of axilla and upper limb
+C82.85@Oth types of foliclar lymph, nodes of ing rgn and lower limb
+C82.86@Other types of follicular lymphoma, intrapelvic lymph nodes
+C82.87@Other types of follicular lymphoma, spleen
+C82.88@Oth types of follicular lymphoma, lymph nodes mult site
+C82.89@Oth types of foliclar lymph, extrnod and solid organ sites
+C82.90@Follicular lymphoma, unspecified, unspecified site
+C82.91@Follicular lymphoma, unsp, nodes of head, face, and neck
+C82.92@Follicular lymphoma, unspecified, intrathoracic lymph nodes
+C82.93@Follicular lymphoma, unsp, intra-abdominal lymph nodes
+C82.94@Follicular lymphoma, unsp, nodes of axilla and upper limb
+C82.95@Foliclar lymphoma, unsp, nodes of ing region and lower limb
+C82.96@Follicular lymphoma, unspecified, intrapelvic lymph nodes
+C82.97@Follicular lymphoma, unspecified, spleen
+C82.98@Follicular lymphoma, unsp, lymph nodes of multiple sites
+C82.99@Follicular lymphoma, unsp, extranodal and solid organ sites
+#
+C83.00@Small cell B-cell lymphoma, unspecified site
+C83.01@Small cell B-cell lymphoma, nodes of head, face, and neck
+C83.02@Small cell B-cell lymphoma, intrathoracic lymph nodes
+C83.03@Small cell B-cell lymphoma, intra-abdominal lymph nodes
+C83.04@Small cell B-cell lymphoma, nodes of axilla and upper limb
+C83.05@Small cell B-cell lymph, nodes of ing region and lower limb
+C83.06@Small cell B-cell lymphoma, intrapelvic lymph nodes
+C83.07@Small cell B-cell lymphoma, spleen
+C83.08@Small cell B-cell lymphoma, lymph nodes of multiple sites
+C83.09@Small cell B-cell lymphoma, extranodal and solid organ sites
+C83.10@Mantle cell lymphoma, unspecified site
+C83.11@Mantle cell lymphoma, lymph nodes of head, face, and neck
+C83.12@Mantle cell lymphoma, intrathoracic lymph nodes
+C83.13@Mantle cell lymphoma, intra-abdominal lymph nodes
+C83.14@Mantle cell lymphoma, lymph nodes of axilla and upper limb
+C83.15@Mantle cell lymphoma, nodes of ing region and lower limb
+C83.16@Mantle cell lymphoma, intrapelvic lymph nodes
+C83.17@Mantle cell lymphoma, spleen
+C83.18@Mantle cell lymphoma, lymph nodes of multiple sites
+C83.19@Mantle cell lymphoma, extranodal and solid organ sites
+C83.30@Diffuse large B-cell lymphoma, unspecified site
+C83.31@Diffuse large B-cell lymphoma, nodes of head, face, and neck
+C83.32@Diffuse large B-cell lymphoma, intrathoracic lymph nodes
+C83.33@Diffuse large B-cell lymphoma, intra-abdominal lymph nodes
+C83.34@Diffuse large B-cell lymph, nodes of axilla and upper limb
+C83.35@Diffus large B-cell lymph, nodes of ing rgn and lower limb
+C83.36@Diffuse large B-cell lymphoma, intrapelvic lymph nodes
+C83.37@Diffuse large B-cell lymphoma, spleen
+C83.38@Diffuse large B-cell lymphoma, lymph nodes of multiple sites
+C83.39@Diffuse large B-cell lymphoma, extrnod and solid organ sites
+C83.50@Lymphoblastic (diffuse) lymphoma, unspecified site
+C83.51@Lymphoblastic lymphoma, nodes of head, face, and neck
+C83.52@Lymphoblastic (diffuse) lymphoma, intrathoracic lymph nodes
+C83.53@Lymphoblastic (diffuse) lymphoma, intra-abd lymph nodes
+C83.54@Lymphoblastic lymphoma, nodes of axilla and upper limb
+C83.55@Lymphoblastic lymphoma, nodes of ing region and lower limb
+C83.56@Lymphoblastic (diffuse) lymphoma, intrapelvic lymph nodes
+C83.57@Lymphoblastic (diffuse) lymphoma, spleen
+C83.58@Lymphoblastic (diffuse) lymphoma, lymph nodes mult site
+C83.59@Lymphoblastic lymphoma, extrnod and solid organ sites
+C83.70@Burkitt lymphoma, unspecified site
+C83.71@Burkitt lymphoma, lymph nodes of head, face, and neck
+C83.72@Burkitt lymphoma, intrathoracic lymph nodes
+C83.73@Burkitt lymphoma, intra-abdominal lymph nodes
+C83.74@Burkitt lymphoma, lymph nodes of axilla and upper limb
+C83.75@Burkitt lymphoma, nodes of inguinal region and lower limb
+C83.76@Burkitt lymphoma, intrapelvic lymph nodes
+C83.77@Burkitt lymphoma, spleen
+C83.78@Burkitt lymphoma, lymph nodes of multiple sites
+C83.79@Burkitt lymphoma, extranodal and solid organ sites
+C83.80@Other non-follicular lymphoma, unspecified site
+C83.81@Oth non-follic lymphoma, lymph nodes of head, face, and neck
+C83.82@Other non-follicular lymphoma, intrathoracic lymph nodes
+C83.83@Other non-follicular lymphoma, intra-abdominal lymph nodes
+C83.84@Oth non-follic lymphoma, nodes of axilla and upper limb
+C83.85@Oth non-follic lymphoma, nodes of ing region and lower limb
+C83.86@Other non-follicular lymphoma, intrapelvic lymph nodes
+C83.87@Other non-follicular lymphoma, spleen
+C83.88@Other non-follicular lymphoma, lymph nodes of multiple sites
+C83.89@Oth non-follic lymphoma, extranodal and solid organ sites
+C83.90@Non-follicular (diffuse) lymphoma, unsp, unspecified site
+C83.91@Non-follic lymphoma, unsp, nodes of head, face, and neck
+C83.92@Non-follic (diffuse) lymphoma, unsp, intrathorac lymph nodes
+C83.93@Non-follic (diffuse) lymphoma, unsp, intra-abd lymph nodes
+C83.94@Non-follic lymphoma, unsp, nodes of axilla and upper limb
+C83.95@Non-follic lymph, unsp, nodes of ing region and lower limb
+C83.96@Non-follic (diffuse) lymphoma, unsp, intrapelvic lymph nodes
+C83.97@Non-follicular (diffuse) lymphoma, unspecified, spleen
+C83.98@Non-follic (diffuse) lymphoma, unsp, lymph nodes mult site
+C83.99@Non-follic lymphoma, unsp, extrnod and solid organ sites
+#
+C84.00@Mycosis fungoides, unspecified site
+C84.01@Mycosis fungoides, lymph nodes of head, face, and neck
+C84.02@Mycosis fungoides, intrathoracic lymph nodes
+C84.03@Mycosis fungoides, intra-abdominal lymph nodes
+C84.04@Mycosis fungoides, lymph nodes of axilla and upper limb
+C84.05@Mycosis fungoides, nodes of inguinal region and lower limb
+C84.06@Mycosis fungoides, intrapelvic lymph nodes
+C84.07@Mycosis fungoides, spleen
+C84.08@Mycosis fungoides, lymph nodes of multiple sites
+C84.09@Mycosis fungoides, extranodal and solid organ sites
+C84.10@Sezary disease, unspecified site
+C84.11@Sezary disease, lymph nodes of head, face, and neck
+C84.12@Sezary disease, intrathoracic lymph nodes
+C84.13@Sezary disease, intra-abdominal lymph nodes
+C84.14@Sezary disease, lymph nodes of axilla and upper limb
+C84.15@Sezary disease, nodes of inguinal region and lower limb
+C84.16@Sezary disease, intrapelvic lymph nodes
+C84.17@Sezary disease, spleen
+C84.18@Sezary disease, lymph nodes of multiple sites
+C84.19@Sezary disease, extranodal and solid organ sites
+C84.40@Peripheral T-cell lymphoma, not classified, unspecified site
+C84.41@Prph T-cell lymph, not class, nodes of head, face, and neck
+C84.42@Peripheral T-cell lymphoma, not class, intrathorac nodes
+C84.43@Peripheral T-cell lymphoma, not classified, intra-abd nodes
+C84.44@Prph T-cell lymph, not class, nodes of axilla and upper limb
+C84.45@Prph T-cell lymph, not class, nodes of ing rgn and low limb
+C84.46@Peripheral T-cell lymphoma, not classified, intrapelv nodes
+C84.47@Peripheral T-cell lymphoma, not classified, spleen
+C84.48@Peripheral T-cell lymphoma, not classified, nodes mult site
+C84.49@Prph T-cell lymph, not class, extrnod and solid organ sites
+C84.60@Anaplastic large cell lymphoma, ALK-positive, unsp site
+C84.61@Anaplstc lg cell lymph, ALK-pos, nodes of head, face, and nk
+C84.62@Anaplastic large cell lymphoma, ALK-pos, intrathorac nodes
+C84.63@Anaplastic large cell lymphoma, ALK-pos, intra-abd nodes
+C84.64@Anaplstc lg cell lymph, ALK-pos, nodes of axla and upr limb
+C84.65@Anaplstc lg cell lymph, ALK-pos, nodes of ing rgn & low lmb
+C84.66@Anaplastic large cell lymphoma, ALK-pos, intrapelv nodes
+C84.67@Anaplastic large cell lymphoma, ALK-positive, spleen
+C84.68@Anaplastic large cell lymphoma, ALK-pos, nodes mult site
+C84.69@Anaplstc lg cell lymph, ALK-pos, extrnod and solid org sites
+C84.70@Anaplastic large cell lymphoma, ALK-negative, unsp site
+C84.71@Anaplstc lg cell lymph, ALK-neg, nodes of head, face, and nk
+C84.72@Anaplastic large cell lymphoma, ALK-neg, intrathorac nodes
+C84.73@Anaplastic large cell lymphoma, ALK-neg, intra-abd nodes
+C84.74@Anaplstc lg cell lymph, ALK-neg, nodes of axla and upr limb
+C84.75@Anaplstc lg cell lymph, ALK-neg, nodes of ing rgn & low lmb
+C84.76@Anaplastic large cell lymphoma, ALK-neg, intrapelv nodes
+C84.77@Anaplastic large cell lymphoma, ALK-negative, spleen
+C84.78@Anaplastic large cell lymphoma, ALK-neg, nodes mult site
+C84.79@Anaplstc lg cell lymph, ALK-neg, extrnod and solid org sites
+C84.A0@Cutaneous T-cell lymphoma, unspecified, unspecified site
+C84.A1@Cutan T-cell lymphoma, unsp nodes of head, face, and neck
+C84.A2@Cutaneous T-cell lymphoma, unsp, intrathoracic lymph nodes
+C84.A3@Cutaneous T-cell lymphoma, unsp, intra-abdominal lymph nodes
+C84.A4@Cutan T-cell lymphoma, unsp, nodes of axilla and upper limb
+C84.A5@Cutan T-cell lymph, unsp, nodes of ing region and lower limb
+C84.A6@Cutaneous T-cell lymphoma, unsp, intrapelvic lymph nodes
+C84.A7@Cutaneous T-cell lymphoma, unspecified, spleen
+C84.A8@Cutaneous T-cell lymphoma, unsp, lymph nodes mult site
+C84.A9@Cutan T-cell lymphoma, unsp, extrnod and solid organ sites
+C84.Z0@Other mature T/NK-cell lymphomas, unspecified site
+C84.Z1@Oth mature T/NK-cell lymph, nodes of head, face, and neck
+C84.Z2@Other mature T/NK-cell lymphomas, intrathoracic lymph nodes
+C84.Z3@Oth mature T/NK-cell lymphomas, intra-abdominal lymph nodes
+C84.Z4@Oth mature T/NK-cell lymph, nodes of axilla and upper limb
+C84.Z5@Oth mature T/NK-cell lymph, nodes of ing rgn and lower limb
+C84.Z6@Other mature T/NK-cell lymphomas, intrapelvic lymph nodes
+C84.Z7@Other mature T/NK-cell lymphomas, spleen
+C84.Z8@Oth mature T/NK-cell lymphomas, lymph nodes mult site
+C84.Z9@Oth mature T/NK-cell lymph, extrnod and solid organ sites
+C84.90@Mature T/NK-cell lymphomas, unspecified, unspecified site
+C84.91@Mature T/NK-cell lymph, unsp, nodes of head, face, and neck
+C84.92@Mature T/NK-cell lymphomas, unsp, intrathoracic lymph nodes
+C84.93@Mature T/NK-cell lymphomas, unsp, intra-abd lymph nodes
+C84.94@Mature T/NK-cell lymph, unsp, nodes of axilla and upper limb
+C84.95@Mature T/NK-cell lymph, unsp, nodes of ing rgn and low limb
+C84.96@Mature T/NK-cell lymphomas, unsp, intrapelvic lymph nodes
+C84.97@Mature T/NK-cell lymphomas, unspecified, spleen
+C84.98@Mature T/NK-cell lymphomas, unsp, lymph nodes mult site
+C84.99@Mature T/NK-cell lymph, unsp, extrnod and solid organ sites
+#
+C85.10@Unspecified B-cell lymphoma, unspecified site
+C85.11@Unsp B-cell lymphoma, lymph nodes of head, face, and neck
+C85.12@Unspecified B-cell lymphoma, intrathoracic lymph nodes
+C85.13@Unspecified B-cell lymphoma, intra-abdominal lymph nodes
+C85.14@Unsp B-cell lymphoma, lymph nodes of axilla and upper limb
+C85.15@Unsp B-cell lymphoma, nodes of ing region and lower limb
+C85.16@Unspecified B-cell lymphoma, intrapelvic lymph nodes
+C85.17@Unspecified B-cell lymphoma, spleen
+C85.18@Unspecified B-cell lymphoma, lymph nodes of multiple sites
+C85.19@Unsp B-cell lymphoma, extranodal and solid organ sites
+C85.20@Mediastinal (thymic) large B-cell lymphoma, unspecified site
+C85.21@Mediastnl large B-cell lymph, nodes of head, face, and neck
+C85.22@Mediastnl (thymic) large B-cell lymphoma, intrathorac nodes
+C85.23@Mediastinal (thymic) large B-cell lymphoma, intra-abd nodes
+C85.24@Mediastnl large B-cell lymph, nodes of axilla and upper limb
+C85.25@Mediastnl lg B-cell lymph, nodes of ing rgn and lower limb
+C85.26@Mediastinal (thymic) large B-cell lymphoma, intrapelv nodes
+C85.27@Mediastinal (thymic) large B-cell lymphoma, spleen
+C85.28@Mediastinal (thymic) large B-cell lymphoma, nodes mult site
+C85.29@Mediastnl large B-cell lymph, extrnod and solid organ sites
+C85.80@Oth types of non-Hodgkin lymphoma, unspecified site
+C85.81@Oth types of non-hodg lymph, nodes of head, face, and neck
+C85.82@Oth types of non-Hodgkin lymphoma, intrathoracic lymph nodes
+C85.83@Oth types of non-Hodgkin lymphoma, intra-abd lymph nodes
+C85.84@Oth types of non-hodg lymph, nodes of axilla and upper limb
+C85.85@Oth types of non-hodg lymph, nodes of ing rgn and lower limb
+C85.86@Oth types of non-Hodgkin lymphoma, intrapelvic lymph nodes
+C85.87@Other specified types of non-Hodgkin lymphoma, spleen
+C85.88@Oth types of non-Hodgkin lymphoma, lymph nodes mult site
+C85.89@Oth types of non-hodg lymph, extrnod and solid organ sites
+C85.90@Non-Hodgkin lymphoma, unspecified, unspecified site
+C85.91@Non-Hodgkin lymphoma, unsp, nodes of head, face, and neck
+C85.92@Non-Hodgkin lymphoma, unspecified, intrathoracic lymph nodes
+C85.93@Non-Hodgkin lymphoma, unsp, intra-abdominal lymph nodes
+C85.94@Non-Hodgkin lymphoma, unsp, nodes of axilla and upper limb
+C85.95@Non-hodg lymphoma, unsp, nodes of ing region and lower limb
+C85.96@Non-Hodgkin lymphoma, unspecified, intrapelvic lymph nodes
+C85.97@Non-Hodgkin lymphoma, unspecified, spleen
+C85.98@Non-Hodgkin lymphoma, unsp, lymph nodes of multiple sites
+C85.99@Non-Hodgkin lymphoma, unsp, extranodal and solid organ sites
+#
+C86.0@Extranodal NK/T-cell lymphoma, nasal type
+C86.1@Hepatosplenic T-cell lymphoma
+C86.2@Enteropathy-type (intestinal) T-cell lymphoma
+C86.3@Subcutaneous panniculitis-like T-cell lymphoma
+C86.4@Blastic NK-cell lymphoma
+C86.5@Angioimmunoblastic T-cell lymphoma
+C86.6@Primary cutaneous CD30-positive T-cell proliferations
+#
+C88.0@Waldenstrom macroglobulinemia
+C88.2@Heavy chain disease
+C88.3@Immunoproliferative small intestinal disease
+C88.4@Extrnod mrgnl zn B-cell lymph of mucosa-assoc lymphoid tiss
+C88.8@Other malignant immunoproliferative diseases
+C88.9@Malignant immunoproliferative disease, unspecified
+#
+C90.00@Multiple myeloma not having achieved remission
+C90.01@Multiple myeloma in remission
+C90.02@Multiple myeloma in relapse
+C90.10@Plasma cell leukemia not having achieved remission
+C90.11@Plasma cell leukemia in remission
+C90.12@Plasma cell leukemia in relapse
+C90.20@Extramedullary plasmacytoma not having achieved remission
+C90.21@Extramedullary plasmacytoma in remission
+C90.22@Extramedullary plasmacytoma in relapse
+C90.30@Solitary plasmacytoma not having achieved remission
+C90.31@Solitary plasmacytoma in remission
+C90.32@Solitary plasmacytoma in relapse
+#
+C91.00@Acute lymphoblastic leukemia not having achieved remission
+C91.01@Acute lymphoblastic leukemia, in remission
+C91.02@Acute lymphoblastic leukemia, in relapse
+C91.10@Chronic lymphocytic leuk of B-cell type not achieve remis
+C91.11@Chronic lymphocytic leukemia of B-cell type in remission
+C91.12@Chronic lymphocytic leukemia of B-cell type in relapse
+C91.30@Prolymphocytic leukemia of B-cell type not achieve remission
+C91.31@Prolymphocytic leukemia of B-cell type, in remission
+C91.32@Prolymphocytic leukemia of B-cell type, in relapse
+C91.40@Hairy cell leukemia not having achieved remission
+C91.41@Hairy cell leukemia, in remission
+C91.42@Hairy cell leukemia, in relapse
+C91.50@Adult T-cell lymph/leuk (HTLV-1-assoc) not achieve remission
+C91.51@Adult T-cell lymphoma/leukemia (HTLV-1-assoc), in remission
+C91.52@Adult T-cell lymphoma/leukemia (HTLV-1-assoc), in relapse
+C91.60@Prolymphocytic leukemia of T-cell type not achieve remission
+C91.61@Prolymphocytic leukemia of T-cell type, in remission
+C91.62@Prolymphocytic leukemia of T-cell type, in relapse
+C91.A0@Mature B-cell leukemia Burkitt-type not achieve remission
+C91.A1@Mature B-cell leukemia Burkitt-type, in remission
+C91.A2@Mature B-cell leukemia Burkitt-type, in relapse
+C91.Z0@Other lymphoid leukemia not having achieved remission
+C91.Z1@Other lymphoid leukemia, in remission
+C91.Z2@Other lymphoid leukemia, in relapse
+C91.90@Lymphoid leukemia, unspecified not having achieved remission
+C91.91@Lymphoid leukemia, unspecified, in remission
+C91.92@Lymphoid leukemia, unspecified, in relapse
+#
+C92.00@Acute myeloblastic leukemia, not having achieved remission
+C92.01@Acute myeloblastic leukemia, in remission
+C92.02@Acute myeloblastic leukemia, in relapse
+C92.10@Chronic myeloid leuk, BCR/ABL-positive, not achieve remis
+C92.11@Chronic myeloid leukemia, BCR/ABL-positive, in remission
+C92.12@Chronic myeloid leukemia, BCR/ABL-positive, in relapse
+C92.20@Atyp chronic myeloid leuk, BCR/ABL-neg, not achieve remis
+C92.21@Atypical chronic myeloid leukemia, BCR/ABL-neg, in remission
+C92.22@Atypical chronic myeloid leukemia, BCR/ABL-neg, in relapse
+C92.30@Myeloid sarcoma, not having achieved remission
+C92.31@Myeloid sarcoma, in remission
+C92.32@Myeloid sarcoma, in relapse
+C92.40@Acute promyelocytic leukemia, not having achieved remission
+C92.41@Acute promyelocytic leukemia, in remission
+C92.42@Acute promyelocytic leukemia, in relapse
+C92.50@Acute myelomonocytic leukemia, not having achieved remission
+C92.51@Acute myelomonocytic leukemia, in remission
+C92.52@Acute myelomonocytic leukemia, in relapse
+C92.60@Acute myeloid leukemia w 11q23-abnormality not achieve remis
+C92.61@Acute myeloid leukemia with 11q23-abnormality in remission
+C92.62@Acute myeloid leukemia with 11q23-abnormality in relapse
+C92.A0@Acute myeloid leuk w multilin dysplasia, not achieve remis
+C92.A1@Acute myeloid leukemia w multilin dysplasia, in remission
+C92.A2@Acute myeloid leukemia w multilineage dysplasia, in relapse
+C92.Z0@Other myeloid leukemia not having achieved remission
+C92.Z1@Other myeloid leukemia, in remission
+C92.Z2@Other myeloid leukemia, in relapse
+C92.90@Myeloid leukemia, unspecified, not having achieved remission
+C92.91@Myeloid leukemia, unspecified in remission
+C92.92@Myeloid leukemia, unspecified in relapse
+#
+C93.00@Acute monoblastic/monocytic leukemia, not achieve remission
+C93.01@Acute monoblastic/monocytic leukemia, in remission
+C93.02@Acute monoblastic/monocytic leukemia, in relapse
+C93.10@Chronic myelomonocytic leukemia not achieve remission
+C93.11@Chronic myelomonocytic leukemia, in remission
+C93.12@Chronic myelomonocytic leukemia, in relapse
+C93.30@Juvenile myelomonocytic leukemia, not achieve remission
+C93.31@Juvenile myelomonocytic leukemia, in remission
+C93.32@Juvenile myelomonocytic leukemia, in relapse
+C93.Z0@Other monocytic leukemia, not having achieved remission
+C93.Z1@Other monocytic leukemia, in remission
+C93.Z2@Other monocytic leukemia, in relapse
+C93.90@Monocytic leukemia, unsp, not having achieved remission
+C93.91@Monocytic leukemia, unspecified in remission
+C93.92@Monocytic leukemia, unspecified in relapse
+#
+C94.00@Acute erythroid leukemia, not having achieved remission
+C94.01@Acute erythroid leukemia, in remission
+C94.02@Acute erythroid leukemia, in relapse
+C94.20@Acute megakaryoblastic leukemia not achieve remission
+C94.21@Acute megakaryoblastic leukemia, in remission
+C94.22@Acute megakaryoblastic leukemia, in relapse
+C94.30@Mast cell leukemia not having achieved remission
+C94.31@Mast cell leukemia, in remission
+C94.32@Mast cell leukemia, in relapse
+C94.40@Acute panmyelosis w myelofibrosis not achieve remission
+C94.41@Acute panmyelosis with myelofibrosis, in remission
+C94.42@Acute panmyelosis with myelofibrosis, in relapse
+C94.6@Myelodysplastic disease, not classified
+C94.80@Other specified leukemias not having achieved remission
+C94.81@Other specified leukemias, in remission
+C94.82@Other specified leukemias, in relapse
+#
+C95.00@Acute leukemia of unsp cell type not achieve remission
+C95.01@Acute leukemia of unspecified cell type, in remission
+C95.02@Acute leukemia of unspecified cell type, in relapse
+C95.10@Chronic leukemia of unsp cell type not achieve remission
+C95.11@Chronic leukemia of unspecified cell type, in remission
+C95.12@Chronic leukemia of unspecified cell type, in relapse
+C95.90@Leukemia, unspecified not having achieved remission
+C95.91@Leukemia, unspecified, in remission
+C95.92@Leukemia, unspecified, in relapse
+#
+C96.0@Multifocal and multisystemic Langerhans-cell histiocytosis
+C96.2@Malignant mast cell tumor
+C96.4@Sarcoma of dendritic cells (accessory cells)
+C96.5@Multifocal and unisystemic Langerhans-cell histiocytosis
+C96.6@Unifocal Langerhans-cell histiocytosis
+C96.A@Histiocytic sarcoma
+C96.Z@Oth malig neoplm of lymphoid, hematpoetc and related tissue
+C96.9@Malig neoplm of lymphoid, hematpoetc and rel tissue, unsp
+#
+D00.00@Carcinoma in situ of oral cavity, unspecified site
+D00.01@Carcinoma in situ of labial mucosa and vermilion border
+D00.02@Carcinoma in situ of buccal mucosa
+D00.03@Carcinoma in situ of gingiva and edentulous alveolar ridge
+D00.04@Carcinoma in situ of soft palate
+D00.05@Carcinoma in situ of hard palate
+D00.06@Carcinoma in situ of floor of mouth
+D00.07@Carcinoma in situ of tongue
+D00.08@Carcinoma in situ of pharynx
+D00.1@Carcinoma in situ of esophagus
+D00.2@Carcinoma in situ of stomach
+#
+D01.0@Carcinoma in situ of colon
+D01.1@Carcinoma in situ of rectosigmoid junction
+D01.2@Carcinoma in situ of rectum
+D01.3@Carcinoma in situ of anus and anal canal
+D01.40@Carcinoma in situ of unspecified part of intestine
+D01.49@Carcinoma in situ of other parts of intestine
+D01.5@Carcinoma in situ of liver, gallbladder and bile ducts
+D01.7@Carcinoma in situ of other specified digestive organs
+D01.9@Carcinoma in situ of digestive organ, unspecified
+#
+D02.0@Carcinoma in situ of larynx
+D02.1@Carcinoma in situ of trachea
+D02.20@Carcinoma in situ of unspecified bronchus and lung
+D02.21@Carcinoma in situ of right bronchus and lung
+D02.22@Carcinoma in situ of left bronchus and lung
+D02.3@Carcinoma in situ of other parts of respiratory system
+D02.4@Carcinoma in situ of respiratory system, unspecified
+#
+D03.0@Melanoma in situ of lip
+D03.10@Melanoma in situ of unspecified eyelid, including canthus
+D03.11@Melanoma in situ of right eyelid, including canthus
+D03.12@Melanoma in situ of left eyelid, including canthus
+D03.20@Melanoma in situ of unsp ear and external auricular canal
+D03.21@Melanoma in situ of right ear and external auricular canal
+D03.22@Melanoma in situ of left ear and external auricular canal
+D03.30@Melanoma in situ of unspecified part of face
+D03.39@Melanoma in situ of other parts of face
+D03.4@Melanoma in situ of scalp and neck
+D03.51@Melanoma in situ of anal skin
+D03.52@Melanoma in situ of breast (skin) (soft tissue)
+D03.59@Melanoma in situ of other part of trunk
+D03.60@Melanoma in situ of unsp upper limb, including shoulder
+D03.61@Melanoma in situ of right upper limb, including shoulder
+D03.62@Melanoma in situ of left upper limb, including shoulder
+D03.70@Melanoma in situ of unspecified lower limb, including hip
+D03.71@Melanoma in situ of right lower limb, including hip
+D03.72@Melanoma in situ of left lower limb, including hip
+D03.8@Melanoma in situ of other sites
+D03.9@Melanoma in situ, unspecified
+#
+D04.0@Carcinoma in situ of skin of lip
+D04.10@Carcinoma in situ of skin of unsp eyelid, including canthus
+D04.11@Carcinoma in situ of skin of right eyelid, including canthus
+D04.12@Carcinoma in situ of skin of left eyelid, including canthus
+D04.20@Ca in situ skin of unsp ear and external auricular canal
+D04.21@Ca in situ skin of right ear and external auricular canal
+D04.22@Ca in situ skin of left ear and external auricular canal
+D04.30@Carcinoma in situ of skin of unspecified part of face
+D04.39@Carcinoma in situ of skin of other parts of face
+D04.4@Carcinoma in situ of skin of scalp and neck
+D04.5@Carcinoma in situ of skin of trunk
+D04.60@Ca in situ skin of unsp upper limb, including shoulder
+D04.61@Ca in situ skin of right upper limb, including shoulder
+D04.62@Ca in situ skin of left upper limb, including shoulder
+D04.70@Carcinoma in situ of skin of unsp lower limb, including hip
+D04.71@Carcinoma in situ of skin of right lower limb, including hip
+D04.72@Carcinoma in situ of skin of left lower limb, including hip
+D04.8@Carcinoma in situ of skin of other sites
+D04.9@Carcinoma in situ of skin, unspecified
+#
+D05.00@Lobular carcinoma in situ of unspecified breast
+D05.01@Lobular carcinoma in situ of right breast
+D05.02@Lobular carcinoma in situ of left breast
+D05.10@Intraductal carcinoma in situ of unspecified breast
+D05.11@Intraductal carcinoma in situ of right breast
+D05.12@Intraductal carcinoma in situ of left breast
+D05.80@Oth type of carcinoma in situ of unspecified breast
+D05.81@Other specified type of carcinoma in situ of right breast
+D05.82@Other specified type of carcinoma in situ of left breast
+D05.90@Unspecified type of carcinoma in situ of unspecified breast
+D05.91@Unspecified type of carcinoma in situ of right breast
+D05.92@Unspecified type of carcinoma in situ of left breast
+#
+D06.0@Carcinoma in situ of endocervix
+D06.1@Carcinoma in situ of exocervix
+D06.7@Carcinoma in situ of other parts of cervix
+D06.9@Carcinoma in situ of cervix, unspecified
+#
+D07.0@Carcinoma in situ of endometrium
+D07.1@Carcinoma in situ of vulva
+D07.2@Carcinoma in situ of vagina
+D07.30@Carcinoma in situ of unspecified female genital organs
+D07.39@Carcinoma in situ of other female genital organs
+D07.4@Carcinoma in situ of penis
+D07.5@Carcinoma in situ of prostate
+D07.60@Carcinoma in situ of unspecified male genital organs
+D07.61@Carcinoma in situ of scrotum
+D07.69@Carcinoma in situ of other male genital organs
+#
+D09.0@Carcinoma in situ of bladder
+D09.10@Carcinoma in situ of unspecified urinary organ
+D09.19@Carcinoma in situ of other urinary organs
+D09.20@Carcinoma in situ of unspecified eye
+D09.21@Carcinoma in situ of right eye
+D09.22@Carcinoma in situ of left eye
+D09.3@Carcinoma in situ of thyroid and other endocrine glands
+D09.8@Carcinoma in situ of other specified sites
+D09.9@Carcinoma in situ, unspecified
+#
+D10.0@Benign neoplasm of lip
+D10.1@Benign neoplasm of tongue
+D10.2@Benign neoplasm of floor of mouth
+D10.30@Benign neoplasm of unspecified part of mouth
+D10.39@Benign neoplasm of other parts of mouth
+D10.4@Benign neoplasm of tonsil
+D10.5@Benign neoplasm of other parts of oropharynx
+D10.6@Benign neoplasm of nasopharynx
+D10.7@Benign neoplasm of hypopharynx
+D10.9@Benign neoplasm of pharynx, unspecified
+#
+D11.0@Benign neoplasm of parotid gland
+D11.7@Benign neoplasm of other major salivary glands
+D11.9@Benign neoplasm of major salivary gland, unspecified
+#
+D12.0@Benign neoplasm of cecum
+D12.1@Benign neoplasm of appendix
+D12.2@Benign neoplasm of ascending colon
+D12.3@Benign neoplasm of transverse colon
+D12.4@Benign neoplasm of descending colon
+D12.5@Benign neoplasm of sigmoid colon
+D12.6@Benign neoplasm of colon, unspecified
+D12.7@Benign neoplasm of rectosigmoid junction
+D12.8@Benign neoplasm of rectum
+D12.9@Benign neoplasm of anus and anal canal
+#
+D13.0@Benign neoplasm of esophagus
+D13.1@Benign neoplasm of stomach
+D13.2@Benign neoplasm of duodenum
+D13.30@Benign neoplasm of unspecified part of small intestine
+D13.39@Benign neoplasm of other parts of small intestine
+D13.4@Benign neoplasm of liver
+D13.5@Benign neoplasm of extrahepatic bile ducts
+D13.6@Benign neoplasm of pancreas
+D13.7@Benign neoplasm of endocrine pancreas
+D13.9@Benign neoplasm of ill-defined sites within the dgstv sys
+#
+D14.0@Benign neoplasm of mid ear, nasl cav and accessory sinuses
+D14.1@Benign neoplasm of larynx
+D14.2@Benign neoplasm of trachea
+D14.30@Benign neoplasm of unspecified bronchus and lung
+D14.31@Benign neoplasm of right bronchus and lung
+D14.32@Benign neoplasm of left bronchus and lung
+D14.4@Benign neoplasm of respiratory system, unspecified
+#
+D15.0@Benign neoplasm of thymus
+D15.1@Benign neoplasm of heart
+D15.2@Benign neoplasm of mediastinum
+D15.7@Benign neoplasm of other specified intrathoracic organs
+D15.9@Benign neoplasm of intrathoracic organ, unspecified
+#
+D16.00@Benign neoplasm of scapula and long bones of unsp upper limb
+D16.01@Benign neoplm of scapula and long bones of right upper limb
+D16.02@Benign neoplasm of scapula and long bones of left upper limb
+D16.10@Benign neoplasm of short bones of unspecified upper limb
+D16.11@Benign neoplasm of short bones of right upper limb
+D16.12@Benign neoplasm of short bones of left upper limb
+D16.20@Benign neoplasm of long bones of unspecified lower limb
+D16.21@Benign neoplasm of long bones of right lower limb
+D16.22@Benign neoplasm of long bones of left lower limb
+D16.30@Benign neoplasm of short bones of unspecified lower limb
+D16.31@Benign neoplasm of short bones of right lower limb
+D16.32@Benign neoplasm of short bones of left lower limb
+D16.4@Benign neoplasm of bones of skull and face
+D16.5@Benign neoplasm of lower jaw bone
+D16.6@Benign neoplasm of vertebral column
+D16.7@Benign neoplasm of ribs, sternum and clavicle
+D16.8@Benign neoplasm of pelvic bones, sacrum and coccyx
+D16.9@Benign neoplasm of bone and articular cartilage, unspecified
+#
+D17.0@Ben lipomatous neoplm of skin, subcu of head, face and neck
+D17.1@Benign lipomatous neoplasm of skin, subcu of trunk
+D17.20@Benign lipomatous neoplasm of skin, subcu of unsp limb
+D17.21@Benign lipomatous neoplasm of skin, subcu of right arm
+D17.22@Benign lipomatous neoplasm of skin, subcu of left arm
+D17.23@Benign lipomatous neoplasm of skin, subcu of right leg
+D17.24@Benign lipomatous neoplasm of skin, subcu of left leg
+D17.30@Benign lipomatous neoplasm of skin, subcu of unsp sites
+D17.39@Benign lipomatous neoplasm of skin, subcu of sites
+D17.4@Benign lipomatous neoplasm of intrathoracic organs
+D17.5@Benign lipomatous neoplasm of intra-abdominal organs
+D17.6@Benign lipomatous neoplasm of spermatic cord
+D17.71@Benign lipomatous neoplasm of kidney
+D17.72@Benign lipomatous neoplasm of other genitourinary organ
+D17.79@Benign lipomatous neoplasm of other sites
+D17.9@Benign lipomatous neoplasm, unspecified
+#
+D18.00@Hemangioma unspecified site
+D18.01@Hemangioma of skin and subcutaneous tissue
+D18.02@Hemangioma of intracranial structures
+D18.03@Hemangioma of intra-abdominal structures
+D18.09@Hemangioma of other sites
+D18.1@Lymphangioma, any site
+#
+D19.0@Benign neoplasm of mesothelial tissue of pleura
+D19.1@Benign neoplasm of mesothelial tissue of peritoneum
+D19.7@Benign neoplasm of mesothelial tissue of other sites
+D19.9@Benign neoplasm of mesothelial tissue, unspecified
+#
+D20.0@Benign neoplasm of soft tissue of retroperitoneum
+D20.1@Benign neoplasm of soft tissue of peritoneum
+#
+D21.0@Benign neoplasm of connctv/soft tiss of head, face and neck
+D21.10@Ben neoplm of connctv/soft tiss of unsp upr limb, inc shldr
+D21.11@Ben neoplm of connctv/soft tiss of r upper limb, inc shldr
+D21.12@Ben neoplm of connctv/soft tiss of left upr limb, inc shldr
+D21.20@Ben neoplm of connctv/soft tiss of unsp lower limb, inc hip
+D21.21@Ben neoplm of connctv/soft tiss of right lower limb, inc hip
+D21.22@Ben neoplm of connctv/soft tiss of left lower limb, inc hip
+D21.3@Benign neoplasm of connective and oth soft tissue of thorax
+D21.4@Benign neoplasm of connective and oth soft tissue of abdomen
+D21.5@Benign neoplasm of connective and oth soft tissue of pelvis
+D21.6@Benign neoplasm of connctv/soft tiss of trunk, unsp
+D21.9@Benign neoplasm of connective and other soft tissue, unsp
+#
+D22.0@Melanocytic nevi of lip
+D22.10@Melanocytic nevi of unspecified eyelid, including canthus
+D22.11@Melanocytic nevi of right eyelid, including canthus
+D22.12@Melanocytic nevi of left eyelid, including canthus
+D22.20@Melanocytic nevi of unsp ear and external auricular canal
+D22.21@Melanocytic nevi of right ear and external auricular canal
+D22.22@Melanocytic nevi of left ear and external auricular canal
+D22.30@Melanocytic nevi of unspecified part of face
+D22.39@Melanocytic nevi of other parts of face
+D22.4@Melanocytic nevi of scalp and neck
+D22.5@Melanocytic nevi of trunk
+D22.60@Melanocytic nevi of unsp upper limb, including shoulder
+D22.61@Melanocytic nevi of right upper limb, including shoulder
+D22.62@Melanocytic nevi of left upper limb, including shoulder
+D22.70@Melanocytic nevi of unspecified lower limb, including hip
+D22.71@Melanocytic nevi of right lower limb, including hip
+D22.72@Melanocytic nevi of left lower limb, including hip
+D22.9@Melanocytic nevi, unspecified
+#
+D23.0@Other benign neoplasm of skin of lip
+D23.10@Oth benign neoplasm skin/ unsp eyelid, including canthus
+D23.11@Oth benign neoplasm skin/ right eyelid, including canthus
+D23.12@Oth benign neoplasm skin/ left eyelid, including canthus
+D23.20@Oth benign neoplasm skin/ unsp ear and external auric canal
+D23.21@Oth benign neoplasm skin/ right ear and external auric canal
+D23.22@Oth benign neoplasm skin/ left ear and external auric canal
+D23.30@Other benign neoplasm of skin of unspecified part of face
+D23.39@Other benign neoplasm of skin of other parts of face
+D23.4@Other benign neoplasm of skin of scalp and neck
+D23.5@Other benign neoplasm of skin of trunk
+D23.60@Oth benign neoplasm skin/ unsp upper limb, inc shoulder
+D23.61@Oth benign neoplasm skin/ right upper limb, inc shoulder
+D23.62@Oth benign neoplasm skin/ left upper limb, inc shoulder
+D23.70@Oth benign neoplasm skin/ unsp lower limb, including hip
+D23.71@Oth benign neoplasm skin/ right lower limb, including hip
+D23.72@Oth benign neoplasm skin/ left lower limb, including hip
+D23.9@Other benign neoplasm of skin, unspecified
+#
+D24.1@Benign neoplasm of right breast
+D24.2@Benign neoplasm of left breast
+D24.9@Benign neoplasm of unspecified breast
+#
+D25.0@Submucous leiomyoma of uterus
+D25.1@Intramural leiomyoma of uterus
+D25.2@Subserosal leiomyoma of uterus
+D25.9@Leiomyoma of uterus, unspecified
+#
+D26.0@Other benign neoplasm of cervix uteri
+D26.1@Other benign neoplasm of corpus uteri
+D26.7@Other benign neoplasm of other parts of uterus
+D26.9@Other benign neoplasm of uterus, unspecified
+#
+D27.0@Benign neoplasm of right ovary
+D27.1@Benign neoplasm of left ovary
+D27.9@Benign neoplasm of unspecified ovary
+#
+D28.0@Benign neoplasm of vulva
+D28.1@Benign neoplasm of vagina
+D28.2@Benign neoplasm of uterine tubes and ligaments
+D28.7@Benign neoplasm of other specified female genital organs
+D28.9@Benign neoplasm of female genital organ, unspecified
+#
+D29.0@Benign neoplasm of penis
+D29.1@Benign neoplasm of prostate
+D29.20@Benign neoplasm of unspecified testis
+D29.21@Benign neoplasm of right testis
+D29.22@Benign neoplasm of left testis
+D29.30@Benign neoplasm of unspecified epididymis
+D29.31@Benign neoplasm of right epididymis
+D29.32@Benign neoplasm of left epididymis
+D29.4@Benign neoplasm of scrotum
+D29.8@Benign neoplasm of other specified male genital organs
+D29.9@Benign neoplasm of male genital organ, unspecified
+#
+D30.00@Benign neoplasm of unspecified kidney
+D30.01@Benign neoplasm of right kidney
+D30.02@Benign neoplasm of left kidney
+D30.10@Benign neoplasm of unspecified renal pelvis
+D30.11@Benign neoplasm of right renal pelvis
+D30.12@Benign neoplasm of left renal pelvis
+D30.20@Benign neoplasm of unspecified ureter
+D30.21@Benign neoplasm of right ureter
+D30.22@Benign neoplasm of left ureter
+D30.3@Benign neoplasm of bladder
+D30.4@Benign neoplasm of urethra
+D30.8@Benign neoplasm of other specified urinary organs
+D30.9@Benign neoplasm of urinary organ, unspecified
+#
+D31.00@Benign neoplasm of unspecified conjunctiva
+D31.01@Benign neoplasm of right conjunctiva
+D31.02@Benign neoplasm of left conjunctiva
+D31.10@Benign neoplasm of unspecified cornea
+D31.11@Benign neoplasm of right cornea
+D31.12@Benign neoplasm of left cornea
+D31.20@Benign neoplasm of unspecified retina
+D31.21@Benign neoplasm of right retina
+D31.22@Benign neoplasm of left retina
+D31.30@Benign neoplasm of unspecified choroid
+D31.31@Benign neoplasm of right choroid
+D31.32@Benign neoplasm of left choroid
+D31.40@Benign neoplasm of unspecified ciliary body
+D31.41@Benign neoplasm of right ciliary body
+D31.42@Benign neoplasm of left ciliary body
+D31.50@Benign neoplasm of unspecified lacrimal gland and duct
+D31.51@Benign neoplasm of right lacrimal gland and duct
+D31.52@Benign neoplasm of left lacrimal gland and duct
+D31.60@Benign neoplasm of unspecified site of unspecified orbit
+D31.61@Benign neoplasm of unspecified site of right orbit
+D31.62@Benign neoplasm of unspecified site of left orbit
+D31.90@Benign neoplasm of unspecified part of unspecified eye
+D31.91@Benign neoplasm of unspecified part of right eye
+D31.92@Benign neoplasm of unspecified part of left eye
+#
+D32.0@Benign neoplasm of cerebral meninges
+D32.1@Benign neoplasm of spinal meninges
+D32.9@Benign neoplasm of meninges, unspecified
+#
+D33.0@Benign neoplasm of brain, supratentorial
+D33.1@Benign neoplasm of brain, infratentorial
+D33.2@Benign neoplasm of brain, unspecified
+D33.3@Benign neoplasm of cranial nerves
+D33.4@Benign neoplasm of spinal cord
+D33.7@Benign neoplasm of oth parts of central nervous system
+D33.9@Benign neoplasm of central nervous system, unspecified
+#
+D34.@Benign neoplasm of thyroid gland
+#
+D35.00@Benign neoplasm of unspecified adrenal gland
+D35.01@Benign neoplasm of right adrenal gland
+D35.02@Benign neoplasm of left adrenal gland
+D35.1@Benign neoplasm of parathyroid gland
+D35.2@Benign neoplasm of pituitary gland
+D35.3@Benign neoplasm of craniopharyngeal duct
+D35.4@Benign neoplasm of pineal gland
+D35.5@Benign neoplasm of carotid body
+D35.6@Benign neoplasm of aortic body and other paraganglia
+D35.7@Benign neoplasm of other specified endocrine glands
+D35.9@Benign neoplasm of endocrine gland, unspecified
+#
+D36.0@Benign neoplasm of lymph nodes
+D36.10@Benign neoplasm of prph nerves and autonm nervous sys, unsp
+D36.11@Ben neoplm of prph nerves and autonm nrv sys of face/hed/nk
+D36.12@Ben neoplm of prph nrv & autonm nrv sys, upr lmb, inc shldr
+D36.13@Ben neoplm of prph nrv & autonm nrv sys of low lmb, inc hip
+D36.14@Benign neoplm of prph nerves and autonm nrv sys of thorax
+D36.15@Benign neoplm of prph nerves and autonm nervous sys of abd
+D36.16@Benign neoplm of prph nerves and autonm nrv sys of pelvis
+D36.17@Ben neoplm of prph nerves and autonm nrv sys of trunk, unsp
+D36.7@Benign neoplasm of other specified sites
+D36.9@Benign neoplasm, unspecified site
+#
+D3A.00@Benign carcinoid tumor of unspecified site
+D3A.010@Benign carcinoid tumor of the duodenum
+D3A.011@Benign carcinoid tumor of the jejunum
+D3A.012@Benign carcinoid tumor of the ileum
+D3A.019@Benign carcinoid tumor of the small intestine, unsp portion
+D3A.020@Benign carcinoid tumor of the appendix
+D3A.021@Benign carcinoid tumor of the cecum
+D3A.022@Benign carcinoid tumor of the ascending colon
+D3A.023@Benign carcinoid tumor of the transverse colon
+D3A.024@Benign carcinoid tumor of the descending colon
+D3A.025@Benign carcinoid tumor of the sigmoid colon
+D3A.026@Benign carcinoid tumor of the rectum
+D3A.029@Benign carcinoid tumor of the large intestine, unsp portion
+D3A.090@Benign carcinoid tumor of the bronchus and lung
+D3A.091@Benign carcinoid tumor of the thymus
+D3A.092@Benign carcinoid tumor of the stomach
+D3A.093@Benign carcinoid tumor of the kidney
+D3A.094@Benign carcinoid tumor of the foregut NOS
+D3A.095@Benign carcinoid tumor of the midgut NOS
+D3A.096@Benign carcinoid tumor of the hindgut NOS
+D3A.098@Benign carcinoid tumors of other sites
+D3A.8@Other benign neuroendocrine tumors
+#
+D37.01@Neoplasm of uncertain behavior of lip
+D37.02@Neoplasm of uncertain behavior of tongue
+D37.030@Neoplasm of uncertain behavior of the parotid salivary gland
+D37.031@Neoplasm of uncrt behavior of the sublingual salivary gland
+D37.032@Neoplasm of uncrt behav of the submandibular salivary gland
+D37.039@Neoplasm of uncrt behavior of the major salivary gland, unsp
+D37.04@Neoplasm of uncertain behavior of the minor salivary glands
+D37.05@Neoplasm of uncertain behavior of pharynx
+D37.09@Neoplasm of uncertain behavior of sites of the oral cavity
+D37.1@Neoplasm of uncertain behavior of stomach
+D37.2@Neoplasm of uncertain behavior of small intestine
+D37.3@Neoplasm of uncertain behavior of appendix
+D37.4@Neoplasm of uncertain behavior of colon
+D37.5@Neoplasm of uncertain behavior of rectum
+D37.6@Neoplasm of uncertain behavior of liver, GB & bile duct
+D37.8@Neoplasm of uncertain behavior of oth digestive organs
+D37.9@Neoplasm of uncertain behavior of digestive organ, unsp
+#
+D38.0@Neoplasm of uncertain behavior of larynx
+D38.1@Neoplasm of uncertain behavior of trachea, bronchus and lung
+D38.2@Neoplasm of uncertain behavior of pleura
+D38.3@Neoplasm of uncertain behavior of mediastinum
+D38.4@Neoplasm of uncertain behavior of thymus
+D38.5@Neoplasm of uncertain behavior of other respiratory organs
+D38.6@Neoplasm of uncertain behavior of respiratory organ, unsp
+#
+D39.0@Neoplasm of uncertain behavior of uterus
+D39.10@Neoplasm of uncertain behavior of unspecified ovary
+D39.11@Neoplasm of uncertain behavior of right ovary
+D39.12@Neoplasm of uncertain behavior of left ovary
+D39.2@Neoplasm of uncertain behavior of placenta
+D39.8@Neoplasm of uncertain behavior of oth female genital organs
+D39.9@Neoplasm of uncertain behavior of female genital organ, unsp
+#
+D40.0@Neoplasm of uncertain behavior of prostate
+D40.10@Neoplasm of uncertain behavior of unspecified testis
+D40.11@Neoplasm of uncertain behavior of right testis
+D40.12@Neoplasm of uncertain behavior of left testis
+D40.8@Neoplasm of uncertain behavior of oth male genital organs
+D40.9@Neoplasm of uncertain behavior of male genital organ, unsp
+#
+D41.00@Neoplasm of uncertain behavior of unspecified kidney
+D41.01@Neoplasm of uncertain behavior of right kidney
+D41.02@Neoplasm of uncertain behavior of left kidney
+D41.10@Neoplasm of uncertain behavior of unspecified renal pelvis
+D41.11@Neoplasm of uncertain behavior of right renal pelvis
+D41.12@Neoplasm of uncertain behavior of left renal pelvis
+D41.20@Neoplasm of uncertain behavior of unspecified ureter
+D41.21@Neoplasm of uncertain behavior of right ureter
+D41.22@Neoplasm of uncertain behavior of left ureter
+D41.3@Neoplasm of uncertain behavior of urethra
+D41.4@Neoplasm of uncertain behavior of bladder
+D41.8@Neoplasm of uncertain behavior of oth urinary organs
+D41.9@Neoplasm of uncertain behavior of unspecified urinary organ
+#
+D42.0@Neoplasm of uncertain behavior of cerebral meninges
+D42.1@Neoplasm of uncertain behavior of spinal meninges
+D42.9@Neoplasm of uncertain behavior of meninges, unspecified
+#
+D43.0@Neoplasm of uncertain behavior of brain, supratentorial
+D43.1@Neoplasm of uncertain behavior of brain, infratentorial
+D43.2@Neoplasm of uncertain behavior of brain, unspecified
+D43.3@Neoplasm of uncertain behavior of cranial nerves
+D43.4@Neoplasm of uncertain behavior of spinal cord
+D43.8@Neoplasm of uncertain behavior of prt central nervous system
+D43.9@Neoplasm of uncertain behavior of cnsl, unsp
+#
+D44.0@Neoplasm of uncertain behavior of thyroid gland
+D44.10@Neoplasm of uncertain behavior of unspecified adrenal gland
+D44.11@Neoplasm of uncertain behavior of right adrenal gland
+D44.12@Neoplasm of uncertain behavior of left adrenal gland
+D44.2@Neoplasm of uncertain behavior of parathyroid gland
+D44.3@Neoplasm of uncertain behavior of pituitary gland
+D44.4@Neoplasm of uncertain behavior of craniopharyngeal duct
+D44.5@Neoplasm of uncertain behavior of pineal gland
+D44.6@Neoplasm of uncertain behavior of carotid body
+D44.7@Neoplasm of uncrt behav of aortic body and oth paraganglia
+D44.9@Neoplasm of uncertain behavior of unsp endocrine gland
+#
+D45.@Polycythemia vera
+#
+D46.0@Refractory anemia without ring sideroblasts, so stated
+D46.1@Refractory anemia with ring sideroblasts
+D46.20@Refractory anemia with excess of blasts, unspecified
+D46.21@Refractory anemia with excess of blasts 1
+D46.22@Refractory anemia with excess of blasts 2
+D46.A@Refractory cytopenia with multilineage dysplasia
+D46.B@Refract cytopenia w multilin dysplasia and ring sideroblasts
+D46.C@Myelodysplastic syndrome w isolated del(5q) chromsoml abnlt
+D46.4@Refractory anemia, unspecified
+D46.Z@Other myelodysplastic syndromes
+D46.9@Myelodysplastic syndrome, unspecified
+#
+D47.0@Histiocytic and mast cell tumors of uncertain behavior
+D47.1@Chronic myeloproliferative disease
+D47.2@Monoclonal gammopathy
+D47.3@Essential (hemorrhagic) thrombocythemia
+D47.4@Osteomyelofibrosis
+D47.Z1@Post-transplant lymphoproliferative disorder (PTLD)
+D47.Z9@Oth neoplm of uncrt behav of lymphoid, hematpoetc & rel tiss
+D47.9@Neoplm of uncrt behav of lymphoid,hematpoetc & rel tiss,unsp
+#
+D48.0@Neoplasm of uncertain behavior of bone/artic cartl
+D48.1@Neoplasm of uncertain behavior of connctv/soft tiss
+D48.2@Neoplm of uncrt behav of prph nerves and autonm nervous sys
+D48.3@Neoplasm of uncertain behavior of retroperitoneum
+D48.4@Neoplasm of uncertain behavior of peritoneum
+D48.5@Neoplasm of uncertain behavior of skin
+D48.60@Neoplasm of uncertain behavior of unspecified breast
+D48.61@Neoplasm of uncertain behavior of right breast
+D48.62@Neoplasm of uncertain behavior of left breast
+D48.7@Neoplasm of uncertain behavior of other specified sites
+D48.9@Neoplasm of uncertain behavior, unspecified
+#
+D49.0@Neoplasm of unspecified behavior of digestive system
+D49.1@Neoplasm of unspecified behavior of respiratory system
+D49.2@Neoplasm of unsp behavior of bone, soft tissue, and skin
+D49.3@Neoplasm of unspecified behavior of breast
+D49.4@Neoplasm of unspecified behavior of bladder
+D49.5@Neoplasm of unsp behavior of other genitourinary organs
+D49.6@Neoplasm of unspecified behavior of brain
+D49.7@Neoplm of unsp behav of endo glands and oth prt nervous sys
+D49.81@Neoplasm of unspecified behavior of retina and choroid
+D49.89@Neoplasm of unspecified behavior of other specified sites
+D49.9@Neoplasm of unspecified behavior of unspecified site

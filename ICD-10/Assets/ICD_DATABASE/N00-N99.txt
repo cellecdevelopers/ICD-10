@@ -1,0 +1,591 @@
+N00.0@Acute nephritic syndrome with minor glomerular abnormality
+N00.1@Acute neph syndrome w focal and segmental glomerular lesions
+N00.2@Acute nephritic syndrome w diffuse membranous glomrlneph
+N00.3@Acute neph syndrome w diffuse mesangial prolif glomrlneph
+N00.4@Acute neph syndrome w diffuse endocaplry prolif glomrlneph
+N00.5@Acute nephritic syndrome w diffuse mesangiocap glomrlneph
+N00.6@Acute nephritic syndrome with dense deposit disease
+N00.7@Acute nephritic syndrome w diffuse crescentic glomrlneph
+N00.8@Acute nephritic syndrome with other morphologic changes
+N00.9@Acute nephritic syndrome with unsp morphologic changes
+N01.0@Rapidly progr nephritic syndrome w minor glomerular abnlt
+N01.1@Rapidly progr neph synd w focal and seg glomerular lesions
+N01.2@Rapidly progr neph syndrome w diffuse membranous glomrlneph
+N01.3@Rapidly progr neph synd w diffus mesangial prolif glomrlneph
+N01.4@Rapid progr neph synd w diffus endocaplry prolif glomrlneph
+N01.5@Rapidly progr neph syndrome w diffuse mesangiocap glomrlneph
+N01.6@Rapidly progr nephritic syndrome w dense deposit disease
+N01.7@Rapidly progr neph syndrome w diffuse crescentic glomrlneph
+N01.8@Rapidly progr nephritic syndrome w oth morphologic changes
+N01.9@Rapidly progr nephritic syndrome w unsp morphologic changes
+N02.0@Recurrent and persistent hematuria w minor glomerular abnlt
+N02.1@Recur and perst hematur w focal and seg glomerular lesions
+N02.2@Recurrent and perst hematur w diffuse membranous glomrlneph
+N02.3@Recur and perst hematur w diffus mesangial prolif glomrlneph
+N02.4@Recur & perst hematur w diffus endocaplry prolif glomrlneph
+N02.5@Recurrent and perst hematur w diffuse mesangiocap glomrlneph
+N02.6@Recurrent and persistent hematuria w dense deposit disease
+N02.7@Recurrent and perst hematur w diffuse crescentic glomrlneph
+N02.8@Recurrent and persistent hematuria w oth morphologic changes
+N02.9@Recurrent and perst hematuria w unsp morphologic changes
+N03.0@Chronic nephritic syndrome with minor glomerular abnormality
+N03.1@Chronic neph syndrome w focal and seg glomerular lesions
+N03.2@Chronic nephritic syndrome w diffuse membranous glomrlneph
+N03.3@Chronic neph syndrome w diffuse mesangial prolif glomrlneph
+N03.4@Chronic neph syndrome w diffuse endocaplry prolif glomrlneph
+N03.5@Chronic nephritic syndrome w diffuse mesangiocap glomrlneph
+N03.6@Chronic nephritic syndrome with dense deposit disease
+N03.7@Chronic nephritic syndrome w diffuse crescentic glomrlneph
+N03.8@Chronic nephritic syndrome with other morphologic changes
+N03.9@Chronic nephritic syndrome with unsp morphologic changes
+N04.0@Nephrotic syndrome with minor glomerular abnormality
+N04.1@Nephrotic syndrome w focal and segmental glomerular lesions
+N04.2@Nephrotic syndrome w diffuse membranous glomerulonephritis
+N04.3@Nephrotic syndrome w diffuse mesangial prolif glomrlneph
+N04.4@Nephrotic syndrome w diffuse endocaplry prolif glomrlneph
+N04.5@Nephrotic syndrome w diffuse mesangiocapillary glomrlneph
+N04.6@Nephrotic syndrome with dense deposit disease
+N04.7@Nephrotic syndrome w diffuse crescentic glomerulonephritis
+N04.8@Nephrotic syndrome with other morphologic changes
+N04.9@Nephrotic syndrome with unspecified morphologic changes
+N05.0@Unsp nephritic syndrome with minor glomerular abnormality
+N05.1@Unsp neph syndrome w focal and segmental glomerular lesions
+N05.2@Unsp nephritic syndrome w diffuse membranous glomrlneph
+N05.3@Unsp neph syndrome w diffuse mesangial prolif glomrlneph
+N05.4@Unsp neph syndrome w diffuse endocaplry prolif glomrlneph
+N05.5@Unsp nephritic syndrome w diffuse mesangiocap glomrlneph
+N05.6@Unspecified nephritic syndrome with dense deposit disease
+N05.7@Unsp nephritic syndrome w diffuse crescentic glomrlneph
+N05.8@Unsp nephritic syndrome with other morphologic changes
+N05.9@Unsp nephritic syndrome with unspecified morphologic changes
+N06.0@Isolated proteinuria with minor glomerular abnormality
+N06.1@Isolated protein w focal and segmental glomerular lesions
+N06.2@Isolated proteinuria w diffuse membranous glomerulonephritis
+N06.3@Isolated proteinuria w diffuse mesangial prolif glomrlneph
+N06.4@Isolated proteinuria w diffuse endocaplry prolif glomrlneph
+N06.5@Isolated proteinuria w diffuse mesangiocapillary glomrlneph
+N06.6@Isolated proteinuria with dense deposit disease
+N06.7@Isolated proteinuria w diffuse crescentic glomerulonephritis
+N06.8@Isolated proteinuria with other morphologic lesion
+N06.9@Isolated proteinuria with unspecified morphologic lesion
+N07.0@Hereditary nephropathy, NEC w minor glomerular abnormality
+N07.1@Heredit neuropath, NEC w focal and seg glomerular lesions
+N07.2@Hereditary nephropathy, NEC w diffuse membranous glomrlneph
+N07.3@Heredit neuropath, NEC w diffuse mesangial prolif glomrlneph
+N07.4@Heredit neuropath, NEC w diffus endocaplry prolif glomrlneph
+N07.5@Hereditary nephropathy, NEC w diffuse mesangiocap glomrlneph
+N07.6@Hereditary nephropathy, NEC w dense deposit disease
+N07.7@Hereditary nephropathy, NEC w diffuse crescentic glomrlneph
+N07.8@Hereditary nephropathy, NEC w oth morphologic lesions
+N07.9@Hereditary nephropathy, NEC w unsp morphologic lesions
+N08.@Glomerular disorders in diseases classified elsewhere
+N10.@Acute tubulo-interstitial nephritis
+N11.0@Nonobstructive reflux-associated chronic pyelonephritis
+N11.1@Chronic obstructive pyelonephritis
+N11.8@Other chronic tubulo-interstitial nephritis
+N11.9@Chronic tubulo-interstitial nephritis, unspecified
+N12.@Tubulo-interstitial nephritis, not spcf as acute or chronic
+N13.1@Hydronephrosis w ureteral stricture, NEC
+N13.2@Hydronephrosis with renal and ureteral calculous obstruction
+N13.30@Unspecified hydronephrosis
+N13.39@Other hydronephrosis
+N13.4@Hydroureter
+N13.5@Crossing vessel and stricture of ureter w/o hydronephrosis
+N13.6@Pyonephrosis
+N13.70@Vesicoureteral-reflux, unspecified
+N13.71@Vesicoureteral-reflux without reflux nephropathy
+N13.721@Vesicoureter-reflux w reflux neuropath w/o hydrourt, unil
+N13.722@Vesicoureter-reflux w reflux neuropath w/o hydrourt, bi
+N13.729@Vesicoureter-reflux w reflux nephropathy w/o hydrourt, unsp
+N13.731@Vesicoureter-reflux w reflux neuropath w hydrourt, unil
+N13.732@Vesicoureter-reflux w reflux neuropath w hydrourt, bilateral
+N13.739@Vesicoureter-reflux w reflux nephropathy w hydroureter, unsp
+N13.8@Other obstructive and reflux uropathy
+N13.9@Obstructive and reflux uropathy, unspecified
+N14.0@Analgesic nephropathy
+N14.1@Nephropathy induced by oth drug/meds/biol subst
+N14.2@Neuropath induced by unsp drug, medicament or biolg sub
+N14.3@Nephropathy induced by heavy metals
+N14.4@Toxic nephropathy, not elsewhere classified
+N15.0@Balkan nephropathy
+N15.1@Renal and perinephric abscess
+N15.8@Other specified renal tubulo-interstitial diseases
+N15.9@Renal tubulo-interstitial disease, unspecified
+N16.@Renal tubulo-interstitial disord in diseases classd elswhr
+N17.0@Acute kidney failure with tubular necrosis
+N17.1@Acute kidney failure with acute cortical necrosis
+N17.2@Acute kidney failure with medullary necrosis
+N17.8@Other acute kidney failure
+N17.9@Acute kidney failure, unspecified
+N18.1@Chronic kidney disease, stage 1
+N18.2@Chronic kidney disease, stage 2 (mild)
+N18.3@Chronic kidney disease, stage 3 (moderate)
+N18.4@Chronic kidney disease, stage 4 (severe)
+N18.5@Chronic kidney disease, stage 5
+N18.6@End stage renal disease
+N18.9@Chronic kidney disease, unspecified
+N19.@Unspecified kidney failure
+N20.0@Calculus of kidney
+N20.1@Calculus of ureter
+N20.2@Calculus of kidney with calculus of ureter
+N20.9@Urinary calculus, unspecified
+N21.0@Calculus in bladder
+N21.1@Calculus in urethra
+N21.8@Other lower urinary tract calculus
+N21.9@Calculus of lower urinary tract, unspecified
+N22.@Calculus of urinary tract in diseases classified elsewhere
+N23.@Unspecified renal colic
+N25.0@Renal osteodystrophy
+N25.1@Nephrogenic diabetes insipidus
+N25.81@Secondary hyperparathyroidism of renal origin
+N25.89@Oth disorders resulting from impaired renal tubular function
+N25.9@Disorder rslt from impaired renal tubular function, unsp
+N26.1@Atrophy of kidney (terminal)
+N26.2@Page kidney
+N26.9@Renal sclerosis, unspecified
+N27.0@Small kidney, unilateral
+N27.1@Small kidney, bilateral
+N27.9@Small kidney, unspecified
+N28.0@Ischemia and infarction of kidney
+N28.1@Cyst of kidney, acquired
+N28.81@Hypertrophy of kidney
+N28.82@Megaloureter
+N28.83@Nephroptosis
+N28.84@Pyelitis cystica
+N28.85@Pyeloureteritis cystica
+N28.86@Ureteritis cystica
+N28.89@Other specified disorders of kidney and ureter
+N28.9@Disorder of kidney and ureter, unspecified
+N29.@Oth disorders of kidney and ureter in diseases classd elswhr
+N30.00@Acute cystitis without hematuria
+N30.01@Acute cystitis with hematuria
+N30.10@Interstitial cystitis (chronic) without hematuria
+N30.11@Interstitial cystitis (chronic) with hematuria
+N30.20@Other chronic cystitis without hematuria
+N30.21@Other chronic cystitis with hematuria
+N30.30@Trigonitis without hematuria
+N30.31@Trigonitis with hematuria
+N30.40@Irradiation cystitis without hematuria
+N30.41@Irradiation cystitis with hematuria
+N30.80@Other cystitis without hematuria
+N30.81@Other cystitis with hematuria
+N30.90@Cystitis, unspecified without hematuria
+N30.91@Cystitis, unspecified with hematuria
+N31.0@Uninhibited neuropathic bladder, not elsewhere classified
+N31.1@Reflex neuropathic bladder, not elsewhere classified
+N31.2@Flaccid neuropathic bladder, not elsewhere classified
+N31.8@Other neuromuscular dysfunction of bladder
+N31.9@Neuromuscular dysfunction of bladder, unspecified
+N32.0@Bladder-neck obstruction
+N32.1@Vesicointestinal fistula
+N32.2@Vesical fistula, not elsewhere classified
+N32.3@Diverticulum of bladder
+N32.81@Overactive bladder
+N32.89@Other specified disorders of bladder
+N32.9@Bladder disorder, unspecified
+N33.@Bladder disorders in diseases classified elsewhere
+N34.0@Urethral abscess
+N34.1@Nonspecific urethritis
+N34.2@Other urethritis
+N34.3@Urethral syndrome, unspecified
+N35.010@Post-traumatic urethral stricture, male, meatal
+N35.011@Post-traumatic bulbous urethral stricture
+N35.012@Post-traumatic membranous urethral stricture
+N35.013@Post-traumatic anterior urethral stricture
+N35.014@Post-traumatic urethral stricture, male, unspecified
+N35.021@Urethral stricture due to childbirth
+N35.028@Other post-traumatic urethral stricture, female
+N35.111@Postinfective urethral stricture, NEC, male, meatal
+N35.112@Postinfective bulbous urethral stricture, NEC
+N35.113@Postinfective membranous urethral stricture, NEC
+N35.114@Postinfective anterior urethral stricture, NEC
+N35.119@Postinfective urethral stricture, NEC, male, unsp
+N35.12@Postinfective urethral stricture, NEC, female
+N35.8@Other urethral stricture
+N35.9@Urethral stricture, unspecified
+N36.0@Urethral fistula
+N36.1@Urethral diverticulum
+N36.2@Urethral caruncle
+N36.41@Hypermobility of urethra
+N36.42@Intrinsic sphincter deficiency (ISD)
+N36.43@Combined hypermobility of urethra and intrns sphincter defic
+N36.44@Muscular disorders of urethra
+N36.5@Urethral false passage
+N36.8@Other specified disorders of urethra
+N36.9@Urethral disorder, unspecified
+N37.@Urethral disorders in diseases classified elsewhere
+N39.0@Urinary tract infection, site not specified
+N39.3@Stress incontinence (female) (male)
+N39.41@Urge incontinence
+N39.42@Incontinence without sensory awareness
+N39.43@Post-void dribbling
+N39.44@Nocturnal enuresis
+N39.45@Continuous leakage
+N39.46@Mixed incontinence
+N39.490@Overflow incontinence
+N39.498@Other specified urinary incontinence
+N39.8@Other specified disorders of urinary system
+N39.9@Disorder of urinary system, unspecified
+N40.0@Enlarged prostate without lower urinary tract symptoms
+N40.1@Enlarged prostate with lower urinary tract symptoms
+N40.2@Nodular prostate without lower urinary tract symptoms
+N40.3@Nodular prostate with lower urinary tract symptoms
+N41.0@Acute prostatitis
+N41.1@Chronic prostatitis
+N41.2@Abscess of prostate
+N41.3@Prostatocystitis
+N41.4@Granulomatous prostatitis
+N41.8@Other inflammatory diseases of prostate
+N41.9@Inflammatory disease of prostate, unspecified
+N42.0@Calculus of prostate
+N42.1@Congestion and hemorrhage of prostate
+N42.3@Dysplasia of prostate
+N42.81@Prostatodynia syndrome
+N42.82@Prostatosis syndrome
+N42.83@Cyst of prostate
+N42.89@Other specified disorders of prostate
+N42.9@Disorder of prostate, unspecified
+N43.0@Encysted hydrocele
+N43.1@Infected hydrocele
+N43.2@Other hydrocele
+N43.3@Hydrocele, unspecified
+N43.40@Spermatocele of epididymis, unspecified
+N43.41@Spermatocele of epididymis, single
+N43.42@Spermatocele of epididymis, multiple
+N44.00@Torsion of testis, unspecified
+N44.01@Extravaginal torsion of spermatic cord
+N44.02@Intravaginal torsion of spermatic cord
+N44.03@Torsion of appendix testis
+N44.04@Torsion of appendix epididymis
+N44.1@Cyst of tunica albuginea testis
+N44.2@Benign cyst of testis
+N44.8@Other noninflammatory disorders of the testis
+N45.1@Epididymitis
+N45.2@Orchitis
+N45.3@Epididymo-orchitis
+N45.4@Abscess of epididymis or testis
+N46.01@Organic azoospermia
+N46.021@Azoospermia due to drug therapy
+N46.022@Azoospermia due to infection
+N46.023@Azoospermia due to obstruction of efferent ducts
+N46.024@Azoospermia due to radiation
+N46.025@Azoospermia due to systemic disease
+N46.029@Azoospermia due to other extratesticular causes
+N46.11@Organic oligospermia
+N46.121@Oligospermia due to drug therapy
+N46.122@Oligospermia due to infection
+N46.123@Oligospermia due to obstruction of efferent ducts
+N46.124@Oligospermia due to radiation
+N46.125@Oligospermia due to systemic disease
+N46.129@Oligospermia due to other extratesticular causes
+N46.8@Other male infertility
+N46.9@Male infertility, unspecified
+N47.0@Adherent prepuce, newborn
+N47.1@Phimosis
+N47.2@Paraphimosis
+N47.3@Deficient foreskin
+N47.4@Benign cyst of prepuce
+N47.5@Adhesions of prepuce and glans penis
+N47.6@Balanoposthitis
+N47.7@Other inflammatory diseases of prepuce
+N47.8@Other disorders of prepuce
+N48.0@Leukoplakia of penis
+N48.1@Balanitis
+N48.21@Abscess of corpus cavernosum and penis
+N48.22@Cellulitis of corpus cavernosum and penis
+N48.29@Other inflammatory disorders of penis
+N48.30@Priapism, unspecified
+N48.31@Priapism due to trauma
+N48.32@Priapism due to disease classified elsewhere
+N48.33@Priapism, drug-induced
+N48.39@Other priapism
+N48.5@Ulcer of penis
+N48.6@Induration penis plastica
+N48.81@Thrombosis of superficial vein of penis
+N48.82@Acquired torsion of penis
+N48.83@Acquired buried penis
+N48.89@Other specified disorders of penis
+N48.9@Disorder of penis, unspecified
+N49.0@Inflammatory disorders of seminal vesicle
+N49.1@Inflam disorders of sperm cord, tunica vaginalis and vas def
+N49.2@Inflammatory disorders of scrotum
+N49.3@Fournier gangrene
+N49.8@Inflammatory disorders of oth male genital organs
+N49.9@Inflammatory disorder of unspecified male genital organ
+N50.0@Atrophy of testis
+N50.1@Vascular disorders of male genital organs
+N50.3@Cyst of epididymis
+N50.8@Other specified disorders of male genital organs
+N50.9@Disorder of male genital organs, unspecified
+N51.@Disorders of male genital organs in diseases classd elswhr
+N52.01@Erectile dysfunction due to arterial insufficiency
+N52.02@Corporo-venous occlusive erectile dysfunction
+N52.03@Comb artrl insuff & corporo-venous occlusv erectile dysfnct
+N52.1@Erectile dysfunction due to diseases classified elsewhere
+N52.2@Drug-induced erectile dysfunction
+N52.31@Erectile dysfunction following radical prostatectomy
+N52.32@Erectile dysfunction following radical cystectomy
+N52.33@Erectile dysfunction following urethral surgery
+N52.34@Erectile dysfunction following simple prostatectomy
+N52.39@Other post-surgical erectile dysfunction
+N52.8@Other male erectile dysfunction
+N52.9@Male erectile dysfunction, unspecified
+N53.11@Retarded ejaculation
+N53.12@Painful ejaculation
+N53.13@Anejaculatory orgasm
+N53.14@Retrograde ejaculation
+N53.19@Other ejaculatory dysfunction
+N53.8@Other male sexual dysfunction
+N53.9@Unspecified male sexual dysfunction
+N60.01@Solitary cyst of right breast
+N60.02@Solitary cyst of left breast
+N60.09@Solitary cyst of unspecified breast
+N60.11@Diffuse cystic mastopathy of right breast
+N60.12@Diffuse cystic mastopathy of left breast
+N60.19@Diffuse cystic mastopathy of unspecified breast
+N60.21@Fibroadenosis of right breast
+N60.22@Fibroadenosis of left breast
+N60.29@Fibroadenosis of unspecified breast
+N60.31@Fibrosclerosis of right breast
+N60.32@Fibrosclerosis of left breast
+N60.39@Fibrosclerosis of unspecified breast
+N60.41@Mammary duct ectasia of right breast
+N60.42@Mammary duct ectasia of left breast
+N60.49@Mammary duct ectasia of unspecified breast
+N60.81@Other benign mammary dysplasias of right breast
+N60.82@Other benign mammary dysplasias of left breast
+N60.89@Other benign mammary dysplasias of unspecified breast
+N60.91@Unspecified benign mammary dysplasia of right breast
+N60.92@Unspecified benign mammary dysplasia of left breast
+N60.99@Unspecified benign mammary dysplasia of unspecified breast
+N61.@Inflammatory disorders of breast
+N62.@Hypertrophy of breast
+N63.@Unspecified lump in breast
+N64.0@Fissure and fistula of nipple
+N64.1@Fat necrosis of breast
+N64.2@Atrophy of breast
+N64.3@Galactorrhea not associated with childbirth
+N64.4@Mastodynia
+N64.51@Induration of breast
+N64.52@Nipple discharge
+N64.53@Retraction of nipple
+N64.59@Other signs and symptoms in breast
+N64.81@Ptosis of breast
+N64.82@Hypoplasia of breast
+N64.89@Other specified disorders of breast
+N64.9@Disorder of breast, unspecified
+N65.0@Deformity of reconstructed breast
+N65.1@Disproportion of reconstructed breast
+N70.01@Acute salpingitis
+N70.02@Acute oophoritis
+N70.03@Acute salpingitis and oophoritis
+N70.11@Chronic salpingitis
+N70.12@Chronic oophoritis
+N70.13@Chronic salpingitis and oophoritis
+N70.91@Salpingitis, unspecified
+N70.92@Oophoritis, unspecified
+N70.93@Salpingitis and oophoritis, unspecified
+N71.0@Acute inflammatory disease of uterus
+N71.1@Chronic inflammatory disease of uterus
+N71.9@Inflammatory disease of uterus, unspecified
+N72.@Inflammatory disease of cervix uteri
+N73.0@Acute parametritis and pelvic cellulitis
+N73.1@Chronic parametritis and pelvic cellulitis
+N73.2@Unspecified parametritis and pelvic cellulitis
+N73.3@Female acute pelvic peritonitis
+N73.4@Female chronic pelvic peritonitis
+N73.5@Female pelvic peritonitis, unspecified
+N73.6@Female pelvic peritoneal adhesions (postinfective)
+N73.8@Other specified female pelvic inflammatory diseases
+N73.9@Female pelvic inflammatory disease, unspecified
+N74.@Female pelvic inflam disorders in diseases classd elswhr
+N75.0@Cyst of Bartholin's gland
+N75.1@Abscess of Bartholin's gland
+N75.8@Other diseases of Bartholin's gland
+N75.9@Disease of Bartholin's gland, unspecified
+N76.0@Acute vaginitis
+N76.1@Subacute and chronic vaginitis
+N76.2@Acute vulvitis
+N76.3@Subacute and chronic vulvitis
+N76.4@Abscess of vulva
+N76.5@Ulceration of vagina
+N76.6@Ulceration of vulva
+N76.81@Mucositis (ulcerative) of vagina and vulva
+N76.89@Other specified inflammation of vagina and vulva
+N77.0@Ulceration of vulva in diseases classified elsewhere
+N77.1@Vaginitis, vulvitis and vulvovaginitis in dis classd elswhr
+N80.0@Endometriosis of uterus
+N80.1@Endometriosis of ovary
+N80.2@Endometriosis of fallopian tube
+N80.3@Endometriosis of pelvic peritoneum
+N80.4@Endometriosis of rectovaginal septum and vagina
+N80.5@Endometriosis of intestine
+N80.6@Endometriosis in cutaneous scar
+N80.8@Other endometriosis
+N80.9@Endometriosis, unspecified
+N81.0@Urethrocele
+N81.10@Cystocele, unspecified
+N81.11@Cystocele, midline
+N81.12@Cystocele, lateral
+N81.2@Incomplete uterovaginal prolapse
+N81.3@Complete uterovaginal prolapse
+N81.4@Uterovaginal prolapse, unspecified
+N81.5@Vaginal enterocele
+N81.6@Rectocele
+N81.81@Perineocele
+N81.82@Incompetence or weakening of pubocervical tissue
+N81.83@Incompetence or weakening of rectovaginal tissue
+N81.84@Pelvic muscle wasting
+N81.85@Cervical stump prolapse
+N81.89@Other female genital prolapse
+N81.9@Female genital prolapse, unspecified
+N82.0@Vesicovaginal fistula
+N82.1@Other female urinary-genital tract fistulae
+N82.2@Fistula of vagina to small intestine
+N82.3@Fistula of vagina to large intestine
+N82.4@Other female intestinal-genital tract fistulae
+N82.5@Female genital tract-skin fistulae
+N82.8@Other female genital tract fistulae
+N82.9@Female genital tract fistula, unspecified
+N83.0@Follicular cyst of ovary
+N83.1@Corpus luteum cyst
+N83.20@Unspecified ovarian cysts
+N83.29@Other ovarian cysts
+N83.31@Acquired atrophy of ovary
+N83.32@Acquired atrophy of fallopian tube
+N83.33@Acquired atrophy of ovary and fallopian tube
+N83.4@Prolapse and hernia of ovary and fallopian tube
+N83.51@Torsion of ovary and ovarian pedicle
+N83.52@Torsion of fallopian tube
+N83.53@Torsion of ovary, ovarian pedicle and fallopian tube
+N83.6@Hematosalpinx
+N83.7@Hematoma of broad ligament
+N83.8@Oth noninflammatory disord of ovary, fallop and broad ligmt
+N83.9@Noninflammatory disord of ovary, fallop & broad ligmt, unsp
+N84.0@Polyp of corpus uteri
+N84.1@Polyp of cervix uteri
+N84.2@Polyp of vagina
+N84.3@Polyp of vulva
+N84.8@Polyp of other parts of female genital tract
+N84.9@Polyp of female genital tract, unspecified
+N85.00@Endometrial hyperplasia, unspecified
+N85.01@Benign endometrial hyperplasia
+N85.02@Endometrial intraepithelial neoplasia [EIN]
+N85.2@Hypertrophy of uterus
+N85.3@Subinvolution of uterus
+N85.4@Malposition of uterus
+N85.5@Inversion of uterus
+N85.6@Intrauterine synechiae
+N85.7@Hematometra
+N85.8@Other specified noninflammatory disorders of uterus
+N85.9@Noninflammatory disorder of uterus, unspecified
+N86.@Erosion and ectropion of cervix uteri
+N87.0@Mild cervical dysplasia
+N87.1@Moderate cervical dysplasia
+N87.9@Dysplasia of cervix uteri, unspecified
+N88.0@Leukoplakia of cervix uteri
+N88.1@Old laceration of cervix uteri
+N88.2@Stricture and stenosis of cervix uteri
+N88.3@Incompetence of cervix uteri
+N88.4@Hypertrophic elongation of cervix uteri
+N88.8@Other specified noninflammatory disorders of cervix uteri
+N88.9@Noninflammatory disorder of cervix uteri, unspecified
+N89.0@Mild vaginal dysplasia
+N89.1@Moderate vaginal dysplasia
+N89.3@Dysplasia of vagina, unspecified
+N89.4@Leukoplakia of vagina
+N89.5@Stricture and atresia of vagina
+N89.6@Tight hymenal ring
+N89.7@Hematocolpos
+N89.8@Other specified noninflammatory disorders of vagina
+N89.9@Noninflammatory disorder of vagina, unspecified
+N90.0@Mild vulvar dysplasia
+N90.1@Moderate vulvar dysplasia
+N90.3@Dysplasia of vulva, unspecified
+N90.4@Leukoplakia of vulva
+N90.5@Atrophy of vulva
+N90.6@Hypertrophy of vulva
+N90.7@Vulvar cyst
+N90.810@Female genital mutilation status, unspecified
+N90.811@Female genital mutilation Type I status
+N90.812@Female genital mutilation Type II status
+N90.813@Female genital mutilation Type III status
+N90.818@Other female genital mutilation status
+N90.89@Oth noninflammatory disorders of vulva and perineum
+N90.9@Noninflammatory disorder of vulva and perineum, unspecified
+N91.0@Primary amenorrhea
+N91.1@Secondary amenorrhea
+N91.2@Amenorrhea, unspecified
+N91.3@Primary oligomenorrhea
+N91.4@Secondary oligomenorrhea
+N91.5@Oligomenorrhea, unspecified
+N92.0@Excessive and frequent menstruation with regular cycle
+N92.1@Excessive and frequent menstruation with irregular cycle
+N92.2@Excessive menstruation at puberty
+N92.3@Ovulation bleeding
+N92.4@Excessive bleeding in the premenopausal period
+N92.5@Other specified irregular menstruation
+N92.6@Irregular menstruation, unspecified
+N93.0@Postcoital and contact bleeding
+N93.8@Other specified abnormal uterine and vaginal bleeding
+N93.9@Abnormal uterine and vaginal bleeding, unspecified
+N94.0@Mittelschmerz
+N94.1@Dyspareunia
+N94.2@Vaginismus
+N94.3@Premenstrual tension syndrome
+N94.4@Primary dysmenorrhea
+N94.5@Secondary dysmenorrhea
+N94.6@Dysmenorrhea, unspecified
+N94.810@Vulvar vestibulitis
+N94.818@Other vulvodynia
+N94.819@Vulvodynia, unspecified
+N94.89@Oth cond assoc w female genital organs and menstrual cycle
+N94.9@Unsp cond assoc w female genital organs and menstrual cycle
+N95.0@Postmenopausal bleeding
+N95.1@Menopausal and female climacteric states
+N95.2@Postmenopausal atrophic vaginitis
+N95.8@Other specified menopausal and perimenopausal disorders
+N95.9@Unspecified menopausal and perimenopausal disorder
+N96.@Recurrent pregnancy loss
+N97.0@Female infertility associated with anovulation
+N97.1@Female infertility of tubal origin
+N97.2@Female infertility of uterine origin
+N97.8@Female infertility of other origin
+N97.9@Female infertility, unspecified
+N98.0@Infection associated with artificial insemination
+N98.1@Hyperstimulation of ovaries
+N98.2@Comp of attempt introduce of fertilized ovum fol in vitro
+N98.3@Comp of attempted introduction of embryo in embryo transfer
+N98.8@Other complications associated with artificial fertilization
+N98.9@Complication associated with artificial fertilization, unsp
+N99.0@Postprocedural (acute) (chronic) kidney failure
+N99.110@Postprocedural urethral stricture, male, meatal
+N99.111@Postprocedural bulbous urethral stricture
+N99.112@Postprocedural membranous urethral stricture
+N99.113@Postprocedural anterior urethral stricture
+N99.114@Postprocedural urethral stricture, male, unspecified
+N99.12@Postprocedural urethral stricture, female
+N99.2@Postprocedural adhesions of vagina
+N99.3@Prolapse of vaginal vault after hysterectomy
+N99.4@Postprocedural pelvic peritoneal adhesions
+N99.510@Cystostomy hemorrhage
+N99.511@Cystostomy infection
+N99.512@Cystostomy malfunction
+N99.518@Other cystostomy complication
+N99.520@Hemorrhage of other external stoma of urinary tract
+N99.521@Infection of other external stoma of urinary tract
+N99.522@Malfunction of other external stoma of urinary tract
+N99.528@Other complication of other external stoma of urinary tract
+N99.530@Hemorrhage of other stoma of urinary tract
+N99.531@Infection of other stoma of urinary tract
+N99.532@Malfunction of other stoma of urinary tract
+N99.538@Other complication of other stoma of urinary tract
+N99.61@Intraop hemor/hemtom of a GU sys org comp a GU sys procedure
+N99.62@Intraop hemor/hemtom of a GU sys org comp oth procedure
+N99.71@Acc pnctr & lac of a GU sys org during a GU sys procedure
+N99.72@Accidental pnctr & lac of a GU sys org during oth procedure
+N99.81@Other intraoperative complications of genitourinary system
+N99.820@Postproc hemor/hemtom of a GU sys org fol a GU sys procedure
+N99.821@Postproc hemor/hemtom of a GU sys org fol oth procedure
+N99.83@Residual ovary syndrome
+N99.89@Oth postprocedural complications and disorders of GU sys

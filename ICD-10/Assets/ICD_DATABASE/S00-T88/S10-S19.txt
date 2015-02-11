@@ -1,0 +1,1074 @@
+S10.0XXA@Contusion of throat, initial encounter
+S10.0XXD@Contusion of throat, subsequent encounter
+S10.0XXS@Contusion of throat, sequela
+S10.10XA@Unspecified superficial injuries of throat, init encntr
+S10.10XD@Unspecified superficial injuries of throat, subs encntr
+S10.10XS@Unspecified superficial injuries of throat, sequela
+S10.11XA@Abrasion of throat, initial encounter
+S10.11XD@Abrasion of throat, subsequent encounter
+S10.11XS@Abrasion of throat, sequela
+S10.12XA@Blister (nonthermal) of throat, initial encounter
+S10.12XD@Blister (nonthermal) of throat, subsequent encounter
+S10.12XS@Blister (nonthermal) of throat, sequela
+S10.14XA@External constriction of part of throat, initial encounter
+S10.14XD@External constriction of part of throat, subs encntr
+S10.14XS@External constriction of part of throat, sequela
+S10.15XA@Superficial foreign body of throat, initial encounter
+S10.15XD@Superficial foreign body of throat, subsequent encounter
+S10.15XS@Superficial foreign body of throat, sequela
+S10.16XA@Insect bite (nonvenomous) of throat, initial encounter
+S10.16XD@Insect bite (nonvenomous) of throat, subsequent encounter
+S10.16XS@Insect bite (nonvenomous) of throat, sequela
+S10.17XA@Other superficial bite of throat, initial encounter
+S10.17XD@Other superficial bite of throat, subsequent encounter
+S10.17XS@Other superficial bite of throat, sequela
+S10.80XA@Unsp superficial injury of oth part of neck, init encntr
+S10.80XD@Unsp superficial injury of oth part of neck, subs encntr
+S10.80XS@Unspecified superficial injury of oth part of neck, sequela
+S10.81XA@Abrasion of other specified part of neck, initial encounter
+S10.81XD@Abrasion of other specified part of neck, subs encntr
+S10.81XS@Abrasion of other specified part of neck, sequela
+S10.82XA@Blister (nonthermal) of oth part of neck, init encntr
+S10.82XD@Blister (nonthermal) of oth part of neck, subs encntr
+S10.82XS@Blister (nonthermal) of oth part of neck, sequela
+S10.83XA@Contusion of other specified part of neck, initial encounter
+S10.83XD@Contusion of other specified part of neck, subs encntr
+S10.83XS@Contusion of other specified part of neck, sequela
+S10.84XA@External constriction of oth part of neck, init encntr
+S10.84XD@External constriction of oth part of neck, subs encntr
+S10.84XS@External constriction of oth part of neck, sequela
+S10.85XA@Superficial foreign body of oth part of neck, init encntr
+S10.85XD@Superficial foreign body of oth part of neck, subs encntr
+S10.85XS@Superficial foreign body of oth part of neck, sequela
+S10.86XA@Insect bite of other specified part of neck, init encntr
+S10.86XD@Insect bite of other specified part of neck, subs encntr
+S10.86XS@Insect bite of other specified part of neck, sequela
+S10.87XA@Other superficial bite of oth part of neck, init encntr
+S10.87XD@Other superficial bite of oth part of neck, subs encntr
+S10.87XS@Other superficial bite of oth part of neck, sequela
+S10.90XA@Unsp superficial injury of unsp part of neck, init encntr
+S10.90XD@Unsp superficial injury of unsp part of neck, subs encntr
+S10.90XS@Unsp superficial injury of unspecified part of neck, sequela
+S10.91XA@Abrasion of unspecified part of neck, initial encounter
+S10.91XD@Abrasion of unspecified part of neck, subsequent encounter
+S10.91XS@Abrasion of unspecified part of neck, sequela
+S10.92XA@Blister (nonthermal) of unsp part of neck, init encntr
+S10.92XD@Blister (nonthermal) of unsp part of neck, subs encntr
+S10.92XS@Blister (nonthermal) of unspecified part of neck, sequela
+S10.93XA@Contusion of unspecified part of neck, initial encounter
+S10.93XD@Contusion of unspecified part of neck, subsequent encounter
+S10.93XS@Contusion of unspecified part of neck, sequela
+S10.94XA@External constriction of unsp part of neck, init encntr
+S10.94XD@External constriction of unsp part of neck, subs encntr
+S10.94XS@External constriction of unspecified part of neck, sequela
+S10.95XA@Superficial foreign body of unsp part of neck, init encntr
+S10.95XD@Superficial foreign body of unsp part of neck, subs encntr
+S10.95XS@Superficial foreign body of unsp part of neck, sequela
+S10.96XA@Insect bite of unspecified part of neck, initial encounter
+S10.96XD@Insect bite of unspecified part of neck, subs encntr
+S10.96XS@Insect bite of unspecified part of neck, sequela
+S10.97XA@Other superficial bite of unsp part of neck, init encntr
+S10.97XD@Other superficial bite of unsp part of neck, subs encntr
+S10.97XS@Other superficial bite of unspecified part of neck, sequela
+S11.011A@Laceration without foreign body of larynx, initial encounter
+S11.011D@Laceration without foreign body of larynx, subs encntr
+S11.011S@Laceration without foreign body of larynx, sequela
+S11.012A@Laceration with foreign body of larynx, initial encounter
+S11.012D@Laceration with foreign body of larynx, subsequent encounter
+S11.012S@Laceration with foreign body of larynx, sequela
+S11.013A@Puncture wound without foreign body of larynx, init encntr
+S11.013D@Puncture wound without foreign body of larynx, subs encntr
+S11.013S@Puncture wound without foreign body of larynx, sequela
+S11.014A@Puncture wound with foreign body of larynx, init encntr
+S11.014D@Puncture wound with foreign body of larynx, subs encntr
+S11.014S@Puncture wound with foreign body of larynx, sequela
+S11.015A@Open bite of larynx, initial encounter
+S11.015D@Open bite of larynx, subsequent encounter
+S11.015S@Open bite of larynx, sequela
+S11.019A@Unspecified open wound of larynx, initial encounter
+S11.019D@Unspecified open wound of larynx, subsequent encounter
+S11.019S@Unspecified open wound of larynx, sequela
+S11.021A@Laceration without foreign body of trachea, init encntr
+S11.021D@Laceration without foreign body of trachea, subs encntr
+S11.021S@Laceration without foreign body of trachea, sequela
+S11.022A@Laceration with foreign body of trachea, initial encounter
+S11.022D@Laceration with foreign body of trachea, subs encntr
+S11.022S@Laceration with foreign body of trachea, sequela
+S11.023A@Puncture wound without foreign body of trachea, init encntr
+S11.023D@Puncture wound without foreign body of trachea, subs encntr
+S11.023S@Puncture wound without foreign body of trachea, sequela
+S11.024A@Puncture wound with foreign body of trachea, init encntr
+S11.024D@Puncture wound with foreign body of trachea, subs encntr
+S11.024S@Puncture wound with foreign body of trachea, sequela
+S11.025A@Open bite of trachea, initial encounter
+S11.025D@Open bite of trachea, subsequent encounter
+S11.025S@Open bite of trachea, sequela
+S11.029A@Unspecified open wound of trachea, initial encounter
+S11.029D@Unspecified open wound of trachea, subsequent encounter
+S11.029S@Unspecified open wound of trachea, sequela
+S11.031A@Laceration without foreign body of vocal cord, init encntr
+S11.031D@Laceration without foreign body of vocal cord, subs encntr
+S11.031S@Laceration without foreign body of vocal cord, sequela
+S11.032A@Laceration with foreign body of vocal cord, init encntr
+S11.032D@Laceration with foreign body of vocal cord, subs encntr
+S11.032S@Laceration with foreign body of vocal cord, sequela
+S11.033A@Puncture wound w/o foreign body of vocal cord, init encntr
+S11.033D@Puncture wound w/o foreign body of vocal cord, subs encntr
+S11.033S@Puncture wound without foreign body of vocal cord, sequela
+S11.034A@Puncture wound with foreign body of vocal cord, init encntr
+S11.034D@Puncture wound with foreign body of vocal cord, subs encntr
+S11.034S@Puncture wound with foreign body of vocal cord, sequela
+S11.035A@Open bite of vocal cord, initial encounter
+S11.035D@Open bite of vocal cord, subsequent encounter
+S11.035S@Open bite of vocal cord, sequela
+S11.039A@Unspecified open wound of vocal cord, initial encounter
+S11.039D@Unspecified open wound of vocal cord, subsequent encounter
+S11.039S@Unspecified open wound of vocal cord, sequela
+S11.10XA@Unspecified open wound of thyroid gland, initial encounter
+S11.10XD@Unspecified open wound of thyroid gland, subs encntr
+S11.10XS@Unspecified open wound of thyroid gland, sequela
+S11.11XA@Laceration w/o foreign body of thyroid gland, init encntr
+S11.11XD@Laceration w/o foreign body of thyroid gland, subs encntr
+S11.11XS@Laceration without foreign body of thyroid gland, sequela
+S11.12XA@Laceration with foreign body of thyroid gland, init encntr
+S11.12XD@Laceration with foreign body of thyroid gland, subs encntr
+S11.12XS@Laceration with foreign body of thyroid gland, sequela
+S11.13XA@Puncture wound w/o foreign body of thyroid gland, init
+S11.13XD@Puncture wound w/o foreign body of thyroid gland, subs
+S11.13XS@Puncture wound w/o foreign body of thyroid gland, sequela
+S11.14XA@Puncture wound w foreign body of thyroid gland, init encntr
+S11.14XD@Puncture wound w foreign body of thyroid gland, subs encntr
+S11.14XS@Puncture wound with foreign body of thyroid gland, sequela
+S11.15XA@Open bite of thyroid gland, initial encounter
+S11.15XD@Open bite of thyroid gland, subsequent encounter
+S11.15XS@Open bite of thyroid gland, sequela
+S11.20XA@Unsp open wound of pharynx and cervical esophagus, init
+S11.20XD@Unsp open wound of pharynx and cervical esophagus, subs
+S11.20XS@Unsp open wound of pharynx and cervical esophagus, sequela
+S11.21XA@Laceration w/o fb of pharynx and cervical esophagus, init
+S11.21XD@Laceration w/o fb of pharynx and cervical esophagus, subs
+S11.21XS@Laceration w/o fb of pharynx and cervical esophagus, sequela
+S11.22XA@Laceration w fb of pharynx and cervical esophagus, init
+S11.22XD@Laceration w fb of pharynx and cervical esophagus, subs
+S11.22XS@Laceration w fb of pharynx and cervical esophagus, sequela
+S11.23XA@Pnctr w/o fb of pharynx and cervical esophagus, init
+S11.23XD@Pnctr w/o fb of pharynx and cervical esophagus, subs
+S11.23XS@Pnctr w/o fb of pharynx and cervical esophagus, sequela
+S11.24XA@Pnctr w foreign body of pharynx and cervical esophagus, init
+S11.24XD@Pnctr w foreign body of pharynx and cervical esophagus, subs
+S11.24XS@Pnctr w fb of pharynx and cervical esophagus, sequela
+S11.25XA@Open bite of pharynx and cervical esophagus, init encntr
+S11.25XD@Open bite of pharynx and cervical esophagus, subs encntr
+S11.25XS@Open bite of pharynx and cervical esophagus, sequela
+S11.80XA@Unspecified open wound of oth part of neck, init encntr
+S11.80XD@Unspecified open wound of oth part of neck, subs encntr
+S11.80XS@Unspecified open wound of oth part of neck, sequela
+S11.81XA@Laceration w/o foreign body of oth part of neck, init encntr
+S11.81XD@Laceration w/o foreign body of oth part of neck, subs encntr
+S11.81XS@Laceration without foreign body of oth part of neck, sequela
+S11.82XA@Laceration w foreign body of oth part of neck, init encntr
+S11.82XD@Laceration w foreign body of oth part of neck, subs encntr
+S11.82XS@Laceration with foreign body of oth part of neck, sequela
+S11.83XA@Puncture wound w/o foreign body oth prt neck, init encntr
+S11.83XD@Puncture wound w/o foreign body oth prt neck, subs encntr
+S11.83XS@Puncture wound w/o foreign body of oth part of neck, sequela
+S11.84XA@Puncture wound w foreign body oth prt neck, init encntr
+S11.84XD@Puncture wound w foreign body oth prt neck, subs encntr
+S11.84XS@Puncture wound w foreign body of oth part of neck, sequela
+S11.85XA@Open bite of other specified part of neck, initial encounter
+S11.85XD@Open bite of other specified part of neck, subs encntr
+S11.85XS@Open bite of other specified part of neck, sequela
+S11.89XA@Other open wound of oth part of neck, init encntr
+S11.89XD@Other open wound of oth part of neck, subs encntr
+S11.89XS@Other open wound of other specified part of neck, sequela
+S11.90XA@Unsp open wound of unspecified part of neck, init encntr
+S11.90XD@Unsp open wound of unspecified part of neck, subs encntr
+S11.90XS@Unspecified open wound of unspecified part of neck, sequela
+S11.91XA@Laceration w/o foreign body of unsp part of neck, init
+S11.91XD@Laceration w/o foreign body of unsp part of neck, subs
+S11.91XS@Laceration w/o foreign body of unsp part of neck, sequela
+S11.92XA@Laceration w foreign body of unsp part of neck, init encntr
+S11.92XD@Laceration w foreign body of unsp part of neck, subs encntr
+S11.92XS@Laceration with foreign body of unsp part of neck, sequela
+S11.93XA@Puncture wound w/o foreign body of unsp part of neck, init
+S11.93XD@Puncture wound w/o foreign body of unsp part of neck, subs
+S11.93XS@Pnctr w/o foreign body of unsp part of neck, sequela
+S11.94XA@Puncture wound w foreign body of unsp part of neck, init
+S11.94XD@Puncture wound w foreign body of unsp part of neck, subs
+S11.94XS@Puncture wound w foreign body of unsp part of neck, sequela
+S11.95XA@Open bite of unspecified part of neck, initial encounter
+S11.95XD@Open bite of unspecified part of neck, subsequent encounter
+S11.95XS@Open bite of unspecified part of neck, sequela
+S12.000A@Unsp disp fx of first cervical vertebra, init for clos fx
+S12.000B@Unsp disp fx of first cervical vertebra, init for opn fx
+S12.000D@Unsp disp fx of first cervcal vert, subs for fx w routn heal
+S12.000G@Unsp disp fx of first cervcal vert, subs for fx w delay heal
+S12.000K@Unsp disp fx of first cervcal vert, subs for fx w nonunion
+S12.000S@Unspecified disp fx of first cervical vertebra, sequela
+S12.001A@Unsp nondisp fx of first cervical vertebra, init for clos fx
+S12.001B@Unsp nondisp fx of first cervical vertebra, init for opn fx
+S12.001D@Unsp nondisp fx of 1st cervcal vert, 7thD
+S12.001G@Unsp nondisp fx of 1st cervcal vert, 7thG
+S12.001K@Unsp nondisp fx of 1st cervcal vert, subs for fx w nonunion
+S12.001S@Unspecified nondisp fx of first cervical vertebra, sequela
+S12.01XA@Stable burst fracture of first cervical vertebra, init
+S12.01XB@Stable burst fx first cervcal vertebra, init for opn fx
+S12.01XD@Stable burst fx first cervcal vert, subs for fx w routn heal
+S12.01XG@Stable burst fx first cervcal vert, subs for fx w delay heal
+S12.01XK@Stable burst fx first cervcal vert, subs for fx w nonunion
+S12.01XS@Stable burst fracture of first cervical vertebra, sequela
+S12.02XA@Unstable burst fracture of first cervical vertebra, init
+S12.02XB@Unstable burst fx first cervcal vertebra, init for opn fx
+S12.02XD@Unstbl burst fx first cervcal vert, subs for fx w routn heal
+S12.02XG@Unstbl burst fx first cervcal vert, subs for fx w delay heal
+S12.02XK@Unstbl burst fx first cervcal vert, subs for fx w nonunion
+S12.02XS@Unstable burst fracture of first cervical vertebra, sequela
+S12.030A@Displaced posterior arch fx first cervcal vertebra, init
+S12.030B@Displ post arch fx first cervcal vertebra, init for opn fx
+S12.030D@Displ post arch fx 1st cervcal vert, 7thD
+S12.030G@Displ post arch fx 1st cervcal vert, 7thG
+S12.030K@Displ post arch fx 1st cervcal vert, subs for fx w nonunion
+S12.030S@Displaced posterior arch fx first cervcal vertebra, sequela
+S12.031A@Nondisp posterior arch fx first cervcal vertebra, init
+S12.031B@Nondisp post arch fx first cervcal vertebra, init for opn fx
+S12.031D@Nondisp post arch fx 1st cervcal vert, 7thD
+S12.031G@Nondisp post arch fx 1st cervcal vert, 7thG
+S12.031K@Nondisp post arch fx 1st cervcal vert, 7thK
+S12.031S@Nondisp posterior arch fx first cervcal vertebra, sequela
+S12.040A@Displaced lateral mass fx first cervcal vertebra, init
+S12.040B@Displ lateral mass fx first cervcal vert, init for opn fx
+S12.040D@Displ lateral mass fx 1st cervcal vert, 7thD
+S12.040G@Displ lateral mass fx 1st cervcal vert, 7thG
+S12.040K@Displ lateral mass fx 1st cervcal vert, 7thK
+S12.040S@Displaced lateral mass fx first cervcal vertebra, sequela
+S12.041A@Nondisp lateral mass fx first cervcal vertebra, init
+S12.041B@Nondisp lateral mass fx first cervcal vert, init for opn fx
+S12.041D@Nondisp lateral mass fx 1st cervcal vert, 7thD
+S12.041G@Nondisp lateral mass fx 1st cervcal vert, 7thG
+S12.041K@Nondisp lateral mass fx 1st cervcal vert, 7thK
+S12.041S@Nondisp lateral mass fx first cervcal vertebra, sequela
+S12.090A@Oth disp fx of first cervical vertebra, init for clos fx
+S12.090B@Oth disp fx of first cervical vertebra, init for opn fx
+S12.090D@Oth disp fx of first cervcal vert, subs for fx w routn heal
+S12.090G@Oth disp fx of first cervcal vert, subs for fx w delay heal
+S12.090K@Oth disp fx of first cervcal vert, subs for fx w nonunion
+S12.090S@Other displaced fracture of first cervical vertebra, sequela
+S12.091A@Oth nondisp fx of first cervical vertebra, init for clos fx
+S12.091B@Oth nondisp fx of first cervical vertebra, init for opn fx
+S12.091D@Oth nondisp fx of 1st cervcal vert, subs for fx w routn heal
+S12.091G@Oth nondisp fx of 1st cervcal vert, subs for fx w delay heal
+S12.091K@Oth nondisp fx of first cervcal vert, subs for fx w nonunion
+S12.091S@Other nondisp fx of first cervical vertebra, sequela
+S12.100A@Unsp disp fx of second cervical vertebra, init for clos fx
+S12.100B@Unsp disp fx of second cervical vertebra, init for opn fx
+S12.100D@Unsp disp fx of 2nd cervcal vert, subs for fx w routn heal
+S12.100G@Unsp disp fx of 2nd cervcal vert, subs for fx w delay heal
+S12.100K@Unsp disp fx of second cervcal vert, subs for fx w nonunion
+S12.100S@Unspecified disp fx of second cervical vertebra, sequela
+S12.101A@Unsp nondisp fx of second cervical vertebra, init
+S12.101B@Unsp nondisp fx of second cervical vertebra, init for opn fx
+S12.101D@Unsp nondisp fx of 2nd cervcal vert, 7thD
+S12.101G@Unsp nondisp fx of 2nd cervcal vert, 7thG
+S12.101K@Unsp nondisp fx of 2nd cervcal vert, subs for fx w nonunion
+S12.101S@Unspecified nondisp fx of second cervical vertebra, sequela
+S12.110A@Anterior displaced Type II dens fracture, init for clos fx
+S12.110B@Anterior displaced Type II dens fracture, init for opn fx
+S12.110D@Ant displ Type II dens fracture, subs for fx w routn heal
+S12.110G@Ant displ Type II dens fracture, subs for fx w delay heal
+S12.110K@Anterior displ Type II dens fracture, subs for fx w nonunion
+S12.110S@Anterior displaced Type II dens fracture, sequela
+S12.111A@Posterior displaced Type II dens fracture, init for clos fx
+S12.111B@Posterior displaced Type II dens fracture, init for opn fx
+S12.111D@Post displ Type II dens fracture, subs for fx w routn heal
+S12.111G@Post displ Type II dens fracture, subs for fx w delay heal
+S12.111K@Post displ Type II dens fracture, subs for fx w nonunion
+S12.111S@Posterior displaced Type II dens fracture, sequela
+S12.112A@Nondisplaced Type II dens fracture, init for clos fx
+S12.112B@Nondisplaced Type II dens fracture, init for opn fx
+S12.112D@Nondisplaced Type II dens fracture, subs for fx w routn heal
+S12.112G@Nondisplaced Type II dens fracture, subs for fx w delay heal
+S12.112K@Nondisplaced Type II dens fracture, subs for fx w nonunion
+S12.112S@Nondisplaced Type II dens fracture, sequela
+S12.120A@Oth displaced dens fracture, init encntr for closed fracture
+S12.120B@Other displaced dens fracture, init encntr for open fracture
+S12.120D@Oth displaced dens fracture, subs for fx w routn heal
+S12.120G@Oth displaced dens fracture, subs for fx w delay heal
+S12.120K@Oth displaced dens fracture, subs for fx w nonunion
+S12.120S@Other displaced dens fracture, sequela
+S12.121A@Oth nondisplaced dens fracture, init for clos fx
+S12.121B@Oth nondisplaced dens fracture, init for opn fx
+S12.121D@Oth nondisplaced dens fracture, subs for fx w routn heal
+S12.121G@Oth nondisplaced dens fracture, subs for fx w delay heal
+S12.121K@Oth nondisplaced dens fracture, subs for fx w nonunion
+S12.121S@Other nondisplaced dens fracture, sequela
+S12.130A@Unsp traum displ spondylolysis of second cervcal vert, init
+S12.130B@Unsp traum displ spondylolysis of 2nd cervcal vert, 7thB
+S12.130D@Unsp traum displ spondylolysis of 2nd cervcal vert, 7thD
+S12.130G@Unsp traum displ spondylolysis of 2nd cervcal vert, 7thG
+S12.130K@Unsp traum displ spondylolysis of 2nd cervcal vert, 7thK
+S12.130S@Unsp traum displ spondylolysis of second cervcal vert, sqla
+S12.131A@Unsp traum nondisp spondylolysis of 2nd cervcal vert, init
+S12.131B@Unsp traum nondisp spondylolysis of 2nd cervcal vert, 7thB
+S12.131D@Unsp traum nondisp spondylolysis of 2nd cervcal vert, 7thD
+S12.131G@Unsp traum nondisp spondylolysis of 2nd cervcal vert, 7thG
+S12.131K@Unsp traum nondisp spondylolysis of 2nd cervcal vert, 7thK
+S12.131S@Unsp traum nondisp spondylolysis of 2nd cervcal vert, sqla
+S12.14XA@Type III traum spondylolysis of second cervcal vert, init
+S12.14XB@Type III traum spondylolysis of 2nd cervcal vert, 7thB
+S12.14XD@Type III traum spondylolysis of 2nd cervcal vert, 7thD
+S12.14XG@Type III traum spondylolysis of 2nd cervcal vert, 7thG
+S12.14XK@Type III traum spondylolysis of 2nd cervcal vert, 7thK
+S12.14XS@Type III traum spondylolysis of second cervcal vert, sequela
+S12.150A@Oth traum displ spondylolysis of second cervcal vert, init
+S12.150B@Oth traum displ spondylolysis of 2nd cervcal vert, 7thB
+S12.150D@Oth traum displ spondylolysis of 2nd cervcal vert, 7thD
+S12.150G@Oth traum displ spondylolysis of 2nd cervcal vert, 7thG
+S12.150K@Oth traum displ spondylolysis of 2nd cervcal vert, 7thK
+S12.150S@Oth traum displ spondylolysis of second cervcal vert, sqla
+S12.151A@Oth traum nondisp spondylolysis of second cervcal vert, init
+S12.151B@Oth traum nondisp spondylolysis of 2nd cervcal vert, 7thB
+S12.151D@Oth traum nondisp spondylolysis of 2nd cervcal vert, 7thD
+S12.151G@Oth traum nondisp spondylolysis of 2nd cervcal vert, 7thG
+S12.151K@Oth traum nondisp spondylolysis of 2nd cervcal vert, 7thK
+S12.151S@Oth traum nondisp spondylolysis of second cervcal vert, sqla
+S12.190A@Oth disp fx of second cervical vertebra, init for clos fx
+S12.190B@Oth disp fx of second cervical vertebra, init for opn fx
+S12.190D@Oth disp fx of second cervcal vert, subs for fx w routn heal
+S12.190G@Oth disp fx of second cervcal vert, subs for fx w delay heal
+S12.190K@Oth disp fx of second cervcal vert, subs for fx w nonunion
+S12.190S@Other disp fx of second cervical vertebra, sequela
+S12.191A@Oth nondisp fx of second cervical vertebra, init for clos fx
+S12.191B@Oth nondisp fx of second cervical vertebra, init for opn fx
+S12.191D@Oth nondisp fx of 2nd cervcal vert, subs for fx w routn heal
+S12.191G@Oth nondisp fx of 2nd cervcal vert, subs for fx w delay heal
+S12.191K@Oth nondisp fx of 2nd cervcal vert, subs for fx w nonunion
+S12.191S@Other nondisp fx of second cervical vertebra, sequela
+S12.200A@Unsp disp fx of third cervical vertebra, init for clos fx
+S12.200B@Unsp disp fx of third cervical vertebra, init for opn fx
+S12.200D@Unsp disp fx of third cervcal vert, subs for fx w routn heal
+S12.200G@Unsp disp fx of third cervcal vert, subs for fx w delay heal
+S12.200K@Unsp disp fx of third cervcal vert, subs for fx w nonunion
+S12.200S@Unspecified disp fx of third cervical vertebra, sequela
+S12.201A@Unsp nondisp fx of third cervical vertebra, init for clos fx
+S12.201B@Unsp nondisp fx of third cervical vertebra, init for opn fx
+S12.201D@Unsp nondisp fx of 3rd cervcal vert, 7thD
+S12.201G@Unsp nondisp fx of 3rd cervcal vert, 7thG
+S12.201K@Unsp nondisp fx of 3rd cervcal vert, subs for fx w nonunion
+S12.201S@Unspecified nondisp fx of third cervical vertebra, sequela
+S12.230A@Unsp traum displ spondylolysis of third cervcal vert, init
+S12.230B@Unsp traum displ spondylolysis of 3rd cervcal vert, 7thB
+S12.230D@Unsp traum displ spondylolysis of 3rd cervcal vert, 7thD
+S12.230G@Unsp traum displ spondylolysis of 3rd cervcal vert, 7thG
+S12.230K@Unsp traum displ spondylolysis of 3rd cervcal vert, 7thK
+S12.230S@Unsp traum displ spondylolysis of third cervcal vert, sqla
+S12.231A@Unsp traum nondisp spondylolysis of third cervcal vert, init
+S12.231B@Unsp traum nondisp spondylolysis of 3rd cervcal vert, 7thB
+S12.231D@Unsp traum nondisp spondylolysis of 3rd cervcal vert, 7thD
+S12.231G@Unsp traum nondisp spondylolysis of 3rd cervcal vert, 7thG
+S12.231K@Unsp traum nondisp spondylolysis of 3rd cervcal vert, 7thK
+S12.231S@Unsp traum nondisp spondylolysis of third cervcal vert, sqla
+S12.24XA@Type III traum spondylolysis of third cervcal vertebra, init
+S12.24XB@Type III traum spondylolysis of 3rd cervcal vert, 7thB
+S12.24XD@Type III traum spondylolysis of 3rd cervcal vert, 7thD
+S12.24XG@Type III traum spondylolysis of 3rd cervcal vert, 7thG
+S12.24XK@Type III traum spondylolysis of 3rd cervcal vert, 7thK
+S12.24XS@Type III traum spondylolysis of third cervcal vert, sequela
+S12.250A@Oth traum displ spondylolysis of third cervcal vert, init
+S12.250B@Oth traum displ spondylolysis of 3rd cervcal vert, 7thB
+S12.250D@Oth traum displ spondylolysis of 3rd cervcal vert, 7thD
+S12.250G@Oth traum displ spondylolysis of 3rd cervcal vert, 7thG
+S12.250K@Oth traum displ spondylolysis of 3rd cervcal vert, 7thK
+S12.250S@Oth traum displ spondylolysis of third cervcal vert, sequela
+S12.251A@Oth traum nondisp spondylolysis of third cervcal vert, init
+S12.251B@Oth traum nondisp spondylolysis of 3rd cervcal vert, 7thB
+S12.251D@Oth traum nondisp spondylolysis of 3rd cervcal vert, 7thD
+S12.251G@Oth traum nondisp spondylolysis of 3rd cervcal vert, 7thG
+S12.251K@Oth traum nondisp spondylolysis of 3rd cervcal vert, 7thK
+S12.251S@Oth traum nondisp spondylolysis of third cervcal vert, sqla
+S12.290A@Oth disp fx of third cervical vertebra, init for clos fx
+S12.290B@Oth disp fx of third cervical vertebra, init for opn fx
+S12.290D@Oth disp fx of third cervcal vert, subs for fx w routn heal
+S12.290G@Oth disp fx of third cervcal vert, subs for fx w delay heal
+S12.290K@Oth disp fx of third cervcal vert, subs for fx w nonunion
+S12.290S@Other displaced fracture of third cervical vertebra, sequela
+S12.291A@Oth nondisp fx of third cervical vertebra, init for clos fx
+S12.291B@Oth nondisp fx of third cervical vertebra, init for opn fx
+S12.291D@Oth nondisp fx of 3rd cervcal vert, subs for fx w routn heal
+S12.291G@Oth nondisp fx of 3rd cervcal vert, subs for fx w delay heal
+S12.291K@Oth nondisp fx of third cervcal vert, subs for fx w nonunion
+S12.291S@Other nondisp fx of third cervical vertebra, sequela
+S12.300A@Unsp disp fx of fourth cervical vertebra, init for clos fx
+S12.300B@Unsp disp fx of fourth cervical vertebra, init for opn fx
+S12.300D@Unsp disp fx of 4th cervcal vert, subs for fx w routn heal
+S12.300G@Unsp disp fx of 4th cervcal vert, subs for fx w delay heal
+S12.300K@Unsp disp fx of fourth cervcal vert, subs for fx w nonunion
+S12.300S@Unspecified disp fx of fourth cervical vertebra, sequela
+S12.301A@Unsp nondisp fx of fourth cervical vertebra, init
+S12.301B@Unsp nondisp fx of fourth cervical vertebra, init for opn fx
+S12.301D@Unsp nondisp fx of 4th cervcal vert, 7thD
+S12.301G@Unsp nondisp fx of 4th cervcal vert, 7thG
+S12.301K@Unsp nondisp fx of 4th cervcal vert, subs for fx w nonunion
+S12.301S@Unspecified nondisp fx of fourth cervical vertebra, sequela
+S12.330A@Unsp traum displ spondylolysis of fourth cervcal vert, init
+S12.330B@Unsp traum displ spondylolysis of 4th cervcal vert, 7thB
+S12.330D@Unsp traum displ spondylolysis of 4th cervcal vert, 7thD
+S12.330G@Unsp traum displ spondylolysis of 4th cervcal vert, 7thG
+S12.330K@Unsp traum displ spondylolysis of 4th cervcal vert, 7thK
+S12.330S@Unsp traum displ spondylolysis of fourth cervcal vert, sqla
+S12.331A@Unsp traum nondisp spondylolysis of 4th cervcal vert, init
+S12.331B@Unsp traum nondisp spondylolysis of 4th cervcal vert, 7thB
+S12.331D@Unsp traum nondisp spondylolysis of 4th cervcal vert, 7thD
+S12.331G@Unsp traum nondisp spondylolysis of 4th cervcal vert, 7thG
+S12.331K@Unsp traum nondisp spondylolysis of 4th cervcal vert, 7thK
+S12.331S@Unsp traum nondisp spondylolysis of 4th cervcal vert, sqla
+S12.34XA@Type III traum spondylolysis of fourth cervcal vert, init
+S12.34XB@Type III traum spondylolysis of 4th cervcal vert, 7thB
+S12.34XD@Type III traum spondylolysis of 4th cervcal vert, 7thD
+S12.34XG@Type III traum spondylolysis of 4th cervcal vert, 7thG
+S12.34XK@Type III traum spondylolysis of 4th cervcal vert, 7thK
+S12.34XS@Type III traum spondylolysis of fourth cervcal vert, sequela
+S12.350A@Oth traum displ spondylolysis of fourth cervcal vert, init
+S12.350B@Oth traum displ spondylolysis of 4th cervcal vert, 7thB
+S12.350D@Oth traum displ spondylolysis of 4th cervcal vert, 7thD
+S12.350G@Oth traum displ spondylolysis of 4th cervcal vert, 7thG
+S12.350K@Oth traum displ spondylolysis of 4th cervcal vert, 7thK
+S12.350S@Oth traum displ spondylolysis of fourth cervcal vert, sqla
+S12.351A@Oth traum nondisp spondylolysis of fourth cervcal vert, init
+S12.351B@Oth traum nondisp spondylolysis of 4th cervcal vert, 7thB
+S12.351D@Oth traum nondisp spondylolysis of 4th cervcal vert, 7thD
+S12.351G@Oth traum nondisp spondylolysis of 4th cervcal vert, 7thG
+S12.351K@Oth traum nondisp spondylolysis of 4th cervcal vert, 7thK
+S12.351S@Oth traum nondisp spondylolysis of fourth cervcal vert, sqla
+S12.390A@Oth disp fx of fourth cervical vertebra, init for clos fx
+S12.390B@Oth disp fx of fourth cervical vertebra, init for opn fx
+S12.390D@Oth disp fx of fourth cervcal vert, subs for fx w routn heal
+S12.390G@Oth disp fx of fourth cervcal vert, subs for fx w delay heal
+S12.390K@Oth disp fx of fourth cervcal vert, subs for fx w nonunion
+S12.390S@Other disp fx of fourth cervical vertebra, sequela
+S12.391A@Oth nondisp fx of fourth cervical vertebra, init for clos fx
+S12.391B@Oth nondisp fx of fourth cervical vertebra, init for opn fx
+S12.391D@Oth nondisp fx of 4th cervcal vert, subs for fx w routn heal
+S12.391G@Oth nondisp fx of 4th cervcal vert, subs for fx w delay heal
+S12.391K@Oth nondisp fx of 4th cervcal vert, subs for fx w nonunion
+S12.391S@Other nondisp fx of fourth cervical vertebra, sequela
+S12.400A@Unsp disp fx of fifth cervical vertebra, init for clos fx
+S12.400B@Unsp disp fx of fifth cervical vertebra, init for opn fx
+S12.400D@Unsp disp fx of fifth cervcal vert, subs for fx w routn heal
+S12.400G@Unsp disp fx of fifth cervcal vert, subs for fx w delay heal
+S12.400K@Unsp disp fx of fifth cervcal vert, subs for fx w nonunion
+S12.400S@Unspecified disp fx of fifth cervical vertebra, sequela
+S12.401A@Unsp nondisp fx of fifth cervical vertebra, init for clos fx
+S12.401B@Unsp nondisp fx of fifth cervical vertebra, init for opn fx
+S12.401D@Unsp nondisp fx of 5th cervcal vert, 7thD
+S12.401G@Unsp nondisp fx of 5th cervcal vert, 7thG
+S12.401K@Unsp nondisp fx of 5th cervcal vert, subs for fx w nonunion
+S12.401S@Unspecified nondisp fx of fifth cervical vertebra, sequela
+S12.430A@Unsp traum displ spondylolysis of fifth cervcal vert, init
+S12.430B@Unsp traum displ spondylolysis of 5th cervcal vert, 7thB
+S12.430D@Unsp traum displ spondylolysis of 5th cervcal vert, 7thD
+S12.430G@Unsp traum displ spondylolysis of 5th cervcal vert, 7thG
+S12.430K@Unsp traum displ spondylolysis of 5th cervcal vert, 7thK
+S12.430S@Unsp traum displ spondylolysis of fifth cervcal vert, sqla
+S12.431A@Unsp traum nondisp spondylolysis of fifth cervcal vert, init
+S12.431B@Unsp traum nondisp spondylolysis of 5th cervcal vert, 7thB
+S12.431D@Unsp traum nondisp spondylolysis of 5th cervcal vert, 7thD
+S12.431G@Unsp traum nondisp spondylolysis of 5th cervcal vert, 7thG
+S12.431K@Unsp traum nondisp spondylolysis of 5th cervcal vert, 7thK
+S12.431S@Unsp traum nondisp spondylolysis of fifth cervcal vert, sqla
+S12.44XA@Type III traum spondylolysis of fifth cervcal vertebra, init
+S12.44XB@Type III traum spondylolysis of 5th cervcal vert, 7thB
+S12.44XD@Type III traum spondylolysis of 5th cervcal vert, 7thD
+S12.44XG@Type III traum spondylolysis of 5th cervcal vert, 7thG
+S12.44XK@Type III traum spondylolysis of 5th cervcal vert, 7thK
+S12.44XS@Type III traum spondylolysis of fifth cervcal vert, sequela
+S12.450A@Oth traum displ spondylolysis of fifth cervcal vert, init
+S12.450B@Oth traum displ spondylolysis of 5th cervcal vert, 7thB
+S12.450D@Oth traum displ spondylolysis of 5th cervcal vert, 7thD
+S12.450G@Oth traum displ spondylolysis of 5th cervcal vert, 7thG
+S12.450K@Oth traum displ spondylolysis of 5th cervcal vert, 7thK
+S12.450S@Oth traum displ spondylolysis of fifth cervcal vert, sequela
+S12.451A@Oth traum nondisp spondylolysis of fifth cervcal vert, init
+S12.451B@Oth traum nondisp spondylolysis of 5th cervcal vert, 7thB
+S12.451D@Oth traum nondisp spondylolysis of 5th cervcal vert, 7thD
+S12.451G@Oth traum nondisp spondylolysis of 5th cervcal vert, 7thG
+S12.451K@Oth traum nondisp spondylolysis of 5th cervcal vert, 7thK
+S12.451S@Oth traum nondisp spondylolysis of fifth cervcal vert, sqla
+S12.490A@Oth disp fx of fifth cervical vertebra, init for clos fx
+S12.490B@Oth disp fx of fifth cervical vertebra, init for opn fx
+S12.490D@Oth disp fx of fifth cervcal vert, subs for fx w routn heal
+S12.490G@Oth disp fx of fifth cervcal vert, subs for fx w delay heal
+S12.490K@Oth disp fx of fifth cervcal vert, subs for fx w nonunion
+S12.490S@Other displaced fracture of fifth cervical vertebra, sequela
+S12.491A@Oth nondisp fx of fifth cervical vertebra, init for clos fx
+S12.491B@Oth nondisp fx of fifth cervical vertebra, init for opn fx
+S12.491D@Oth nondisp fx of 5th cervcal vert, subs for fx w routn heal
+S12.491G@Oth nondisp fx of 5th cervcal vert, subs for fx w delay heal
+S12.491K@Oth nondisp fx of fifth cervcal vert, subs for fx w nonunion
+S12.491S@Other nondisp fx of fifth cervical vertebra, sequela
+S12.500A@Unsp disp fx of sixth cervical vertebra, init for clos fx
+S12.500B@Unsp disp fx of sixth cervical vertebra, init for opn fx
+S12.500D@Unsp disp fx of sixth cervcal vert, subs for fx w routn heal
+S12.500G@Unsp disp fx of sixth cervcal vert, subs for fx w delay heal
+S12.500K@Unsp disp fx of sixth cervcal vert, subs for fx w nonunion
+S12.500S@Unspecified disp fx of sixth cervical vertebra, sequela
+S12.501A@Unsp nondisp fx of sixth cervical vertebra, init for clos fx
+S12.501B@Unsp nondisp fx of sixth cervical vertebra, init for opn fx
+S12.501D@Unsp nondisp fx of sixth cervcal vert, 7thD
+S12.501G@Unsp nondisp fx of sixth cervcal vert, 7thG
+S12.501K@Unsp nondisp fx of sixth cervcal vert, 7thK
+S12.501S@Unspecified nondisp fx of sixth cervical vertebra, sequela
+S12.530A@Unsp traum displ spondylolysis of sixth cervcal vert, init
+S12.530B@Unsp traum displ spondylolysis of sixth cervcal vert, 7thB
+S12.530D@Unsp traum displ spondylolysis of sixth cervcal vert, 7thD
+S12.530G@Unsp traum displ spondylolysis of sixth cervcal vert, 7thG
+S12.530K@Unsp traum displ spondylolysis of sixth cervcal vert, 7thK
+S12.530S@Unsp traum displ spondylolysis of sixth cervcal vert, sqla
+S12.531A@Unsp traum nondisp spondylolysis of sixth cervcal vert, init
+S12.531B@Unsp traum nondisp spondylolysis of sixth cervcal vert, 7thB
+S12.531D@Unsp traum nondisp spondylolysis of sixth cervcal vert, 7thD
+S12.531G@Unsp traum nondisp spondylolysis of sixth cervcal vert, 7thG
+S12.531K@Unsp traum nondisp spondylolysis of sixth cervcal vert, 7thK
+S12.531S@Unsp traum nondisp spondylolysis of sixth cervcal vert, sqla
+S12.54XA@Type III traum spondylolysis of sixth cervcal vertebra, init
+S12.54XB@Type III traum spondylolysis of sixth cervcal vert, 7thB
+S12.54XD@Type III traum spondylolysis of sixth cervcal vert, 7thD
+S12.54XG@Type III traum spondylolysis of sixth cervcal vert, 7thG
+S12.54XK@Type III traum spondylolysis of sixth cervcal vert, 7thK
+S12.54XS@Type III traum spondylolysis of sixth cervcal vert, sequela
+S12.550A@Oth traum displ spondylolysis of sixth cervcal vert, init
+S12.550B@Oth traum displ spondylolysis of sixth cervcal vert, 7thB
+S12.550D@Oth traum displ spondylolysis of sixth cervcal vert, 7thD
+S12.550G@Oth traum displ spondylolysis of sixth cervcal vert, 7thG
+S12.550K@Oth traum displ spondylolysis of sixth cervcal vert, 7thK
+S12.550S@Oth traum displ spondylolysis of sixth cervcal vert, sequela
+S12.551A@Oth traum nondisp spondylolysis of sixth cervcal vert, init
+S12.551B@Oth traum nondisp spondylolysis of sixth cervcal vert, 7thB
+S12.551D@Oth traum nondisp spondylolysis of sixth cervcal vert, 7thD
+S12.551G@Oth traum nondisp spondylolysis of sixth cervcal vert, 7thG
+S12.551K@Oth traum nondisp spondylolysis of sixth cervcal vert, 7thK
+S12.551S@Oth traum nondisp spondylolysis of sixth cervcal vert, sqla
+S12.590A@Oth disp fx of sixth cervical vertebra, init for clos fx
+S12.590B@Oth disp fx of sixth cervical vertebra, init for opn fx
+S12.590D@Oth disp fx of sixth cervcal vert, subs for fx w routn heal
+S12.590G@Oth disp fx of sixth cervcal vert, subs for fx w delay heal
+S12.590K@Oth disp fx of sixth cervcal vert, subs for fx w nonunion
+S12.590S@Other displaced fracture of sixth cervical vertebra, sequela
+S12.591A@Oth nondisp fx of sixth cervical vertebra, init for clos fx
+S12.591B@Oth nondisp fx of sixth cervical vertebra, init for opn fx
+S12.591D@Oth nondisp fx of sixth cervcal vert, 7thD
+S12.591G@Oth nondisp fx of sixth cervcal vert, 7thG
+S12.591K@Oth nondisp fx of sixth cervcal vert, subs for fx w nonunion
+S12.591S@Other nondisp fx of sixth cervical vertebra, sequela
+S12.600A@Unsp disp fx of seventh cervical vertebra, init for clos fx
+S12.600B@Unsp disp fx of seventh cervical vertebra, init for opn fx
+S12.600D@Unsp disp fx of 7th cervcal vert, subs for fx w routn heal
+S12.600G@Unsp disp fx of 7th cervcal vert, subs for fx w delay heal
+S12.600K@Unsp disp fx of seventh cervcal vert, subs for fx w nonunion
+S12.600S@Unspecified disp fx of seventh cervical vertebra, sequela
+S12.601A@Unsp nondisp fx of seventh cervical vertebra, init
+S12.601B@Unsp nondisp fx of seventh cervcal vertebra, init for opn fx
+S12.601D@Unsp nondisp fx of 7th cervcal vert, 7thD
+S12.601G@Unsp nondisp fx of 7th cervcal vert, 7thG
+S12.601K@Unsp nondisp fx of 7th cervcal vert, subs for fx w nonunion
+S12.601S@Unspecified nondisp fx of seventh cervical vertebra, sequela
+S12.630A@Unsp traum displ spondylolysis of seventh cervcal vert, init
+S12.630B@Unsp traum displ spondylolysis of 7th cervcal vert, 7thB
+S12.630D@Unsp traum displ spondylolysis of 7th cervcal vert, 7thD
+S12.630G@Unsp traum displ spondylolysis of 7th cervcal vert, 7thG
+S12.630K@Unsp traum displ spondylolysis of 7th cervcal vert, 7thK
+S12.630S@Unsp traum displ spondylolysis of seventh cervcal vert, sqla
+S12.631A@Unsp traum nondisp spondylolysis of 7th cervcal vert, init
+S12.631B@Unsp traum nondisp spondylolysis of 7th cervcal vert, 7thB
+S12.631D@Unsp traum nondisp spondylolysis of 7th cervcal vert, 7thD
+S12.631G@Unsp traum nondisp spondylolysis of 7th cervcal vert, 7thG
+S12.631K@Unsp traum nondisp spondylolysis of 7th cervcal vert, 7thK
+S12.631S@Unsp traum nondisp spondylolysis of 7th cervcal vert, sqla
+S12.64XA@Type III traum spondylolysis of seventh cervcal vert, init
+S12.64XB@Type III traum spondylolysis of 7th cervcal vert, 7thB
+S12.64XD@Type III traum spondylolysis of 7th cervcal vert, 7thD
+S12.64XG@Type III traum spondylolysis of 7th cervcal vert, 7thG
+S12.64XK@Type III traum spondylolysis of 7th cervcal vert, 7thK
+S12.64XS@Type III traum spondylolysis of seventh cervcal vert, sqla
+S12.650A@Oth traum displ spondylolysis of seventh cervcal vert, init
+S12.650B@Oth traum displ spondylolysis of 7th cervcal vert, 7thB
+S12.650D@Oth traum displ spondylolysis of 7th cervcal vert, 7thD
+S12.650G@Oth traum displ spondylolysis of 7th cervcal vert, 7thG
+S12.650K@Oth traum displ spondylolysis of 7th cervcal vert, 7thK
+S12.650S@Oth traum displ spondylolysis of seventh cervcal vert, sqla
+S12.651A@Oth traum nondisp spondylolysis of 7th cervcal vert, init
+S12.651B@Oth traum nondisp spondylolysis of 7th cervcal vert, 7thB
+S12.651D@Oth traum nondisp spondylolysis of 7th cervcal vert, 7thD
+S12.651G@Oth traum nondisp spondylolysis of 7th cervcal vert, 7thG
+S12.651K@Oth traum nondisp spondylolysis of 7th cervcal vert, 7thK
+S12.651S@Oth traum nondisp spondylolysis of 7th cervcal vert, sqla
+S12.690A@Oth disp fx of seventh cervical vertebra, init for clos fx
+S12.690B@Oth disp fx of seventh cervical vertebra, init for opn fx
+S12.690D@Oth disp fx of 7th cervcal vert, subs for fx w routn heal
+S12.690G@Oth disp fx of 7th cervcal vert, subs for fx w delay heal
+S12.690K@Oth disp fx of seventh cervcal vert, subs for fx w nonunion
+S12.690S@Other disp fx of seventh cervical vertebra, sequela
+S12.691A@Oth nondisp fx of seventh cervical vertebra, init
+S12.691B@Oth nondisp fx of seventh cervical vertebra, init for opn fx
+S12.691D@Oth nondisp fx of 7th cervcal vert, subs for fx w routn heal
+S12.691G@Oth nondisp fx of 7th cervcal vert, subs for fx w delay heal
+S12.691K@Oth nondisp fx of 7th cervcal vert, subs for fx w nonunion
+S12.691S@Other nondisp fx of seventh cervical vertebra, sequela
+S12.8XXA@Fracture of other parts of neck, initial encounter
+S12.8XXD@Fracture of other parts of neck, subsequent encounter
+S12.8XXS@Fracture of other parts of neck, sequela
+S12.9XXA@Fracture of neck, unspecified, initial encounter
+S12.9XXD@Fracture of neck, unspecified, subsequent encounter
+S12.9XXS@Fracture of neck, unspecified, sequela
+S13.0XXA@Traumatic rupture of cervical intervertebral disc, init
+S13.0XXD@Traumatic rupture of cervical intervertebral disc, subs
+S13.0XXS@Traumatic rupture of cervical intervertebral disc, sequela
+S13.100A@Subluxation of unspecified cervical vertebrae, init encntr
+S13.100D@Subluxation of unspecified cervical vertebrae, subs encntr
+S13.100S@Subluxation of unspecified cervical vertebrae, sequela
+S13.101A@Dislocation of unspecified cervical vertebrae, init encntr
+S13.101D@Dislocation of unspecified cervical vertebrae, subs encntr
+S13.101S@Dislocation of unspecified cervical vertebrae, sequela
+S13.110A@Subluxation of C0/C1 cervical vertebrae, initial encounter
+S13.110D@Subluxation of C0/C1 cervical vertebrae, subs encntr
+S13.110S@Subluxation of C0/C1 cervical vertebrae, sequela
+S13.111A@Dislocation of C0/C1 cervical vertebrae, initial encounter
+S13.111D@Dislocation of C0/C1 cervical vertebrae, subs encntr
+S13.111S@Dislocation of C0/C1 cervical vertebrae, sequela
+S13.120A@Subluxation of C1/C2 cervical vertebrae, initial encounter
+S13.120D@Subluxation of C1/C2 cervical vertebrae, subs encntr
+S13.120S@Subluxation of C1/C2 cervical vertebrae, sequela
+S13.121A@Dislocation of C1/C2 cervical vertebrae, initial encounter
+S13.121D@Dislocation of C1/C2 cervical vertebrae, subs encntr
+S13.121S@Dislocation of C1/C2 cervical vertebrae, sequela
+S13.130A@Subluxation of C2/C3 cervical vertebrae, initial encounter
+S13.130D@Subluxation of C2/C3 cervical vertebrae, subs encntr
+S13.130S@Subluxation of C2/C3 cervical vertebrae, sequela
+S13.131A@Dislocation of C2/C3 cervical vertebrae, initial encounter
+S13.131D@Dislocation of C2/C3 cervical vertebrae, subs encntr
+S13.131S@Dislocation of C2/C3 cervical vertebrae, sequela
+S13.140A@Subluxation of C3/C4 cervical vertebrae, initial encounter
+S13.140D@Subluxation of C3/C4 cervical vertebrae, subs encntr
+S13.140S@Subluxation of C3/C4 cervical vertebrae, sequela
+S13.141A@Dislocation of C3/C4 cervical vertebrae, initial encounter
+S13.141D@Dislocation of C3/C4 cervical vertebrae, subs encntr
+S13.141S@Dislocation of C3/C4 cervical vertebrae, sequela
+S13.150A@Subluxation of C4/C5 cervical vertebrae, initial encounter
+S13.150D@Subluxation of C4/C5 cervical vertebrae, subs encntr
+S13.150S@Subluxation of C4/C5 cervical vertebrae, sequela
+S13.151A@Dislocation of C4/C5 cervical vertebrae, initial encounter
+S13.151D@Dislocation of C4/C5 cervical vertebrae, subs encntr
+S13.151S@Dislocation of C4/C5 cervical vertebrae, sequela
+S13.160A@Subluxation of C5/C6 cervical vertebrae, initial encounter
+S13.160D@Subluxation of C5/C6 cervical vertebrae, subs encntr
+S13.160S@Subluxation of C5/C6 cervical vertebrae, sequela
+S13.161A@Dislocation of C5/C6 cervical vertebrae, initial encounter
+S13.161D@Dislocation of C5/C6 cervical vertebrae, subs encntr
+S13.161S@Dislocation of C5/C6 cervical vertebrae, sequela
+S13.170A@Subluxation of C6/C7 cervical vertebrae, initial encounter
+S13.170D@Subluxation of C6/C7 cervical vertebrae, subs encntr
+S13.170S@Subluxation of C6/C7 cervical vertebrae, sequela
+S13.171A@Dislocation of C6/C7 cervical vertebrae, initial encounter
+S13.171D@Dislocation of C6/C7 cervical vertebrae, subs encntr
+S13.171S@Dislocation of C6/C7 cervical vertebrae, sequela
+S13.180A@Subluxation of C7/T1 cervical vertebrae, initial encounter
+S13.180D@Subluxation of C7/T1 cervical vertebrae, subs encntr
+S13.180S@Subluxation of C7/T1 cervical vertebrae, sequela
+S13.181A@Dislocation of C7/T1 cervical vertebrae, initial encounter
+S13.181D@Dislocation of C7/T1 cervical vertebrae, subs encntr
+S13.181S@Dislocation of C7/T1 cervical vertebrae, sequela
+S13.20XA@Dislocation of unspecified parts of neck, initial encounter
+S13.20XD@Dislocation of unspecified parts of neck, subs encntr
+S13.20XS@Dislocation of unspecified parts of neck, sequela
+S13.29XA@Dislocation of other parts of neck, initial encounter
+S13.29XD@Dislocation of other parts of neck, subsequent encounter
+S13.29XS@Dislocation of other parts of neck, sequela
+S13.4XXA@Sprain of ligaments of cervical spine, initial encounter
+S13.4XXD@Sprain of ligaments of cervical spine, subsequent encounter
+S13.4XXS@Sprain of ligaments of cervical spine, sequela
+S13.5XXA@Sprain of thyroid region, initial encounter
+S13.5XXD@Sprain of thyroid region, subsequent encounter
+S13.5XXS@Sprain of thyroid region, sequela
+S13.8XXA@Sprain of joints and ligaments of oth prt neck, init encntr
+S13.8XXD@Sprain of joints and ligaments of oth prt neck, subs encntr
+S13.8XXS@Sprain of joints and ligaments of oth parts of neck, sequela
+S13.9XXA@Sprain of joints and ligaments of unsp parts of neck, init
+S13.9XXD@Sprain of joints and ligaments of unsp parts of neck, subs
+S13.9XXS@Sprain of joints and ligaments of unsp parts of neck, sqla
+S14.0XXA@Concussion and edema of cervical spinal cord, init encntr
+S14.0XXD@Concussion and edema of cervical spinal cord, subs encntr
+S14.0XXS@Concussion and edema of cervical spinal cord, sequela
+S14.101A@Unsp injury at C1 level of cervical spinal cord, init encntr
+S14.101D@Unsp injury at C1 level of cervical spinal cord, subs encntr
+S14.101S@Unsp injury at C1 level of cervical spinal cord, sequela
+S14.102A@Unsp injury at C2 level of cervical spinal cord, init encntr
+S14.102D@Unsp injury at C2 level of cervical spinal cord, subs encntr
+S14.102S@Unsp injury at C2 level of cervical spinal cord, sequela
+S14.103A@Unsp injury at C3 level of cervical spinal cord, init encntr
+S14.103D@Unsp injury at C3 level of cervical spinal cord, subs encntr
+S14.103S@Unsp injury at C3 level of cervical spinal cord, sequela
+S14.104A@Unsp injury at C4 level of cervical spinal cord, init encntr
+S14.104D@Unsp injury at C4 level of cervical spinal cord, subs encntr
+S14.104S@Unsp injury at C4 level of cervical spinal cord, sequela
+S14.105A@Unsp injury at C5 level of cervical spinal cord, init encntr
+S14.105D@Unsp injury at C5 level of cervical spinal cord, subs encntr
+S14.105S@Unsp injury at C5 level of cervical spinal cord, sequela
+S14.106A@Unsp injury at C6 level of cervical spinal cord, init encntr
+S14.106D@Unsp injury at C6 level of cervical spinal cord, subs encntr
+S14.106S@Unsp injury at C6 level of cervical spinal cord, sequela
+S14.107A@Unsp injury at C7 level of cervical spinal cord, init encntr
+S14.107D@Unsp injury at C7 level of cervical spinal cord, subs encntr
+S14.107S@Unsp injury at C7 level of cervical spinal cord, sequela
+S14.108A@Unsp injury at C8 level of cervical spinal cord, init encntr
+S14.108D@Unsp injury at C8 level of cervical spinal cord, subs encntr
+S14.108S@Unsp injury at C8 level of cervical spinal cord, sequela
+S14.109A@Unsp injury at unsp level of cervical spinal cord, init
+S14.109D@Unsp injury at unsp level of cervical spinal cord, subs
+S14.109S@Unsp injury at unsp level of cervical spinal cord, sequela
+S14.111A@Complete lesion at C1 level of cervical spinal cord, init
+S14.111D@Complete lesion at C1 level of cervical spinal cord, subs
+S14.111S@Complete lesion at C1 level of cervical spinal cord, sequela
+S14.112A@Complete lesion at C2 level of cervical spinal cord, init
+S14.112D@Complete lesion at C2 level of cervical spinal cord, subs
+S14.112S@Complete lesion at C2 level of cervical spinal cord, sequela
+S14.113A@Complete lesion at C3 level of cervical spinal cord, init
+S14.113D@Complete lesion at C3 level of cervical spinal cord, subs
+S14.113S@Complete lesion at C3 level of cervical spinal cord, sequela
+S14.114A@Complete lesion at C4 level of cervical spinal cord, init
+S14.114D@Complete lesion at C4 level of cervical spinal cord, subs
+S14.114S@Complete lesion at C4 level of cervical spinal cord, sequela
+S14.115A@Complete lesion at C5 level of cervical spinal cord, init
+S14.115D@Complete lesion at C5 level of cervical spinal cord, subs
+S14.115S@Complete lesion at C5 level of cervical spinal cord, sequela
+S14.116A@Complete lesion at C6 level of cervical spinal cord, init
+S14.116D@Complete lesion at C6 level of cervical spinal cord, subs
+S14.116S@Complete lesion at C6 level of cervical spinal cord, sequela
+S14.117A@Complete lesion at C7 level of cervical spinal cord, init
+S14.117D@Complete lesion at C7 level of cervical spinal cord, subs
+S14.117S@Complete lesion at C7 level of cervical spinal cord, sequela
+S14.118A@Complete lesion at C8 level of cervical spinal cord, init
+S14.118D@Complete lesion at C8 level of cervical spinal cord, subs
+S14.118S@Complete lesion at C8 level of cervical spinal cord, sequela
+S14.119A@Complete lesion at unsp level of cervical spinal cord, init
+S14.119D@Complete lesion at unsp level of cervical spinal cord, subs
+S14.119S@Complete lesion at unsp level of cerv spinal cord, sequela
+S14.121A@Central cord syndrome at C1, init
+S14.121D@Central cord syndrome at C1, subs
+S14.121S@Central cord syndrome at C1, sequela
+S14.122A@Central cord syndrome at C2, init
+S14.122D@Central cord syndrome at C2, subs
+S14.122S@Central cord syndrome at C2, sequela
+S14.123A@Central cord syndrome at C3, init
+S14.123D@Central cord syndrome at C3, subs
+S14.123S@Central cord syndrome at C3, sequela
+S14.124A@Central cord syndrome at C4, init
+S14.124D@Central cord syndrome at C4, subs
+S14.124S@Central cord syndrome at C4, sequela
+S14.125A@Central cord syndrome at C5, init
+S14.125D@Central cord syndrome at C5, subs
+S14.125S@Central cord syndrome at C5, sequela
+S14.126A@Central cord syndrome at C6, init
+S14.126D@Central cord syndrome at C6, subs
+S14.126S@Central cord syndrome at C6, sequela
+S14.127A@Central cord syndrome at C7, init
+S14.127D@Central cord syndrome at C7, subs
+S14.127S@Central cord syndrome at C7, sequela
+S14.128A@Central cord syndrome at C8, init
+S14.128D@Central cord syndrome at C8, subs
+S14.128S@Central cord syndrome at C8, sequela
+S14.129A@Central cord synd at unsp level of cerv spinal cord, init
+S14.129D@Central cord synd at unsp level of cerv spinal cord, subs
+S14.129S@Central cord synd at unsp level of cerv spinal cord, sequela
+S14.131A@Anterior cord syndrome at C1, init
+S14.131D@Anterior cord syndrome at C1, subs
+S14.131S@Anterior cord syndrome at C1, sequela
+S14.132A@Anterior cord syndrome at C2, init
+S14.132D@Anterior cord syndrome at C2, subs
+S14.132S@Anterior cord syndrome at C2, sequela
+S14.133A@Anterior cord syndrome at C3, init
+S14.133D@Anterior cord syndrome at C3, subs
+S14.133S@Anterior cord syndrome at C3, sequela
+S14.134A@Anterior cord syndrome at C4, init
+S14.134D@Anterior cord syndrome at C4, subs
+S14.134S@Anterior cord syndrome at C4, sequela
+S14.135A@Anterior cord syndrome at C5, init
+S14.135D@Anterior cord syndrome at C5, subs
+S14.135S@Anterior cord syndrome at C5, sequela
+S14.136A@Anterior cord syndrome at C6, init
+S14.136D@Anterior cord syndrome at C6, subs
+S14.136S@Anterior cord syndrome at C6, sequela
+S14.137A@Anterior cord syndrome at C7, init
+S14.137D@Anterior cord syndrome at C7, subs
+S14.137S@Anterior cord syndrome at C7, sequela
+S14.138A@Anterior cord syndrome at C8, init
+S14.138D@Anterior cord syndrome at C8, subs
+S14.138S@Anterior cord syndrome at C8, sequela
+S14.139A@Ant cord syndrome at unsp level of cerv spinal cord, init
+S14.139D@Ant cord syndrome at unsp level of cerv spinal cord, subs
+S14.139S@Ant cord syndrome at unsp level of cerv spinal cord, sequela
+S14.141A@Brown-Sequard syndrome at C1, init
+S14.141D@Brown-Sequard syndrome at C1, subs
+S14.141S@Brown-Sequard syndrome at C1, sequela
+S14.142A@Brown-Sequard syndrome at C2, init
+S14.142D@Brown-Sequard syndrome at C2, subs
+S14.142S@Brown-Sequard syndrome at C2, sequela
+S14.143A@Brown-Sequard syndrome at C3, init
+S14.143D@Brown-Sequard syndrome at C3, subs
+S14.143S@Brown-Sequard syndrome at C3, sequela
+S14.144A@Brown-Sequard syndrome at C4, init
+S14.144D@Brown-Sequard syndrome at C4, subs
+S14.144S@Brown-Sequard syndrome at C4, sequela
+S14.145A@Brown-Sequard syndrome at C5, init
+S14.145D@Brown-Sequard syndrome at C5, subs
+S14.145S@Brown-Sequard syndrome at C5, sequela
+S14.146A@Brown-Sequard syndrome at C6, init
+S14.146D@Brown-Sequard syndrome at C6, subs
+S14.146S@Brown-Sequard syndrome at C6, sequela
+S14.147A@Brown-Sequard syndrome at C7, init
+S14.147D@Brown-Sequard syndrome at C7, subs
+S14.147S@Brown-Sequard syndrome at C7, sequela
+S14.148A@Brown-Sequard syndrome at C8, init
+S14.148D@Brown-Sequard syndrome at C8, subs
+S14.148S@Brown-Sequard syndrome at C8, sequela
+S14.149A@Brown-Sequard synd at unsp level of cerv spinal cord, init
+S14.149D@Brown-Sequard synd at unsp level of cerv spinal cord, subs
+S14.149S@Brown-Sequard synd at unsp level of cerv spinal cord, sqla
+S14.151A@Oth incomplete lesion at C1, init
+S14.151D@Oth incomplete lesion at C1, subs
+S14.151S@Oth incomplete lesion at C1, sequela
+S14.152A@Oth incomplete lesion at C2, init
+S14.152D@Oth incomplete lesion at C2, subs
+S14.152S@Oth incomplete lesion at C2, sequela
+S14.153A@Oth incomplete lesion at C3, init
+S14.153D@Oth incomplete lesion at C3, subs
+S14.153S@Oth incomplete lesion at C3, sequela
+S14.154A@Oth incomplete lesion at C4, init
+S14.154D@Oth incomplete lesion at C4, subs
+S14.154S@Oth incomplete lesion at C4, sequela
+S14.155A@Oth incomplete lesion at C5, init
+S14.155D@Oth incomplete lesion at C5, subs
+S14.155S@Oth incomplete lesion at C5, sequela
+S14.156A@Oth incomplete lesion at C6, init
+S14.156D@Oth incomplete lesion at C6, subs
+S14.156S@Oth incomplete lesion at C6, sequela
+S14.157A@Oth incomplete lesion at C7, init
+S14.157D@Oth incomplete lesion at C7, subs
+S14.157S@Oth incomplete lesion at C7, sequela
+S14.158A@Oth incomplete lesion at C8, init
+S14.158D@Oth incomplete lesion at C8, subs
+S14.158S@Oth incomplete lesion at C8, sequela
+S14.159A@Oth incmpl lesion at unsp level of cerv spinal cord, init
+S14.159D@Oth incmpl lesion at unsp level of cerv spinal cord, subs
+S14.159S@Oth incmpl lesion at unsp level of cerv spinal cord, sequela
+S14.2XXA@Injury of nerve root of cervical spine, initial encounter
+S14.2XXD@Injury of nerve root of cervical spine, subsequent encounter
+S14.2XXS@Injury of nerve root of cervical spine, sequela
+S14.3XXA@Injury of brachial plexus, initial encounter
+S14.3XXD@Injury of brachial plexus, subsequent encounter
+S14.3XXS@Injury of brachial plexus, sequela
+S14.4XXA@Injury of peripheral nerves of neck, initial encounter
+S14.4XXD@Injury of peripheral nerves of neck, subsequent encounter
+S14.4XXS@Injury of peripheral nerves of neck, sequela
+S14.5XXA@Injury of cervical sympathetic nerves, initial encounter
+S14.5XXD@Injury of cervical sympathetic nerves, subsequent encounter
+S14.5XXS@Injury of cervical sympathetic nerves, sequela
+S14.8XXA@Injury of other specified nerves of neck, initial encounter
+S14.8XXD@Injury of other specified nerves of neck, subs encntr
+S14.8XXS@Injury of other specified nerves of neck, sequela
+S14.9XXA@Injury of unspecified nerves of neck, initial encounter
+S14.9XXD@Injury of unspecified nerves of neck, subsequent encounter
+S14.9XXS@Injury of unspecified nerves of neck, sequela
+S15.001A@Unspecified injury of right carotid artery, init encntr
+S15.001D@Unspecified injury of right carotid artery, subs encntr
+S15.001S@Unspecified injury of right carotid artery, sequela
+S15.002A@Unspecified injury of left carotid artery, initial encounter
+S15.002D@Unspecified injury of left carotid artery, subs encntr
+S15.002S@Unspecified injury of left carotid artery, sequela
+S15.009A@Unsp injury of unspecified carotid artery, init encntr
+S15.009D@Unsp injury of unspecified carotid artery, subs encntr
+S15.009S@Unspecified injury of unspecified carotid artery, sequela
+S15.011A@Minor laceration of right carotid artery, initial encounter
+S15.011D@Minor laceration of right carotid artery, subs encntr
+S15.011S@Minor laceration of right carotid artery, sequela
+S15.012A@Minor laceration of left carotid artery, initial encounter
+S15.012D@Minor laceration of left carotid artery, subs encntr
+S15.012S@Minor laceration of left carotid artery, sequela
+S15.019A@Minor laceration of unspecified carotid artery, init encntr
+S15.019D@Minor laceration of unspecified carotid artery, subs encntr
+S15.019S@Minor laceration of unspecified carotid artery, sequela
+S15.021A@Major laceration of right carotid artery, initial encounter
+S15.021D@Major laceration of right carotid artery, subs encntr
+S15.021S@Major laceration of right carotid artery, sequela
+S15.022A@Major laceration of left carotid artery, initial encounter
+S15.022D@Major laceration of left carotid artery, subs encntr
+S15.022S@Major laceration of left carotid artery, sequela
+S15.029A@Major laceration of unspecified carotid artery, init encntr
+S15.029D@Major laceration of unspecified carotid artery, subs encntr
+S15.029S@Major laceration of unspecified carotid artery, sequela
+S15.091A@Other specified injury of right carotid artery, init encntr
+S15.091D@Other specified injury of right carotid artery, subs encntr
+S15.091S@Other specified injury of right carotid artery, sequela
+S15.092A@Other specified injury of left carotid artery, init encntr
+S15.092D@Other specified injury of left carotid artery, subs encntr
+S15.092S@Other specified injury of left carotid artery, sequela
+S15.099A@Oth injury of unspecified carotid artery, init encntr
+S15.099D@Oth injury of unspecified carotid artery, subs encntr
+S15.099S@Oth injury of unspecified carotid artery, sequela
+S15.101A@Unspecified injury of right vertebral artery, init encntr
+S15.101D@Unspecified injury of right vertebral artery, subs encntr
+S15.101S@Unspecified injury of right vertebral artery, sequela
+S15.102A@Unspecified injury of left vertebral artery, init encntr
+S15.102D@Unspecified injury of left vertebral artery, subs encntr
+S15.102S@Unspecified injury of left vertebral artery, sequela
+S15.109A@Unsp injury of unspecified vertebral artery, init encntr
+S15.109D@Unsp injury of unspecified vertebral artery, subs encntr
+S15.109S@Unspecified injury of unspecified vertebral artery, sequela
+S15.111A@Minor laceration of right vertebral artery, init encntr
+S15.111D@Minor laceration of right vertebral artery, subs encntr
+S15.111S@Minor laceration of right vertebral artery, sequela
+S15.112A@Minor laceration of left vertebral artery, initial encounter
+S15.112D@Minor laceration of left vertebral artery, subs encntr
+S15.112S@Minor laceration of left vertebral artery, sequela
+S15.119A@Minor laceration of unsp vertebral artery, init encntr
+S15.119D@Minor laceration of unsp vertebral artery, subs encntr
+S15.119S@Minor laceration of unspecified vertebral artery, sequela
+S15.121A@Major laceration of right vertebral artery, init encntr
+S15.121D@Major laceration of right vertebral artery, subs encntr
+S15.121S@Major laceration of right vertebral artery, sequela
+S15.122A@Major laceration of left vertebral artery, initial encounter
+S15.122D@Major laceration of left vertebral artery, subs encntr
+S15.122S@Major laceration of left vertebral artery, sequela
+S15.129A@Major laceration of unsp vertebral artery, init encntr
+S15.129D@Major laceration of unsp vertebral artery, subs encntr
+S15.129S@Major laceration of unspecified vertebral artery, sequela
+S15.191A@Oth injury of right vertebral artery, init encntr
+S15.191D@Oth injury of right vertebral artery, subs encntr
+S15.191S@Other specified injury of right vertebral artery, sequela
+S15.192A@Other specified injury of left vertebral artery, init encntr
+S15.192D@Other specified injury of left vertebral artery, subs encntr
+S15.192S@Other specified injury of left vertebral artery, sequela
+S15.199A@Oth injury of unspecified vertebral artery, init encntr
+S15.199D@Oth injury of unspecified vertebral artery, subs encntr
+S15.199S@Oth injury of unspecified vertebral artery, sequela
+S15.201A@Unsp injury of right external jugular vein, init encntr
+S15.201D@Unsp injury of right external jugular vein, subs encntr
+S15.201S@Unspecified injury of right external jugular vein, sequela
+S15.202A@Unsp injury of left external jugular vein, init encntr
+S15.202D@Unsp injury of left external jugular vein, subs encntr
+S15.202S@Unspecified injury of left external jugular vein, sequela
+S15.209A@Unsp injury of unsp external jugular vein, init encntr
+S15.209D@Unsp injury of unsp external jugular vein, subs encntr
+S15.209S@Unsp injury of unspecified external jugular vein, sequela
+S15.211A@Minor laceration of right external jugular vein, init encntr
+S15.211D@Minor laceration of right external jugular vein, subs encntr
+S15.211S@Minor laceration of right external jugular vein, sequela
+S15.212A@Minor laceration of left external jugular vein, init encntr
+S15.212D@Minor laceration of left external jugular vein, subs encntr
+S15.212S@Minor laceration of left external jugular vein, sequela
+S15.219A@Minor laceration of unsp external jugular vein, init encntr
+S15.219D@Minor laceration of unsp external jugular vein, subs encntr
+S15.219S@Minor laceration of unsp external jugular vein, sequela
+S15.221A@Major laceration of right external jugular vein, init encntr
+S15.221D@Major laceration of right external jugular vein, subs encntr
+S15.221S@Major laceration of right external jugular vein, sequela
+S15.222A@Major laceration of left external jugular vein, init encntr
+S15.222D@Major laceration of left external jugular vein, subs encntr
+S15.222S@Major laceration of left external jugular vein, sequela
+S15.229A@Major laceration of unsp external jugular vein, init encntr
+S15.229D@Major laceration of unsp external jugular vein, subs encntr
+S15.229S@Major laceration of unsp external jugular vein, sequela
+S15.291A@Oth injury of right external jugular vein, init encntr
+S15.291D@Oth injury of right external jugular vein, subs encntr
+S15.291S@Oth injury of right external jugular vein, sequela
+S15.292A@Oth injury of left external jugular vein, init encntr
+S15.292D@Oth injury of left external jugular vein, subs encntr
+S15.292S@Oth injury of left external jugular vein, sequela
+S15.299A@Oth injury of unspecified external jugular vein, init encntr
+S15.299D@Oth injury of unspecified external jugular vein, subs encntr
+S15.299S@Oth injury of unspecified external jugular vein, sequela
+S15.301A@Unsp injury of right internal jugular vein, init encntr
+S15.301D@Unsp injury of right internal jugular vein, subs encntr
+S15.301S@Unspecified injury of right internal jugular vein, sequela
+S15.302A@Unsp injury of left internal jugular vein, init encntr
+S15.302D@Unsp injury of left internal jugular vein, subs encntr
+S15.302S@Unspecified injury of left internal jugular vein, sequela
+S15.309A@Unsp injury of unsp internal jugular vein, init encntr
+S15.309D@Unsp injury of unsp internal jugular vein, subs encntr
+S15.309S@Unsp injury of unspecified internal jugular vein, sequela
+S15.311A@Minor laceration of right internal jugular vein, init encntr
+S15.311D@Minor laceration of right internal jugular vein, subs encntr
+S15.311S@Minor laceration of right internal jugular vein, sequela
+S15.312A@Minor laceration of left internal jugular vein, init encntr
+S15.312D@Minor laceration of left internal jugular vein, subs encntr
+S15.312S@Minor laceration of left internal jugular vein, sequela
+S15.319A@Minor laceration of unsp internal jugular vein, init encntr
+S15.319D@Minor laceration of unsp internal jugular vein, subs encntr
+S15.319S@Minor laceration of unsp internal jugular vein, sequela
+S15.321A@Major laceration of right internal jugular vein, init encntr
+S15.321D@Major laceration of right internal jugular vein, subs encntr
+S15.321S@Major laceration of right internal jugular vein, sequela
+S15.322A@Major laceration of left internal jugular vein, init encntr
+S15.322D@Major laceration of left internal jugular vein, subs encntr
+S15.322S@Major laceration of left internal jugular vein, sequela
+S15.329A@Major laceration of unsp internal jugular vein, init encntr
+S15.329D@Major laceration of unsp internal jugular vein, subs encntr
+S15.329S@Major laceration of unsp internal jugular vein, sequela
+S15.391A@Oth injury of right internal jugular vein, init encntr
+S15.391D@Oth injury of right internal jugular vein, subs encntr
+S15.391S@Oth injury of right internal jugular vein, sequela
+S15.392A@Oth injury of left internal jugular vein, init encntr
+S15.392D@Oth injury of left internal jugular vein, subs encntr
+S15.392S@Oth injury of left internal jugular vein, sequela
+S15.399A@Oth injury of unspecified internal jugular vein, init encntr
+S15.399D@Oth injury of unspecified internal jugular vein, subs encntr
+S15.399S@Oth injury of unspecified internal jugular vein, sequela
+S15.8XXA@Injury of oth blood vessels at neck level, init encntr
+S15.8XXD@Injury of oth blood vessels at neck level, subs encntr
+S15.8XXS@Injury of oth blood vessels at neck level, sequela
+S15.9XXA@Injury of unsp blood vessel at neck level, init encntr
+S15.9XXD@Injury of unsp blood vessel at neck level, subs encntr
+S15.9XXS@Injury of unspecified blood vessel at neck level, sequela
+S16.1XXA@Strain of muscle, fascia and tendon at neck level, init
+S16.1XXD@Strain of muscle, fascia and tendon at neck level, subs
+S16.1XXS@Strain of muscle, fascia and tendon at neck level, sequela
+S16.2XXA@Laceration of muscle, fascia and tendon at neck level, init
+S16.2XXD@Laceration of muscle, fascia and tendon at neck level, subs
+S16.2XXS@Laceration of musc/fasc/tend at neck level, sequela
+S16.8XXA@Inj muscle, fascia and tendon at neck level, init encntr
+S16.8XXD@Inj muscle, fascia and tendon at neck level, subs encntr
+S16.8XXS@Inj muscle, fascia and tendon at neck level, sequela
+S16.9XXA@Unsp injury of muscle, fascia and tendon at neck level, init
+S16.9XXD@Unsp injury of muscle, fascia and tendon at neck level, subs
+S16.9XXS@Unsp injury of musc/fasc/tend at neck level, sequela
+S17.0XXA@Crushing injury of larynx and trachea, initial encounter
+S17.0XXD@Crushing injury of larynx and trachea, subsequent encounter
+S17.0XXS@Crushing injury of larynx and trachea, sequela
+S17.8XXA@Crushing injury of oth parts of neck, init encntr
+S17.8XXD@Crushing injury of oth parts of neck, subs encntr
+S17.8XXS@Crushing injury of other specified parts of neck, sequela
+S17.9XXA@Crushing injury of neck, part unspecified, initial encounter
+S17.9XXD@Crushing injury of neck, part unspecified, subs encntr
+S17.9XXS@Crushing injury of neck, part unspecified, sequela
+S19.80XA@Oth injuries of unspecified part of neck, init encntr
+S19.80XD@Oth injuries of unspecified part of neck, subs encntr
+S19.80XS@Oth injuries of unspecified part of neck, sequela
+S19.81XA@Other specified injuries of larynx, initial encounter
+S19.81XD@Other specified injuries of larynx, subsequent encounter
+S19.81XS@Other specified injuries of larynx, sequela
+S19.82XA@Other specified injuries of cervical trachea, init encntr
+S19.82XD@Other specified injuries of cervical trachea, subs encntr
+S19.82XS@Other specified injuries of cervical trachea, sequela
+S19.83XA@Other specified injuries of vocal cord, initial encounter
+S19.83XD@Other specified injuries of vocal cord, subsequent encounter
+S19.83XS@Other specified injuries of vocal cord, sequela
+S19.84XA@Other specified injuries of thyroid gland, initial encounter
+S19.84XD@Other specified injuries of thyroid gland, subs encntr
+S19.84XS@Other specified injuries of thyroid gland, sequela
+S19.85XA@Oth injuries of pharynx and cervical esophagus, init encntr
+S19.85XD@Oth injuries of pharynx and cervical esophagus, subs encntr
+S19.85XS@Oth injuries of pharynx and cervical esophagus, sequela
+S19.89XA@Oth injuries of other specified part of neck, init encntr
+S19.89XD@Oth injuries of other specified part of neck, subs encntr
+S19.89XS@Oth injuries of other specified part of neck, sequela
+S19.9XXA@Unspecified injury of neck, initial encounter
+S19.9XXD@Unspecified injury of neck, subsequent encounter
+S19.9XXS@Unspecified injury of neck, sequela

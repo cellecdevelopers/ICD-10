@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 3e3dfc7ea2fcfde4181d743152d80511
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ICD10_TitleBG
+    21300002: ICD10_PlayButton
+    21300004: ICD10_Cards
+    21300006: ICD10_SearchIcon
+    21300008: ICD10_Exit
+    21300010: ICD10_Facebook
+    21300012: ICD10_Twitter
+    21300014: ICD10_Settings
+    21300016: ICD10_ICDIcon_Grey
+    21300018: ICD10_Back
+    21300020: ICD10_UserName
+    21300022: ICD10_Sound
+    21300024: ICD10_Music
+    21300026: ICD10_Theme
+    21300028: ICD10_SpriteSheet_1_21
+    21300030: ICD10_SpriteSheet_1_22
+    21300032: ICD10_SpriteSheet_1_23
+    21300034: ICD10_SpriteSheet_1_24
+    21300036: ICD10_SpriteSheet_1_25
+    21300038: ICD10_SpriteSheet_1_26
+    21300040: ICD10_SpriteSheet_1_27
+    21300042: ICD10_SpriteSheet_1_29
+    21300044: ICD10_SpriteSheet_1_30
+    21300046: ICD10_Title
+    21300048: ICD10_OffIcon
+    21300050: ICD10_OnIcon
+    21300052: ICD10_Hint
+    21300054: ICD10_SpriteSheet_1_42
+    21300056: ICD10_MenuButtonBG_1
+    21300058: ICD10_Pause
+    21300060: ICD10_Skip
+    21300062: ICD10_FiftyFity
+    21300064: ICD10_MenuButtonBG_2
+    21300066: ICD10_Stars
+    21300068: ICD10_SocialBG
+    21300070: ICD10_SocialBG2
+    21300072: ICD10_SearchBarArea
+    21300074: ICD10_Cards_BG_1
+    21300076: ICD10_PowerUps_BG_1
+    21300078: ICD10_PowerUps_BG_2
+    21300080: ICD10_Cards_BG_2
+    21300082: ICD10_Timebar
+    21300084: ICD10_VibrateIcon
+    21300086: ICD10_StatsIcon
+    21300088: ICD10_Team
+    21300090: ICD10_ICDIcon_White
+    21300092: ICD10_TitleBarCaption
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ICD10_TitleBG
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1585
+        width: 1200
+        height: 439
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_PlayButton
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1911
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Cards
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1911
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_SearchIcon
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1913
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Exit
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1906
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Facebook
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1901
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Twitter
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1692
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Settings
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1690
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_ICDIcon_Grey
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1694
+        width: 272
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Back
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1698
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_UserName
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1508
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Sound
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1508
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Music
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1502
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Theme
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1508
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Title
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1293
+        width: 704
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_OffIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1325
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_OnIcon
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1325
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Hint
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1305
+        width: 94
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_MenuButtonBG_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1073
+        width: 659
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Pause
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1120
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Skip
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1124
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_FiftyFity
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1107
+        width: 142
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_MenuButtonBG_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 887
+        width: 659
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Stars
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 855
+        width: 570
+        height: 374
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_SocialBG
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 679
+        width: 182
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_SocialBG2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 697
+        width: 182
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_SearchBarArea
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 686
+        width: 816
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Cards_BG_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 455
+        width: 997
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_PowerUps_BG_1
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 478
+        width: 249
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_PowerUps_BG_2
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 495
+        width: 249
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Cards_BG_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 258
+        width: 997
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Timebar
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 142
+        width: 1200
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_VibrateIcon
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1505
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_StatsIcon
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1910
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_Team
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1320
+        width: 135
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_ICDIcon_White
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 943
+        width: 272
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICD10_TitleBarCaption
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1458
+        width: 1200
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

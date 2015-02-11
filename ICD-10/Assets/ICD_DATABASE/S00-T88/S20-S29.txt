@@ -1,0 +1,1551 @@
+S20.00XA@Contusion of breast, unspecified breast, initial encounter
+S20.00XD@Contusion of breast, unspecified breast, subs encntr
+S20.00XS@Contusion of breast, unspecified breast, sequela
+S20.01XA@Contusion of right breast, initial encounter
+S20.01XD@Contusion of right breast, subsequent encounter
+S20.01XS@Contusion of right breast, sequela
+S20.02XA@Contusion of left breast, initial encounter
+S20.02XD@Contusion of left breast, subsequent encounter
+S20.02XS@Contusion of left breast, sequela
+S20.101A@Unsp superficial injuries of breast, right breast, init
+S20.101D@Unsp superficial injuries of breast, right breast, subs
+S20.101S@Unsp superficial injuries of breast, right breast, sequela
+S20.102A@Unsp superficial injuries of breast, left breast, init
+S20.102D@Unsp superficial injuries of breast, left breast, subs
+S20.102S@Unsp superficial injuries of breast, left breast, sequela
+S20.109A@Unsp superficial injuries of breast, unsp breast, init
+S20.109D@Unsp superficial injuries of breast, unsp breast, subs
+S20.109S@Unsp superficial injuries of breast, unsp breast, sequela
+S20.111A@Abrasion of breast, right breast, initial encounter
+S20.111D@Abrasion of breast, right breast, subsequent encounter
+S20.111S@Abrasion of breast, right breast, sequela
+S20.112A@Abrasion of breast, left breast, initial encounter
+S20.112D@Abrasion of breast, left breast, subsequent encounter
+S20.112S@Abrasion of breast, left breast, sequela
+S20.119A@Abrasion of breast, unspecified breast, initial encounter
+S20.119D@Abrasion of breast, unspecified breast, subsequent encounter
+S20.119S@Abrasion of breast, unspecified breast, sequela
+S20.121A@Blister (nonthermal) of breast, right breast, init encntr
+S20.121D@Blister (nonthermal) of breast, right breast, subs encntr
+S20.121S@Blister (nonthermal) of breast, right breast, sequela
+S20.122A@Blister (nonthermal) of breast, left breast, init encntr
+S20.122D@Blister (nonthermal) of breast, left breast, subs encntr
+S20.122S@Blister (nonthermal) of breast, left breast, sequela
+S20.129A@Blister (nonthermal) of breast, unsp breast, init encntr
+S20.129D@Blister (nonthermal) of breast, unsp breast, subs encntr
+S20.129S@Blister (nonthermal) of breast, unspecified breast, sequela
+S20.141A@External constriction of part of breast, right breast, init
+S20.141D@External constriction of part of breast, right breast, subs
+S20.141S@External constrict of part of breast, right breast, sequela
+S20.142A@External constriction of part of breast, left breast, init
+S20.142D@External constriction of part of breast, left breast, subs
+S20.142S@External constrict of part of breast, left breast, sequela
+S20.149A@External constriction of part of breast, unsp breast, init
+S20.149D@External constriction of part of breast, unsp breast, subs
+S20.149S@External constrict of part of breast, unsp breast, sequela
+S20.151A@Superficial foreign body of breast, right breast, init
+S20.151D@Superficial foreign body of breast, right breast, subs
+S20.151S@Superficial foreign body of breast, right breast, sequela
+S20.152A@Superficial foreign body of breast, left breast, init encntr
+S20.152D@Superficial foreign body of breast, left breast, subs encntr
+S20.152S@Superficial foreign body of breast, left breast, sequela
+S20.159A@Superficial foreign body of breast, unsp breast, init encntr
+S20.159D@Superficial foreign body of breast, unsp breast, subs encntr
+S20.159S@Superficial foreign body of breast, unsp breast, sequela
+S20.161A@Insect bite (nonvenomous) of breast, right breast, init
+S20.161D@Insect bite (nonvenomous) of breast, right breast, subs
+S20.161S@Insect bite (nonvenomous) of breast, right breast, sequela
+S20.162A@Insect bite (nonvenomous) of breast, left breast, init
+S20.162D@Insect bite (nonvenomous) of breast, left breast, subs
+S20.162S@Insect bite (nonvenomous) of breast, left breast, sequela
+S20.169A@Insect bite (nonvenomous) of breast, unsp breast, init
+S20.169D@Insect bite (nonvenomous) of breast, unsp breast, subs
+S20.169S@Insect bite (nonvenomous) of breast, unsp breast, sequela
+S20.171A@Other superficial bite of breast, right breast, init encntr
+S20.171D@Other superficial bite of breast, right breast, subs encntr
+S20.171S@Other superficial bite of breast, right breast, sequela
+S20.172A@Other superficial bite of breast, left breast, init encntr
+S20.172D@Other superficial bite of breast, left breast, subs encntr
+S20.172S@Other superficial bite of breast, left breast, sequela
+S20.179A@Other superficial bite of breast, unsp breast, init encntr
+S20.179D@Other superficial bite of breast, unsp breast, subs encntr
+S20.179S@Other superficial bite of breast, unsp breast, sequela
+S20.20XA@Contusion of thorax, unspecified, initial encounter
+S20.20XD@Contusion of thorax, unspecified, subsequent encounter
+S20.20XS@Contusion of thorax, unspecified, sequela
+S20.211A@Contusion of right front wall of thorax, initial encounter
+S20.211D@Contusion of right front wall of thorax, subs encntr
+S20.211S@Contusion of right front wall of thorax, sequela
+S20.212A@Contusion of left front wall of thorax, initial encounter
+S20.212D@Contusion of left front wall of thorax, subsequent encounter
+S20.212S@Contusion of left front wall of thorax, sequela
+S20.219A@Contusion of unspecified front wall of thorax, init encntr
+S20.219D@Contusion of unspecified front wall of thorax, subs encntr
+S20.219S@Contusion of unspecified front wall of thorax, sequela
+S20.221A@Contusion of right back wall of thorax, initial encounter
+S20.221D@Contusion of right back wall of thorax, subsequent encounter
+S20.221S@Contusion of right back wall of thorax, sequela
+S20.222A@Contusion of left back wall of thorax, initial encounter
+S20.222D@Contusion of left back wall of thorax, subsequent encounter
+S20.222S@Contusion of left back wall of thorax, sequela
+S20.229A@Contusion of unspecified back wall of thorax, init encntr
+S20.229D@Contusion of unspecified back wall of thorax, subs encntr
+S20.229S@Contusion of unspecified back wall of thorax, sequela
+S20.301A@Unsp superficial injuries of r frnt wl of thorax, init
+S20.301D@Unsp superficial injuries of r frnt wl of thorax, subs
+S20.301S@Unsp superficial injuries of r frnt wl of thorax, sequela
+S20.302A@Unsp superficial injuries of left front wall of thorax, init
+S20.302D@Unsp superficial injuries of left front wall of thorax, subs
+S20.302S@Unsp superficial injuries of l frnt wl of thorax, sequela
+S20.309A@Unsp superficial injuries of unsp front wall of thorax, init
+S20.309D@Unsp superficial injuries of unsp front wall of thorax, subs
+S20.309S@Unsp superfic injuries of unsp front wall of thorax, sequela
+S20.311A@Abrasion of right front wall of thorax, initial encounter
+S20.311D@Abrasion of right front wall of thorax, subsequent encounter
+S20.311S@Abrasion of right front wall of thorax, sequela
+S20.312A@Abrasion of left front wall of thorax, initial encounter
+S20.312D@Abrasion of left front wall of thorax, subsequent encounter
+S20.312S@Abrasion of left front wall of thorax, sequela
+S20.319A@Abrasion of unspecified front wall of thorax, init encntr
+S20.319D@Abrasion of unspecified front wall of thorax, subs encntr
+S20.319S@Abrasion of unspecified front wall of thorax, sequela
+S20.321A@Blister (nonthermal) of right front wall of thorax, init
+S20.321D@Blister (nonthermal) of right front wall of thorax, subs
+S20.321S@Blister (nonthermal) of right front wall of thorax, sequela
+S20.322A@Blister (nonthermal) of left front wall of thorax, init
+S20.322D@Blister (nonthermal) of left front wall of thorax, subs
+S20.322S@Blister (nonthermal) of left front wall of thorax, sequela
+S20.329A@Blister (nonthermal) of unsp front wall of thorax, init
+S20.329D@Blister (nonthermal) of unsp front wall of thorax, subs
+S20.329S@Blister (nonthermal) of unsp front wall of thorax, sequela
+S20.341A@External constriction of right front wall of thorax, init
+S20.341D@External constriction of right front wall of thorax, subs
+S20.341S@External constriction of right front wall of thorax, sequela
+S20.342A@External constriction of left front wall of thorax, init
+S20.342D@External constriction of left front wall of thorax, subs
+S20.342S@External constriction of left front wall of thorax, sequela
+S20.349A@External constriction of unsp front wall of thorax, init
+S20.349D@External constriction of unsp front wall of thorax, subs
+S20.349S@External constriction of unsp front wall of thorax, sequela
+S20.351A@Superficial foreign body of right front wall of thorax, init
+S20.351D@Superficial foreign body of right front wall of thorax, subs
+S20.351S@Superficial foreign body of r frnt wl of thorax, sequela
+S20.352A@Superficial foreign body of left front wall of thorax, init
+S20.352D@Superficial foreign body of left front wall of thorax, subs
+S20.352S@Superficial foreign body of l frnt wl of thorax, sequela
+S20.359A@Superficial foreign body of unsp front wall of thorax, init
+S20.359D@Superficial foreign body of unsp front wall of thorax, subs
+S20.359S@Superficial fb of unsp front wall of thorax, sequela
+S20.361A@Insect bite (nonvenomous) of r frnt wl of thorax, init
+S20.361D@Insect bite (nonvenomous) of r frnt wl of thorax, subs
+S20.361S@Insect bite (nonvenomous) of r frnt wl of thorax, sequela
+S20.362A@Insect bite (nonvenomous) of left front wall of thorax, init
+S20.362D@Insect bite (nonvenomous) of left front wall of thorax, subs
+S20.362S@Insect bite (nonvenomous) of l frnt wl of thorax, sequela
+S20.369A@Insect bite (nonvenomous) of unsp front wall of thorax, init
+S20.369D@Insect bite (nonvenomous) of unsp front wall of thorax, subs
+S20.369S@Insect bite of unsp front wall of thorax, sequela
+S20.371A@Oth superficial bite of right front wall of thorax, init
+S20.371D@Oth superficial bite of right front wall of thorax, subs
+S20.371S@Oth superficial bite of right front wall of thorax, sequela
+S20.372A@Oth superficial bite of left front wall of thorax, init
+S20.372D@Oth superficial bite of left front wall of thorax, subs
+S20.372S@Other superficial bite of left front wall of thorax, sequela
+S20.379A@Oth superficial bite of unsp front wall of thorax, init
+S20.379D@Oth superficial bite of unsp front wall of thorax, subs
+S20.379S@Other superficial bite of unsp front wall of thorax, sequela
+S20.401A@Unsp superficial injuries of right back wall of thorax, init
+S20.401D@Unsp superficial injuries of right back wall of thorax, subs
+S20.401S@Unsp superficial injuries of r bk wl of thorax, sequela
+S20.402A@Unsp superficial injuries of left back wall of thorax, init
+S20.402D@Unsp superficial injuries of left back wall of thorax, subs
+S20.402S@Unsp superficial injuries of l bk wl of thorax, sequela
+S20.409A@Unsp superficial injuries of unsp back wall of thorax, init
+S20.409D@Unsp superficial injuries of unsp back wall of thorax, subs
+S20.409S@Unsp superfic injuries of unsp back wall of thorax, sequela
+S20.411A@Abrasion of right back wall of thorax, initial encounter
+S20.411D@Abrasion of right back wall of thorax, subsequent encounter
+S20.411S@Abrasion of right back wall of thorax, sequela
+S20.412A@Abrasion of left back wall of thorax, initial encounter
+S20.412D@Abrasion of left back wall of thorax, subsequent encounter
+S20.412S@Abrasion of left back wall of thorax, sequela
+S20.419A@Abrasion of unspecified back wall of thorax, init encntr
+S20.419D@Abrasion of unspecified back wall of thorax, subs encntr
+S20.419S@Abrasion of unspecified back wall of thorax, sequela
+S20.421A@Blister (nonthermal) of right back wall of thorax, init
+S20.421D@Blister (nonthermal) of right back wall of thorax, subs
+S20.421S@Blister (nonthermal) of right back wall of thorax, sequela
+S20.422A@Blister (nonthermal) of left back wall of thorax, init
+S20.422D@Blister (nonthermal) of left back wall of thorax, subs
+S20.422S@Blister (nonthermal) of left back wall of thorax, sequela
+S20.429A@Blister (nonthermal) of unsp back wall of thorax, init
+S20.429D@Blister (nonthermal) of unsp back wall of thorax, subs
+S20.429S@Blister (nonthermal) of unsp back wall of thorax, sequela
+S20.441A@External constriction of right back wall of thorax, init
+S20.441D@External constriction of right back wall of thorax, subs
+S20.441S@External constriction of right back wall of thorax, sequela
+S20.442A@External constriction of left back wall of thorax, init
+S20.442D@External constriction of left back wall of thorax, subs
+S20.442S@External constriction of left back wall of thorax, sequela
+S20.449A@External constriction of unsp back wall of thorax, init
+S20.449D@External constriction of unsp back wall of thorax, subs
+S20.449S@External constriction of unsp back wall of thorax, sequela
+S20.451A@Superficial foreign body of right back wall of thorax, init
+S20.451D@Superficial foreign body of right back wall of thorax, subs
+S20.451S@Superficial foreign body of r bk wl of thorax, sequela
+S20.452A@Superficial foreign body of left back wall of thorax, init
+S20.452D@Superficial foreign body of left back wall of thorax, subs
+S20.452S@Superficial foreign body of l bk wl of thorax, sequela
+S20.459A@Superficial foreign body of unsp back wall of thorax, init
+S20.459D@Superficial foreign body of unsp back wall of thorax, subs
+S20.459S@Superficial fb of unsp back wall of thorax, sequela
+S20.461A@Insect bite (nonvenomous) of right back wall of thorax, init
+S20.461D@Insect bite (nonvenomous) of right back wall of thorax, subs
+S20.461S@Insect bite (nonvenomous) of r bk wl of thorax, sequela
+S20.462A@Insect bite (nonvenomous) of left back wall of thorax, init
+S20.462D@Insect bite (nonvenomous) of left back wall of thorax, subs
+S20.462S@Insect bite (nonvenomous) of l bk wl of thorax, sequela
+S20.469A@Insect bite (nonvenomous) of unsp back wall of thorax, init
+S20.469D@Insect bite (nonvenomous) of unsp back wall of thorax, subs
+S20.469S@Insect bite of unsp back wall of thorax, sequela
+S20.471A@Oth superficial bite of right back wall of thorax, init
+S20.471D@Oth superficial bite of right back wall of thorax, subs
+S20.471S@Other superficial bite of right back wall of thorax, sequela
+S20.472A@Oth superficial bite of left back wall of thorax, init
+S20.472D@Oth superficial bite of left back wall of thorax, subs
+S20.472S@Other superficial bite of left back wall of thorax, sequela
+S20.479A@Oth superficial bite of unsp back wall of thorax, init
+S20.479D@Oth superficial bite of unsp back wall of thorax, subs
+S20.479S@Other superficial bite of unsp back wall of thorax, sequela
+S20.90XA@Unsp superficial injury of unsp parts of thorax, init encntr
+S20.90XD@Unsp superficial injury of unsp parts of thorax, subs encntr
+S20.90XS@Unsp superficial injury of unsp parts of thorax, sequela
+S20.91XA@Abrasion of unspecified parts of thorax, initial encounter
+S20.91XD@Abrasion of unspecified parts of thorax, subs encntr
+S20.91XS@Abrasion of unspecified parts of thorax, sequela
+S20.92XA@Blister (nonthermal) of unsp parts of thorax, init encntr
+S20.92XD@Blister (nonthermal) of unsp parts of thorax, subs encntr
+S20.92XS@Blister (nonthermal) of unspecified parts of thorax, sequela
+S20.94XA@External constriction of unsp parts of thorax, init encntr
+S20.94XD@External constriction of unsp parts of thorax, subs encntr
+S20.94XS@External constriction of unsp parts of thorax, sequela
+S20.95XA@Superficial foreign body of unsp parts of thorax, init
+S20.95XD@Superficial foreign body of unsp parts of thorax, subs
+S20.95XS@Superficial foreign body of unsp parts of thorax, sequela
+S20.96XA@Insect bite (nonvenomous) of unsp parts of thorax, init
+S20.96XD@Insect bite (nonvenomous) of unsp parts of thorax, subs
+S20.96XS@Insect bite (nonvenomous) of unsp parts of thorax, sequela
+S20.97XA@Other superficial bite of unsp parts of thorax, init encntr
+S20.97XD@Other superficial bite of unsp parts of thorax, subs encntr
+S20.97XS@Other superficial bite of unsp parts of thorax, sequela
+S21.001A@Unspecified open wound of right breast, initial encounter
+S21.001D@Unspecified open wound of right breast, subsequent encounter
+S21.001S@Unspecified open wound of right breast, sequela
+S21.002A@Unspecified open wound of left breast, initial encounter
+S21.002D@Unspecified open wound of left breast, subsequent encounter
+S21.002S@Unspecified open wound of left breast, sequela
+S21.009A@Unspecified open wound of unspecified breast, init encntr
+S21.009D@Unspecified open wound of unspecified breast, subs encntr
+S21.009S@Unspecified open wound of unspecified breast, sequela
+S21.011A@Laceration without foreign body of right breast, init encntr
+S21.011D@Laceration without foreign body of right breast, subs encntr
+S21.011S@Laceration without foreign body of right breast, sequela
+S21.012A@Laceration without foreign body of left breast, init encntr
+S21.012D@Laceration without foreign body of left breast, subs encntr
+S21.012S@Laceration without foreign body of left breast, sequela
+S21.019A@Laceration without foreign body of unsp breast, init encntr
+S21.019D@Laceration without foreign body of unsp breast, subs encntr
+S21.019S@Laceration without foreign body of unsp breast, sequela
+S21.021A@Laceration with foreign body of right breast, init encntr
+S21.021D@Laceration with foreign body of right breast, subs encntr
+S21.021S@Laceration with foreign body of right breast, sequela
+S21.022A@Laceration with foreign body of left breast, init encntr
+S21.022D@Laceration with foreign body of left breast, subs encntr
+S21.022S@Laceration with foreign body of left breast, sequela
+S21.029A@Laceration with foreign body of unsp breast, init encntr
+S21.029D@Laceration with foreign body of unsp breast, subs encntr
+S21.029S@Laceration with foreign body of unspecified breast, sequela
+S21.031A@Puncture wound w/o foreign body of right breast, init encntr
+S21.031D@Puncture wound w/o foreign body of right breast, subs encntr
+S21.031S@Puncture wound without foreign body of right breast, sequela
+S21.032A@Puncture wound w/o foreign body of left breast, init encntr
+S21.032D@Puncture wound w/o foreign body of left breast, subs encntr
+S21.032S@Puncture wound without foreign body of left breast, sequela
+S21.039A@Puncture wound w/o foreign body of unsp breast, init encntr
+S21.039D@Puncture wound w/o foreign body of unsp breast, subs encntr
+S21.039S@Puncture wound without foreign body of unsp breast, sequela
+S21.041A@Puncture wound w foreign body of right breast, init encntr
+S21.041D@Puncture wound w foreign body of right breast, subs encntr
+S21.041S@Puncture wound with foreign body of right breast, sequela
+S21.042A@Puncture wound with foreign body of left breast, init encntr
+S21.042D@Puncture wound with foreign body of left breast, subs encntr
+S21.042S@Puncture wound with foreign body of left breast, sequela
+S21.049A@Puncture wound with foreign body of unsp breast, init encntr
+S21.049D@Puncture wound with foreign body of unsp breast, subs encntr
+S21.049S@Puncture wound with foreign body of unsp breast, sequela
+S21.051A@Open bite of right breast, initial encounter
+S21.051D@Open bite of right breast, subsequent encounter
+S21.051S@Open bite of right breast, sequela
+S21.052A@Open bite of left breast, initial encounter
+S21.052D@Open bite of left breast, subsequent encounter
+S21.052S@Open bite of left breast, sequela
+S21.059A@Open bite of unspecified breast, initial encounter
+S21.059D@Open bite of unspecified breast, subsequent encounter
+S21.059S@Open bite of unspecified breast, sequela
+S21.101A@Unsp opn wnd r frnt wl of thorax w/o penet thor cavity, init
+S21.101D@Unsp opn wnd r frnt wl of thorax w/o penet thor cavity, subs
+S21.101S@Unsp opn wnd r frnt wl of thorax w/o penet thor cavity, sqla
+S21.102A@Unsp opn wnd l frnt wl of thorax w/o penet thor cavity, init
+S21.102D@Unsp opn wnd l frnt wl of thorax w/o penet thor cavity, subs
+S21.102S@Unsp opn wnd l frnt wl of thorax w/o penet thor cavity, sqla
+S21.109A@Unsp opn wnd unsp frnt wall of thrx w/o penet thor cav, init
+S21.109D@Unsp opn wnd unsp frnt wall of thrx w/o penet thor cav, subs
+S21.109S@Unsp opn wnd unsp frnt wall of thrx w/o penet thor cav, sqla
+S21.111A@Lac w/o fb of r frnt wl of thorax w/o penet thor cav, init
+S21.111D@Lac w/o fb of r frnt wl of thorax w/o penet thor cav, subs
+S21.111S@Lac w/o fb of r frnt wl of thorax w/o penet thor cav, sqla
+S21.112A@Lac w/o fb of l frnt wl of thorax w/o penet thor cav, init
+S21.112D@Lac w/o fb of l frnt wl of thorax w/o penet thor cav, subs
+S21.112S@Lac w/o fb of l frnt wl of thorax w/o penet thor cav, sqla
+S21.119A@Lac w/o fb of unsp frnt wl of thrx w/o penet thor cav, init
+S21.119D@Lac w/o fb of unsp frnt wl of thrx w/o penet thor cav, subs
+S21.119S@Lac w/o fb of unsp frnt wl of thrx w/o penet thor cav, sqla
+S21.121A@Lac w fb of r frnt wl of thorax w/o penet thor cavity, init
+S21.121D@Lac w fb of r frnt wl of thorax w/o penet thor cavity, subs
+S21.121S@Lac w fb of r frnt wl of thorax w/o penet thor cavity, sqla
+S21.122A@Lac w fb of l frnt wl of thorax w/o penet thor cavity, init
+S21.122D@Lac w fb of l frnt wl of thorax w/o penet thor cavity, subs
+S21.122S@Lac w fb of l frnt wl of thorax w/o penet thor cavity, sqla
+S21.129A@Lac w fb of unsp front wall of thrx w/o penet thor cav, init
+S21.129D@Lac w fb of unsp front wall of thrx w/o penet thor cav, subs
+S21.129S@Lac w fb of unsp front wall of thrx w/o penet thor cav, sqla
+S21.131A@Pnctr w/o fb of r frnt wl of thorax w/o penet thor cav, init
+S21.131D@Pnctr w/o fb of r frnt wl of thorax w/o penet thor cav, subs
+S21.131S@Pnctr w/o fb of r frnt wl of thorax w/o penet thor cav, sqla
+S21.132A@Pnctr w/o fb of l frnt wl of thorax w/o penet thor cav, init
+S21.132D@Pnctr w/o fb of l frnt wl of thorax w/o penet thor cav, subs
+S21.132S@Pnctr w/o fb of l frnt wl of thorax w/o penet thor cav, sqla
+S21.139A@Pnctr w/o fb of unsp frnt wl of thrx w/o penet thor cav,init
+S21.139D@Pnctr w/o fb of unsp frnt wl of thrx w/o penet thor cav,subs
+S21.139S@Pnctr w/o fb of unsp frnt wl of thrx w/o penet thor cav,sqla
+S21.141A@Pnctr w fb of r frnt wl of thorax w/o penet thor cav, init
+S21.141D@Pnctr w fb of r frnt wl of thorax w/o penet thor cav, subs
+S21.141S@Pnctr w fb of r frnt wl of thorax w/o penet thor cav, sqla
+S21.142A@Pnctr w fb of l frnt wl of thorax w/o penet thor cav, init
+S21.142D@Pnctr w fb of l frnt wl of thorax w/o penet thor cav, subs
+S21.142S@Pnctr w fb of l frnt wl of thorax w/o penet thor cav, sqla
+S21.149A@Pnctr w fb of unsp frnt wl of thrx w/o penet thor cav, init
+S21.149D@Pnctr w fb of unsp frnt wl of thrx w/o penet thor cav, subs
+S21.149S@Pnctr w fb of unsp frnt wl of thrx w/o penet thor cav, sqla
+S21.151A@Open bite of r frnt wl of thorax w/o penet thor cavity, init
+S21.151D@Open bite of r frnt wl of thorax w/o penet thor cavity, subs
+S21.151S@Open bite of r frnt wl of thorax w/o penet thor cavity, sqla
+S21.152A@Open bite of l frnt wl of thorax w/o penet thor cavity, init
+S21.152D@Open bite of l frnt wl of thorax w/o penet thor cavity, subs
+S21.152S@Open bite of l frnt wl of thorax w/o penet thor cavity, sqla
+S21.159A@Open bite of unsp frnt wall of thrx w/o penet thor cav, init
+S21.159D@Open bite of unsp frnt wall of thrx w/o penet thor cav, subs
+S21.159S@Open bite of unsp frnt wall of thrx w/o penet thor cav, sqla
+S21.201A@Unsp opn wnd r bk wl of thorax w/o penet thor cavity, init
+S21.201D@Unsp opn wnd r bk wl of thorax w/o penet thor cavity, subs
+S21.201S@Unsp opn wnd r bk wl of thorax w/o penet thor cavity, sqla
+S21.202A@Unsp opn wnd l bk wl of thorax w/o penet thor cavity, init
+S21.202D@Unsp opn wnd l bk wl of thorax w/o penet thor cavity, subs
+S21.202S@Unsp opn wnd l bk wl of thorax w/o penet thor cavity, sqla
+S21.209A@Unsp opn wnd unsp bk wl of thorax w/o penet thor cav, init
+S21.209D@Unsp opn wnd unsp bk wl of thorax w/o penet thor cav, subs
+S21.209S@Unsp opn wnd unsp bk wl of thorax w/o penet thor cav, sqla
+S21.211A@Lac w/o fb of r bk wl of thorax w/o penet thor cavity, init
+S21.211D@Lac w/o fb of r bk wl of thorax w/o penet thor cavity, subs
+S21.211S@Lac w/o fb of r bk wl of thorax w/o penet thor cavity, sqla
+S21.212A@Lac w/o fb of l bk wl of thorax w/o penet thor cavity, init
+S21.212D@Lac w/o fb of l bk wl of thorax w/o penet thor cavity, subs
+S21.212S@Lac w/o fb of l bk wl of thorax w/o penet thor cavity, sqla
+S21.219A@Lac w/o fb of unsp bk wl of thorax w/o penet thor cav, init
+S21.219D@Lac w/o fb of unsp bk wl of thorax w/o penet thor cav, subs
+S21.219S@Lac w/o fb of unsp bk wl of thorax w/o penet thor cav, sqla
+S21.221A@Lac w fb of r bk wl of thorax w/o penet thor cavity, init
+S21.221D@Lac w fb of r bk wl of thorax w/o penet thor cavity, subs
+S21.221S@Lac w fb of r bk wl of thorax w/o penet thor cavity, sequela
+S21.222A@Lac w fb of l bk wl of thorax w/o penet thor cavity, init
+S21.222D@Lac w fb of l bk wl of thorax w/o penet thor cavity, subs
+S21.222S@Lac w fb of l bk wl of thorax w/o penet thor cavity, sequela
+S21.229A@Lac w fb of unsp bk wl of thorax w/o penet thor cavity, init
+S21.229D@Lac w fb of unsp bk wl of thorax w/o penet thor cavity, subs
+S21.229S@Lac w fb of unsp bk wl of thorax w/o penet thor cavity, sqla
+S21.231A@Pnctr w/o fb of r bk wl of thorax w/o penet thor cav, init
+S21.231D@Pnctr w/o fb of r bk wl of thorax w/o penet thor cav, subs
+S21.231S@Pnctr w/o fb of r bk wl of thorax w/o penet thor cav, sqla
+S21.232A@Pnctr w/o fb of l bk wl of thorax w/o penet thor cav, init
+S21.232D@Pnctr w/o fb of l bk wl of thorax w/o penet thor cav, subs
+S21.232S@Pnctr w/o fb of l bk wl of thorax w/o penet thor cav, sqla
+S21.239A@Pnctr w/o fb of unsp bk wl of thrx w/o penet thor cav, init
+S21.239D@Pnctr w/o fb of unsp bk wl of thrx w/o penet thor cav, subs
+S21.239S@Pnctr w/o fb of unsp bk wl of thrx w/o penet thor cav, sqla
+S21.241A@Pnctr w fb of r bk wl of thorax w/o penet thor cavity, init
+S21.241D@Pnctr w fb of r bk wl of thorax w/o penet thor cavity, subs
+S21.241S@Pnctr w fb of r bk wl of thorax w/o penet thor cavity, sqla
+S21.242A@Pnctr w fb of l bk wl of thorax w/o penet thor cavity, init
+S21.242D@Pnctr w fb of l bk wl of thorax w/o penet thor cavity, subs
+S21.242S@Pnctr w fb of l bk wl of thorax w/o penet thor cavity, sqla
+S21.249A@Pnctr w fb of unsp bk wl of thorax w/o penet thor cav, init
+S21.249D@Pnctr w fb of unsp bk wl of thorax w/o penet thor cav, subs
+S21.249S@Pnctr w fb of unsp bk wl of thorax w/o penet thor cav, sqla
+S21.251A@Open bite of r bk wl of thorax w/o penet thor cavity, init
+S21.251D@Open bite of r bk wl of thorax w/o penet thor cavity, subs
+S21.251S@Open bite of r bk wl of thorax w/o penet thor cavity, sqla
+S21.252A@Open bite of l bk wl of thorax w/o penet thor cavity, init
+S21.252D@Open bite of l bk wl of thorax w/o penet thor cavity, subs
+S21.252S@Open bite of l bk wl of thorax w/o penet thor cavity, sqla
+S21.259A@Open bite of unsp bk wl of thorax w/o penet thor cav, init
+S21.259D@Open bite of unsp bk wl of thorax w/o penet thor cav, subs
+S21.259S@Open bite of unsp bk wl of thorax w/o penet thor cav, sqla
+S21.301A@Unsp opn wnd r frnt wl of thorax w penet thor cavity, init
+S21.301D@Unsp opn wnd r frnt wl of thorax w penet thor cavity, subs
+S21.301S@Unsp opn wnd r frnt wl of thorax w penet thor cavity, sqla
+S21.302A@Unsp opn wnd l frnt wl of thorax w penet thor cavity, init
+S21.302D@Unsp opn wnd l frnt wl of thorax w penet thor cavity, subs
+S21.302S@Unsp opn wnd l frnt wl of thorax w penet thor cavity, sqla
+S21.309A@Unsp opn wnd unsp front wall of thrx w penet thor cav, init
+S21.309D@Unsp opn wnd unsp front wall of thrx w penet thor cav, subs
+S21.309S@Unsp opn wnd unsp front wall of thrx w penet thor cav, sqla
+S21.311A@Lac w/o fb of r frnt wl of thorax w penet thor cavity, init
+S21.311D@Lac w/o fb of r frnt wl of thorax w penet thor cavity, subs
+S21.311S@Lac w/o fb of r frnt wl of thorax w penet thor cavity, sqla
+S21.312A@Lac w/o fb of l frnt wl of thorax w penet thor cavity, init
+S21.312D@Lac w/o fb of l frnt wl of thorax w penet thor cavity, subs
+S21.312S@Lac w/o fb of l frnt wl of thorax w penet thor cavity, sqla
+S21.319A@Lac w/o fb of unsp front wall of thrx w penet thor cav, init
+S21.319D@Lac w/o fb of unsp front wall of thrx w penet thor cav, subs
+S21.319S@Lac w/o fb of unsp front wall of thrx w penet thor cav, sqla
+S21.321A@Lac w fb of r frnt wl of thorax w penet thor cavity, init
+S21.321D@Lac w fb of r frnt wl of thorax w penet thor cavity, subs
+S21.321S@Lac w fb of r frnt wl of thorax w penet thor cavity, sequela
+S21.322A@Lac w fb of l frnt wl of thorax w penet thor cavity, init
+S21.322D@Lac w fb of l frnt wl of thorax w penet thor cavity, subs
+S21.322S@Lac w fb of l frnt wl of thorax w penet thor cavity, sequela
+S21.329A@Lac w fb of unsp front wall of thorax w penet thor cav, init
+S21.329D@Lac w fb of unsp front wall of thorax w penet thor cav, subs
+S21.329S@Lac w fb of unsp front wall of thorax w penet thor cav, sqla
+S21.331A@Pnctr w/o fb of r frnt wl of thorax w penet thor cav, init
+S21.331D@Pnctr w/o fb of r frnt wl of thorax w penet thor cav, subs
+S21.331S@Pnctr w/o fb of r frnt wl of thorax w penet thor cav, sqla
+S21.332A@Pnctr w/o fb of l frnt wl of thorax w penet thor cav, init
+S21.332D@Pnctr w/o fb of l frnt wl of thorax w penet thor cav, subs
+S21.332S@Pnctr w/o fb of l frnt wl of thorax w penet thor cav, sqla
+S21.339A@Pnctr w/o fb of unsp frnt wl of thrx w penet thor cav, init
+S21.339D@Pnctr w/o fb of unsp frnt wl of thrx w penet thor cav, subs
+S21.339S@Pnctr w/o fb of unsp frnt wl of thrx w penet thor cav, sqla
+S21.341A@Pnctr w fb of r frnt wl of thorax w penet thor cavity, init
+S21.341D@Pnctr w fb of r frnt wl of thorax w penet thor cavity, subs
+S21.341S@Pnctr w fb of r frnt wl of thorax w penet thor cavity, sqla
+S21.342A@Pnctr w fb of l frnt wl of thorax w penet thor cavity, init
+S21.342D@Pnctr w fb of l frnt wl of thorax w penet thor cavity, subs
+S21.342S@Pnctr w fb of l frnt wl of thorax w penet thor cavity, sqla
+S21.349A@Pnctr w fb of unsp front wall of thrx w penet thor cav, init
+S21.349D@Pnctr w fb of unsp front wall of thrx w penet thor cav, subs
+S21.349S@Pnctr w fb of unsp front wall of thrx w penet thor cav, sqla
+S21.351A@Open bite of r frnt wl of thorax w penet thor cavity, init
+S21.351D@Open bite of r frnt wl of thorax w penet thor cavity, subs
+S21.351S@Open bite of r frnt wl of thorax w penet thor cavity, sqla
+S21.352A@Open bite of l frnt wl of thorax w penet thor cavity, init
+S21.352D@Open bite of l frnt wl of thorax w penet thor cavity, subs
+S21.352S@Open bite of l frnt wl of thorax w penet thor cavity, sqla
+S21.359A@Open bite of unsp front wall of thrx w penet thor cav, init
+S21.359D@Open bite of unsp front wall of thrx w penet thor cav, subs
+S21.359S@Open bite of unsp front wall of thrx w penet thor cav, sqla
+S21.401A@Unsp opn wnd r bk wl of thorax w penet thoracic cavity, init
+S21.401D@Unsp opn wnd r bk wl of thorax w penet thoracic cavity, subs
+S21.401S@Unsp opn wnd r bk wl of thorax w penet thor cavity, sequela
+S21.402A@Unsp opn wnd l bk wl of thorax w penet thoracic cavity, init
+S21.402D@Unsp opn wnd l bk wl of thorax w penet thoracic cavity, subs
+S21.402S@Unsp opn wnd l bk wl of thorax w penet thor cavity, sequela
+S21.409A@Unsp opn wnd unsp bk wl of thorax w penet thor cavity, init
+S21.409D@Unsp opn wnd unsp bk wl of thorax w penet thor cavity, subs
+S21.409S@Unsp opn wnd unsp bk wl of thorax w penet thor cavity, sqla
+S21.411A@Lac w/o fb of r bk wl of thorax w penet thor cavity, init
+S21.411D@Lac w/o fb of r bk wl of thorax w penet thor cavity, subs
+S21.411S@Lac w/o fb of r bk wl of thorax w penet thor cavity, sequela
+S21.412A@Lac w/o fb of l bk wl of thorax w penet thor cavity, init
+S21.412D@Lac w/o fb of l bk wl of thorax w penet thor cavity, subs
+S21.412S@Lac w/o fb of l bk wl of thorax w penet thor cavity, sequela
+S21.419A@Lac w/o fb of unsp bk wl of thorax w penet thor cavity, init
+S21.419D@Lac w/o fb of unsp bk wl of thorax w penet thor cavity, subs
+S21.419S@Lac w/o fb of unsp bk wl of thorax w penet thor cavity, sqla
+S21.421A@Lac w fb of r bk wl of thorax w penet thoracic cavity, init
+S21.421D@Lac w fb of r bk wl of thorax w penet thoracic cavity, subs
+S21.421S@Lac w fb of r bk wl of thorax w penet thor cavity, sequela
+S21.422A@Lac w fb of l bk wl of thorax w penet thoracic cavity, init
+S21.422D@Lac w fb of l bk wl of thorax w penet thoracic cavity, subs
+S21.422S@Lac w fb of l bk wl of thorax w penet thor cavity, sequela
+S21.429A@Lac w fb of unsp bk wl of thorax w penet thor cavity, init
+S21.429D@Lac w fb of unsp bk wl of thorax w penet thor cavity, subs
+S21.429S@Lac w fb of unsp bk wl of thorax w penet thor cavity, sqla
+S21.431A@Pnctr w/o fb of r bk wl of thorax w penet thor cavity, init
+S21.431D@Pnctr w/o fb of r bk wl of thorax w penet thor cavity, subs
+S21.431S@Pnctr w/o fb of r bk wl of thorax w penet thor cavity, sqla
+S21.432A@Pnctr w/o fb of l bk wl of thorax w penet thor cavity, init
+S21.432D@Pnctr w/o fb of l bk wl of thorax w penet thor cavity, subs
+S21.432S@Pnctr w/o fb of l bk wl of thorax w penet thor cavity, sqla
+S21.439A@Pnctr w/o fb of unsp bk wl of thorax w penet thor cav, init
+S21.439D@Pnctr w/o fb of unsp bk wl of thorax w penet thor cav, subs
+S21.439S@Pnctr w/o fb of unsp bk wl of thorax w penet thor cav, sqla
+S21.441A@Pnctr w fb of r bk wl of thorax w penet thor cavity, init
+S21.441D@Pnctr w fb of r bk wl of thorax w penet thor cavity, subs
+S21.441S@Pnctr w fb of r bk wl of thorax w penet thor cavity, sequela
+S21.442A@Pnctr w fb of l bk wl of thorax w penet thor cavity, init
+S21.442D@Pnctr w fb of l bk wl of thorax w penet thor cavity, subs
+S21.442S@Pnctr w fb of l bk wl of thorax w penet thor cavity, sequela
+S21.449A@Pnctr w fb of unsp bk wl of thorax w penet thor cavity, init
+S21.449D@Pnctr w fb of unsp bk wl of thorax w penet thor cavity, subs
+S21.449S@Pnctr w fb of unsp bk wl of thorax w penet thor cavity, sqla
+S21.451A@Open bite of r bk wl of thorax w penet thoracic cavity, init
+S21.451D@Open bite of r bk wl of thorax w penet thoracic cavity, subs
+S21.451S@Open bite of r bk wl of thorax w penet thor cavity, sequela
+S21.452A@Open bite of l bk wl of thorax w penet thoracic cavity, init
+S21.452D@Open bite of l bk wl of thorax w penet thoracic cavity, subs
+S21.452S@Open bite of l bk wl of thorax w penet thor cavity, sequela
+S21.459A@Open bite of unsp bk wl of thorax w penet thor cavity, init
+S21.459D@Open bite of unsp bk wl of thorax w penet thor cavity, subs
+S21.459S@Open bite of unsp bk wl of thorax w penet thor cavity, sqla
+S21.90XA@Unsp open wound of unspecified part of thorax, init encntr
+S21.90XD@Unsp open wound of unspecified part of thorax, subs encntr
+S21.90XS@Unsp open wound of unspecified part of thorax, sequela
+S21.91XA@Laceration w/o foreign body of unsp part of thorax, init
+S21.91XD@Laceration w/o foreign body of unsp part of thorax, subs
+S21.91XS@Laceration w/o foreign body of unsp part of thorax, sequela
+S21.92XA@Laceration w foreign body of unsp part of thorax, init
+S21.92XD@Laceration w foreign body of unsp part of thorax, subs
+S21.92XS@Laceration with foreign body of unsp part of thorax, sequela
+S21.93XA@Puncture wound w/o foreign body of unsp part of thorax, init
+S21.93XD@Puncture wound w/o foreign body of unsp part of thorax, subs
+S21.93XS@Pnctr w/o foreign body of unsp part of thorax, sequela
+S21.94XA@Puncture wound w foreign body of unsp part of thorax, init
+S21.94XD@Puncture wound w foreign body of unsp part of thorax, subs
+S21.94XS@Pnctr w foreign body of unsp part of thorax, sequela
+S21.95XA@Open bite of unspecified part of thorax, initial encounter
+S21.95XD@Open bite of unspecified part of thorax, subs encntr
+S21.95XS@Open bite of unspecified part of thorax, sequela
+S22.000A@Wedge compression fracture of unsp thoracic vertebra, init
+S22.000B@Wedge comprsn fx unsp thor vertebra, init for opn fx
+S22.000D@Wedge comprsn fx unsp thor vert, subs for fx w routn heal
+S22.000G@Wedge comprsn fx unsp thor vert, subs for fx w delay heal
+S22.000K@Wedge comprsn fx unsp thor vertebra, subs for fx w nonunion
+S22.000S@Wedge compression fracture of unsp thor vertebra, sequela
+S22.001A@Stable burst fracture of unsp thoracic vertebra, init
+S22.001B@Stable burst fracture of unsp thor vertebra, init for opn fx
+S22.001D@Stable burst fx unsp thor vertebra, subs for fx w routn heal
+S22.001G@Stable burst fx unsp thor vertebra, subs for fx w delay heal
+S22.001K@Stable burst fx unsp thor vertebra, subs for fx w nonunion
+S22.001S@Stable burst fracture of unsp thoracic vertebra, sequela
+S22.002A@Unstable burst fracture of unsp thoracic vertebra, init
+S22.002B@Unstable burst fx unsp thor vertebra, init for opn fx
+S22.002D@Unstbl burst fx unsp thor vertebra, subs for fx w routn heal
+S22.002G@Unstbl burst fx unsp thor vertebra, subs for fx w delay heal
+S22.002K@Unstable burst fx unsp thor vertebra, subs for fx w nonunion
+S22.002S@Unstable burst fracture of unsp thoracic vertebra, sequela
+S22.008A@Oth fracture of unsp thoracic vertebra, init for clos fx
+S22.008B@Oth fracture of unsp thoracic vertebra, init for opn fx
+S22.008D@Oth fracture of unsp thor vertebra, subs for fx w routn heal
+S22.008G@Oth fracture of unsp thor vertebra, subs for fx w delay heal
+S22.008K@Oth fracture of unsp thor vertebra, subs for fx w nonunion
+S22.008S@Other fracture of unspecified thoracic vertebra, sequela
+S22.009A@Unsp fracture of unsp thoracic vertebra, init for clos fx
+S22.009B@Unsp fracture of unsp thoracic vertebra, init for opn fx
+S22.009D@Unsp fx unsp thor vertebra, subs for fx w routn heal
+S22.009G@Unsp fx unsp thor vertebra, subs for fx w delay heal
+S22.009K@Unsp fracture of unsp thor vertebra, subs for fx w nonunion
+S22.009S@Unsp fracture of unspecified thoracic vertebra, sequela
+S22.010A@Wedge compression fracture of first thoracic vertebra, init
+S22.010B@Wedge comprsn fx first thor vertebra, init for opn fx
+S22.010D@Wedge comprsn fx first thor vert, subs for fx w routn heal
+S22.010G@Wedge comprsn fx first thor vert, subs for fx w delay heal
+S22.010K@Wedge comprsn fx first thor vertebra, subs for fx w nonunion
+S22.010S@Wedge compression fracture of first thor vertebra, sequela
+S22.011A@Stable burst fracture of first thoracic vertebra, init
+S22.011B@Stable burst fx first thor vertebra, init for opn fx
+S22.011D@Stable burst fx first thor vert, subs for fx w routn heal
+S22.011G@Stable burst fx first thor vert, subs for fx w delay heal
+S22.011K@Stable burst fx first thor vertebra, subs for fx w nonunion
+S22.011S@Stable burst fracture of first thoracic vertebra, sequela
+S22.012A@Unstable burst fracture of first thoracic vertebra, init
+S22.012B@Unstable burst fx first thor vertebra, init for opn fx
+S22.012D@Unstbl burst fx first thor vert, subs for fx w routn heal
+S22.012G@Unstbl burst fx first thor vert, subs for fx w delay heal
+S22.012K@Unstbl burst fx first thor vertebra, subs for fx w nonunion
+S22.012S@Unstable burst fracture of first thoracic vertebra, sequela
+S22.018A@Oth fracture of first thoracic vertebra, init for clos fx
+S22.018B@Oth fracture of first thoracic vertebra, init for opn fx
+S22.018D@Oth fx first thor vertebra, subs for fx w routn heal
+S22.018G@Oth fx first thor vertebra, subs for fx w delay heal
+S22.018K@Oth fracture of first thor vertebra, subs for fx w nonunion
+S22.018S@Other fracture of first thoracic vertebra, sequela
+S22.019A@Unsp fracture of first thoracic vertebra, init for clos fx
+S22.019B@Unsp fracture of first thoracic vertebra, init for opn fx
+S22.019D@Unsp fx first thor vertebra, subs for fx w routn heal
+S22.019G@Unsp fx first thor vertebra, subs for fx w delay heal
+S22.019K@Unsp fracture of first thor vertebra, subs for fx w nonunion
+S22.019S@Unspecified fracture of first thoracic vertebra, sequela
+S22.020A@Wedge compression fracture of second thoracic vertebra, init
+S22.020B@Wedge comprsn fx second thor vertebra, init for opn fx
+S22.020D@Wedge comprsn fx second thor vert, subs for fx w routn heal
+S22.020G@Wedge comprsn fx second thor vert, subs for fx w delay heal
+S22.020K@Wedge comprsn fx second thor vert, subs for fx w nonunion
+S22.020S@Wedge compression fracture of second thor vertebra, sequela
+S22.021A@Stable burst fracture of second thoracic vertebra, init
+S22.021B@Stable burst fx second thor vertebra, init for opn fx
+S22.021D@Stable burst fx second thor vert, subs for fx w routn heal
+S22.021G@Stable burst fx second thor vert, subs for fx w delay heal
+S22.021K@Stable burst fx second thor vertebra, subs for fx w nonunion
+S22.021S@Stable burst fracture of second thoracic vertebra, sequela
+S22.022A@Unstable burst fracture of second thoracic vertebra, init
+S22.022B@Unstable burst fx second thor vertebra, init for opn fx
+S22.022D@Unstbl burst fx second thor vert, subs for fx w routn heal
+S22.022G@Unstbl burst fx second thor vert, subs for fx w delay heal
+S22.022K@Unstbl burst fx second thor vertebra, subs for fx w nonunion
+S22.022S@Unstable burst fracture of second thoracic vertebra, sequela
+S22.028A@Oth fracture of second thoracic vertebra, init for clos fx
+S22.028B@Oth fracture of second thoracic vertebra, init for opn fx
+S22.028D@Oth fx second thor vertebra, subs for fx w routn heal
+S22.028G@Oth fx second thor vertebra, subs for fx w delay heal
+S22.028K@Oth fracture of second thor vertebra, subs for fx w nonunion
+S22.028S@Other fracture of second thoracic vertebra, sequela
+S22.029A@Unsp fracture of second thoracic vertebra, init for clos fx
+S22.029B@Unsp fracture of second thoracic vertebra, init for opn fx
+S22.029D@Unsp fx second thor vertebra, subs for fx w routn heal
+S22.029G@Unsp fx second thor vertebra, subs for fx w delay heal
+S22.029K@Unsp fx second thor vertebra, subs for fx w nonunion
+S22.029S@Unspecified fracture of second thoracic vertebra, sequela
+S22.030A@Wedge compression fracture of third thoracic vertebra, init
+S22.030B@Wedge comprsn fx third thor vertebra, init for opn fx
+S22.030D@Wedge comprsn fx third thor vert, subs for fx w routn heal
+S22.030G@Wedge comprsn fx third thor vert, subs for fx w delay heal
+S22.030K@Wedge comprsn fx third thor vertebra, subs for fx w nonunion
+S22.030S@Wedge compression fracture of third thor vertebra, sequela
+S22.031A@Stable burst fracture of third thoracic vertebra, init
+S22.031B@Stable burst fx third thor vertebra, init for opn fx
+S22.031D@Stable burst fx third thor vert, subs for fx w routn heal
+S22.031G@Stable burst fx third thor vert, subs for fx w delay heal
+S22.031K@Stable burst fx third thor vertebra, subs for fx w nonunion
+S22.031S@Stable burst fracture of third thoracic vertebra, sequela
+S22.032A@Unstable burst fracture of third thoracic vertebra, init
+S22.032B@Unstable burst fx third thor vertebra, init for opn fx
+S22.032D@Unstbl burst fx third thor vert, subs for fx w routn heal
+S22.032G@Unstbl burst fx third thor vert, subs for fx w delay heal
+S22.032K@Unstbl burst fx third thor vertebra, subs for fx w nonunion
+S22.032S@Unstable burst fracture of third thoracic vertebra, sequela
+S22.038A@Oth fracture of third thoracic vertebra, init for clos fx
+S22.038B@Oth fracture of third thoracic vertebra, init for opn fx
+S22.038D@Oth fx third thor vertebra, subs for fx w routn heal
+S22.038G@Oth fx third thor vertebra, subs for fx w delay heal
+S22.038K@Oth fracture of third thor vertebra, subs for fx w nonunion
+S22.038S@Other fracture of third thoracic vertebra, sequela
+S22.039A@Unsp fracture of third thoracic vertebra, init for clos fx
+S22.039B@Unsp fracture of third thoracic vertebra, init for opn fx
+S22.039D@Unsp fx third thor vertebra, subs for fx w routn heal
+S22.039G@Unsp fx third thor vertebra, subs for fx w delay heal
+S22.039K@Unsp fracture of third thor vertebra, subs for fx w nonunion
+S22.039S@Unspecified fracture of third thoracic vertebra, sequela
+S22.040A@Wedge compression fracture of fourth thoracic vertebra, init
+S22.040B@Wedge comprsn fx fourth thor vertebra, init for opn fx
+S22.040D@Wedge comprsn fx fourth thor vert, subs for fx w routn heal
+S22.040G@Wedge comprsn fx fourth thor vert, subs for fx w delay heal
+S22.040K@Wedge comprsn fx fourth thor vert, subs for fx w nonunion
+S22.040S@Wedge compression fracture of fourth thor vertebra, sequela
+S22.041A@Stable burst fracture of fourth thoracic vertebra, init
+S22.041B@Stable burst fx fourth thor vertebra, init for opn fx
+S22.041D@Stable burst fx fourth thor vert, subs for fx w routn heal
+S22.041G@Stable burst fx fourth thor vert, subs for fx w delay heal
+S22.041K@Stable burst fx fourth thor vertebra, subs for fx w nonunion
+S22.041S@Stable burst fracture of fourth thoracic vertebra, sequela
+S22.042A@Unstable burst fracture of fourth thoracic vertebra, init
+S22.042B@Unstable burst fx fourth thor vertebra, init for opn fx
+S22.042D@Unstbl burst fx fourth thor vert, subs for fx w routn heal
+S22.042G@Unstbl burst fx fourth thor vert, subs for fx w delay heal
+S22.042K@Unstbl burst fx fourth thor vertebra, subs for fx w nonunion
+S22.042S@Unstable burst fracture of fourth thoracic vertebra, sequela
+S22.048A@Oth fracture of fourth thoracic vertebra, init for clos fx
+S22.048B@Oth fracture of fourth thoracic vertebra, init for opn fx
+S22.048D@Oth fx fourth thor vertebra, subs for fx w routn heal
+S22.048G@Oth fx fourth thor vertebra, subs for fx w delay heal
+S22.048K@Oth fracture of fourth thor vertebra, subs for fx w nonunion
+S22.048S@Other fracture of fourth thoracic vertebra, sequela
+S22.049A@Unsp fracture of fourth thoracic vertebra, init for clos fx
+S22.049B@Unsp fracture of fourth thoracic vertebra, init for opn fx
+S22.049D@Unsp fx fourth thor vertebra, subs for fx w routn heal
+S22.049G@Unsp fx fourth thor vertebra, subs for fx w delay heal
+S22.049K@Unsp fx fourth thor vertebra, subs for fx w nonunion
+S22.049S@Unspecified fracture of fourth thoracic vertebra, sequela
+S22.050A@Wedge compression fracture of T5-T6 vertebra, init
+S22.050B@Wedge comprsn fracture of T5-T6 vertebra, init for opn fx
+S22.050D@Wedge comprsn fx T5-T6 vertebra, subs for fx w routn heal
+S22.050G@Wedge comprsn fx T5-T6 vertebra, subs for fx w delay heal
+S22.050K@Wedge comprsn fx T5-T6 vertebra, subs for fx w nonunion
+S22.050S@Wedge compression fracture of T5-T6 vertebra, sequela
+S22.051A@Stable burst fracture of T5-T6 vertebra, init for clos fx
+S22.051B@Stable burst fracture of T5-T6 vertebra, init for opn fx
+S22.051D@Stable burst fx T5-T6 vertebra, subs for fx w routn heal
+S22.051G@Stable burst fx T5-T6 vertebra, subs for fx w delay heal
+S22.051K@Stable burst fx T5-T6 vertebra, subs for fx w nonunion
+S22.051S@Stable burst fracture of T5-T6 vertebra, sequela
+S22.052A@Unstable burst fracture of T5-T6 vertebra, init for clos fx
+S22.052B@Unstable burst fracture of T5-T6 vertebra, init for opn fx
+S22.052D@Unstable burst fx T5-T6 vertebra, subs for fx w routn heal
+S22.052G@Unstable burst fx T5-T6 vertebra, subs for fx w delay heal
+S22.052K@Unstable burst fx T5-T6 vertebra, subs for fx w nonunion
+S22.052S@Unstable burst fracture of T5-T6 vertebra, sequela
+S22.058A@Oth fracture of T5-T6 vertebra, init for clos fx
+S22.058B@Oth fracture of T5-T6 vertebra, init for opn fx
+S22.058D@Oth fracture of T5-T6 vertebra, subs for fx w routn heal
+S22.058G@Oth fracture of T5-T6 vertebra, subs for fx w delay heal
+S22.058K@Oth fracture of T5-T6 vertebra, subs for fx w nonunion
+S22.058S@Other fracture of T5-T6 vertebra, sequela
+S22.059A@Unsp fracture of T5-T6 vertebra, init for clos fx
+S22.059B@Unsp fracture of T5-T6 vertebra, init for opn fx
+S22.059D@Unsp fracture of T5-T6 vertebra, subs for fx w routn heal
+S22.059G@Unsp fracture of T5-T6 vertebra, subs for fx w delay heal
+S22.059K@Unsp fracture of T5-T6 vertebra, subs for fx w nonunion
+S22.059S@Unspecified fracture of T5-T6 vertebra, sequela
+S22.060A@Wedge compression fracture of T7-T8 vertebra, init
+S22.060B@Wedge comprsn fracture of T7-T8 vertebra, init for opn fx
+S22.060D@Wedge comprsn fx T7-T8 vertebra, subs for fx w routn heal
+S22.060G@Wedge comprsn fx T7-T8 vertebra, subs for fx w delay heal
+S22.060K@Wedge comprsn fx T7-T8 vertebra, subs for fx w nonunion
+S22.060S@Wedge compression fracture of T7-T8 vertebra, sequela
+S22.061A@Stable burst fracture of T7-T8 vertebra, init for clos fx
+S22.061B@Stable burst fracture of T7-T8 vertebra, init for opn fx
+S22.061D@Stable burst fx T7-T8 vertebra, subs for fx w routn heal
+S22.061G@Stable burst fx T7-T8 vertebra, subs for fx w delay heal
+S22.061K@Stable burst fx T7-T8 vertebra, subs for fx w nonunion
+S22.061S@Stable burst fracture of T7-T8 vertebra, sequela
+S22.062A@Unstable burst fracture of T7-T8 vertebra, init for clos fx
+S22.062B@Unstable burst fracture of T7-T8 vertebra, init for opn fx
+S22.062D@Unstable burst fx T7-T8 vertebra, subs for fx w routn heal
+S22.062G@Unstable burst fx T7-T8 vertebra, subs for fx w delay heal
+S22.062K@Unstable burst fx T7-T8 vertebra, subs for fx w nonunion
+S22.062S@Unstable burst fracture of T7-T8 vertebra, sequela
+S22.068A@Oth fracture of T7-T8 thoracic vertebra, init for clos fx
+S22.068B@Oth fracture of T7-T8 thoracic vertebra, init for opn fx
+S22.068D@Oth fx T7-T8 thor vertebra, subs for fx w routn heal
+S22.068G@Oth fx T7-T8 thor vertebra, subs for fx w delay heal
+S22.068K@Oth fracture of T7-T8 thor vertebra, subs for fx w nonunion
+S22.068S@Other fracture of T7-T8 thoracic vertebra, sequela
+S22.069A@Unsp fracture of T7-T8 vertebra, init for clos fx
+S22.069B@Unsp fracture of T7-T8 vertebra, init for opn fx
+S22.069D@Unsp fracture of T7-T8 vertebra, subs for fx w routn heal
+S22.069G@Unsp fracture of T7-T8 vertebra, subs for fx w delay heal
+S22.069K@Unsp fracture of T7-T8 vertebra, subs for fx w nonunion
+S22.069S@Unspecified fracture of T7-T8 vertebra, sequela
+S22.070A@Wedge compression fracture of T9-T10 vertebra, init
+S22.070B@Wedge comprsn fracture of T9-T10 vertebra, init for opn fx
+S22.070D@Wedge comprsn fx T9-T10 vertebra, subs for fx w routn heal
+S22.070G@Wedge comprsn fx T9-T10 vertebra, subs for fx w delay heal
+S22.070K@Wedge comprsn fx T9-T10 vertebra, subs for fx w nonunion
+S22.070S@Wedge compression fracture of T9-T10 vertebra, sequela
+S22.071A@Stable burst fracture of T9-T10 vertebra, init for clos fx
+S22.071B@Stable burst fracture of T9-T10 vertebra, init for opn fx
+S22.071D@Stable burst fx T9-T10 vertebra, subs for fx w routn heal
+S22.071G@Stable burst fx T9-T10 vertebra, subs for fx w delay heal
+S22.071K@Stable burst fx T9-T10 vertebra, subs for fx w nonunion
+S22.071S@Stable burst fracture of T9-T10 vertebra, sequela
+S22.072A@Unstable burst fracture of T9-T10 vertebra, init for clos fx
+S22.072B@Unstable burst fracture of T9-T10 vertebra, init for opn fx
+S22.072D@Unstable burst fx T9-T10 vertebra, subs for fx w routn heal
+S22.072G@Unstable burst fx T9-T10 vertebra, subs for fx w delay heal
+S22.072K@Unstable burst fx T9-T10 vertebra, subs for fx w nonunion
+S22.072S@Unstable burst fracture of T9-T10 vertebra, sequela
+S22.078A@Oth fracture of T9-T10 vertebra, init for clos fx
+S22.078B@Oth fracture of T9-T10 vertebra, init for opn fx
+S22.078D@Oth fracture of T9-T10 vertebra, subs for fx w routn heal
+S22.078G@Oth fracture of T9-T10 vertebra, subs for fx w delay heal
+S22.078K@Oth fracture of T9-T10 vertebra, subs for fx w nonunion
+S22.078S@Other fracture of T9-T10 vertebra, sequela
+S22.079A@Unsp fracture of T9-T10 vertebra, init for clos fx
+S22.079B@Unsp fracture of T9-T10 vertebra, init for opn fx
+S22.079D@Unsp fracture of T9-T10 vertebra, subs for fx w routn heal
+S22.079G@Unsp fracture of T9-T10 vertebra, subs for fx w delay heal
+S22.079K@Unsp fracture of T9-T10 vertebra, subs for fx w nonunion
+S22.079S@Unspecified fracture of T9-T10 vertebra, sequela
+S22.080A@Wedge compression fracture of T11-T12 vertebra, init
+S22.080B@Wedge comprsn fracture of T11-T12 vertebra, init for opn fx
+S22.080D@Wedge comprsn fx T11-T12 vertebra, subs for fx w routn heal
+S22.080G@Wedge comprsn fx T11-T12 vertebra, subs for fx w delay heal
+S22.080K@Wedge comprsn fx T11-T12 vertebra, subs for fx w nonunion
+S22.080S@Wedge compression fracture of T11-T12 vertebra, sequela
+S22.081A@Stable burst fracture of T11-T12 vertebra, init for clos fx
+S22.081B@Stable burst fracture of T11-T12 vertebra, init for opn fx
+S22.081D@Stable burst fx T11-T12 vertebra, subs for fx w routn heal
+S22.081G@Stable burst fx T11-T12 vertebra, subs for fx w delay heal
+S22.081K@Stable burst fx T11-T12 vertebra, subs for fx w nonunion
+S22.081S@Stable burst fracture of T11-T12 vertebra, sequela
+S22.082A@Unstable burst fracture of T11-T12 vertebra, init
+S22.082B@Unstable burst fracture of T11-T12 vertebra, init for opn fx
+S22.082D@Unstable burst fx T11-T12 vertebra, subs for fx w routn heal
+S22.082G@Unstable burst fx T11-T12 vertebra, subs for fx w delay heal
+S22.082K@Unstable burst fx T11-T12 vertebra, subs for fx w nonunion
+S22.082S@Unstable burst fracture of T11-T12 vertebra, sequela
+S22.088A@Oth fracture of T11-T12 vertebra, init for clos fx
+S22.088B@Oth fracture of T11-T12 vertebra, init for opn fx
+S22.088D@Oth fracture of T11-T12 vertebra, subs for fx w routn heal
+S22.088G@Oth fracture of T11-T12 vertebra, subs for fx w delay heal
+S22.088K@Oth fracture of T11-T12 vertebra, subs for fx w nonunion
+S22.088S@Other fracture of T11-T12 vertebra, sequela
+S22.089A@Unsp fracture of T11-T12 vertebra, init for clos fx
+S22.089B@Unsp fracture of T11-T12 vertebra, init for opn fx
+S22.089D@Unsp fracture of T11-T12 vertebra, subs for fx w routn heal
+S22.089G@Unsp fracture of T11-T12 vertebra, subs for fx w delay heal
+S22.089K@Unsp fracture of T11-T12 vertebra, subs for fx w nonunion
+S22.089S@Unspecified fracture of T11-T12 vertebra, sequela
+S22.20XA@Unsp fracture of sternum, init encntr for closed fracture
+S22.20XB@Unsp fracture of sternum, init encntr for open fracture
+S22.20XD@Unsp fracture of sternum, subs for fx w routn heal
+S22.20XG@Unsp fracture of sternum, subs for fx w delay heal
+S22.20XK@Unsp fracture of sternum, subs for fx w nonunion
+S22.20XS@Unspecified fracture of sternum, sequela
+S22.21XA@Fracture of manubrium, initial encounter for closed fracture
+S22.21XB@Fracture of manubrium, initial encounter for open fracture
+S22.21XD@Fracture of manubrium, subs for fx w routn heal
+S22.21XG@Fracture of manubrium, subs for fx w delay heal
+S22.21XK@Fracture of manubrium, subs encntr for fracture w nonunion
+S22.21XS@Fracture of manubrium, sequela
+S22.22XA@Fracture of body of sternum, init encntr for closed fracture
+S22.22XB@Fracture of body of sternum, init encntr for open fracture
+S22.22XD@Fracture of body of sternum, subs for fx w routn heal
+S22.22XG@Fracture of body of sternum, subs for fx w delay heal
+S22.22XK@Fracture of body of sternum, subs for fx w nonunion
+S22.22XS@Fracture of body of sternum, sequela
+S22.23XA@Sternal manubrial dissociation, init for clos fx
+S22.23XB@Sternal manubrial dissociation, init for opn fx
+S22.23XD@Sternal manubrial dissociation, subs for fx w routn heal
+S22.23XG@Sternal manubrial dissociation, subs for fx w delay heal
+S22.23XK@Sternal manubrial dissociation, subs for fx w nonunion
+S22.23XS@Sternal manubrial dissociation, sequela
+S22.24XA@Fracture of xiphoid process, init encntr for closed fracture
+S22.24XB@Fracture of xiphoid process, init encntr for open fracture
+S22.24XD@Fracture of xiphoid process, subs for fx w routn heal
+S22.24XG@Fracture of xiphoid process, subs for fx w delay heal
+S22.24XK@Fracture of xiphoid process, subs for fx w nonunion
+S22.24XS@Fracture of xiphoid process, sequela
+S22.31XA@Fracture of one rib, right side, init for clos fx
+S22.31XB@Fracture of one rib, right side, init for opn fx
+S22.31XD@Fracture of one rib, right side, subs for fx w routn heal
+S22.31XG@Fracture of one rib, right side, subs for fx w delay heal
+S22.31XK@Fracture of one rib, right side, subs for fx w nonunion
+S22.31XS@Fracture of one rib, right side, sequela
+S22.32XA@Fracture of one rib, left side, init for clos fx
+S22.32XB@Fracture of one rib, left side, init for opn fx
+S22.32XD@Fracture of one rib, left side, subs for fx w routn heal
+S22.32XG@Fracture of one rib, left side, subs for fx w delay heal
+S22.32XK@Fracture of one rib, left side, subs for fx w nonunion
+S22.32XS@Fracture of one rib, left side, sequela
+S22.39XA@Fracture of one rib, unsp side, init for clos fx
+S22.39XB@Fracture of one rib, unsp side, init for opn fx
+S22.39XD@Fracture of one rib, unsp side, subs for fx w routn heal
+S22.39XG@Fracture of one rib, unsp side, subs for fx w delay heal
+S22.39XK@Fracture of one rib, unsp side, subs for fx w nonunion
+S22.39XS@Fracture of one rib, unspecified side, sequela
+S22.41XA@Multiple fractures of ribs, right side, init for clos fx
+S22.41XB@Multiple fractures of ribs, right side, init for opn fx
+S22.41XD@Multiple fx of ribs, right side, subs for fx w routn heal
+S22.41XG@Multiple fx of ribs, right side, subs for fx w delay heal
+S22.41XK@Multiple fx of ribs, right side, subs for fx w nonunion
+S22.41XS@Multiple fractures of ribs, right side, sequela
+S22.42XA@Multiple fractures of ribs, left side, init for clos fx
+S22.42XB@Multiple fractures of ribs, left side, init for opn fx
+S22.42XD@Multiple fx of ribs, left side, subs for fx w routn heal
+S22.42XG@Multiple fx of ribs, left side, subs for fx w delay heal
+S22.42XK@Multiple fx of ribs, left side, subs for fx w nonunion
+S22.42XS@Multiple fractures of ribs, left side, sequela
+S22.43XA@Multiple fractures of ribs, bilateral, init for clos fx
+S22.43XB@Multiple fractures of ribs, bilateral, init for opn fx
+S22.43XD@Multiple fractures of ribs, bi, subs for fx w routn heal
+S22.43XG@Multiple fractures of ribs, bi, subs for fx w delay heal
+S22.43XK@Multiple fractures of ribs, bi, subs for fx w nonunion
+S22.43XS@Multiple fractures of ribs, bilateral, sequela
+S22.49XA@Multiple fractures of ribs, unsp side, init for clos fx
+S22.49XB@Multiple fractures of ribs, unsp side, init for opn fx
+S22.49XD@Multiple fx of ribs, unsp side, subs for fx w routn heal
+S22.49XG@Multiple fx of ribs, unsp side, subs for fx w delay heal
+S22.49XK@Multiple fx of ribs, unsp side, subs for fx w nonunion
+S22.49XS@Multiple fractures of ribs, unspecified side, sequela
+S22.5XXA@Flail chest, initial encounter for closed fracture
+S22.5XXB@Flail chest, initial encounter for open fracture
+S22.5XXD@Flail chest, subs encntr for fracture with routine healing
+S22.5XXG@Flail chest, subs encntr for fracture with delayed healing
+S22.5XXK@Flail chest, subsequent encounter for fracture with nonunion
+S22.5XXS@Flail chest, sequela
+S22.9XXA@Fracture of bony thorax, part unsp, init for clos fx
+S22.9XXB@Fracture of bony thorax, part unsp, init for opn fx
+S22.9XXD@Fracture of bony thorax, part unsp, subs for fx w routn heal
+S22.9XXG@Fracture of bony thorax, part unsp, subs for fx w delay heal
+S22.9XXK@Fracture of bony thorax, part unsp, subs for fx w nonunion
+S22.9XXS@Fracture of bony thorax, part unspecified, sequela
+S23.0XXA@Traumatic rupture of thoracic intervertebral disc, init
+S23.0XXD@Traumatic rupture of thoracic intervertebral disc, subs
+S23.0XXS@Traumatic rupture of thoracic intervertebral disc, sequela
+S23.100A@Subluxation of unspecified thoracic vertebra, init encntr
+S23.100D@Subluxation of unspecified thoracic vertebra, subs encntr
+S23.100S@Subluxation of unspecified thoracic vertebra, sequela
+S23.101A@Dislocation of unspecified thoracic vertebra, init encntr
+S23.101D@Dislocation of unspecified thoracic vertebra, subs encntr
+S23.101S@Dislocation of unspecified thoracic vertebra, sequela
+S23.110A@Subluxation of T1/T2 thoracic vertebra, initial encounter
+S23.110D@Subluxation of T1/T2 thoracic vertebra, subsequent encounter
+S23.110S@Subluxation of T1/T2 thoracic vertebra, sequela
+S23.111A@Dislocation of T1/T2 thoracic vertebra, initial encounter
+S23.111D@Dislocation of T1/T2 thoracic vertebra, subsequent encounter
+S23.111S@Dislocation of T1/T2 thoracic vertebra, sequela
+S23.120A@Subluxation of T2/T3 thoracic vertebra, initial encounter
+S23.120D@Subluxation of T2/T3 thoracic vertebra, subsequent encounter
+S23.120S@Subluxation of T2/T3 thoracic vertebra, sequela
+S23.121A@Dislocation of T2/T3 thoracic vertebra, initial encounter
+S23.121D@Dislocation of T2/T3 thoracic vertebra, subsequent encounter
+S23.121S@Dislocation of T2/T3 thoracic vertebra, sequela
+S23.122A@Subluxation of T3/T4 thoracic vertebra, initial encounter
+S23.122D@Subluxation of T3/T4 thoracic vertebra, subsequent encounter
+S23.122S@Subluxation of T3/T4 thoracic vertebra, sequela
+S23.123A@Dislocation of T3/T4 thoracic vertebra, initial encounter
+S23.123D@Dislocation of T3/T4 thoracic vertebra, subsequent encounter
+S23.123S@Dislocation of T3/T4 thoracic vertebra, sequela
+S23.130A@Subluxation of T4/T5 thoracic vertebra, initial encounter
+S23.130D@Subluxation of T4/T5 thoracic vertebra, subsequent encounter
+S23.130S@Subluxation of T4/T5 thoracic vertebra, sequela
+S23.131A@Dislocation of T4/T5 thoracic vertebra, initial encounter
+S23.131D@Dislocation of T4/T5 thoracic vertebra, subsequent encounter
+S23.131S@Dislocation of T4/T5 thoracic vertebra, sequela
+S23.132A@Subluxation of T5/T6 thoracic vertebra, initial encounter
+S23.132D@Subluxation of T5/T6 thoracic vertebra, subsequent encounter
+S23.132S@Subluxation of T5/T6 thoracic vertebra, sequela
+S23.133A@Dislocation of T5/T6 thoracic vertebra, initial encounter
+S23.133D@Dislocation of T5/T6 thoracic vertebra, subsequent encounter
+S23.133S@Dislocation of T5/T6 thoracic vertebra, sequela
+S23.140A@Subluxation of T6/T7 thoracic vertebra, initial encounter
+S23.140D@Subluxation of T6/T7 thoracic vertebra, subsequent encounter
+S23.140S@Subluxation of T6/T7 thoracic vertebra, sequela
+S23.141A@Dislocation of T6/T7 thoracic vertebra, initial encounter
+S23.141D@Dislocation of T6/T7 thoracic vertebra, subsequent encounter
+S23.141S@Dislocation of T6/T7 thoracic vertebra, sequela
+S23.142A@Subluxation of T7/T8 thoracic vertebra, initial encounter
+S23.142D@Subluxation of T7/T8 thoracic vertebra, subsequent encounter
+S23.142S@Subluxation of T7/T8 thoracic vertebra, sequela
+S23.143A@Dislocation of T7/T8 thoracic vertebra, initial encounter
+S23.143D@Dislocation of T7/T8 thoracic vertebra, subsequent encounter
+S23.143S@Dislocation of T7/T8 thoracic vertebra, sequela
+S23.150A@Subluxation of T8/T9 thoracic vertebra, initial encounter
+S23.150D@Subluxation of T8/T9 thoracic vertebra, subsequent encounter
+S23.150S@Subluxation of T8/T9 thoracic vertebra, sequela
+S23.151A@Dislocation of T8/T9 thoracic vertebra, initial encounter
+S23.151D@Dislocation of T8/T9 thoracic vertebra, subsequent encounter
+S23.151S@Dislocation of T8/T9 thoracic vertebra, sequela
+S23.152A@Subluxation of T9/T10 thoracic vertebra, initial encounter
+S23.152D@Subluxation of T9/T10 thoracic vertebra, subs encntr
+S23.152S@Subluxation of T9/T10 thoracic vertebra, sequela
+S23.153A@Dislocation of T9/T10 thoracic vertebra, initial encounter
+S23.153D@Dislocation of T9/T10 thoracic vertebra, subs encntr
+S23.153S@Dislocation of T9/T10 thoracic vertebra, sequela
+S23.160A@Subluxation of T10/T11 thoracic vertebra, initial encounter
+S23.160D@Subluxation of T10/T11 thoracic vertebra, subs encntr
+S23.160S@Subluxation of T10/T11 thoracic vertebra, sequela
+S23.161A@Dislocation of T10/T11 thoracic vertebra, initial encounter
+S23.161D@Dislocation of T10/T11 thoracic vertebra, subs encntr
+S23.161S@Dislocation of T10/T11 thoracic vertebra, sequela
+S23.162A@Subluxation of T11/T12 thoracic vertebra, initial encounter
+S23.162D@Subluxation of T11/T12 thoracic vertebra, subs encntr
+S23.162S@Subluxation of T11/T12 thoracic vertebra, sequela
+S23.163A@Dislocation of T11/T12 thoracic vertebra, initial encounter
+S23.163D@Dislocation of T11/T12 thoracic vertebra, subs encntr
+S23.163S@Dislocation of T11/T12 thoracic vertebra, sequela
+S23.170A@Subluxation of T12/L1 thoracic vertebra, initial encounter
+S23.170D@Subluxation of T12/L1 thoracic vertebra, subs encntr
+S23.170S@Subluxation of T12/L1 thoracic vertebra, sequela
+S23.171A@Dislocation of T12/L1 thoracic vertebra, initial encounter
+S23.171D@Dislocation of T12/L1 thoracic vertebra, subs encntr
+S23.171S@Dislocation of T12/L1 thoracic vertebra, sequela
+S23.20XA@Dislocation of unspecified part of thorax, initial encounter
+S23.20XD@Dislocation of unspecified part of thorax, subs encntr
+S23.20XS@Dislocation of unspecified part of thorax, sequela
+S23.29XA@Dislocation of other parts of thorax, initial encounter
+S23.29XD@Dislocation of other parts of thorax, subsequent encounter
+S23.29XS@Dislocation of other parts of thorax, sequela
+S23.3XXA@Sprain of ligaments of thoracic spine, initial encounter
+S23.3XXD@Sprain of ligaments of thoracic spine, subsequent encounter
+S23.3XXS@Sprain of ligaments of thoracic spine, sequela
+S23.41XA@Sprain of ribs, initial encounter
+S23.41XD@Sprain of ribs, subsequent encounter
+S23.41XS@Sprain of ribs, sequela
+S23.420A@Sprain of sternoclavicular (joint) (ligament), init encntr
+S23.420D@Sprain of sternoclavicular (joint) (ligament), subs encntr
+S23.420S@Sprain of sternoclavicular (joint) (ligament), sequela
+S23.421A@Sprain of chondrosternal joint, initial encounter
+S23.421D@Sprain of chondrosternal joint, subsequent encounter
+S23.421S@Sprain of chondrosternal joint, sequela
+S23.428A@Other sprain of sternum, initial encounter
+S23.428D@Other sprain of sternum, subsequent encounter
+S23.428S@Other sprain of sternum, sequela
+S23.429A@Unspecified sprain of sternum, initial encounter
+S23.429D@Unspecified sprain of sternum, subsequent encounter
+S23.429S@Unspecified sprain of sternum, sequela
+S23.8XXA@Sprain of other specified parts of thorax, initial encounter
+S23.8XXD@Sprain of other specified parts of thorax, subs encntr
+S23.8XXS@Sprain of other specified parts of thorax, sequela
+S23.9XXA@Sprain of unspecified parts of thorax, initial encounter
+S23.9XXD@Sprain of unspecified parts of thorax, subsequent encounter
+S23.9XXS@Sprain of unspecified parts of thorax, sequela
+S24.0XXA@Concussion and edema of thoracic spinal cord, init encntr
+S24.0XXD@Concussion and edema of thoracic spinal cord, subs encntr
+S24.0XXS@Concussion and edema of thoracic spinal cord, sequela
+S24.101A@Unsp injury at T1 level of thoracic spinal cord, init encntr
+S24.101D@Unsp injury at T1 level of thoracic spinal cord, subs encntr
+S24.101S@Unsp injury at T1 level of thoracic spinal cord, sequela
+S24.102A@Unsp injury at T2-T6 level of thoracic spinal cord, init
+S24.102D@Unsp injury at T2-T6 level of thoracic spinal cord, subs
+S24.102S@Unsp injury at T2-T6 level of thoracic spinal cord, sequela
+S24.103A@Unsp injury at T7-T10 level of thoracic spinal cord, init
+S24.103D@Unsp injury at T7-T10 level of thoracic spinal cord, subs
+S24.103S@Unsp injury at T7-T10 level of thoracic spinal cord, sequela
+S24.104A@Unsp injury at T11-T12 level of thoracic spinal cord, init
+S24.104D@Unsp injury at T11-T12 level of thoracic spinal cord, subs
+S24.104S@Unsp injury at T11-T12, sequela
+S24.109A@Unsp injury at unsp level of thoracic spinal cord, init
+S24.109D@Unsp injury at unsp level of thoracic spinal cord, subs
+S24.109S@Unsp injury at unsp level of thoracic spinal cord, sequela
+S24.111A@Complete lesion at T1 level of thoracic spinal cord, init
+S24.111D@Complete lesion at T1 level of thoracic spinal cord, subs
+S24.111S@Complete lesion at T1 level of thoracic spinal cord, sequela
+S24.112A@Complete lesion at T2-T6 level of thoracic spinal cord, init
+S24.112D@Complete lesion at T2-T6 level of thoracic spinal cord, subs
+S24.112S@Complete lesion at T2-T6, sequela
+S24.113A@Complete lesion at T7-T10, init
+S24.113D@Complete lesion at T7-T10, subs
+S24.113S@Complete lesion at T7-T10, sequela
+S24.114A@Complete lesion at T11-T12, init
+S24.114D@Complete lesion at T11-T12, subs
+S24.114S@Complete lesion at T11-T12, sequela
+S24.119A@Complete lesion at unsp level of thoracic spinal cord, init
+S24.119D@Complete lesion at unsp level of thoracic spinal cord, subs
+S24.119S@Complete lesion at unsp level of thor spinal cord, sequela
+S24.131A@Anterior cord syndrome at T1, init
+S24.131D@Anterior cord syndrome at T1, subs
+S24.131S@Anterior cord syndrome at T1, sequela
+S24.132A@Anterior cord syndrome at T2-T6, init
+S24.132D@Anterior cord syndrome at T2-T6, subs
+S24.132S@Anterior cord syndrome at T2-T6, sequela
+S24.133A@Anterior cord syndrome at T7-T10, init
+S24.133D@Anterior cord syndrome at T7-T10, subs
+S24.133S@Anterior cord syndrome at T7-T10, sequela
+S24.134A@Anterior cord syndrome at T11-T12, init
+S24.134D@Anterior cord syndrome at T11-T12, subs
+S24.134S@Anterior cord syndrome at T11-T12, sequela
+S24.139A@Ant cord syndrome at unsp level of thor spinal cord, init
+S24.139D@Ant cord syndrome at unsp level of thor spinal cord, subs
+S24.139S@Ant cord syndrome at unsp level of thor spinal cord, sequela
+S24.141A@Brown-Sequard syndrome at T1, init
+S24.141D@Brown-Sequard syndrome at T1, subs
+S24.141S@Brown-Sequard syndrome at T1, sequela
+S24.142A@Brown-Sequard syndrome at T2-T6, init
+S24.142D@Brown-Sequard syndrome at T2-T6, subs
+S24.142S@Brown-Sequard syndrome at T2-T6, sequela
+S24.143A@Brown-Sequard syndrome at T7-T10, init
+S24.143D@Brown-Sequard syndrome at T7-T10, subs
+S24.143S@Brown-Sequard syndrome at T7-T10, sequela
+S24.144A@Brown-Sequard syndrome at T11-T12, init
+S24.144D@Brown-Sequard syndrome at T11-T12, subs
+S24.144S@Brown-Sequard syndrome at T11-T12, sequela
+S24.149A@Brown-Sequard synd at unsp level of thor spinal cord, init
+S24.149D@Brown-Sequard synd at unsp level of thor spinal cord, subs
+S24.149S@Brown-Sequard synd at unsp level of thor spinal cord, sqla
+S24.151A@Oth incomplete lesion at T1, init
+S24.151D@Oth incomplete lesion at T1, subs
+S24.151S@Oth incomplete lesion at T1, sequela
+S24.152A@Oth incomplete lesion at T2-T6, init
+S24.152D@Oth incomplete lesion at T2-T6, subs
+S24.152S@Oth incomplete lesion at T2-T6, sequela
+S24.153A@Oth incomplete lesion at T7-T10, init
+S24.153D@Oth incomplete lesion at T7-T10, subs
+S24.153S@Oth incomplete lesion at T7-T10, sequela
+S24.154A@Oth incomplete lesion at T11-T12, init
+S24.154D@Oth incomplete lesion at T11-T12, subs
+S24.154S@Oth incomplete lesion at T11-T12, sequela
+S24.159A@Oth incmpl lesion at unsp level of thor spinal cord, init
+S24.159D@Oth incmpl lesion at unsp level of thor spinal cord, subs
+S24.159S@Oth incmpl lesion at unsp level of thor spinal cord, sequela
+S24.2XXA@Injury of nerve root of thoracic spine, initial encounter
+S24.2XXD@Injury of nerve root of thoracic spine, subsequent encounter
+S24.2XXS@Injury of nerve root of thoracic spine, sequela
+S24.3XXA@Injury of peripheral nerves of thorax, initial encounter
+S24.3XXD@Injury of peripheral nerves of thorax, subsequent encounter
+S24.3XXS@Injury of peripheral nerves of thorax, sequela
+S24.4XXA@Injury of thoracic sympathetic nervous system, init encntr
+S24.4XXD@Injury of thoracic sympathetic nervous system, subs encntr
+S24.4XXS@Injury of thoracic sympathetic nervous system, sequela
+S24.8XXA@Injury of other specified nerves of thorax, init encntr
+S24.8XXD@Injury of other specified nerves of thorax, subs encntr
+S24.8XXS@Injury of other specified nerves of thorax, sequela
+S24.9XXA@Injury of unspecified nerve of thorax, initial encounter
+S24.9XXD@Injury of unspecified nerve of thorax, subsequent encounter
+S24.9XXS@Injury of unspecified nerve of thorax, sequela
+S25.00XA@Unspecified injury of thoracic aorta, initial encounter
+S25.00XD@Unspecified injury of thoracic aorta, subsequent encounter
+S25.00XS@Unspecified injury of thoracic aorta, sequela
+S25.01XA@Minor laceration of thoracic aorta, initial encounter
+S25.01XD@Minor laceration of thoracic aorta, subsequent encounter
+S25.01XS@Minor laceration of thoracic aorta, sequela
+S25.02XA@Major laceration of thoracic aorta, initial encounter
+S25.02XD@Major laceration of thoracic aorta, subsequent encounter
+S25.02XS@Major laceration of thoracic aorta, sequela
+S25.09XA@Other specified injury of thoracic aorta, initial encounter
+S25.09XD@Other specified injury of thoracic aorta, subs encntr
+S25.09XS@Other specified injury of thoracic aorta, sequela
+S25.101A@Unsp injury of right innominate or subclavian artery, init
+S25.101D@Unsp injury of right innominate or subclavian artery, subs
+S25.101S@Unsp injury of right innominate or subclav art, sequela
+S25.102A@Unsp injury of left innominate or subclavian artery, init
+S25.102D@Unsp injury of left innominate or subclavian artery, subs
+S25.102S@Unsp injury of left innominate or subclavian artery, sequela
+S25.109A@Unsp injury of unsp innominate or subclavian artery, init
+S25.109D@Unsp injury of unsp innominate or subclavian artery, subs
+S25.109S@Unsp injury of unsp innominate or subclavian artery, sequela
+S25.111A@Minor laceration of right innominate or subclav art, init
+S25.111D@Minor laceration of right innominate or subclav art, subs
+S25.111S@Minor laceration of right innominate or subclav art, sequela
+S25.112A@Minor laceration of left innominate or subclav art, init
+S25.112D@Minor laceration of left innominate or subclav art, subs
+S25.112S@Minor laceration of left innominate or subclav art, sequela
+S25.119A@Minor laceration of unsp innominate or subclav art, init
+S25.119D@Minor laceration of unsp innominate or subclav art, subs
+S25.119S@Minor laceration of unsp innominate or subclav art, sequela
+S25.121A@Major laceration of right innominate or subclav art, init
+S25.121D@Major laceration of right innominate or subclav art, subs
+S25.121S@Major laceration of right innominate or subclav art, sequela
+S25.122A@Major laceration of left innominate or subclav art, init
+S25.122D@Major laceration of left innominate or subclav art, subs
+S25.122S@Major laceration of left innominate or subclav art, sequela
+S25.129A@Major laceration of unsp innominate or subclav art, init
+S25.129D@Major laceration of unsp innominate or subclav art, subs
+S25.129S@Major laceration of unsp innominate or subclav art, sequela
+S25.191A@Inj right innominate or subclavian artery, init encntr
+S25.191D@Inj right innominate or subclavian artery, subs encntr
+S25.191S@Oth injury of right innominate or subclavian artery, sequela
+S25.192A@Inj left innominate or subclavian artery, init encntr
+S25.192D@Inj left innominate or subclavian artery, subs encntr
+S25.192S@Oth injury of left innominate or subclavian artery, sequela
+S25.199A@Inj unsp innominate or subclavian artery, init encntr
+S25.199D@Inj unsp innominate or subclavian artery, subs encntr
+S25.199S@Oth injury of unsp innominate or subclavian artery, sequela
+S25.20XA@Unspecified injury of superior vena cava, initial encounter
+S25.20XD@Unspecified injury of superior vena cava, subs encntr
+S25.20XS@Unspecified injury of superior vena cava, sequela
+S25.21XA@Minor laceration of superior vena cava, initial encounter
+S25.21XD@Minor laceration of superior vena cava, subsequent encounter
+S25.21XS@Minor laceration of superior vena cava, sequela
+S25.22XA@Major laceration of superior vena cava, initial encounter
+S25.22XD@Major laceration of superior vena cava, subsequent encounter
+S25.22XS@Major laceration of superior vena cava, sequela
+S25.29XA@Other specified injury of superior vena cava, init encntr
+S25.29XD@Other specified injury of superior vena cava, subs encntr
+S25.29XS@Other specified injury of superior vena cava, sequela
+S25.301A@Unsp injury of right innominate or subclavian vein, init
+S25.301D@Unsp injury of right innominate or subclavian vein, subs
+S25.301S@Unsp injury of right innominate or subclavian vein, sequela
+S25.302A@Unsp injury of left innominate or subclavian vein, init
+S25.302D@Unsp injury of left innominate or subclavian vein, subs
+S25.302S@Unsp injury of left innominate or subclavian vein, sequela
+S25.309A@Unsp injury of unsp innominate or subclavian vein, init
+S25.309D@Unsp injury of unsp innominate or subclavian vein, subs
+S25.309S@Unsp injury of unsp innominate or subclavian vein, sequela
+S25.311A@Minor laceration of right innominate or subclav vein, init
+S25.311D@Minor laceration of right innominate or subclav vein, subs
+S25.311S@Minor lacerat right innominate or subclav vein, sequela
+S25.312A@Minor laceration of left innominate or subclavian vein, init
+S25.312D@Minor laceration of left innominate or subclavian vein, subs
+S25.312S@Minor laceration of left innominate or subclav vein, sequela
+S25.319A@Minor laceration of unsp innominate or subclavian vein, init
+S25.319D@Minor laceration of unsp innominate or subclavian vein, subs
+S25.319S@Minor laceration of unsp innominate or subclav vein, sequela
+S25.321A@Major laceration of right innominate or subclav vein, init
+S25.321D@Major laceration of right innominate or subclav vein, subs
+S25.321S@Major lacerat right innominate or subclav vein, sequela
+S25.322A@Major laceration of left innominate or subclavian vein, init
+S25.322D@Major laceration of left innominate or subclavian vein, subs
+S25.322S@Major laceration of left innominate or subclav vein, sequela
+S25.329A@Major laceration of unsp innominate or subclavian vein, init
+S25.329D@Major laceration of unsp innominate or subclavian vein, subs
+S25.329S@Major laceration of unsp innominate or subclav vein, sequela
+S25.391A@Inj right innominate or subclavian vein, init encntr
+S25.391D@Inj right innominate or subclavian vein, subs encntr
+S25.391S@Oth injury of right innominate or subclavian vein, sequela
+S25.392A@Inj left innominate or subclavian vein, init encntr
+S25.392D@Inj left innominate or subclavian vein, subs encntr
+S25.392S@Oth injury of left innominate or subclavian vein, sequela
+S25.399A@Inj unsp innominate or subclavian vein, init encntr
+S25.399D@Inj unsp innominate or subclavian vein, subs encntr
+S25.399S@Oth injury of unsp innominate or subclavian vein, sequela
+S25.401A@Unsp injury of right pulmonary blood vessels, init encntr
+S25.401D@Unsp injury of right pulmonary blood vessels, subs encntr
+S25.401S@Unspecified injury of right pulmonary blood vessels, sequela
+S25.402A@Unsp injury of left pulmonary blood vessels, init encntr
+S25.402D@Unsp injury of left pulmonary blood vessels, subs encntr
+S25.402S@Unspecified injury of left pulmonary blood vessels, sequela
+S25.409A@Unsp injury of unsp pulmonary blood vessels, init encntr
+S25.409D@Unsp injury of unsp pulmonary blood vessels, subs encntr
+S25.409S@Unsp injury of unspecified pulmonary blood vessels, sequela
+S25.411A@Minor laceration of right pulmonary blood vessels, init
+S25.411D@Minor laceration of right pulmonary blood vessels, subs
+S25.411S@Minor laceration of right pulmonary blood vessels, sequela
+S25.412A@Minor laceration of left pulmonary blood vessels, init
+S25.412D@Minor laceration of left pulmonary blood vessels, subs
+S25.412S@Minor laceration of left pulmonary blood vessels, sequela
+S25.419A@Minor laceration of unsp pulmonary blood vessels, init
+S25.419D@Minor laceration of unsp pulmonary blood vessels, subs
+S25.419S@Minor laceration of unsp pulmonary blood vessels, sequela
+S25.421A@Major laceration of right pulmonary blood vessels, init
+S25.421D@Major laceration of right pulmonary blood vessels, subs
+S25.421S@Major laceration of right pulmonary blood vessels, sequela
+S25.422A@Major laceration of left pulmonary blood vessels, init
+S25.422D@Major laceration of left pulmonary blood vessels, subs
+S25.422S@Major laceration of left pulmonary blood vessels, sequela
+S25.429A@Major laceration of unsp pulmonary blood vessels, init
+S25.429D@Major laceration of unsp pulmonary blood vessels, subs
+S25.429S@Major laceration of unsp pulmonary blood vessels, sequela
+S25.491A@Oth injury of right pulmonary blood vessels, init encntr
+S25.491D@Oth injury of right pulmonary blood vessels, subs encntr
+S25.491S@Oth injury of right pulmonary blood vessels, sequela
+S25.492A@Oth injury of left pulmonary blood vessels, init encntr
+S25.492D@Oth injury of left pulmonary blood vessels, subs encntr
+S25.492S@Oth injury of left pulmonary blood vessels, sequela
+S25.499A@Oth injury of unsp pulmonary blood vessels, init encntr
+S25.499D@Oth injury of unsp pulmonary blood vessels, subs encntr
+S25.499S@Oth injury of unspecified pulmonary blood vessels, sequela
+S25.501A@Unsp injury of intercostal blood vessels, right side, init
+S25.501D@Unsp injury of intercostal blood vessels, right side, subs
+S25.501S@Unsp injury of intercostl blood vessels, right side, sequela
+S25.502A@Unsp injury of intercostal blood vessels, left side, init
+S25.502D@Unsp injury of intercostal blood vessels, left side, subs
+S25.502S@Unsp injury of intercostal blood vessels, left side, sequela
+S25.509A@Unsp injury of intercostal blood vessels, unsp side, init
+S25.509D@Unsp injury of intercostal blood vessels, unsp side, subs
+S25.509S@Unsp injury of intercostal blood vessels, unsp side, sequela
+S25.511A@Laceration of intercostal blood vessels, right side, init
+S25.511D@Laceration of intercostal blood vessels, right side, subs
+S25.511S@Laceration of intercostal blood vessels, right side, sequela
+S25.512A@Laceration of intercostal blood vessels, left side, init
+S25.512D@Laceration of intercostal blood vessels, left side, subs
+S25.512S@Laceration of intercostal blood vessels, left side, sequela
+S25.519A@Laceration of intercostal blood vessels, unsp side, init
+S25.519D@Laceration of intercostal blood vessels, unsp side, subs
+S25.519S@Laceration of intercostal blood vessels, unsp side, sequela
+S25.591A@Inj intercostal blood vessels, right side, init encntr
+S25.591D@Inj intercostal blood vessels, right side, subs encntr
+S25.591S@Oth injury of intercostal blood vessels, right side, sequela
+S25.592A@Inj intercostal blood vessels, left side, init encntr
+S25.592D@Inj intercostal blood vessels, left side, subs encntr
+S25.592S@Oth injury of intercostal blood vessels, left side, sequela
+S25.599A@Inj intercostal blood vessels, unsp side, init encntr
+S25.599D@Inj intercostal blood vessels, unsp side, subs encntr
+S25.599S@Oth injury of intercostal blood vessels, unsp side, sequela
+S25.801A@Unsp injury of oth blood vessels of thorax, right side, init
+S25.801D@Unsp injury of oth blood vessels of thorax, right side, subs
+S25.801S@Unsp injury of blood vessels of thorax, right side, sequela
+S25.802A@Unsp injury of oth blood vessels of thorax, left side, init
+S25.802D@Unsp injury of oth blood vessels of thorax, left side, subs
+S25.802S@Unsp injury of blood vessels of thorax, left side, sequela
+S25.809A@Unsp injury of oth blood vessels of thorax, unsp side, init
+S25.809D@Unsp injury of oth blood vessels of thorax, unsp side, subs
+S25.809S@Unsp injury of blood vessels of thorax, unsp side, sequela
+S25.811A@Laceration of oth blood vessels of thorax, right side, init
+S25.811D@Laceration of oth blood vessels of thorax, right side, subs
+S25.811S@Laceration of blood vessels of thorax, right side, sequela
+S25.812A@Laceration of oth blood vessels of thorax, left side, init
+S25.812D@Laceration of oth blood vessels of thorax, left side, subs
+S25.812S@Laceration of blood vessels of thorax, left side, sequela
+S25.819A@Laceration of oth blood vessels of thorax, unsp side, init
+S25.819D@Laceration of oth blood vessels of thorax, unsp side, subs
+S25.819S@Laceration of blood vessels of thorax, unsp side, sequela
+S25.891A@Inj oth blood vessels of thorax, right side, init encntr
+S25.891D@Inj oth blood vessels of thorax, right side, subs encntr
+S25.891S@Inj oth blood vessels of thorax, right side, sequela
+S25.892A@Inj oth blood vessels of thorax, left side, init encntr
+S25.892D@Inj oth blood vessels of thorax, left side, subs encntr
+S25.892S@Inj oth blood vessels of thorax, left side, sequela
+S25.899A@Inj oth blood vessels of thorax, unsp side, init encntr
+S25.899D@Inj oth blood vessels of thorax, unsp side, subs encntr
+S25.899S@Inj oth blood vessels of thorax, unsp side, sequela
+S25.90XA@Unsp injury of unsp blood vessel of thorax, init encntr
+S25.90XD@Unsp injury of unsp blood vessel of thorax, subs encntr
+S25.90XS@Unsp injury of unspecified blood vessel of thorax, sequela
+S25.91XA@Laceration of unsp blood vessel of thorax, init encntr
+S25.91XD@Laceration of unsp blood vessel of thorax, subs encntr
+S25.91XS@Laceration of unspecified blood vessel of thorax, sequela
+S25.99XA@Oth injury of unsp blood vessel of thorax, init encntr
+S25.99XD@Oth injury of unsp blood vessel of thorax, subs encntr
+S25.99XS@Oth injury of unspecified blood vessel of thorax, sequela
+S26.00XA@Unsp injury of heart with hemopericardium, init encntr
+S26.00XD@Unsp injury of heart with hemopericardium, subs encntr
+S26.00XS@Unspecified injury of heart with hemopericardium, sequela
+S26.01XA@Contusion of heart with hemopericardium, initial encounter
+S26.01XD@Contusion of heart with hemopericardium, subs encntr
+S26.01XS@Contusion of heart with hemopericardium, sequela
+S26.020A@Mild laceration of heart with hemopericardium, init encntr
+S26.020D@Mild laceration of heart with hemopericardium, subs encntr
+S26.020S@Mild laceration of heart with hemopericardium, sequela
+S26.021A@Moderate laceration of heart w hemopericardium, init encntr
+S26.021D@Moderate laceration of heart w hemopericardium, subs encntr
+S26.021S@Moderate laceration of heart with hemopericardium, sequela
+S26.022A@Major laceration of heart with hemopericardium, init encntr
+S26.022D@Major laceration of heart with hemopericardium, subs encntr
+S26.022S@Major laceration of heart with hemopericardium, sequela
+S26.09XA@Other injury of heart with hemopericardium, init encntr
+S26.09XD@Other injury of heart with hemopericardium, subs encntr
+S26.09XS@Other injury of heart with hemopericardium, sequela
+S26.10XA@Unsp injury of heart without hemopericardium, init encntr
+S26.10XD@Unsp injury of heart without hemopericardium, subs encntr
+S26.10XS@Unspecified injury of heart without hemopericardium, sequela
+S26.11XA@Contusion of heart without hemopericardium, init encntr
+S26.11XD@Contusion of heart without hemopericardium, subs encntr
+S26.11XS@Contusion of heart without hemopericardium, sequela
+S26.12XA@Laceration of heart without hemopericardium, init encntr
+S26.12XD@Laceration of heart without hemopericardium, subs encntr
+S26.12XS@Laceration of heart without hemopericardium, sequela
+S26.19XA@Other injury of heart without hemopericardium, init encntr
+S26.19XD@Other injury of heart without hemopericardium, subs encntr
+S26.19XS@Other injury of heart without hemopericardium, sequela
+S26.90XA@Unsp injury of heart, unsp w or w/o hemopericardium, init
+S26.90XD@Unsp injury of heart, unsp w or w/o hemopericardium, subs
+S26.90XS@Unsp injury of heart, unsp w or w/o hemopericardium, sequela
+S26.91XA@Contusion of heart, unsp w or w/o hemopericardium, init
+S26.91XD@Contusion of heart, unsp w or w/o hemopericardium, subs
+S26.91XS@Contusion of heart, unsp w or w/o hemopericardium, sequela
+S26.92XA@Laceration of heart, unsp w or w/o hemopericardium, init
+S26.92XD@Laceration of heart, unsp w or w/o hemopericardium, subs
+S26.92XS@Laceration of heart, unsp w or w/o hemopericardium, sequela
+S26.99XA@Inj heart, unsp w or w/o hemopericardium, init encntr
+S26.99XD@Inj heart, unsp w or w/o hemopericardium, subs encntr
+S26.99XS@Oth injury of heart, unsp w or w/o hemopericardium, sequela
+S27.0XXA@Traumatic pneumothorax, initial encounter
+S27.0XXD@Traumatic pneumothorax, subsequent encounter
+S27.0XXS@Traumatic pneumothorax, sequela
+S27.1XXA@Traumatic hemothorax, initial encounter
+S27.1XXD@Traumatic hemothorax, subsequent encounter
+S27.1XXS@Traumatic hemothorax, sequela
+S27.2XXA@Traumatic hemopneumothorax, initial encounter
+S27.2XXD@Traumatic hemopneumothorax, subsequent encounter
+S27.2XXS@Traumatic hemopneumothorax, sequela
+S27.301A@Unspecified injury of lung, unilateral, initial encounter
+S27.301D@Unspecified injury of lung, unilateral, subsequent encounter
+S27.301S@Unspecified injury of lung, unilateral, sequela
+S27.302A@Unspecified injury of lung, bilateral, initial encounter
+S27.302D@Unspecified injury of lung, bilateral, subsequent encounter
+S27.302S@Unspecified injury of lung, bilateral, sequela
+S27.309A@Unspecified injury of lung, unspecified, initial encounter
+S27.309D@Unspecified injury of lung, unspecified, subs encntr
+S27.309S@Unspecified injury of lung, unspecified, sequela
+S27.311A@Primary blast injury of lung, unilateral, initial encounter
+S27.311D@Primary blast injury of lung, unilateral, subs encntr
+S27.311S@Primary blast injury of lung, unilateral, sequela
+S27.312A@Primary blast injury of lung, bilateral, initial encounter
+S27.312D@Primary blast injury of lung, bilateral, subs encntr
+S27.312S@Primary blast injury of lung, bilateral, sequela
+S27.319A@Primary blast injury of lung, unspecified, initial encounter
+S27.319D@Primary blast injury of lung, unspecified, subs encntr
+S27.319S@Primary blast injury of lung, unspecified, sequela
+S27.321A@Contusion of lung, unilateral, initial encounter
+S27.321D@Contusion of lung, unilateral, subsequent encounter
+S27.321S@Contusion of lung, unilateral, sequela
+S27.322A@Contusion of lung, bilateral, initial encounter
+S27.322D@Contusion of lung, bilateral, subsequent encounter
+S27.322S@Contusion of lung, bilateral, sequela
+S27.329A@Contusion of lung, unspecified, initial encounter
+S27.329D@Contusion of lung, unspecified, subsequent encounter
+S27.329S@Contusion of lung, unspecified, sequela
+S27.331A@Laceration of lung, unilateral, initial encounter
+S27.331D@Laceration of lung, unilateral, subsequent encounter
+S27.331S@Laceration of lung, unilateral, sequela
+S27.332A@Laceration of lung, bilateral, initial encounter
+S27.332D@Laceration of lung, bilateral, subsequent encounter
+S27.332S@Laceration of lung, bilateral, sequela
+S27.339A@Laceration of lung, unspecified, initial encounter
+S27.339D@Laceration of lung, unspecified, subsequent encounter
+S27.339S@Laceration of lung, unspecified, sequela
+S27.391A@Other injuries of lung, unilateral, initial encounter
+S27.391D@Other injuries of lung, unilateral, subsequent encounter
+S27.391S@Other injuries of lung, unilateral, sequela
+S27.392A@Other injuries of lung, bilateral, initial encounter
+S27.392D@Other injuries of lung, bilateral, subsequent encounter
+S27.392S@Other injuries of lung, bilateral, sequela
+S27.399A@Other injuries of lung, unspecified, initial encounter
+S27.399D@Other injuries of lung, unspecified, subsequent encounter
+S27.399S@Other injuries of lung, unspecified, sequela
+S27.401A@Unspecified injury of bronchus, unilateral, init encntr
+S27.401D@Unspecified injury of bronchus, unilateral, subs encntr
+S27.401S@Unspecified injury of bronchus, unilateral, sequela
+S27.402A@Unspecified injury of bronchus, bilateral, initial encounter
+S27.402D@Unspecified injury of bronchus, bilateral, subs encntr
+S27.402S@Unspecified injury of bronchus, bilateral, sequela
+S27.409A@Unspecified injury of bronchus, unspecified, init encntr
+S27.409D@Unspecified injury of bronchus, unspecified, subs encntr
+S27.409S@Unspecified injury of bronchus, unspecified, sequela
+S27.411A@Primary blast injury of bronchus, unilateral, init encntr
+S27.411D@Primary blast injury of bronchus, unilateral, subs encntr
+S27.411S@Primary blast injury of bronchus, unilateral, sequela
+S27.412A@Primary blast injury of bronchus, bilateral, init encntr
+S27.412D@Primary blast injury of bronchus, bilateral, subs encntr
+S27.412S@Primary blast injury of bronchus, bilateral, sequela
+S27.419A@Primary blast injury of bronchus, unspecified, init encntr
+S27.419D@Primary blast injury of bronchus, unspecified, subs encntr
+S27.419S@Primary blast injury of bronchus, unspecified, sequela
+S27.421A@Contusion of bronchus, unilateral, initial encounter
+S27.421D@Contusion of bronchus, unilateral, subsequent encounter
+S27.421S@Contusion of bronchus, unilateral, sequela
+S27.422A@Contusion of bronchus, bilateral, initial encounter
+S27.422D@Contusion of bronchus, bilateral, subsequent encounter
+S27.422S@Contusion of bronchus, bilateral, sequela
+S27.429A@Contusion of bronchus, unspecified, initial encounter
+S27.429D@Contusion of bronchus, unspecified, subsequent encounter
+S27.429S@Contusion of bronchus, unspecified, sequela
+S27.431A@Laceration of bronchus, unilateral, initial encounter
+S27.431D@Laceration of bronchus, unilateral, subsequent encounter
+S27.431S@Laceration of bronchus, unilateral, sequela
+S27.432A@Laceration of bronchus, bilateral, initial encounter
+S27.432D@Laceration of bronchus, bilateral, subsequent encounter
+S27.432S@Laceration of bronchus, bilateral, sequela
+S27.439A@Laceration of bronchus, unspecified, initial encounter
+S27.439D@Laceration of bronchus, unspecified, subsequent encounter
+S27.439S@Laceration of bronchus, unspecified, sequela
+S27.491A@Other injury of bronchus, unilateral, initial encounter
+S27.491D@Other injury of bronchus, unilateral, subsequent encounter
+S27.491S@Other injury of bronchus, unilateral, sequela
+S27.492A@Other injury of bronchus, bilateral, initial encounter
+S27.492D@Other injury of bronchus, bilateral, subsequent encounter
+S27.492S@Other injury of bronchus, bilateral, sequela
+S27.499A@Other injury of bronchus, unspecified, initial encounter
+S27.499D@Other injury of bronchus, unspecified, subsequent encounter
+S27.499S@Other injury of bronchus, unspecified, sequela
+S27.50XA@Unspecified injury of thoracic trachea, initial encounter
+S27.50XD@Unspecified injury of thoracic trachea, subsequent encounter
+S27.50XS@Unspecified injury of thoracic trachea, sequela
+S27.51XA@Primary blast injury of thoracic trachea, initial encounter
+S27.51XD@Primary blast injury of thoracic trachea, subs encntr
+S27.51XS@Primary blast injury of thoracic trachea, sequela
+S27.52XA@Contusion of thoracic trachea, initial encounter
+S27.52XD@Contusion of thoracic trachea, subsequent encounter
+S27.52XS@Contusion of thoracic trachea, sequela
+S27.53XA@Laceration of thoracic trachea, initial encounter
+S27.53XD@Laceration of thoracic trachea, subsequent encounter
+S27.53XS@Laceration of thoracic trachea, sequela
+S27.59XA@Other injury of thoracic trachea, initial encounter
+S27.59XD@Other injury of thoracic trachea, subsequent encounter
+S27.59XS@Other injury of thoracic trachea, sequela
+S27.60XA@Unspecified injury of pleura, initial encounter
+S27.60XD@Unspecified injury of pleura, subsequent encounter
+S27.60XS@Unspecified injury of pleura, sequela
+S27.63XA@Laceration of pleura, initial encounter
+S27.63XD@Laceration of pleura, subsequent encounter
+S27.63XS@Laceration of pleura, sequela
+S27.69XA@Other injury of pleura, initial encounter
+S27.69XD@Other injury of pleura, subsequent encounter
+S27.69XS@Other injury of pleura, sequela
+S27.802A@Contusion of diaphragm, initial encounter
+S27.802D@Contusion of diaphragm, subsequent encounter
+S27.802S@Contusion of diaphragm, sequela
+S27.803A@Laceration of diaphragm, initial encounter
+S27.803D@Laceration of diaphragm, subsequent encounter
+S27.803S@Laceration of diaphragm, sequela
+S27.808A@Other injury of diaphragm, initial encounter
+S27.808D@Other injury of diaphragm, subsequent encounter
+S27.808S@Other injury of diaphragm, sequela
+S27.809A@Unspecified injury of diaphragm, initial encounter
+S27.809D@Unspecified injury of diaphragm, subsequent encounter
+S27.809S@Unspecified injury of diaphragm, sequela
+S27.812A@Contusion of esophagus (thoracic part), initial encounter
+S27.812D@Contusion of esophagus (thoracic part), subsequent encounter
+S27.812S@Contusion of esophagus (thoracic part), sequela
+S27.813A@Laceration of esophagus (thoracic part), initial encounter
+S27.813D@Laceration of esophagus (thoracic part), subs encntr
+S27.813S@Laceration of esophagus (thoracic part), sequela
+S27.818A@Other injury of esophagus (thoracic part), initial encounter
+S27.818D@Other injury of esophagus (thoracic part), subs encntr
+S27.818S@Other injury of esophagus (thoracic part), sequela
+S27.819A@Unspecified injury of esophagus (thoracic part), init encntr
+S27.819D@Unspecified injury of esophagus (thoracic part), subs encntr
+S27.819S@Unspecified injury of esophagus (thoracic part), sequela
+S27.892A@Contusion of oth intrathoracic organs, init encntr
+S27.892D@Contusion of oth intrathoracic organs, subs encntr
+S27.892S@Contusion of other specified intrathoracic organs, sequela
+S27.893A@Laceration of oth intrathoracic organs, init encntr
+S27.893D@Laceration of oth intrathoracic organs, subs encntr
+S27.893S@Laceration of other specified intrathoracic organs, sequela
+S27.898A@Other injury of oth intrathoracic organs, init encntr
+S27.898D@Other injury of oth intrathoracic organs, subs encntr
+S27.898S@Other injury of oth intrathoracic organs, sequela
+S27.899A@Unspecified injury of oth intrathoracic organs, init encntr
+S27.899D@Unspecified injury of oth intrathoracic organs, subs encntr
+S27.899S@Unspecified injury of oth intrathoracic organs, sequela
+S27.9XXA@Injury of unspecified intrathoracic organ, initial encounter
+S27.9XXD@Injury of unspecified intrathoracic organ, subs encntr
+S27.9XXS@Injury of unspecified intrathoracic organ, sequela
+S28.0XXA@Crushed chest, initial encounter
+S28.0XXD@Crushed chest, subsequent encounter
+S28.0XXS@Crushed chest, sequela
+S28.1XXA@Traumatic amp of part of thorax, except breast, init
+S28.1XXD@Traumatic amp of part of thorax, except breast, subs
+S28.1XXS@Traumatic amp of part of thorax, except breast, sequela
+S28.211A@Complete traumatic amputation of right breast, init encntr
+S28.211D@Complete traumatic amputation of right breast, subs encntr
+S28.211S@Complete traumatic amputation of right breast, sequela
+S28.212A@Complete traumatic amputation of left breast, init encntr
+S28.212D@Complete traumatic amputation of left breast, subs encntr
+S28.212S@Complete traumatic amputation of left breast, sequela
+S28.219A@Complete traumatic amputation of unsp breast, init encntr
+S28.219D@Complete traumatic amputation of unsp breast, subs encntr
+S28.219S@Complete traumatic amputation of unspecified breast, sequela
+S28.221A@Partial traumatic amputation of right breast, init encntr
+S28.221D@Partial traumatic amputation of right breast, subs encntr
+S28.221S@Partial traumatic amputation of right breast, sequela
+S28.222A@Partial traumatic amputation of left breast, init encntr
+S28.222D@Partial traumatic amputation of left breast, subs encntr
+S28.222S@Partial traumatic amputation of left breast, sequela
+S28.229A@Partial traumatic amputation of unsp breast, init encntr
+S28.229D@Partial traumatic amputation of unsp breast, subs encntr
+S28.229S@Partial traumatic amputation of unspecified breast, sequela
+S29.001A@Unsp injury of msl/tnd of front wall of thorax, init
+S29.001D@Unsp injury of msl/tnd of front wall of thorax, subs
+S29.001S@Unsp injury of msl/tnd of front wall of thorax, sequela
+S29.002A@Unsp injury of msl/tnd of back wall of thorax, init
+S29.002D@Unsp injury of msl/tnd of back wall of thorax, subs
+S29.002S@Unsp injury of msl/tnd of back wall of thorax, sequela
+S29.009A@Unsp injury of msl/tnd of unsp wall of thorax, init
+S29.009D@Unsp injury of msl/tnd of unsp wall of thorax, subs
+S29.009S@Unsp injury of msl/tnd of unsp wall of thorax, sequela
+S29.011A@Strain of muscle and tendon of front wall of thorax, init
+S29.011D@Strain of muscle and tendon of front wall of thorax, subs
+S29.011S@Strain of muscle and tendon of front wall of thorax, sequela
+S29.012A@Strain of muscle and tendon of back wall of thorax, init
+S29.012D@Strain of muscle and tendon of back wall of thorax, subs
+S29.012S@Strain of muscle and tendon of back wall of thorax, sequela
+S29.019A@Strain of muscle and tendon of unsp wall of thorax, init
+S29.019D@Strain of muscle and tendon of unsp wall of thorax, subs
+S29.019S@Strain of muscle and tendon of unsp wall of thorax, sequela
+S29.021A@Laceration of msl/tnd of front wall of thorax, init
+S29.021D@Laceration of msl/tnd of front wall of thorax, subs
+S29.021S@Laceration of msl/tnd of front wall of thorax, sequela
+S29.022A@Laceration of muscle and tendon of back wall of thorax, init
+S29.022D@Laceration of muscle and tendon of back wall of thorax, subs
+S29.022S@Laceration of msl/tnd of back wall of thorax, sequela
+S29.029A@Laceration of muscle and tendon of unsp wall of thorax, init
+S29.029D@Laceration of muscle and tendon of unsp wall of thorax, subs
+S29.029S@Laceration of msl/tnd of unsp wall of thorax, sequela
+S29.091A@Inj muscle and tendon of front wall of thorax, init encntr
+S29.091D@Inj muscle and tendon of front wall of thorax, subs encntr
+S29.091S@Inj muscle and tendon of front wall of thorax, sequela
+S29.092A@Inj muscle and tendon of back wall of thorax, init encntr
+S29.092D@Inj muscle and tendon of back wall of thorax, subs encntr
+S29.092S@Inj muscle and tendon of back wall of thorax, sequela
+S29.099A@Inj muscle and tendon of unsp wall of thorax, init encntr
+S29.099D@Inj muscle and tendon of unsp wall of thorax, subs encntr
+S29.099S@Inj muscle and tendon of unsp wall of thorax, sequela
+S29.8XXA@Other specified injuries of thorax, initial encounter
+S29.8XXD@Other specified injuries of thorax, subsequent encounter
+S29.8XXS@Other specified injuries of thorax, sequela
+S29.9XXA@Unspecified injury of thorax, initial encounter
+S29.9XXD@Unspecified injury of thorax, subsequent encounter
+S29.9XXS@Unspecified injury of thorax, sequela
