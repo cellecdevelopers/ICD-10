@@ -8,8 +8,10 @@ K00.6@Disturbances in tooth eruption
 K00.7@Teething syndrome
 K00.8@Other disorders of tooth development
 K00.9@Disorder of tooth development, unspecified
+#
 K01.0@Embedded teeth
 K01.1@Impacted teeth
+#
 K02.3@Arrested dental caries
 K02.51@Dental caries on pit and fissure surface limited to enamel
 K02.52@Dental caries on pit and fissure surfc penetrat into dentin
@@ -19,6 +21,7 @@ K02.62@Dental caries on smooth surface penetrating into dentin
 K02.63@Dental caries on smooth surface penetrating into pulp
 K02.7@Dental root caries
 K02.9@Dental caries, unspecified
+#
 K03.0@Excessive attrition of teeth
 K03.1@Abrasion of teeth
 K03.2@Erosion of teeth
@@ -30,6 +33,7 @@ K03.7@Posteruptive color changes of dental hard tissues
 K03.81@Cracked tooth
 K03.89@Other specified diseases of hard tissues of teeth
 K03.9@Disease of hard tissues of teeth, unspecified
+#
 K04.0@Pulpitis
 K04.1@Necrosis of pulp
 K04.2@Pulp degeneration
@@ -41,6 +45,7 @@ K04.7@Periapical abscess without sinus
 K04.8@Radicular cyst
 K04.90@Unspecified diseases of pulp and periapical tissues
 K04.99@Other diseases of pulp and periapical tissues
+#
 K05.00@Acute gingivitis, plaque induced
 K05.01@Acute gingivitis, non-plaque induced
 K05.10@Chronic gingivitis, plaque induced
@@ -54,11 +59,13 @@ K05.32@Chronic periodontitis, generalized
 K05.4@Periodontosis
 K05.5@Other periodontal diseases
 K05.6@Periodontal disease, unspecified
+#
 K06.0@Gingival recession
 K06.1@Gingival enlargement
 K06.2@Gingival & edentulous alveolar ridge lesions assoc w trauma
 K06.8@Oth disrd of gingiva and edentulous alveolar ridge
 K06.9@Disorder of gingiva and edentulous alveolar ridge, unsp
+#
 K08.0@Exfoliation of teeth due to systemic causes
 K08.101@Complete loss of teeth, unspecified cause, class I
 K08.102@Complete loss of teeth, unspecified cause, class II
@@ -130,10 +137,12 @@ K08.56@Poor aesthetic of existing restoration of tooth
 K08.59@Other unsatisfactory restoration of tooth
 K08.8@Other specified disorders of teeth and supporting structures
 K08.9@Disorder of teeth and supporting structures, unspecified
+#
 K09.0@Developmental odontogenic cysts
 K09.1@Developmental (nonodontogenic) cysts of oral region
 K09.8@Other cysts of oral region, not elsewhere classified
 K09.9@Cyst of oral region, unspecified
+#
 K11.0@Atrophy of salivary gland
 K11.1@Hypertrophy of salivary gland
 K11.20@Sialoadenitis, unspecified
@@ -147,6 +156,7 @@ K11.6@Mucocele of salivary gland
 K11.7@Disturbances of salivary secretion
 K11.8@Other diseases of salivary glands
 K11.9@Disease of salivary gland, unspecified
+#
 K12.0@Recurrent oral aphthae
 K12.1@Other forms of stomatitis
 K12.2@Cellulitis and abscess of mouth
@@ -155,6 +165,7 @@ K12.31@Oral mucositis (ulcerative) due to antineoplastic therapy
 K12.32@Oral mucositis (ulcerative) due to other drugs
 K12.33@Oral mucositis (ulcerative) due to radiation
 K12.39@Other oral mucositis (ulcerative)
+#
 K13.0@Diseases of lips
 K13.1@Cheek and lip biting
 K13.21@Leukoplakia of oral mucosa, including tongue
@@ -168,6 +179,7 @@ K13.5@Oral submucous fibrosis
 K13.6@Irritative hyperplasia of oral mucosa
 K13.70@Unspecified lesions of oral mucosa
 K13.79@Other lesions of oral mucosa
+#
 K14.0@Glossitis
 K14.1@Geographic tongue
 K14.2@Median rhomboid glossitis
@@ -177,11 +189,14 @@ K14.5@Plicated tongue
 K14.6@Glossodynia
 K14.8@Other diseases of tongue
 K14.9@Disease of tongue, unspecified
+#
 K20.0@Eosinophilic esophagitis
 K20.8@Other esophagitis
 K20.9@Esophagitis, unspecified
+#
 K21.0@Gastro-esophageal reflux disease with esophagitis
 K21.9@Gastro-esophageal reflux disease without esophagitis
+#
 K22.0@Achalasia of cardia
 K22.10@Ulcer of esophagus without bleeding
 K22.11@Ulcer of esophagus with bleeding
@@ -196,7 +211,9 @@ K22.711@Barrett's esophagus with high grade dysplasia
 K22.719@Barrett's esophagus with dysplasia, unspecified
 K22.8@Other specified diseases of esophagus
 K22.9@Disease of esophagus, unspecified
+#
 K23.@Disorders of esophagus in diseases classified elsewhere
+#
 K25.0@Acute gastric ulcer with hemorrhage
 K25.1@Acute gastric ulcer with perforation
 K25.2@Acute gastric ulcer with both hemorrhage and perforation
@@ -206,6 +223,7 @@ K25.5@Chronic or unspecified gastric ulcer with perforation
 K25.6@Chronic or unsp gastric ulcer w both hemorrhage and perf
 K25.7@Chronic gastric ulcer without hemorrhage or perforation
 K25.9@Gastric ulcer, unsp as acute or chronic, w/o hemor or perf
+#
 K26.0@Acute duodenal ulcer with hemorrhage
 K26.1@Acute duodenal ulcer with perforation
 K26.2@Acute duodenal ulcer with both hemorrhage and perforation
@@ -215,6 +233,7 @@ K26.5@Chronic or unspecified duodenal ulcer with perforation
 K26.6@Chronic or unsp duodenal ulcer w both hemorrhage and perf
 K26.7@Chronic duodenal ulcer without hemorrhage or perforation
 K26.9@Duodenal ulcer, unsp as acute or chronic, w/o hemor or perf
+#
 K27.0@Acute peptic ulcer, site unspecified, with hemorrhage
 K27.1@Acute peptic ulcer, site unspecified, with perforation
 K27.2@Acute peptic ulcer, site unsp, w both hemorrhage and perf
@@ -224,6 +243,7 @@ K27.5@Chronic or unsp peptic ulcer, site unsp, with perforation
 K27.6@Chr or unsp peptic ulcer, site unsp, w both hemor and perf
 K27.7@Chronic peptic ulcer, site unsp, w/o hemorrhage or perf
 K27.9@Peptic ulc, site unsp, unsp as ac or chr, w/o hemor or perf
+#
 K28.0@Acute gastrojejunal ulcer with hemorrhage
 K28.1@Acute gastrojejunal ulcer with perforation
 K28.2@Acute gastrojejunal ulcer w both hemorrhage and perforation
@@ -233,6 +253,7 @@ K28.5@Chronic or unspecified gastrojejunal ulcer with perforation
 K28.6@Chronic or unsp gastrojejunal ulcer w both hemor and perf
 K28.7@Chronic gastrojejunal ulcer w/o hemorrhage or perforation
 K28.9@Gastrojejunal ulcer, unsp as acute or chr, w/o hemor or perf
+#
 K29.00@Acute gastritis without bleeding
 K29.01@Acute gastritis with bleeding
 K29.20@Alcoholic gastritis without bleeding
@@ -251,7 +272,9 @@ K29.80@Duodenitis without bleeding
 K29.81@Duodenitis with bleeding
 K29.90@Gastroduodenitis, unspecified, without bleeding
 K29.91@Gastroduodenitis, unspecified, with bleeding
+#
 K30.@Functional dyspepsia
+#
 K31.0@Acute dilatation of stomach
 K31.1@Adult hypertrophic pyloric stenosis
 K31.2@Hourglass stricture and stenosis of stomach
@@ -267,18 +290,23 @@ K31.83@Achlorhydria
 K31.84@Gastroparesis
 K31.89@Other diseases of stomach and duodenum
 K31.9@Disease of stomach and duodenum, unspecified
+#
 K35.2@Acute appendicitis with generalized peritonitis
 K35.3@Acute appendicitis with localized peritonitis
 K35.80@Unspecified acute appendicitis
 K35.89@Other acute appendicitis
+#
 K36.@Other appendicitis
+#
 K37.@Unspecified appendicitis
+#
 K38.0@Hyperplasia of appendix
 K38.1@Appendicular concretions
 K38.2@Diverticulum of appendix
 K38.3@Fistula of appendix
 K38.8@Other specified diseases of appendix
 K38.9@Disease of appendix, unspecified
+#
 K40.00@Bi inguinal hernia, w obst, w/o gangrene, not spcf as recur
 K40.01@Bilateral inguinal hernia, w obst, w/o gangrene, recurrent
 K40.10@Bi inguinal hernia, w gangrene, not specified as recurrent
@@ -291,6 +319,7 @@ K40.40@Unil inguinal hernia, w gangrene, not specified as recurrent
 K40.41@Unilateral inguinal hernia, with gangrene, recurrent
 K40.90@Unil inguinal hernia, w/o obst or gangr, not spcf as recur
 K40.91@Unilateral inguinal hernia, w/o obst or gangrene, recurrent
+#
 K41.00@Bi femoral hernia, w obst, w/o gangrene, not spcf as recur
 K41.01@Bilateral femoral hernia, w obst, w/o gangrene, recurrent
 K41.10@Bi femoral hernia, w gangrene, not specified as recurrent
@@ -303,9 +332,11 @@ K41.40@Unil femoral hernia, w gangrene, not specified as recurrent
 K41.41@Unilateral femoral hernia, with gangrene, recurrent
 K41.90@Unil femoral hernia, w/o obst or gangrene, not spcf as recur
 K41.91@Unilateral femoral hernia, w/o obst or gangrene, recurrent
+#
 K42.0@Umbilical hernia with obstruction, without gangrene
 K42.1@Umbilical hernia with gangrene
 K42.9@Umbilical hernia without obstruction or gangrene
+#
 K43.0@Incisional hernia with obstruction, without gangrene
 K43.1@Incisional hernia with gangrene
 K43.2@Incisional hernia without obstruction or gangrene
@@ -315,15 +346,19 @@ K43.5@Parastomal hernia without obstruction or  gangrene
 K43.6@Other and unsp ventral hernia with obstruction, w/o gangrene
 K43.7@Other and unspecified ventral hernia with gangrene
 K43.9@Ventral hernia without obstruction or gangrene
+#
 K44.0@Diaphragmatic hernia with obstruction, without gangrene
 K44.1@Diaphragmatic hernia with gangrene
 K44.9@Diaphragmatic hernia without obstruction or gangrene
+#
 K45.0@Oth abdominal hernia with obstruction, without gangrene
 K45.1@Other specified abdominal hernia with gangrene
 K45.8@Oth abdominal hernia without obstruction or gangrene
+#
 K46.0@Unsp abdominal hernia with obstruction, without gangrene
 K46.1@Unspecified abdominal hernia with gangrene
 K46.9@Unspecified abdominal hernia without obstruction or gangrene
+#
 K50.00@Crohn's disease of small intestine without complications
 K50.011@Crohn's disease of small intestine with rectal bleeding
 K50.012@Crohn's disease of small intestine w intestinal obstruction
@@ -352,6 +387,7 @@ K50.913@Crohn's disease, unspecified, with fistula
 K50.914@Crohn's disease, unspecified, with abscess
 K50.918@Crohn's disease, unspecified, with other complication
 K50.919@Crohn's disease, unspecified, with unspecified complications
+#
 K51.00@Ulcerative (chronic) pancolitis without complications
 K51.011@Ulcerative (chronic) pancolitis with rectal bleeding
 K51.012@Ulcerative (chronic) pancolitis with intestinal obstruction
@@ -401,6 +437,7 @@ K51.913@Ulcerative colitis, unspecified with fistula
 K51.914@Ulcerative colitis, unspecified with abscess
 K51.918@Ulcerative colitis, unspecified with other complication
 K51.919@Ulcerative colitis, unsp with unspecified complications
+#
 K52.0@Gastroenteritis and colitis due to radiation
 K52.1@Toxic gastroenteritis and colitis
 K52.2@Allergic and dietetic gastroenteritis and colitis
@@ -408,12 +445,14 @@ K52.81@Eosinophilic gastritis or gastroenteritis
 K52.82@Eosinophilic colitis
 K52.89@Other specified noninfective gastroenteritis and colitis
 K52.9@Noninfective gastroenteritis and colitis, unspecified
+#
 K55.0@Acute vascular disorders of intestine
 K55.1@Chronic vascular disorders of intestine
 K55.20@Angiodysplasia of colon without hemorrhage
 K55.21@Angiodysplasia of colon with hemorrhage
 K55.8@Other vascular disorders of intestine
 K55.9@Vascular disorder of intestine, unspecified
+#
 K56.0@Paralytic ileus
 K56.1@Intussusception
 K56.2@Volvulus
@@ -424,6 +463,7 @@ K56.5@Intestinal adhesions w obst (postprocedural) (postinfection)
 K56.60@Unspecified intestinal obstruction
 K56.69@Other intestinal obstruction
 K56.7@Ileus, unspecified
+#
 K57.00@Dvtrcli of sm int w perforation and abscess w/o bleeding
 K57.01@Dvtrcli of sm int w perforation and abscess w bleeding
 K57.10@Dvrtclos of sm int w/o perforation or abscess w/o bleeding
@@ -448,8 +488,10 @@ K57.90@Dvrtclos of intest, part unsp, w/o perf or abscess w/o bleed
 K57.91@Dvrtclos of intest, part unsp, w/o perf or abscess w bleed
 K57.92@Dvtrcli of intest, part unsp, w/o perf or abscess w/o bleed
 K57.93@Dvtrcli of intest, part unsp, w/o perf or abscess w bleeding
+#
 K58.0@Irritable bowel syndrome with diarrhea
 K58.9@Irritable bowel syndrome without diarrhea
+#
 K59.00@Constipation, unspecified
 K59.01@Slow transit constipation
 K59.02@Outlet dysfunction constipation
@@ -460,17 +502,20 @@ K59.3@Megacolon, not elsewhere classified
 K59.4@Anal spasm
 K59.8@Other specified functional intestinal disorders
 K59.9@Functional intestinal disorder, unspecified
+#
 K60.0@Acute anal fissure
 K60.1@Chronic anal fissure
 K60.2@Anal fissure, unspecified
 K60.3@Anal fistula
 K60.4@Rectal fistula
 K60.5@Anorectal fistula
+#
 K61.0@Anal abscess
 K61.1@Rectal abscess
 K61.2@Anorectal abscess
 K61.3@Ischiorectal abscess
 K61.4@Intrasphincteric abscess
+#
 K62.0@Anal polyp
 K62.1@Rectal polyp
 K62.2@Anal prolapse
@@ -483,6 +528,7 @@ K62.81@Anal sphincter tear (healed) (nontraumatic) (old)
 K62.82@Dysplasia of anus
 K62.89@Other specified diseases of anus and rectum
 K62.9@Disease of anus and rectum, unspecified
+#
 K63.0@Abscess of intestine
 K63.1@Perforation of intestine (nontraumatic)
 K63.2@Fistula of intestine
@@ -492,6 +538,7 @@ K63.5@Polyp of colon
 K63.81@Dieulafoy lesion of intestine
 K63.89@Other specified diseases of intestine
 K63.9@Disease of intestine, unspecified
+#
 K64.0@First degree hemorrhoids
 K64.1@Second degree hemorrhoids
 K64.2@Third degree hemorrhoids
@@ -500,6 +547,7 @@ K64.4@Residual hemorrhoidal skin tags
 K64.5@Perianal venous thrombosis
 K64.8@Other hemorrhoids
 K64.9@Unspecified hemorrhoids
+#
 K65.0@Generalized (acute) peritonitis
 K65.1@Peritoneal abscess
 K65.2@Spontaneous bacterial peritonitis
@@ -507,15 +555,19 @@ K65.3@Choleperitonitis
 K65.4@Sclerosing mesenteritis
 K65.8@Other peritonitis
 K65.9@Peritonitis, unspecified
+#
 K66.0@Peritoneal adhesions (postprocedural) (postinfection)
 K66.1@Hemoperitoneum
 K66.8@Other specified disorders of peritoneum
 K66.9@Disorder of peritoneum, unspecified
+#
 K67.@Disorders of peritoneum in infectious diseases classd elswhr
+#
 K68.11@Postprocedural retroperitoneal abscess
 K68.12@Psoas muscle abscess
 K68.19@Other retroperitoneal abscess
 K68.9@Other disorders of retroperitoneum
+#
 K70.0@Alcoholic fatty liver
 K70.10@Alcoholic hepatitis without ascites
 K70.11@Alcoholic hepatitis with ascites
@@ -525,6 +577,7 @@ K70.31@Alcoholic cirrhosis of liver with ascites
 K70.40@Alcoholic hepatic failure without coma
 K70.41@Alcoholic hepatic failure with coma
 K70.9@Alcoholic liver disease, unspecified
+#
 K71.0@Toxic liver disease with cholestasis
 K71.10@Toxic liver disease with hepatic necrosis, without coma
 K71.11@Toxic liver disease with hepatic necrosis, with coma
@@ -537,17 +590,20 @@ K71.6@Toxic liver disease with hepatitis, not elsewhere classified
 K71.7@Toxic liver disease with fibrosis and cirrhosis of liver
 K71.8@Toxic liver disease with other disorders of liver
 K71.9@Toxic liver disease, unspecified
+#
 K72.00@Acute and subacute hepatic failure without coma
 K72.01@Acute and subacute hepatic failure with coma
 K72.10@Chronic hepatic failure without coma
 K72.11@Chronic hepatic failure with coma
 K72.90@Hepatic failure, unspecified without coma
 K72.91@Hepatic failure, unspecified with coma
+#
 K73.0@Chronic persistent hepatitis, not elsewhere classified
 K73.1@Chronic lobular hepatitis, not elsewhere classified
 K73.2@Chronic active hepatitis, not elsewhere classified
 K73.8@Other chronic hepatitis, not elsewhere classified
 K73.9@Chronic hepatitis, unspecified
+#
 K74.0@Hepatic fibrosis
 K74.1@Hepatic sclerosis
 K74.2@Hepatic fibrosis with hepatic sclerosis
@@ -556,6 +612,7 @@ K74.4@Secondary biliary cirrhosis
 K74.5@Biliary cirrhosis, unspecified
 K74.60@Unspecified cirrhosis of liver
 K74.69@Other cirrhosis of liver
+#
 K75.0@Abscess of liver
 K75.1@Phlebitis of portal vein
 K75.2@Nonspecific reactive hepatitis
@@ -564,6 +621,7 @@ K75.4@Autoimmune hepatitis
 K75.81@Nonalcoholic steatohepatitis (NASH)
 K75.89@Other specified inflammatory liver diseases
 K75.9@Inflammatory liver disease, unspecified
+#
 K76.0@Fatty (change of) liver, not elsewhere classified
 K76.1@Chronic passive congestion of liver
 K76.2@Central hemorrhagic necrosis of liver
@@ -575,7 +633,9 @@ K76.7@Hepatorenal syndrome
 K76.81@Hepatopulmonary syndrome
 K76.89@Other specified diseases of liver
 K76.9@Liver disease, unspecified
+#
 K77.@Liver disorders in diseases classified elsewhere
+#
 K80.00@Calculus of gallbladder w acute cholecyst w/o obstruction
 K80.01@Calculus of gallbladder w acute cholecystitis w obstruction
 K80.10@Calculus of gallbladder w chronic cholecyst w/o obstruction
@@ -616,10 +676,12 @@ K80.70@Calculus of GB and bile duct w/o cholecyst w/o obstruction
 K80.71@Calculus of GB and bile duct w/o cholecyst w obstruction
 K80.80@Other cholelithiasis without obstruction
 K80.81@Other cholelithiasis with obstruction
+#
 K81.0@Acute cholecystitis
 K81.1@Chronic cholecystitis
 K81.2@Acute cholecystitis with chronic cholecystitis
 K81.9@Cholecystitis, unspecified
+#
 K82.0@Obstruction of gallbladder
 K82.1@Hydrops of gallbladder
 K82.2@Perforation of gallbladder
@@ -627,6 +689,7 @@ K82.3@Fistula of gallbladder
 K82.4@Cholesterolosis of gallbladder
 K82.8@Other specified diseases of gallbladder
 K82.9@Disease of gallbladder, unspecified
+#
 K83.0@Cholangitis
 K83.1@Obstruction of bile duct
 K83.2@Perforation of bile duct
@@ -635,19 +698,23 @@ K83.4@Spasm of sphincter of Oddi
 K83.5@Biliary cyst
 K83.8@Other specified diseases of biliary tract
 K83.9@Disease of biliary tract, unspecified
+#
 K85.0@Idiopathic acute pancreatitis
 K85.1@Biliary acute pancreatitis
 K85.2@Alcohol induced acute pancreatitis
 K85.3@Drug induced acute pancreatitis
 K85.8@Other acute pancreatitis
 K85.9@Acute pancreatitis, unspecified
+#
 K86.0@Alcohol-induced chronic pancreatitis
 K86.1@Other chronic pancreatitis
 K86.2@Cyst of pancreas
 K86.3@Pseudocyst of pancreas
 K86.8@Other specified diseases of pancreas
 K86.9@Disease of pancreas, unspecified
+#
 K87.@Disord of GB, biliary trac and pancreas in dis classd elswhr
+#
 K90.0@Celiac disease
 K90.1@Tropical sprue
 K90.2@Blind loop syndrome, not elsewhere classified
@@ -656,6 +723,7 @@ K90.4@Malabsorption due to intolerance, not elsewhere classified
 K90.81@Whipple's disease
 K90.89@Other intestinal malabsorption
 K90.9@Intestinal malabsorption, unspecified
+#
 K91.0@Vomiting following gastrointestinal surgery
 K91.1@Postgastric surgery syndromes
 K91.2@Postsurgical malabsorption, not elsewhere classified
@@ -674,12 +742,14 @@ K91.850@Pouchitis
 K91.858@Other complications of intestinal pouch
 K91.86@Retained cholelithiasis following cholecystectomy
 K91.89@Oth postprocedural complications and disorders of dgstv sys
+#
 K92.0@Hematemesis
 K92.1@Melena
 K92.2@Gastrointestinal hemorrhage, unspecified
 K92.81@Gastrointestinal mucositis (ulcerative)
 K92.89@Other specified diseases of the digestive system
 K92.9@Disease of digestive system, unspecified
+#
 K94.00@Colostomy complication, unspecified
 K94.01@Colostomy hemorrhage
 K94.02@Colostomy infection
@@ -700,6 +770,7 @@ K94.31@Esophagostomy hemorrhage
 K94.32@Esophagostomy infection
 K94.33@Esophagostomy malfunction
 K94.39@Other complications of esophagostomy
+#
 K95.01@Infection due to gastric band procedure
 K95.09@Other complications of gastric band procedure
 K95.81@Infection due to other bariatric procedure

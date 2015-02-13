@@ -11,6 +11,7 @@ Z00.6@Encntr for exam for nrml cmprsn and ctrl in clncl rsrch prog
 Z00.70@Encntr for exam for delay growth in chldhd w/o abn findings
 Z00.71@Encntr for exam for delay growth in chldhd w abn findings
 Z00.8@Encounter for other general examination
+#
 Z01.00@Encounter for exam of eyes and vision w/o abnormal findings
 Z01.01@Encounter for exam of eyes and vision w abnormal findings
 Z01.10@Encounter for exam of ears and hearing w/o abnormal findings
@@ -32,6 +33,7 @@ Z01.82@Encounter for allergy testing
 Z01.83@Encounter for blood typing
 Z01.84@Encounter for antibody response examination
 Z01.89@Encounter for other specified special examinations
+#
 Z02.0@Encounter for exam for admission to educational institution
 Z02.1@Encounter for pre-employment examination
 Z02.2@Encounter for exam for admission to residential institution
@@ -46,6 +48,7 @@ Z02.82@Encounter for adoption services
 Z02.83@Encounter for blood-alcohol and blood-drug test
 Z02.89@Encounter for other administrative examinations
 Z02.9@Encounter for administrative examinations, unspecified
+#
 Z03.6@Encntr for obs for susp toxic eff from ingest sub ruled out
 Z03.71@Encntr for susp prob w amnio cavity and membrane ruled out
 Z03.72@Encounter for suspected placental problem ruled out
@@ -56,6 +59,7 @@ Z03.79@Encntr for oth suspected maternal and fetal cond ruled out
 Z03.810@Encntr for obs for suspected exposure to anthrax ruled out
 Z03.818@Encntr for obs for susp expsr to oth biolg agents ruled out
 Z03.89@Encntr for obs for oth suspected diseases and cond ruled out
+#
 Z04.1@Encounter for exam and obs following transport accident
 Z04.2@Encounter for exam and observation following work accident
 Z04.3@Encounter for exam and observation following oth accident
@@ -66,8 +70,11 @@ Z04.71@Encntr for exam and obs fol alleged adult physical abuse
 Z04.72@Encntr for exam and obs fol alleged child physical abuse
 Z04.8@Encounter for examination and observation for oth reasons
 Z04.9@Encounter for examination and observation for unsp reason
+#
 Z08.@Encntr for follow-up exam after trtmt for malignant neoplasm
+#
 Z09.@Encntr for f/u exam aft trtmt for cond oth than malig neoplm
+#
 Z11.0@Encounter for screening for intestinal infectious diseases
 Z11.1@Encounter for screening for respiratory tuberculosis
 Z11.2@Encounter for screening for other bacterial diseases
@@ -78,6 +85,7 @@ Z11.59@Encounter for screening for other viral diseases
 Z11.6@Encntr screen for oth protozoal diseases and helminthiases
 Z11.8@Encounter for screening for oth infec/parastc diseases
 Z11.9@Encounter for screening for infec/parastc diseases, unsp
+#
 Z12.0@Encounter for screening for malignant neoplasm of stomach
 Z12.10@Encntr screen for malignant neoplasm of intest tract, unsp
 Z12.11@Encounter for screening for malignant neoplasm of colon
@@ -98,6 +106,7 @@ Z12.82@Encntr screen for malignant neoplasm of nervous system
 Z12.83@Encounter for screening for malignant neoplasm of skin
 Z12.89@Encounter for screening for malignant neoplasm of oth sites
 Z12.9@Encounter for screening for malignant neoplasm, site unsp
+#
 Z13.0@Encntr screen for dis of the bld/bld-form org/immun mechnsm
 Z13.1@Encounter for screening for diabetes mellitus
 Z13.21@Encounter for screening for nutritional disorder
@@ -121,10 +130,12 @@ Z13.858@Encounter for screening for other nervous system disorders
 Z13.88@Encntr screen for disorder due to exposure to contaminants
 Z13.89@Encounter for screening for other disorder
 Z13.9@Encounter for screening, unspecified
+#
 Z14.01@Asymptomatic hemophilia A carrier
 Z14.02@Symptomatic hemophilia A carrier
 Z14.1@Cystic fibrosis carrier
 Z14.8@Genetic carrier of other disease
+#
 Z15.01@Genetic susceptibility to malignant neoplasm of breast
 Z15.02@Genetic susceptibility to malignant neoplasm of ovary
 Z15.03@Genetic susceptibility to malignant neoplasm of prostate
@@ -132,6 +143,7 @@ Z15.04@Genetic susceptibility to malignant neoplasm of endometrium
 Z15.09@Genetic susceptibility to other malignant neoplasm
 Z15.81@Genetic susceptibility to multiple endocrine neoplasia [MEN]
 Z15.89@Genetic susceptibility to other disease
+#
 Z16.10@Resistance to unspecified beta lactam antibiotics
 Z16.11@Resistance to penicillins
 Z16.12@Extended spectrum beta lactamase (ESBL) resistance
@@ -150,8 +162,10 @@ Z16.341@Resistance to single antimycobacterial drug
 Z16.342@Resistance to multiple antimycobacterial drugs
 Z16.35@Resistance to multiple antimicrobial drugs
 Z16.39@Resistance to other specified antimicrobial drug
+#
 Z17.0@Estrogen receptor positive status [ER+]
 Z17.1@Estrogen receptor negative status [ER-]
+#
 Z18.01@Retained depleted uranium fragments
 Z18.09@Other retained radioactive fragments
 Z18.10@Retained metal fragments, unspecified
@@ -166,6 +180,7 @@ Z18.81@Retained glass fragments
 Z18.83@Retained stone or crystalline fragments
 Z18.89@Other specified retained foreign body fragments
 Z18.9@Retained foreign body fragments, unspecified material
+#
 Z20.01@Cntct w and expsr to intestnl infct dis d/t E coli (E. coli)
 Z20.09@Contact w and exposure to oth intestinal infectious diseases
 Z20.1@Contact with and (suspected) exposure to tuberculosis
@@ -182,7 +197,9 @@ Z20.820@Contact with and (suspected) exposure to varicella
 Z20.828@Contact w and exposure to oth viral communicable diseases
 Z20.89@Contact w and exposure to oth communicable diseases
 Z20.9@Contact w and exposure to unsp communicable disease
+#
 Z21.@Asymptomatic human immunodeficiency virus infection status
+#
 Z22.0@Carrier of typhoid
 Z22.1@Carrier of other intestinal infectious diseases
 Z22.2@Carrier of diphtheria
@@ -200,7 +217,9 @@ Z22.59@Carrier of other viral hepatitis
 Z22.6@Carrier of human T-lymphotropic virus type-1 infection
 Z22.8@Carrier of other infectious diseases
 Z22.9@Carrier of infectious disease, unspecified
+#
 Z23.@Encounter for immunization
+#
 Z28.01@Immunization not crd out because of acute illness of patient
 Z28.02@Immuniz not crd out bec chronic illness or cond of patient
 Z28.03@Immuniz not crd out bec immune compromised state of patient
@@ -215,6 +234,7 @@ Z28.81@Immuniz not crd out due to patient having had the disease
 Z28.82@Immunization not carried out because of caregiver refusal
 Z28.89@Immunization not carried out for other reason
 Z28.9@Immunization not carried out for unspecified reason
+#
 Z30.011@Encounter for initial prescription of contraceptive pills
 Z30.012@Encounter for prescription of emergency contraception
 Z30.013@Encounter for initial prescription of injectable contracep
@@ -234,6 +254,7 @@ Z30.433@Encntr for removal and reinsertion of uterin contracep dev
 Z30.49@Encounter for surveillance of other contraceptives
 Z30.8@Encounter for other contraceptive management
 Z30.9@Encounter for contraceptive management, unspecified
+#
 Z31.0@Encounter for reversal of previous sterilization
 Z31.41@Encounter for fertility testing
 Z31.42@Aftercare following sterilization reversal
@@ -253,13 +274,16 @@ Z31.83@Encounter for assisted reprodctv fertility procedure cycle
 Z31.84@Encounter for fertility preservation procedure
 Z31.89@Encounter for other procreative management
 Z31.9@Encounter for procreative management, unspecified
+#
 Z32.00@Encounter for pregnancy test, result unknown
 Z32.01@Encounter for pregnancy test, result positive
 Z32.02@Encounter for pregnancy test, result negative
 Z32.2@Encounter for childbirth instruction
 Z32.3@Encounter for childcare instruction
+#
 Z33.1@Pregnant state, incidental
 Z33.2@Encounter for elective termination of pregnancy
+#
 Z34.00@Encntr for suprvsn of normal first pregnancy, unsp trimester
 Z34.01@Encntr for suprvsn of normal first preg, first trimester
 Z34.02@Encntr for suprvsn of normal first preg, second trimester
@@ -272,7 +296,9 @@ Z34.90@Encntr for suprvsn of normal pregnancy, unsp, unsp trimester
 Z34.91@Encntr for suprvsn of normal preg, unsp, first trimester
 Z34.92@Encntr for suprvsn of normal preg, unsp, second trimester
 Z34.93@Encntr for suprvsn of normal preg, unsp, third trimester
+#
 Z36.@Encounter for antenatal screening of mother
+#
 Z3A.00@Weeks of gestation of pregnancy not specified
 Z3A.01@Less than 8 weeks gestation of pregnancy
 Z3A.08@8 weeks gestation of pregnancy
@@ -311,6 +337,7 @@ Z3A.40@40 weeks gestation of pregnancy
 Z3A.41@41 weeks gestation of pregnancy
 Z3A.42@42 weeks gestation of pregnancy
 Z3A.49@Greater than 42 weeks gestation of pregnancy
+#
 Z37.0@Single live birth
 Z37.1@Single stillbirth
 Z37.2@Twins, both liveborn
@@ -330,6 +357,7 @@ Z37.64@Sextuplets, some liveborn
 Z37.69@Other multiple births, some liveborn
 Z37.7@Other multiple births, all stillborn
 Z37.9@Outcome of delivery, unspecified
+#
 Z38.00@Single liveborn infant, delivered vaginally
 Z38.01@Single liveborn infant, delivered by cesarean
 Z38.1@Single liveborn infant, born outside hospital
@@ -348,22 +376,27 @@ Z38.68@Other multiple liveborn infant, delivered vaginally
 Z38.69@Other multiple liveborn infant, delivered by cesarean
 Z38.7@Other multiple liveborn infant, born outside hospital
 Z38.8@Other multiple liveborn infant, unsp as to place of birth
+#
 Z39.0@Encntr for care and exam of mother immediately after del
 Z39.1@Encounter for care and examination of lactating mother
 Z39.2@Encounter for routine postpartum follow-up
+#
 Z40.00@Encounter for prophylactic removal of unspecified organ
 Z40.01@Encounter for prophylactic removal of breast
 Z40.02@Encounter for prophylactic removal of ovary
 Z40.09@Encounter for prophylactic removal of other organ
 Z40.8@Encounter for other prophylactic surgery
 Z40.9@Encounter for prophylactic surgery, unspecified
+#
 Z41.1@Encounter for cosmetic surgery
 Z41.2@Encounter for routine and ritual male circumcision
 Z41.3@Encounter for ear piercing
 Z41.8@Encntr for oth proc for purpose oth than remedy health state
 Z41.9@Encntr for proc for purpose oth than remedy hlth state, unsp
+#
 Z42.1@Encounter for breast reconstruction following mastectomy
 Z42.8@Encntr for oth plast/recnst surg fol med proc or heal injury
+#
 Z43.0@Encounter for attention to tracheostomy
 Z43.1@Encounter for attention to gastrostomy
 Z43.2@Encounter for attention to ileostomy
@@ -374,6 +407,7 @@ Z43.6@Encounter for attn to oth artif openings of urinary tract
 Z43.7@Encounter for attention to artificial vagina
 Z43.8@Encounter for attention to other artificial openings
 Z43.9@Encounter for attention to unspecified artificial opening
+#
 Z44.001@Encounter for fit/adjst of unsp right artificial arm
 Z44.002@Encounter for fit/adjst of unsp left artificial arm
 Z44.009@Encounter for fit/adjst of unsp artificial arm, unsp arm
@@ -400,6 +434,7 @@ Z44.31@Encounter for fit/adjst of external right breast prosthesis
 Z44.32@Encounter for fit/adjst of external left breast prosthesis
 Z44.8@Encounter for fit/adjst of external prosthetic devices
 Z44.9@Encounter for fit/adjst of unsp external prosthetic device
+#
 Z45.010@Encntr for checking and test of card pacemaker pulse gnrtr
 Z45.018@Encounter for adjust and mgmt oth prt cardiac pacemaker
 Z45.02@Encntr for adjust and mgmt of automatic implntbl card defib
@@ -419,6 +454,7 @@ Z45.819@Encounter for adjustment or removal of unsp breast implant
 Z45.82@Encntr for adjust or removal of myringotomy device (tube)
 Z45.89@Encounter for adjustment and management of implanted devices
 Z45.9@Encounter for adjust and management of unsp implanted device
+#
 Z46.0@Encounter for fit/adjst of spectacles and contact lenses
 Z46.1@Encounter for fitting and adjustment of hearing aid
 Z46.2@Encntr for fit/adjst of dev rel to nrv sys and specl senses
@@ -431,6 +467,7 @@ Z46.81@Encounter for fitting and adjustment of insulin pump
 Z46.82@Encounter for fit/adjst of non-vascular catheter
 Z46.89@Encounter for fitting and adjustment of oth devices
 Z46.9@Encounter for fitting and adjustment of unspecified device
+#
 Z47.1@Aftercare following joint replacement surgery
 Z47.2@Encounter for removal of internal fixation device
 Z47.31@Aftercare following explantation of shoulder jt prosthesis
@@ -439,6 +476,7 @@ Z47.33@Aftercare following explantation of knee joint prosthesis
 Z47.81@Encounter for orthopedic aftercare following surgical amp
 Z47.82@Encounter for orth aftercare following scoliosis surgery
 Z47.89@Encounter for other orthopedic aftercare
+#
 Z48.00@Encounter for change or removal of nonsurg wound dressing
 Z48.01@Encounter for change or removal of surgical wound dressing
 Z48.02@Encounter for removal of sutures
@@ -462,16 +500,19 @@ Z48.815@Encntr for surgical aftcr following surgery on the dgstv sys
 Z48.816@Encounter for surgical aftcr following surgery on the GU sys
 Z48.817@Encntr for surgical aftcr fol surgery on the skin, subcu
 Z48.89@Encounter for other specified surgical aftercare
+#
 Z49.01@Encounter for fit/adjst of extracorporeal dialysis catheter
 Z49.02@Encounter for fit/adjst of peritoneal dialysis catheter
 Z49.31@Encounter for adequacy testing for hemodialysis
 Z49.32@Encounter for adequacy testing for peritoneal dialysis
+#
 Z51.0@Encounter for antineoplastic radiation therapy
 Z51.11@Encounter for antineoplastic chemotherapy
 Z51.12@Encounter for antineoplastic immunotherapy
 Z51.5@Encounter for palliative care
 Z51.81@Encounter for therapeutic drug level monitoring
 Z51.89@Encounter for other specified aftercare
+#
 Z52.000@Unspecified donor, whole blood
 Z52.001@Unspecified donor, stem cells
 Z52.008@Unspecified donor, other blood
@@ -498,6 +539,7 @@ Z52.813@Egg (Oocyte) donor age 35 and over, designated recipient
 Z52.819@Egg (Oocyte) donor, unspecified
 Z52.89@Donor of other specified organs or tissues
 Z52.9@Donor of unspecified organ or tissue
+#
 Z53.01@Proc/trtmt not carried out due to patient smoking
 Z53.09@Proc/trtmt not carried out because of contraindication
 Z53.1@Proc/trtmt not crd out bec pt belief and group pressure
@@ -506,6 +548,7 @@ Z53.21@Proc/trtmt not crd out d/t pt lv bef seen by hlth care prov
 Z53.29@Proc/trtmt not crd out bec pt decision for oth reasons
 Z53.8@Procedure and treatment not carried out for other reasons
 Z53.9@Procedure and treatment not carried out, unspecified reason
+#
 Z55.0@Illiteracy and low-level literacy
 Z55.1@Schooling unavailable and unattainable
 Z55.2@Failed school examinations
@@ -513,6 +556,7 @@ Z55.3@Underachievement in school
 Z55.4@Educational maladjustment & discord w teachers & classmates
 Z55.8@Other problems related to education and literacy
 Z55.9@Problems related to education and literacy, unspecified
+#
 Z56.0@Unemployment, unspecified
 Z56.1@Change of job
 Z56.2@Threat of job loss
@@ -524,6 +568,7 @@ Z56.81@Sexual harassment on the job
 Z56.82@Military deployment status
 Z56.89@Other problems related to employment
 Z56.9@Unspecified problems related to employment
+#
 Z57.0@Occupational exposure to noise
 Z57.1@Occupational exposure to radiation
 Z57.2@Occupational exposure to dust
@@ -535,6 +580,7 @@ Z57.6@Occupational exposure to extreme temperature
 Z57.7@Occupational exposure to vibration
 Z57.8@Occupational exposure to other risk factors
 Z57.9@Occupational exposure to unspecified risk factor
+#
 Z59.0@Homelessness
 Z59.1@Inadequate housing
 Z59.2@Discord with neighbors, lodgers and landlord
@@ -545,6 +591,7 @@ Z59.6@Low income
 Z59.7@Insufficient social insurance and welfare support
 Z59.8@Other problems related to housing and economic circumstances
 Z59.9@Problem related to housing and economic circumstances, unsp
+#
 Z60.0@Problems of adjustment to life-cycle transitions
 Z60.2@Problems related to living alone
 Z60.3@Acculturation difficulty
@@ -552,6 +599,7 @@ Z60.4@Social exclusion and rejection
 Z60.5@Target of (perceived) adverse discrimination and persecution
 Z60.8@Other problems related to social environment
 Z60.9@Problem related to social environment, unspecified
+#
 Z62.0@Inadequate parental supervision and control
 Z62.1@Parental overprotection
 Z62.21@Child in welfare custody
@@ -570,6 +618,7 @@ Z62.890@Parent-child estrangement NEC
 Z62.891@Sibling rivalry
 Z62.898@Other specified problems related to upbringing
 Z62.9@Problem related to upbringing, unspecified
+#
 Z63.0@Problems in relationship with spouse or partner
 Z63.1@Problems in relationship with in-laws
 Z63.31@Absence of family member due to military deployment
@@ -582,9 +631,11 @@ Z63.72@Alcoholism and drug addiction in family
 Z63.79@Other stressful life events affecting family and household
 Z63.8@Other specified problems related to primary support group
 Z63.9@Problem related to primary support group, unspecified
+#
 Z64.0@Problems related to unwanted pregnancy
 Z64.1@Problems related to multiparity
 Z64.4@Discord with counselors
+#
 Z65.0@Conviction in civil & criminal proceedings w/o imprisonment
 Z65.1@Imprisonment and other incarceration
 Z65.2@Problems related to release from prison
@@ -593,7 +644,9 @@ Z65.4@Victim of crime and terrorism
 Z65.5@Exposure to disaster, war and other hostilities
 Z65.8@Oth problems related to psychosocial circumstances
 Z65.9@Problem related to unspecified psychosocial circumstances
+#
 Z66.@Do not resuscitate
+#
 Z67.10@Type A blood, Rh positive
 Z67.11@Type A blood, Rh negative
 Z67.20@Type B blood, Rh positive
@@ -604,6 +657,7 @@ Z67.40@Type O blood, Rh positive
 Z67.41@Type O blood, Rh negative
 Z67.90@Unspecified blood type, Rh positive
 Z67.91@Unspecified blood type, Rh negative
+#
 Z68.1@Body mass index (BMI) 19 or less, adult
 Z68.20@Body mass index (BMI) 20.0-20.9, adult
 Z68.21@Body mass index (BMI) 21.0-21.9, adult
@@ -634,6 +688,7 @@ Z68.51@BMI pediatric, less than 5th percentile for age
 Z68.52@BMI pediatric, 5th percentile to less than 85% for age
 Z68.53@BMI pediatric, 85% to less than 95th percentile for age
 Z68.54@BMI pediatric, greater than or equal to 95% for age
+#
 Z69.010@Encntr for mental hlth serv for victim of prntl child abuse
 Z69.011@Encntr for mental health serv for perp of prntl child abuse
 Z69.020@Encntr for mntl hlth serv for vctm of non-prntl child abuse
@@ -642,12 +697,14 @@ Z69.11@Encntr for mntl hlth serv for victim of spous or prtnr abuse
 Z69.12@Encntr for mental hlth serv for perp of spous or prtnr abuse
 Z69.81@Encounter for mental health services for victim of oth abuse
 Z69.82@Encounter for mental health services for perp of abuse
+#
 Z70.0@Counseling related to sexual attitude
 Z70.1@Counseling related to patient's sexual behavior and orientn
 Z70.2@Cnsl related to sexual behavior and orientn of third party
 Z70.3@Cnsl rel to comb concrn rgrd sex attitude, behav and orientn
 Z70.8@Other sex counseling
 Z70.9@Sex counseling, unspecified
+#
 Z71.0@Prsn encntr hlth serv to consult on behalf of another person
 Z71.1@Person w feared hlth complaint in whom no diagnosis is made
 Z71.2@Person consulting for explanation of exam or test findings
@@ -661,6 +718,7 @@ Z71.7@Human immunodeficiency virus [HIV] counseling
 Z71.81@Spiritual or religious counseling
 Z71.89@Other specified counseling
 Z71.9@Counseling, unspecified
+#
 Z72.0@Tobacco use
 Z72.3@Lack of physical exercise
 Z72.4@Inappropriate diet and eating habits
@@ -674,6 +732,7 @@ Z72.820@Sleep deprivation
 Z72.821@Inadequate sleep hygiene
 Z72.89@Other problems related to lifestyle
 Z72.9@Problem related to lifestyle, unspecified
+#
 Z73.0@Burn-out
 Z73.1@Type A behavior pattern
 Z73.2@Lack of relaxation and leisure
@@ -688,6 +747,7 @@ Z73.819@Behavioral insomnia of childhood, unspecified type
 Z73.82@Dual sensory impairment
 Z73.89@Other problems related to life management difficulty
 Z73.9@Problem related to life management difficulty, unspecified
+#
 Z74.01@Bed confinement status
 Z74.09@Other reduced mobility
 Z74.1@Need for assistance with personal care
@@ -695,6 +755,7 @@ Z74.2@Need for assist at home & no house memb able to render care
 Z74.3@Need for continuous supervision
 Z74.8@Other problems related to care provider dependency
 Z74.9@Problem related to care provider dependency, unspecified
+#
 Z75.0@Medical services not available in home
 Z75.1@Person awaiting admission to adequate facility elsewhere
 Z75.2@Other waiting period for investigation and treatment
@@ -703,6 +764,7 @@ Z75.4@Unavailability and inaccessibility of other helping agencies
 Z75.5@Holiday relief care
 Z75.8@Oth prob related to medical facilities and oth health care
 Z75.9@Unsp problem related to med facilities and oth health care
+#
 Z76.0@Encounter for issue of repeat prescription
 Z76.1@Encounter for health supervision and care of foundling
 Z76.2@Encntr for hlth suprvsn and care of healthy infant and child
@@ -712,6 +774,7 @@ Z76.5@Malingerer [conscious simulation]
 Z76.81@Expectant parent(s) prebirth pediatrician visit
 Z76.82@Awaiting organ transplant status
 Z76.89@Persons encountering health services in oth circumstances
+#
 Z77.010@Contact with and (suspected) exposure to arsenic
 Z77.011@Contact with and (suspected) exposure to lead
 Z77.012@Contact with and (suspected) exposure to uranium
@@ -734,9 +797,11 @@ Z77.21@Contact w and exposure to potentially hazardous body fluids
 Z77.22@Cntct w and expsr to environ tobacco smoke (acute) (chronic)
 Z77.29@Contact w and (suspected ) exposure to oth hazardous substnc
 Z77.9@Oth contact w and (suspected) exposures hazardous to health
+#
 Z78.0@Asymptomatic menopausal state
 Z78.1@Physical restraint status
 Z78.9@Other specified health status
+#
 Z79.01@Long term (current) use of anticoagulants
 Z79.02@Long term (current) use of antithrombotics/antiplatelets
 Z79.1@Long term (current) use of non-steroidal non-inflam (NSAID)
@@ -753,6 +818,7 @@ Z79.83@Long term (current) use of bisphosphonates
 Z79.890@Hormone replacement therapy (postmenopausal)
 Z79.891@Long term (current) use of opiate analgesic
 Z79.899@Other long term (current) drug therapy
+#
 Z80.0@Family history of malignant neoplasm of digestive organs
 Z80.1@Family history of malig neoplasm of trachea, bronc and lung
 Z80.2@Family hx of malig neoplm of resp and intrathorac organs
@@ -768,12 +834,14 @@ Z80.6@Family history of leukemia
 Z80.7@Fam hx of malig neoplm of lymphoid, hematpoetc and rel tiss
 Z80.8@Family history of malignant neoplasm of organs or systems
 Z80.9@Family history of malignant neoplasm, unspecified
+#
 Z81.0@Family history of intellectual disabilities
 Z81.1@Family history of alcohol abuse and dependence
 Z81.2@Family history of tobacco abuse and dependence
 Z81.3@Family history of psychoactv substance abuse and dependence
 Z81.4@Family history of other substance abuse and dependence
 Z81.8@Family history of other mental and behavioral disorders
+#
 Z82.0@Family history of epilepsy and oth dis of the nervous sys
 Z82.1@Family history of blindness and visual loss
 Z82.2@Family history of deafness and hearing loss
@@ -787,6 +855,7 @@ Z82.69@Family history of diseases of the ms sys and connective tiss
 Z82.71@Family history of polycystic kidney
 Z82.79@Fam hx of congen malform, deformations and chromsoml abnlt
 Z82.8@Family hx of disabil and chr dis leading to disablement, NEC
+#
 Z83.0@Family history of human immunodeficiency virus [HIV] disease
 Z83.1@Family history of other infectious and parasitic diseases
 Z83.2@Family history of dis of the bld/bld-form org/immun mechnsm
@@ -799,12 +868,14 @@ Z83.52@Family history of ear disorders
 Z83.6@Family history of other diseases of the respiratory system
 Z83.71@Family history of colonic polyps
 Z83.79@Family history of other diseases of the digestive system
+#
 Z84.0@Family history of diseases of the skin, subcu
 Z84.1@Family history of disorders of kidney and ureter
 Z84.2@Family history of other diseases of the genitourinary system
 Z84.3@Family history of consanguinity
 Z84.81@Family history of carrier of genetic disease
 Z84.89@Family history of other specified conditions
+#
 Z85.00@Personal history of malignant neoplasm of unsp dgstv org
 Z85.01@Personal history of malignant neoplasm of esophagus
 Z85.020@Personal history of malignant carcinoid tumor of stomach
@@ -864,6 +935,7 @@ Z85.850@Personal history of malignant neoplasm of thyroid
 Z85.858@Personal history of malignant neoplasm of endocrine glands
 Z85.89@Personal history of malignant neoplasm of organs and systems
 Z85.9@Personal history of malignant neoplasm, unspecified
+#
 Z86.000@Personal history of in-situ neoplasm of breast
 Z86.001@Personal history of in-situ neoplasm of cervix uteri
 Z86.008@Personal history of in-situ neoplasm of other site
@@ -891,6 +963,7 @@ Z86.72@Personal history of thrombophlebitis
 Z86.73@Prsnl hx of TIA (TIA), and cereb infrc w/o resid deficits
 Z86.74@Personal history of sudden cardiac arrest
 Z86.79@Personal history of other diseases of the circulatory system
+#
 Z87.01@Personal history of pneumonia (recurrent)
 Z87.09@Personal history of other diseases of the respiratory system
 Z87.11@Personal history of peptic ulcer disease
@@ -932,6 +1005,7 @@ Z87.890@Personal history of sex reassignment
 Z87.891@Personal history of nicotine dependence
 Z87.892@Personal history of anaphylaxis
 Z87.898@Personal history of other specified conditions
+#
 Z88.0@Allergy status to penicillin
 Z88.1@Allergy status to other antibiotic agents status
 Z88.2@Allergy status to sulfonamides status
@@ -942,6 +1016,7 @@ Z88.6@Allergy status to analgesic agent status
 Z88.7@Allergy status to serum and vaccine status
 Z88.8@Allergy status to oth drug/meds/biol subst status
 Z88.9@Allergy status to unsp drug/meds/biol subst status
+#
 Z89.011@Acquired absence of right thumb
 Z89.012@Acquired absence of left thumb
 Z89.019@Acquired absence of unspecified thumb
@@ -991,6 +1066,7 @@ Z89.621@Acquired absence of right hip joint
 Z89.622@Acquired absence of left hip joint
 Z89.629@Acquired absence of unspecified hip joint
 Z89.9@Acquired absence of limb, unspecified
+#
 Z90.01@Acquired absence of eye
 Z90.02@Acquired absence of larynx
 Z90.09@Acquired absence of other part of head and neck
@@ -1013,6 +1089,7 @@ Z90.722@Acquired absence of ovaries, bilateral
 Z90.79@Acquired absence of other genital organ(s)
 Z90.81@Acquired absence of spleen
 Z90.89@Acquired absence of other organs
+#
 Z91.010@Allergy to peanuts
 Z91.011@Allergy to milk products
 Z91.012@Allergy to eggs
@@ -1043,6 +1120,7 @@ Z91.81@History of falling
 Z91.82@Personal history of military deployment
 Z91.83@Wandering in diseases classified elsewhere
 Z91.89@Oth personal risk factors, not elsewhere classified
+#
 Z92.0@Personal history of contraception
 Z92.21@Personal history of antineoplastic chemotherapy
 Z92.22@Personal history of monoclonal drug therapy
@@ -1056,6 +1134,7 @@ Z92.81@Prsnl history of extracorporeal membrane oxygenation (ECMO)
 Z92.82@S/p admn tPA in diff fac w/n last 24 hr bef adm to crnt fac
 Z92.83@Personal history of failed moderate sedation
 Z92.89@Personal history of other medical treatment
+#
 Z93.0@Tracheostomy status
 Z93.1@Gastrostomy status
 Z93.2@Ileostomy status
@@ -1068,6 +1147,7 @@ Z93.59@Other cystostomy status
 Z93.6@Other artificial openings of urinary tract status
 Z93.8@Other artificial opening status
 Z93.9@Artificial opening status, unspecified
+#
 Z94.0@Kidney transplant status
 Z94.1@Heart transplant status
 Z94.2@Lung transplant status
@@ -1082,6 +1162,7 @@ Z94.83@Pancreas transplant status
 Z94.84@Stem cells transplant status
 Z94.89@Other transplanted organ and tissue status
 Z94.9@Transplanted organ and tissue status, unspecified
+#
 Z95.0@Presence of cardiac pacemaker
 Z95.1@Presence of aortocoronary bypass graft
 Z95.2@Presence of prosthetic heart valve
@@ -1095,6 +1176,7 @@ Z95.818@Presence of other cardiac implants and grafts
 Z95.820@Peripheral vascular angioplasty status w implants and grafts
 Z95.828@Presence of other vascular implants and grafts
 Z95.9@Presence of cardiac and vascular implant and graft, unsp
+#
 Z96.0@Presence of urogenital implants
 Z96.1@Presence of intraocular lens
 Z96.20@Presence of otological and audiological implant, unspecified
@@ -1134,6 +1216,7 @@ Z96.7@Presence of other bone and tendon implants
 Z96.81@Presence of artificial skin
 Z96.89@Presence of other specified functional implants
 Z96.9@Presence of functional implant, unspecified
+#
 Z97.0@Presence of artificial eye
 Z97.10@Presence of artificial limb (complete) (partial), unsp
 Z97.11@Presence of artificial right arm (complete) (partial)
@@ -1147,6 +1230,7 @@ Z97.3@Presence of spectacles and contact lenses
 Z97.4@Presence of external hearing-aid
 Z97.5@Presence of (intrauterine) contraceptive device
 Z97.8@Presence of other specified devices
+#
 Z98.0@Intestinal bypass and anastomosis status
 Z98.1@Arthrodesis status
 Z98.2@Presence of cerebrospinal fluid drainage device
@@ -1169,6 +1253,7 @@ Z98.86@Personal history of breast implant removal
 Z98.870@Personal history of in utero procedure during pregnancy
 Z98.871@Personal history of in utero procedure while a fetus
 Z98.89@Other specified postprocedural states
+#
 Z99.0@Dependence on aspirator
 Z99.11@Dependence on respirator [ventilator] status
 Z99.12@Encounter for respirator dependence during power failure

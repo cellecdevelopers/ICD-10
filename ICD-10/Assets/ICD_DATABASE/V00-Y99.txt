@@ -151,6 +151,7 @@ V00.892S@Ped on oth ped convey colliding w statnry obj, sequela
 V00.898A@Other accident on other pedestrian conveyance, init encntr
 V00.898D@Other accident on other pedestrian conveyance, subs encntr
 V00.898S@Other accident on other pedestrian conveyance, sequela
+#
 V01.00XA@Ped on foot injured in collision w pedl cyc nontraf, init
 V01.00XD@Ped on foot injured in collision w pedl cyc nontraf, subs
 V01.00XS@Ped on foot injured in collision w pedl cyc nontraf, sequela
@@ -187,6 +188,7 @@ V01.92XS@Ped on sktbrd injured in collision w pedl cyc, unsp, sequela
 V01.99XA@Ped w convey injured in collision w pedl cyc, unsp, init
 V01.99XD@Ped w convey injured in collision w pedl cyc, unsp, subs
 V01.99XS@Ped w convey injured in collision w pedl cyc, unsp, sequela
+#
 V02.00XA@Ped on foot injured in collision w 2/3-whl mv nontraf, init
 V02.00XD@Ped on foot injured in collision w 2/3-whl mv nontraf, subs
 V02.00XS@Ped on foot injured in clsn w 2/3-whl mv nontraf, sequela
@@ -223,6 +225,7 @@ V02.92XS@Ped on sktbrd injured in clsn w 2/3-whl mv, unsp, sequela
 V02.99XA@Ped w convey injured in collision w 2/3-whl mv, unsp, init
 V02.99XD@Ped w convey injured in collision w 2/3-whl mv, unsp, subs
 V02.99XS@Ped w convey injured in clsn w 2/3-whl mv, unsp, sequela
+#
 V03.00XA@Ped on foot injured pick-up truck, pk-up/van nontraf, init
 V03.00XD@Ped on foot injured pick-up truck, pk-up/van nontraf, subs
 V03.00XS@Ped on foot inj pick-up truck, pk-up/van nontraf, sequela
@@ -259,6 +262,7 @@ V03.92XS@Ped on sktbrd inj pick-up truck, pk-up/van, unsp, sequela
 V03.99XA@Ped w convey injured pick-up truck, pk-up/van, unsp, init
 V03.99XD@Ped w convey injured pick-up truck, pk-up/van, unsp, subs
 V03.99XS@Ped w convey injured pick-up truck, pk-up/van, unsp, sequela
+#
 V04.00XA@Ped on foot injured in collision w hv veh nontraf, init
 V04.00XD@Ped on foot injured in collision w hv veh nontraf, subs
 V04.00XS@Ped on foot injured in collision w hv veh nontraf, sequela
@@ -295,6 +299,7 @@ V04.92XS@Ped on sktbrd injured in collision w hv veh, unsp, sequela
 V04.99XA@Ped w convey injured in collision w hv veh, unsp, init
 V04.99XD@Ped w convey injured in collision w hv veh, unsp, subs
 V04.99XS@Ped w convey injured in collision w hv veh, unsp, sequela
+#
 V05.00XA@Ped on foot injured in clsn w rail trn/veh nontraf, init
 V05.00XD@Ped on foot injured in clsn w rail trn/veh nontraf, subs
 V05.00XS@Ped on foot injured in clsn w rail trn/veh nontraf, sequela
@@ -331,6 +336,7 @@ V05.92XS@Ped on sktbrd injured in clsn w rail trn/veh, unsp, sequela
 V05.99XA@Ped w convey injured in collision w rail trn/veh, unsp, init
 V05.99XD@Ped w convey injured in collision w rail trn/veh, unsp, subs
 V05.99XS@Ped w convey injured in clsn w rail trn/veh, unsp, sequela
+#
 V06.00XA@Ped on foot injured in clsn w nonmtr vehicle nontraf, init
 V06.00XD@Ped on foot injured in clsn w nonmtr vehicle nontraf, subs
 V06.00XS@Ped on foot inj in clsn w nonmtr vehicle nontraf, sequela
@@ -367,6 +373,7 @@ V06.92XS@Ped on sktbrd inj in clsn w nonmtr vehicle, unsp, sequela
 V06.99XA@Ped w convey injured in clsn w nonmtr vehicle, unsp, init
 V06.99XD@Ped w convey injured in clsn w nonmtr vehicle, unsp, subs
 V06.99XS@Ped w convey injured in clsn w nonmtr vehicle, unsp, sequela
+#
 V09.00XA@Pedestrian injured nontraf involving unsp mv, init
 V09.00XD@Pedestrian injured nontraf involving unsp mv, subs
 V09.00XS@Pedestrian injured nontraf involving unsp mv, sequela
@@ -394,6 +401,7 @@ V09.3XXS@Pedestrian injured in unspecified traffic accident, sequela
 V09.9XXA@Pedestrian injured in unsp transport accident, init encntr
 V09.9XXD@Pedestrian injured in unsp transport accident, subs encntr
 V09.9XXS@Pedestrian injured in unsp transport accident, sequela
+#
 V10.0XXA@Pedl cyc driver injured in clsn w ped/anml nontraf, init
 V10.0XXD@Pedl cyc driver injured in clsn w ped/anml nontraf, subs
 V10.0XXS@Pedl cyc driver injured in clsn w ped/anml nontraf, sequela
@@ -415,6 +423,7 @@ V10.5XXS@Pedl cyc pasngr injured in clsn w ped/anml in traf, sequela
 V10.9XXA@Unsp pedl cyclst injured in clsn w ped/anml in traf, init
 V10.9XXD@Unsp pedl cyclst injured in clsn w ped/anml in traf, subs
 V10.9XXS@Unsp pedl cyclst injured in clsn w ped/anml in traf, sequela
+#
 V11.0XXA@Pedl cyc driver injured in clsn w oth pedl cyc nontraf, init
 V11.0XXD@Pedl cyc driver injured in clsn w oth pedl cyc nontraf, subs
 V11.0XXS@Pedl cyc driver inj in clsn w oth pedl cyc nontraf, sequela
@@ -436,6 +445,7 @@ V11.5XXS@Pedl cyc pasngr inj in clsn w oth pedl cyc in traf, sequela
 V11.9XXA@Unsp pedl cyclst inj in clsn w oth pedl cyc in traf, init
 V11.9XXD@Unsp pedl cyclst inj in clsn w oth pedl cyc in traf, subs
 V11.9XXS@Unsp pedl cyclst inj in clsn w oth pedl cyc in traf, sequela
+#
 V12.0XXA@Pedl cyc driver injured in clsn w 2/3-whl mv nontraf, init
 V12.0XXD@Pedl cyc driver injured in clsn w 2/3-whl mv nontraf, subs
 V12.0XXS@Pedl cyc driver inj in clsn w 2/3-whl mv nontraf, sequela
@@ -457,6 +467,7 @@ V12.5XXS@Pedl cyc pasngr inj in clsn w 2/3-whl mv in traf, sequela
 V12.9XXA@Unsp pedl cyclst injured in clsn w 2/3-whl mv in traf, init
 V12.9XXD@Unsp pedl cyclst injured in clsn w 2/3-whl mv in traf, subs
 V12.9XXS@Unsp pedl cyclst inj in clsn w 2/3-whl mv in traf, sequela
+#
 V13.0XXA@Pedl cyc driver inj pick-up truck, pk-up/van nontraf, init
 V13.0XXD@Pedl cyc driver inj pick-up truck, pk-up/van nontraf, subs
 V13.0XXS@Pedl cyc driver inj pk-up truck, pk-up/van nontraf, sequela
@@ -478,6 +489,7 @@ V13.5XXS@Pedl cyc pasngr inj pk-up truck, pk-up/van in traf, sequela
 V13.9XXA@Unsp pedl cyclst inj pick-up truck, pk-up/van in traf, init
 V13.9XXD@Unsp pedl cyclst inj pick-up truck, pk-up/van in traf, subs
 V13.9XXS@Unsp pedl cyclst inj pk-up truck, pk-up/van in traf, sequela
+#
 V14.0XXA@Pedl cyc driver injured in collision w hv veh nontraf, init
 V14.0XXD@Pedl cyc driver injured in collision w hv veh nontraf, subs
 V14.0XXS@Pedl cyc driver injured in clsn w hv veh nontraf, sequela
@@ -499,6 +511,7 @@ V14.5XXS@Pedl cyc passenger injured in clsn w hv veh in traf, sequela
 V14.9XXA@Unsp pedl cyclst injured in collision w hv veh in traf, init
 V14.9XXD@Unsp pedl cyclst injured in collision w hv veh in traf, subs
 V14.9XXS@Unsp pedl cyclst injured in clsn w hv veh in traf, sequela
+#
 V15.0XXA@Pedl cyc driver injured in clsn w rail trn/veh nontraf, init
 V15.0XXD@Pedl cyc driver injured in clsn w rail trn/veh nontraf, subs
 V15.0XXS@Pedl cyc driver inj in clsn w rail trn/veh nontraf, sequela
@@ -520,6 +533,7 @@ V15.5XXS@Pedl cyc pasngr inj in clsn w rail trn/veh in traf, sequela
 V15.9XXA@Unsp pedl cyclst inj in clsn w rail trn/veh in traf, init
 V15.9XXD@Unsp pedl cyclst inj in clsn w rail trn/veh in traf, subs
 V15.9XXS@Unsp pedl cyclst inj in clsn w rail trn/veh in traf, sequela
+#
 V16.0XXA@Pedl cyc driver inj in clsn w nonmtr vehicle nontraf, init
 V16.0XXD@Pedl cyc driver inj in clsn w nonmtr vehicle nontraf, subs
 V16.0XXS@Pedl cyc driver inj in clsn w nonmtr vehicle nontraf, sqla
@@ -541,6 +555,7 @@ V16.5XXS@Pedl cyc pasngr inj in clsn w nonmtr vehicle in traf, sqla
 V16.9XXA@Unsp pedl cyclst inj in clsn w nonmtr vehicle in traf, init
 V16.9XXD@Unsp pedl cyclst inj in clsn w nonmtr vehicle in traf, subs
 V16.9XXS@Unsp pedl cyclst inj in clsn w nonmtr vehicle in traf, sqla
+#
 V17.0XXA@Pedl cyc driver inj in clsn w statnry object nontraf, init
 V17.0XXD@Pedl cyc driver inj in clsn w statnry object nontraf, subs
 V17.0XXS@Pedl cyc driver inj in clsn w statnry object nontraf, sqla
@@ -562,6 +577,7 @@ V17.5XXS@Pedl cyc pasngr inj in clsn w statnry object in traf, sqla
 V17.9XXA@Unsp pedl cyclst inj in clsn w statnry object in traf, init
 V17.9XXD@Unsp pedl cyclst inj in clsn w statnry object in traf, subs
 V17.9XXS@Unsp pedl cyclst inj in clsn w statnry object in traf, sqla
+#
 V18.0XXA@Pedl cyc driver injured in nonclsn trnsp acc nontraf, init
 V18.0XXD@Pedl cyc driver injured in nonclsn trnsp acc nontraf, subs
 V18.0XXS@Pedl cyc driver inj in nonclsn trnsp acc nontraf, sequela
@@ -583,6 +599,7 @@ V18.5XXS@Pedl cyc pasngr inj in nonclsn trnsp acc in traf, sequela
 V18.9XXA@Unsp pedl cyclst injured in nonclsn trnsp acc in traf, init
 V18.9XXD@Unsp pedl cyclst injured in nonclsn trnsp acc in traf, subs
 V18.9XXS@Unsp pedl cyclst inj in nonclsn trnsp acc in traf, sequela
+#
 V19.00XA@Pedl cyc driver injured in collision w unsp mv nontraf, init
 V19.00XD@Pedl cyc driver injured in collision w unsp mv nontraf, subs
 V19.00XS@Pedl cyc driver injured in clsn w unsp mv nontraf, sequela
@@ -631,6 +648,7 @@ V19.88XS@Pedl cyclst (driver) injured in oth transport acc, sequela
 V19.9XXA@Pedl cyclst (driver) (passenger) injured in unsp traf, init
 V19.9XXD@Pedl cyclst (driver) (passenger) injured in unsp traf, subs
 V19.9XXS@Pedl cyclst (driver) injured in unsp traf, sequela
+#
 V20.0XXA@Mtrcy driver injured in collision w ped/anml nontraf, init
 V20.0XXD@Mtrcy driver injured in collision w ped/anml nontraf, subs
 V20.0XXS@Mtrcy driver injured in clsn w ped/anml nontraf, sequela
@@ -652,6 +670,7 @@ V20.5XXS@Mtrcy passenger injured in clsn w ped/anml in traf, sequela
 V20.9XXA@Unsp mtrcy rider injured in clsn w ped/anml in traf, init
 V20.9XXD@Unsp mtrcy rider injured in clsn w ped/anml in traf, subs
 V20.9XXS@Unsp mtrcy rider injured in clsn w ped/anml in traf, sequela
+#
 V21.0XXA@Mtrcy driver injured in collision w pedl cyc nontraf, init
 V21.0XXD@Mtrcy driver injured in collision w pedl cyc nontraf, subs
 V21.0XXS@Mtrcy driver injured in clsn w pedl cyc nontraf, sequela
@@ -673,6 +692,7 @@ V21.5XXS@Mtrcy passenger injured in clsn w pedl cyc in traf, sequela
 V21.9XXA@Unsp mtrcy rider injured in clsn w pedl cyc in traf, init
 V21.9XXD@Unsp mtrcy rider injured in clsn w pedl cyc in traf, subs
 V21.9XXS@Unsp mtrcy rider injured in clsn w pedl cyc in traf, sequela
+#
 V22.0XXA@Mtrcy driver injured in collision w 2/3-whl mv nontraf, init
 V22.0XXD@Mtrcy driver injured in collision w 2/3-whl mv nontraf, subs
 V22.0XXS@Mtrcy driver injured in clsn w 2/3-whl mv nontraf, sequela
@@ -694,6 +714,7 @@ V22.5XXS@Mtrcy pasngr injured in clsn w 2/3-whl mv in traf, sequela
 V22.9XXA@Unsp mtrcy rider injured in clsn w 2/3-whl mv in traf, init
 V22.9XXD@Unsp mtrcy rider injured in clsn w 2/3-whl mv in traf, subs
 V22.9XXS@Unsp mtrcy rider inj in clsn w 2/3-whl mv in traf, sequela
+#
 V23.0XXA@Mtrcy driver injured pick-up truck, pk-up/van nontraf, init
 V23.0XXD@Mtrcy driver injured pick-up truck, pk-up/van nontraf, subs
 V23.0XXS@Mtrcy driver inj pick-up truck, pk-up/van nontraf, sequela
@@ -715,6 +736,7 @@ V23.5XXS@Mtrcy pasngr inj pick-up truck, pk-up/van in traf, sequela
 V23.9XXA@Unsp mtrcy rider inj pick-up truck, pk-up/van in traf, init
 V23.9XXD@Unsp mtrcy rider inj pick-up truck, pk-up/van in traf, subs
 V23.9XXS@Unsp mtrcy rider inj pk-up truck, pk-up/van in traf, sequela
+#
 V24.0XXA@Mtrcy driver injured in collision w hv veh nontraf, init
 V24.0XXD@Mtrcy driver injured in collision w hv veh nontraf, subs
 V24.0XXS@Mtrcy driver injured in collision w hv veh nontraf, sequela
@@ -736,6 +758,7 @@ V24.5XXS@Mtrcy passenger injured in clsn w hv veh in traf, sequela
 V24.9XXA@Unsp mtrcy rider injured in collision w hv veh in traf, init
 V24.9XXD@Unsp mtrcy rider injured in collision w hv veh in traf, subs
 V24.9XXS@Unsp mtrcy rider injured in clsn w hv veh in traf, sequela
+#
 V25.0XXA@Mtrcy driver injured in clsn w rail trn/veh nontraf, init
 V25.0XXD@Mtrcy driver injured in clsn w rail trn/veh nontraf, subs
 V25.0XXS@Mtrcy driver injured in clsn w rail trn/veh nontraf, sequela
@@ -757,6 +780,7 @@ V25.5XXS@Mtrcy pasngr injured in clsn w rail trn/veh in traf, sequela
 V25.9XXA@Unsp mtrcy rider inj in clsn w rail trn/veh in traf, init
 V25.9XXD@Unsp mtrcy rider inj in clsn w rail trn/veh in traf, subs
 V25.9XXS@Unsp mtrcy rider inj in clsn w rail trn/veh in traf, sequela
+#
 V26.0XXA@Mtrcy driver injured in clsn w nonmtr vehicle nontraf, init
 V26.0XXD@Mtrcy driver injured in clsn w nonmtr vehicle nontraf, subs
 V26.0XXS@Mtrcy driver inj in clsn w nonmtr vehicle nontraf, sequela
@@ -778,6 +802,7 @@ V26.5XXS@Mtrcy pasngr inj in clsn w nonmtr vehicle in traf, sequela
 V26.9XXA@Unsp mtrcy rider inj in clsn w nonmtr vehicle in traf, init
 V26.9XXD@Unsp mtrcy rider inj in clsn w nonmtr vehicle in traf, subs
 V26.9XXS@Unsp mtrcy rider inj in clsn w nonmtr vehicle in traf, sqla
+#
 V27.0XXA@Mtrcy driver injured in clsn w statnry object nontraf, init
 V27.0XXD@Mtrcy driver injured in clsn w statnry object nontraf, subs
 V27.0XXS@Mtrcy driver inj in clsn w statnry object nontraf, sequela
@@ -799,6 +824,7 @@ V27.5XXS@Mtrcy pasngr inj in clsn w statnry object in traf, sequela
 V27.9XXA@Unsp mtrcy rider inj in clsn w statnry object in traf, init
 V27.9XXD@Unsp mtrcy rider inj in clsn w statnry object in traf, subs
 V27.9XXS@Unsp mtrcy rider inj in clsn w statnry object in traf, sqla
+#
 V28.0XXA@Mtrcy driver injured in nonclsn trnsp accident nontraf, init
 V28.0XXD@Mtrcy driver injured in nonclsn trnsp accident nontraf, subs
 V28.0XXS@Mtrcy driver injured in nonclsn trnsp acc nontraf, sequela
@@ -820,6 +846,7 @@ V28.5XXS@Mtrcy pasngr injured in nonclsn trnsp acc in traf, sequela
 V28.9XXA@Unsp mtrcy rider injured in nonclsn trnsp acc in traf, init
 V28.9XXD@Unsp mtrcy rider injured in nonclsn trnsp acc in traf, subs
 V28.9XXS@Unsp mtrcy rider inj in nonclsn trnsp acc in traf, sequela
+#
 V29.00XA@Mtrcy driver injured in collision w unsp mv nontraf, init
 V29.00XD@Mtrcy driver injured in collision w unsp mv nontraf, subs
 V29.00XS@Mtrcy driver injured in collision w unsp mv nontraf, sequela
@@ -868,6 +895,7 @@ V29.88XS@Mtrcy rider (driver) injured in oth transport acc, sequela
 V29.9XXA@Motorcycle rider (driver) injured in unsp traf, init
 V29.9XXD@Motorcycle rider (driver) injured in unsp traf, subs
 V29.9XXS@Motorcycle rider (driver) injured in unsp traf, sequela
+#
 V30.0XXA@Driver of 3-whl mv injured in clsn w ped/anml nontraf, init
 V30.0XXD@Driver of 3-whl mv injured in clsn w ped/anml nontraf, subs
 V30.0XXS@Driver of 3-whl mv inj in clsn w ped/anml nontraf, sequela
@@ -895,6 +923,7 @@ V30.7XXS@Person outsd 3-whl mv inj in clsn w ped/anml in traf, sqla
 V30.9XXA@Occup of 3-whl mv injured in clsn w ped/anml in traf, init
 V30.9XXD@Occup of 3-whl mv injured in clsn w ped/anml in traf, subs
 V30.9XXS@Occup of 3-whl mv inj in clsn w ped/anml in traf, sequela
+#
 V31.0XXA@Driver of 3-whl mv injured in clsn w pedl cyc nontraf, init
 V31.0XXD@Driver of 3-whl mv injured in clsn w pedl cyc nontraf, subs
 V31.0XXS@Driver of 3-whl mv inj in clsn w pedl cyc nontraf, sequela
@@ -922,6 +951,7 @@ V31.7XXS@Person outsd 3-whl mv inj in clsn w pedl cyc in traf, sqla
 V31.9XXA@Occup of 3-whl mv injured in clsn w pedl cyc in traf, init
 V31.9XXD@Occup of 3-whl mv injured in clsn w pedl cyc in traf, subs
 V31.9XXS@Occup of 3-whl mv inj in clsn w pedl cyc in traf, sequela
+#
 V32.0XXA@Driver of 3-whl mv inj in clsn w 2/3-whl mv nontraf, init
 V32.0XXD@Driver of 3-whl mv inj in clsn w 2/3-whl mv nontraf, subs
 V32.0XXS@Driver of 3-whl mv inj in clsn w 2/3-whl mv nontraf, sequela
@@ -949,6 +979,7 @@ V32.7XXS@Person outsd 3-whl mv inj in clsn w 2/3-whl mv in traf, sqla
 V32.9XXA@Occup of 3-whl mv injured in clsn w 2/3-whl mv in traf, init
 V32.9XXD@Occup of 3-whl mv injured in clsn w 2/3-whl mv in traf, subs
 V32.9XXS@Occup of 3-whl mv inj in clsn w 2/3-whl mv in traf, sequela
+#
 V33.0XXA@Driver of 3-whl mv inj pk-up truck, pk-up/van nontraf, init
 V33.0XXD@Driver of 3-whl mv inj pk-up truck, pk-up/van nontraf, subs
 V33.0XXS@Driver of 3-whl mv inj pk-up truck, pk-up/van nontraf, sqla
@@ -976,6 +1007,7 @@ V33.7XXS@Prsn outsd 3-whl mv inj pk-up truck, pk-up/van in traf, sqla
 V33.9XXA@Occup of 3-whl mv inj pick-up truck, pk-up/van in traf, init
 V33.9XXD@Occup of 3-whl mv inj pick-up truck, pk-up/van in traf, subs
 V33.9XXS@Occup of 3-whl mv inj pk-up truck, pk-up/van in traf, sqla
+#
 V34.0XXA@Driver of 3-whl mv injured in clsn w hv veh nontraf, init
 V34.0XXD@Driver of 3-whl mv injured in clsn w hv veh nontraf, subs
 V34.0XXS@Driver of 3-whl mv injured in clsn w hv veh nontraf, sequela
@@ -1003,6 +1035,7 @@ V34.7XXS@Person outsd 3-whl mv inj in clsn w hv veh in traf, sequela
 V34.9XXA@Occup of 3-whl mv injured in clsn w hv veh in traf, init
 V34.9XXD@Occup of 3-whl mv injured in clsn w hv veh in traf, subs
 V34.9XXS@Occup of 3-whl mv injured in clsn w hv veh in traf, sequela
+#
 V35.0XXA@Driver of 3-whl mv inj in clsn w rail trn/veh nontraf, init
 V35.0XXD@Driver of 3-whl mv inj in clsn w rail trn/veh nontraf, subs
 V35.0XXS@Driver of 3-whl mv inj in clsn w rail trn/veh nontraf, sqla
@@ -1030,6 +1063,7 @@ V35.7XXS@Prsn outsd 3-whl mv inj in clsn w rail trn/veh in traf, sqla
 V35.9XXA@Occup of 3-whl mv inj in clsn w rail trn/veh in traf, init
 V35.9XXD@Occup of 3-whl mv inj in clsn w rail trn/veh in traf, subs
 V35.9XXS@Occup of 3-whl mv inj in clsn w rail trn/veh in traf, sqla
+#
 V36.0XXA@Driver of 3-whl mv inj in clsn w nonmtr veh nontraf, init
 V36.0XXD@Driver of 3-whl mv inj in clsn w nonmtr veh nontraf, subs
 V36.0XXS@Driver of 3-whl mv inj in clsn w nonmtr veh nontraf, sqla
@@ -1057,6 +1091,7 @@ V36.7XXS@Person outsd 3-whl mv inj in clsn w nonmtr veh in traf, sqla
 V36.9XXA@Occup of 3-whl mv inj in clsn w nonmtr vehicle in traf, init
 V36.9XXD@Occup of 3-whl mv inj in clsn w nonmtr vehicle in traf, subs
 V36.9XXS@Occup of 3-whl mv inj in clsn w nonmtr vehicle in traf, sqla
+#
 V37.0XXA@Drvr of 3-whl mv inj in clsn w statnry object nontraf, init
 V37.0XXD@Drvr of 3-whl mv inj in clsn w statnry object nontraf, subs
 V37.0XXS@Drvr of 3-whl mv inj in clsn w statnry object nontraf, sqla
@@ -1084,6 +1119,7 @@ V37.7XXS@Prsn outsd 3-whl mv inj in clsn w statnry obj in traf, sqla
 V37.9XXA@Occup of 3-whl mv inj in clsn w statnry object in traf, init
 V37.9XXD@Occup of 3-whl mv inj in clsn w statnry object in traf, subs
 V37.9XXS@Occup of 3-whl mv inj in clsn w statnry object in traf, sqla
+#
 V38.0XXA@Driver of 3-whl mv inj in nonclsn trnsp acc nontraf, init
 V38.0XXD@Driver of 3-whl mv inj in nonclsn trnsp acc nontraf, subs
 V38.0XXS@Driver of 3-whl mv inj in nonclsn trnsp acc nontraf, sequela
@@ -1111,6 +1147,7 @@ V38.7XXS@Person outsd 3-whl mv inj in nonclsn trnsp acc in traf, sqla
 V38.9XXA@Occup of 3-whl mv injured in nonclsn trnsp acc in traf, init
 V38.9XXD@Occup of 3-whl mv injured in nonclsn trnsp acc in traf, subs
 V38.9XXS@Occup of 3-whl mv inj in nonclsn trnsp acc in traf, sequela
+#
 V39.00XA@Driver of 3-whl mv injured in clsn w unsp mv nontraf, init
 V39.00XD@Driver of 3-whl mv injured in clsn w unsp mv nontraf, subs
 V39.00XS@Driver of 3-whl mv inj in clsn w unsp mv nontraf, sequela
@@ -1159,6 +1196,7 @@ V39.89XS@Occupant of 3-whl mv injured in oth trnsp acc, sequela
 V39.9XXA@Occupant (driver) of 3-whl mv injured in unsp traf, init
 V39.9XXD@Occupant (driver) of 3-whl mv injured in unsp traf, subs
 V39.9XXS@Occupant (driver) of 3-whl mv injured in unsp traf, sequela
+#
 V40.0XXA@Car driver injured in collision w ped/anml nontraf, init
 V40.0XXD@Car driver injured in collision w ped/anml nontraf, subs
 V40.0XXS@Car driver injured in collision w ped/anml nontraf, sequela
@@ -1186,6 +1224,7 @@ V40.7XXS@Person outside car inj in clsn w ped/anml in traf, sequela
 V40.9XXA@Unsp car occupant injured in clsn w ped/anml in traf, init
 V40.9XXD@Unsp car occupant injured in clsn w ped/anml in traf, subs
 V40.9XXS@Unsp car occ injured in clsn w ped/anml in traf, sequela
+#
 V41.0XXA@Car driver injured in collision w pedal cycle nontraf, init
 V41.0XXD@Car driver injured in collision w pedal cycle nontraf, subs
 V41.0XXS@Car driver injured in collision w pedl cyc nontraf, sequela
@@ -1213,6 +1252,7 @@ V41.7XXS@Person outside car inj in clsn w pedl cyc in traf, sequela
 V41.9XXA@Unsp car occupant injured in clsn w pedl cyc in traf, init
 V41.9XXD@Unsp car occupant injured in clsn w pedl cyc in traf, subs
 V41.9XXS@Unsp car occ injured in clsn w pedl cyc in traf, sequela
+#
 V42.0XXA@Car driver injured in collision w 2/3-whl mv nontraf, init
 V42.0XXD@Car driver injured in collision w 2/3-whl mv nontraf, subs
 V42.0XXS@Car driver injured in clsn w 2/3-whl mv nontraf, sequela
@@ -1240,6 +1280,7 @@ V42.7XXS@Person outside car inj in clsn w 2/3-whl mv in traf, sequela
 V42.9XXA@Unsp car occupant injured in clsn w 2/3-whl mv in traf, init
 V42.9XXD@Unsp car occupant injured in clsn w 2/3-whl mv in traf, subs
 V42.9XXS@Unsp car occ injured in clsn w 2/3-whl mv in traf, sequela
+#
 V43.01XA@Car driver injured in collision w SUV nontraf, init
 V43.01XD@Car driver injured in collision w SUV nontraf, subs
 V43.01XS@Car driver injured in collision w SUV nontraf, sequela
@@ -1348,6 +1389,7 @@ V43.93XS@Unsp car occ inj in clsn w pick-up truck in traf, sequela
 V43.94XA@Unsp car occupant injured in collision w van in traf, init
 V43.94XD@Unsp car occupant injured in collision w van in traf, subs
 V43.94XS@Unsp car occupant injured in clsn w van in traf, sequela
+#
 V44.0XXA@Car driver injured in collision w hv veh nontraf, init
 V44.0XXD@Car driver injured in collision w hv veh nontraf, subs
 V44.0XXS@Car driver injured in collision w hv veh nontraf, sequela
@@ -1375,6 +1417,7 @@ V44.7XXS@Person outside car injured in clsn w hv veh in traf, sequela
 V44.9XXA@Unsp car occupant injured in clsn w hv veh in traf, init
 V44.9XXD@Unsp car occupant injured in clsn w hv veh in traf, subs
 V44.9XXS@Unsp car occupant injured in clsn w hv veh in traf, sequela
+#
 V45.0XXA@Car driver injured in collision w rail trn/veh nontraf, init
 V45.0XXD@Car driver injured in collision w rail trn/veh nontraf, subs
 V45.0XXS@Car driver injured in clsn w rail trn/veh nontraf, sequela
@@ -1402,6 +1445,7 @@ V45.7XXS@Person outsd car inj in clsn w rail trn/veh in traf, sequela
 V45.9XXA@Unsp car occ injured in clsn w rail trn/veh in traf, init
 V45.9XXD@Unsp car occ injured in clsn w rail trn/veh in traf, subs
 V45.9XXS@Unsp car occ injured in clsn w rail trn/veh in traf, sequela
+#
 V46.0XXA@Car driver injured in clsn w nonmtr vehicle nontraf, init
 V46.0XXD@Car driver injured in clsn w nonmtr vehicle nontraf, subs
 V46.0XXS@Car driver injured in clsn w nonmtr vehicle nontraf, sequela
@@ -1429,6 +1473,7 @@ V46.7XXS@Person outsd car inj in clsn w nonmtr vehicle in traf, sqla
 V46.9XXA@Unsp car occ injured in clsn w nonmtr vehicle in traf, init
 V46.9XXD@Unsp car occ injured in clsn w nonmtr vehicle in traf, subs
 V46.9XXS@Unsp car occ inj in clsn w nonmtr vehicle in traf, sequela
+#
 V47.01XA@Driver of SUV injured in clsn w statnry object nontraf, init
 V47.01XD@Driver of SUV injured in clsn w statnry object nontraf, subs
 V47.01XS@Driver of SUV inj in clsn w statnry object nontraf, sequela
@@ -1474,6 +1519,7 @@ V47.91XS@Occup of SUV inj in clsn w statnry object in traf, sequela
 V47.92XA@Occup of car injured in clsn w statnry object in traf, init
 V47.92XD@Occup of car injured in clsn w statnry object in traf, subs
 V47.92XS@Occup of car inj in clsn w statnry object in traf, sequela
+#
 V48.0XXA@Car driver injured in nonclsn trnsp accident nontraf, init
 V48.0XXD@Car driver injured in nonclsn trnsp accident nontraf, subs
 V48.0XXS@Car driver injured in nonclsn trnsp acc nontraf, sequela
@@ -1501,6 +1547,7 @@ V48.7XXS@Person outside car inj in nonclsn trnsp acc in traf, sequela
 V48.9XXA@Unsp car occupant injured in nonclsn trnsp acc in traf, init
 V48.9XXD@Unsp car occupant injured in nonclsn trnsp acc in traf, subs
 V48.9XXS@Unsp car occ injured in nonclsn trnsp acc in traf, sequela
+#
 V49.00XA@Driver injured in collision w unsp mv nontraf, init
 V49.00XD@Driver injured in collision w unsp mv nontraf, subs
 V49.00XS@Driver injured in collision w unsp mv nontraf, sequela
@@ -1549,6 +1596,7 @@ V49.88XS@Car occupant (driver) injured in oth transport acc, sequela
 V49.9XXA@Car occupant (driver) (passenger) injured in unsp traf, init
 V49.9XXD@Car occupant (driver) (passenger) injured in unsp traf, subs
 V49.9XXS@Car occupant (driver) injured in unsp traf, sequela
+#
 V50.0XXA@Driver of pk-up/van injured in clsn w ped/anml nontraf, init
 V50.0XXD@Driver of pk-up/van injured in clsn w ped/anml nontraf, subs
 V50.0XXS@Driver of pk-up/van inj in clsn w ped/anml nontraf, sequela
@@ -1576,6 +1624,7 @@ V50.7XXS@Person outsd pk-up/van inj in clsn w ped/anml in traf, sqla
 V50.9XXA@Occup of pk-up/van injured in clsn w ped/anml in traf, init
 V50.9XXD@Occup of pk-up/van injured in clsn w ped/anml in traf, subs
 V50.9XXS@Occup of pk-up/van inj in clsn w ped/anml in traf, sequela
+#
 V51.0XXA@Driver of pk-up/van injured in clsn w pedl cyc nontraf, init
 V51.0XXD@Driver of pk-up/van injured in clsn w pedl cyc nontraf, subs
 V51.0XXS@Driver of pk-up/van inj in clsn w pedl cyc nontraf, sequela
@@ -1603,6 +1652,7 @@ V51.7XXS@Person outsd pk-up/van inj in clsn w pedl cyc in traf, sqla
 V51.9XXA@Occup of pk-up/van injured in clsn w pedl cyc in traf, init
 V51.9XXD@Occup of pk-up/van injured in clsn w pedl cyc in traf, subs
 V51.9XXS@Occup of pk-up/van inj in clsn w pedl cyc in traf, sequela
+#
 V52.0XXA@Driver of pk-up/van inj in clsn w 2/3-whl mv nontraf, init
 V52.0XXD@Driver of pk-up/van inj in clsn w 2/3-whl mv nontraf, subs
 V52.0XXS@Driver of pk-up/van inj in clsn w 2/3-whl mv nontraf, sqla
@@ -1630,6 +1680,7 @@ V52.7XXS@Prsn outsd pk-up/van inj in clsn w 2/3-whl mv in traf, sqla
 V52.9XXA@Occup of pk-up/van inj in clsn w 2/3-whl mv in traf, init
 V52.9XXD@Occup of pk-up/van inj in clsn w 2/3-whl mv in traf, subs
 V52.9XXS@Occup of pk-up/van inj in clsn w 2/3-whl mv in traf, sequela
+#
 V53.0XXA@Driver of pk-up/van inj pk-up truck, pk-up/van nontraf, init
 V53.0XXD@Driver of pk-up/van inj pk-up truck, pk-up/van nontraf, subs
 V53.0XXS@Driver of pk-up/van inj pk-up truck, pk-up/van nontraf, sqla
@@ -1657,6 +1708,7 @@ V53.7XXS@Prsn outsd pk-up/van inj pk-up truck,pk-up/van in traf, sqla
 V53.9XXA@Occup of pk-up/van inj pk-up truck, pk-up/van in traf, init
 V53.9XXD@Occup of pk-up/van inj pk-up truck, pk-up/van in traf, subs
 V53.9XXS@Occup of pk-up/van inj pk-up truck, pk-up/van in traf, sqla
+#
 V54.0XXA@Driver of pk-up/van injured in clsn w hv veh nontraf, init
 V54.0XXD@Driver of pk-up/van injured in clsn w hv veh nontraf, subs
 V54.0XXS@Driver of pk-up/van inj in clsn w hv veh nontraf, sequela
@@ -1684,6 +1736,7 @@ V54.7XXS@Person outsd pk-up/van inj in clsn w hv veh in traf, sequela
 V54.9XXA@Occup of pk-up/van injured in clsn w hv veh in traf, init
 V54.9XXD@Occup of pk-up/van injured in clsn w hv veh in traf, subs
 V54.9XXS@Occup of pk-up/van injured in clsn w hv veh in traf, sequela
+#
 V55.0XXA@Driver of pk-up/van inj in clsn w rail trn/veh nontraf, init
 V55.0XXD@Driver of pk-up/van inj in clsn w rail trn/veh nontraf, subs
 V55.0XXS@Driver of pk-up/van inj in clsn w rail trn/veh nontraf, sqla
@@ -1711,6 +1764,7 @@ V55.7XXS@Prsn outsd pk-up/van inj in clsn w rail trn/veh in traf,sqla
 V55.9XXA@Occup of pk-up/van inj in clsn w rail trn/veh in traf, init
 V55.9XXD@Occup of pk-up/van inj in clsn w rail trn/veh in traf, subs
 V55.9XXS@Occup of pk-up/van inj in clsn w rail trn/veh in traf, sqla
+#
 V56.0XXA@Driver of pk-up/van inj in clsn w nonmtr veh nontraf, init
 V56.0XXD@Driver of pk-up/van inj in clsn w nonmtr veh nontraf, subs
 V56.0XXS@Driver of pk-up/van inj in clsn w nonmtr veh nontraf, sqla
@@ -1738,6 +1792,7 @@ V56.7XXS@Prsn outsd pk-up/van inj in clsn w nonmtr veh in traf, sqla
 V56.9XXA@Occup of pk-up/van inj in clsn w nonmtr veh in traf, init
 V56.9XXD@Occup of pk-up/van inj in clsn w nonmtr veh in traf, subs
 V56.9XXS@Occup of pk-up/van inj in clsn w nonmtr veh in traf, sqla
+#
 V57.0XXA@Drvr of pk-up/van inj in clsn w statnry object nontraf, init
 V57.0XXD@Drvr of pk-up/van inj in clsn w statnry object nontraf, subs
 V57.0XXS@Drvr of pk-up/van inj in clsn w statnry object nontraf, sqla
@@ -1765,6 +1820,7 @@ V57.7XXS@Prsn outsd pk-up/van inj in clsn w statnry obj in traf, sqla
 V57.9XXA@Occup of pk-up/van inj in clsn w statnry obj in traf, init
 V57.9XXD@Occup of pk-up/van inj in clsn w statnry obj in traf, subs
 V57.9XXS@Occup of pk-up/van inj in clsn w statnry obj in traf, sqla
+#
 V58.0XXA@Driver of pk-up/van inj in nonclsn trnsp acc nontraf, init
 V58.0XXD@Driver of pk-up/van inj in nonclsn trnsp acc nontraf, subs
 V58.0XXS@Driver of pk-up/van inj in nonclsn trnsp acc nontraf, sqla
@@ -1792,6 +1848,7 @@ V58.7XXS@Prsn outsd pk-up/van inj in nonclsn trnsp acc in traf, sqla
 V58.9XXA@Occup of pk-up/van inj in nonclsn trnsp acc in traf, init
 V58.9XXD@Occup of pk-up/van inj in nonclsn trnsp acc in traf, subs
 V58.9XXS@Occup of pk-up/van inj in nonclsn trnsp acc in traf, sequela
+#
 V59.00XA@Driver of pk-up/van injured in clsn w unsp mv nontraf, init
 V59.00XD@Driver of pk-up/van injured in clsn w unsp mv nontraf, subs
 V59.00XS@Driver of pk-up/van inj in clsn w unsp mv nontraf, sequela
@@ -1840,6 +1897,7 @@ V59.88XS@Occupant of pk-up/van injured in oth trnsp acc, sequela
 V59.9XXA@Occupant (driver) of pk-up/van injured in unsp traf, init
 V59.9XXD@Occupant (driver) of pk-up/van injured in unsp traf, subs
 V59.9XXS@Occupant (driver) of pk-up/van injured in unsp traf, sequela
+#
 V60.0XXA@Driver of hv veh injured in clsn w ped/anml nontraf, init
 V60.0XXD@Driver of hv veh injured in clsn w ped/anml nontraf, subs
 V60.0XXS@Driver of hv veh injured in clsn w ped/anml nontraf, sequela
@@ -1867,6 +1925,7 @@ V60.7XXS@Person outsd hv veh inj in clsn w ped/anml in traf, sequela
 V60.9XXA@Occup of hv veh injured in clsn w ped/anml in traf, init
 V60.9XXD@Occup of hv veh injured in clsn w ped/anml in traf, subs
 V60.9XXS@Occup of hv veh injured in clsn w ped/anml in traf, sequela
+#
 V61.0XXA@Driver of hv veh injured in clsn w pedl cyc nontraf, init
 V61.0XXD@Driver of hv veh injured in clsn w pedl cyc nontraf, subs
 V61.0XXS@Driver of hv veh injured in clsn w pedl cyc nontraf, sequela
@@ -1894,6 +1953,7 @@ V61.7XXS@Person outsd hv veh inj in clsn w pedl cyc in traf, sequela
 V61.9XXA@Occup of hv veh injured in clsn w pedl cyc in traf, init
 V61.9XXD@Occup of hv veh injured in clsn w pedl cyc in traf, subs
 V61.9XXS@Occup of hv veh injured in clsn w pedl cyc in traf, sequela
+#
 V62.0XXA@Driver of hv veh injured in clsn w 2/3-whl mv nontraf, init
 V62.0XXD@Driver of hv veh injured in clsn w 2/3-whl mv nontraf, subs
 V62.0XXS@Driver of hv veh inj in clsn w 2/3-whl mv nontraf, sequela
@@ -1921,6 +1981,7 @@ V62.7XXS@Person outsd hv veh inj in clsn w 2/3-whl mv in traf, sqla
 V62.9XXA@Occup of hv veh injured in clsn w 2/3-whl mv in traf, init
 V62.9XXD@Occup of hv veh injured in clsn w 2/3-whl mv in traf, subs
 V62.9XXS@Occup of hv veh inj in clsn w 2/3-whl mv in traf, sequela
+#
 V63.0XXA@Driver of hv veh inj pick-up truck, pk-up/van nontraf, init
 V63.0XXD@Driver of hv veh inj pick-up truck, pk-up/van nontraf, subs
 V63.0XXS@Driver of hv veh inj pk-up truck, pk-up/van nontraf, sequela
@@ -1948,6 +2009,7 @@ V63.7XXS@Person outsd hv veh inj pk-up truck, pk-up/van in traf, sqla
 V63.9XXA@Occup of hv veh inj pick-up truck, pk-up/van in traf, init
 V63.9XXD@Occup of hv veh inj pick-up truck, pk-up/van in traf, subs
 V63.9XXS@Occup of hv veh inj pk-up truck, pk-up/van in traf, sequela
+#
 V64.0XXA@Driver of hv veh injured in collision w hv veh nontraf, init
 V64.0XXD@Driver of hv veh injured in collision w hv veh nontraf, subs
 V64.0XXS@Driver of hv veh injured in clsn w hv veh nontraf, sequela
@@ -1975,6 +2037,7 @@ V64.7XXS@Person outside hv veh inj in clsn w hv veh in traf, sequela
 V64.9XXA@Occup of hv veh injured in collision w hv veh in traf, init
 V64.9XXD@Occup of hv veh injured in collision w hv veh in traf, subs
 V64.9XXS@Occup of hv veh injured in clsn w hv veh in traf, sequela
+#
 V65.0XXA@Driver of hv veh inj in clsn w rail trn/veh nontraf, init
 V65.0XXD@Driver of hv veh inj in clsn w rail trn/veh nontraf, subs
 V65.0XXS@Driver of hv veh inj in clsn w rail trn/veh nontraf, sequela
@@ -2002,6 +2065,7 @@ V65.7XXS@Person outsd hv veh inj in clsn w rail trn/veh in traf, sqla
 V65.9XXA@Occup of hv veh injured in clsn w rail trn/veh in traf, init
 V65.9XXD@Occup of hv veh injured in clsn w rail trn/veh in traf, subs
 V65.9XXS@Occup of hv veh inj in clsn w rail trn/veh in traf, sequela
+#
 V66.0XXA@Driver of hv veh inj in clsn w nonmtr vehicle nontraf, init
 V66.0XXD@Driver of hv veh inj in clsn w nonmtr vehicle nontraf, subs
 V66.0XXS@Driver of hv veh inj in clsn w nonmtr vehicle nontraf, sqla
@@ -2029,6 +2093,7 @@ V66.7XXS@Person outsd hv veh inj in clsn w nonmtr veh in traf, sqla
 V66.9XXA@Occup of hv veh inj in clsn w nonmtr vehicle in traf, init
 V66.9XXD@Occup of hv veh inj in clsn w nonmtr vehicle in traf, subs
 V66.9XXS@Occup of hv veh inj in clsn w nonmtr vehicle in traf, sqla
+#
 V67.0XXA@Driver of hv veh inj in clsn w statnry object nontraf, init
 V67.0XXD@Driver of hv veh inj in clsn w statnry object nontraf, subs
 V67.0XXS@Driver of hv veh inj in clsn w statnry object nontraf, sqla
@@ -2056,6 +2121,7 @@ V67.7XXS@Person outsd hv veh inj in clsn w statnry obj in traf, sqla
 V67.9XXA@Occup of hv veh inj in clsn w statnry object in traf, init
 V67.9XXD@Occup of hv veh inj in clsn w statnry object in traf, subs
 V67.9XXS@Occup of hv veh inj in clsn w statnry object in traf, sqla
+#
 V68.0XXA@Driver of hv veh injured in nonclsn trnsp acc nontraf, init
 V68.0XXD@Driver of hv veh injured in nonclsn trnsp acc nontraf, subs
 V68.0XXS@Driver of hv veh inj in nonclsn trnsp acc nontraf, sequela
@@ -2083,6 +2149,7 @@ V68.7XXS@Person outsd hv veh inj in nonclsn trnsp acc in traf, sqla
 V68.9XXA@Occup of hv veh injured in nonclsn trnsp acc in traf, init
 V68.9XXD@Occup of hv veh injured in nonclsn trnsp acc in traf, subs
 V68.9XXS@Occup of hv veh inj in nonclsn trnsp acc in traf, sequela
+#
 V69.00XA@Driver of hv veh injured in clsn w unsp mv nontraf, init
 V69.00XD@Driver of hv veh injured in clsn w unsp mv nontraf, subs
 V69.00XS@Driver of hv veh injured in clsn w unsp mv nontraf, sequela
@@ -2131,6 +2198,7 @@ V69.88XS@Occupant of hv veh injured in oth trnsp acc, sequela
 V69.9XXA@Occupant (driver) of hv veh injured in unsp traf, init
 V69.9XXD@Occupant (driver) of hv veh injured in unsp traf, subs
 V69.9XXS@Occupant (driver) of hv veh injured in unsp traf, sequela
+#
 V70.0XXA@Driver of bus injured in collision w ped/anml nontraf, init
 V70.0XXD@Driver of bus injured in collision w ped/anml nontraf, subs
 V70.0XXS@Driver of bus injured in clsn w ped/anml nontraf, sequela
@@ -2158,6 +2226,7 @@ V70.7XXS@Person outside bus inj in clsn w ped/anml in traf, sequela
 V70.9XXA@Occup of bus injured in collision w ped/anml in traf, init
 V70.9XXD@Occup of bus injured in collision w ped/anml in traf, subs
 V70.9XXS@Occup of bus injured in clsn w ped/anml in traf, sequela
+#
 V71.0XXA@Driver of bus injured in collision w pedl cyc nontraf, init
 V71.0XXD@Driver of bus injured in collision w pedl cyc nontraf, subs
 V71.0XXS@Driver of bus injured in clsn w pedl cyc nontraf, sequela
@@ -2185,6 +2254,7 @@ V71.7XXS@Person outside bus inj in clsn w pedl cyc in traf, sequela
 V71.9XXA@Occup of bus injured in collision w pedl cyc in traf, init
 V71.9XXD@Occup of bus injured in collision w pedl cyc in traf, subs
 V71.9XXS@Occup of bus injured in clsn w pedl cyc in traf, sequela
+#
 V72.0XXA@Driver of bus injured in clsn w 2/3-whl mv nontraf, init
 V72.0XXD@Driver of bus injured in clsn w 2/3-whl mv nontraf, subs
 V72.0XXS@Driver of bus injured in clsn w 2/3-whl mv nontraf, sequela
@@ -2212,6 +2282,7 @@ V72.7XXS@Person outside bus inj in clsn w 2/3-whl mv in traf, sequela
 V72.9XXA@Occup of bus injured in collision w 2/3-whl mv in traf, init
 V72.9XXD@Occup of bus injured in collision w 2/3-whl mv in traf, subs
 V72.9XXS@Occup of bus injured in clsn w 2/3-whl mv in traf, sequela
+#
 V73.0XXA@Driver of bus injured pick-up truck, pk-up/van nontraf, init
 V73.0XXD@Driver of bus injured pick-up truck, pk-up/van nontraf, subs
 V73.0XXS@Driver of bus inj pick-up truck, pk-up/van nontraf, sequela
@@ -2239,6 +2310,7 @@ V73.7XXS@Person outsd bus inj pk-up truck, pk-up/van in traf, sequela
 V73.9XXA@Occup of bus injured pick-up truck, pk-up/van in traf, init
 V73.9XXD@Occup of bus injured pick-up truck, pk-up/van in traf, subs
 V73.9XXS@Occup of bus inj pick-up truck, pk-up/van in traf, sequela
+#
 V74.0XXA@Driver of bus injured in collision w hv veh nontraf, init
 V74.0XXD@Driver of bus injured in collision w hv veh nontraf, subs
 V74.0XXS@Driver of bus injured in collision w hv veh nontraf, sequela
@@ -2266,6 +2338,7 @@ V74.7XXS@Person outside bus injured in clsn w hv veh in traf, sequela
 V74.9XXA@Occup of bus injured in collision w hv veh in traf, init
 V74.9XXD@Occup of bus injured in collision w hv veh in traf, subs
 V74.9XXS@Occup of bus injured in collision w hv veh in traf, sequela
+#
 V75.0XXA@Driver of bus injured in clsn w rail trn/veh nontraf, init
 V75.0XXD@Driver of bus injured in clsn w rail trn/veh nontraf, subs
 V75.0XXS@Driver of bus inj in clsn w rail trn/veh nontraf, sequela
@@ -2293,6 +2366,7 @@ V75.7XXS@Person outsd bus inj in clsn w rail trn/veh in traf, sequela
 V75.9XXA@Occup of bus injured in clsn w rail trn/veh in traf, init
 V75.9XXD@Occup of bus injured in clsn w rail trn/veh in traf, subs
 V75.9XXS@Occup of bus injured in clsn w rail trn/veh in traf, sequela
+#
 V76.0XXA@Driver of bus injured in clsn w nonmtr vehicle nontraf, init
 V76.0XXD@Driver of bus injured in clsn w nonmtr vehicle nontraf, subs
 V76.0XXS@Driver of bus inj in clsn w nonmtr vehicle nontraf, sequela
@@ -2320,6 +2394,7 @@ V76.7XXS@Person outsd bus inj in clsn w nonmtr vehicle in traf, sqla
 V76.9XXA@Occup of bus injured in clsn w nonmtr vehicle in traf, init
 V76.9XXD@Occup of bus injured in clsn w nonmtr vehicle in traf, subs
 V76.9XXS@Occup of bus inj in clsn w nonmtr vehicle in traf, sequela
+#
 V77.0XXA@Driver of bus injured in clsn w statnry object nontraf, init
 V77.0XXD@Driver of bus injured in clsn w statnry object nontraf, subs
 V77.0XXS@Driver of bus inj in clsn w statnry object nontraf, sequela
@@ -2347,6 +2422,7 @@ V77.7XXS@Person outsd bus inj in clsn w statnry object in traf, sqla
 V77.9XXA@Occup of bus injured in clsn w statnry object in traf, init
 V77.9XXD@Occup of bus injured in clsn w statnry object in traf, subs
 V77.9XXS@Occup of bus inj in clsn w statnry object in traf, sequela
+#
 V78.0XXA@Driver of bus injured in nonclsn trnsp acc nontraf, init
 V78.0XXD@Driver of bus injured in nonclsn trnsp acc nontraf, subs
 V78.0XXS@Driver of bus injured in nonclsn trnsp acc nontraf, sequela
@@ -2374,6 +2450,7 @@ V78.7XXS@Person outside bus inj in nonclsn trnsp acc in traf, sequela
 V78.9XXA@Occup of bus injured in nonclsn trnsp accident in traf, init
 V78.9XXD@Occup of bus injured in nonclsn trnsp accident in traf, subs
 V78.9XXS@Occup of bus injured in nonclsn trnsp acc in traf, sequela
+#
 V79.00XA@Driver of bus injured in collision w unsp mv nontraf, init
 V79.00XD@Driver of bus injured in collision w unsp mv nontraf, subs
 V79.00XS@Driver of bus injured in clsn w unsp mv nontraf, sequela
@@ -2422,6 +2499,7 @@ V79.88XS@Bus occupant (driver) injured in oth transport acc, sequela
 V79.9XXA@Bus occupant (driver) (passenger) injured in unsp traf, init
 V79.9XXD@Bus occupant (driver) (passenger) injured in unsp traf, subs
 V79.9XXS@Bus occupant (driver) injured in unsp traf, sequela
+#
 V80.010A@Animl-ridr injured by fall fr horse in nonclsn acc, init
 V80.010D@Animl-ridr injured by fall fr horse in nonclsn acc, subs
 V80.010S@Animl-ridr injured by fall fr horse in nonclsn acc, sequela
@@ -2515,6 +2593,7 @@ V80.928S@Occ of anml-drn vehicle injured in oth trnsp acc, sequela
 V80.929A@Occupant of anml-drn vehicle injured in unsp trnsp acc, init
 V80.929D@Occupant of anml-drn vehicle injured in unsp trnsp acc, subs
 V80.929S@Occ of anml-drn vehicle injured in unsp trnsp acc, sequela
+#
 V81.0XXA@Occ of rail trn/veh injured in clsn w mtr veh nontraf, init
 V81.0XXD@Occ of rail trn/veh injured in clsn w mtr veh nontraf, subs
 V81.0XXS@Occ of rail trn/veh inj in clsn w mtr veh nontraf, sequela
@@ -2554,6 +2633,7 @@ V81.89XS@Occ of rail trn/veh injured due to oth railway acc, sequela
 V81.9XXA@Occupant of rail trn/veh injured in unsp railway acc, init
 V81.9XXD@Occupant of rail trn/veh injured in unsp railway acc, subs
 V81.9XXS@Occ of rail trn/veh injured in unsp railway acc, sequela
+#
 V82.0XXA@Occupant of stcar injured in clsn w mtr veh nontraf, init
 V82.0XXD@Occupant of stcar injured in clsn w mtr veh nontraf, subs
 V82.0XXS@Occupant of stcar injured in clsn w mtr veh nontraf, sequela
@@ -2584,6 +2664,7 @@ V82.8XXS@Occupant of streetcar injured in oth transport acc, sequela
 V82.9XXA@Occupant of streetcar injured in unsp traffic accident, init
 V82.9XXD@Occupant of streetcar injured in unsp traffic accident, subs
 V82.9XXS@Occupant of streetcar injured in unsp traf, sequela
+#
 V83.0XXA@Driver of special industrial vehicle injured in traf, init
 V83.0XXD@Driver of special industrial vehicle injured in traf, subs
 V83.0XXS@Driver of special industr vehicle injured in traf, sequela
@@ -2611,6 +2692,7 @@ V83.7XXS@Person outside special industr vehicle inj nontraf, sequela
 V83.9XXA@Occup of special industrial vehicle injured nontraf, init
 V83.9XXD@Occup of special industrial vehicle injured nontraf, subs
 V83.9XXS@Occup of special industrial vehicle injured nontraf, sequela
+#
 V84.0XXA@Driver of special agricultural vehicle injured in traf, init
 V84.0XXD@Driver of special agricultural vehicle injured in traf, subs
 V84.0XXS@Driver of special agri vehicle injured in traf, sequela
@@ -2638,6 +2720,7 @@ V84.7XXS@Person outside special agri vehicle injured nontraf, sequela
 V84.9XXA@Occup of special agricultural vehicle injured nontraf, init
 V84.9XXD@Occup of special agricultural vehicle injured nontraf, subs
 V84.9XXS@Occup of special agri vehicle injured nontraf, sequela
+#
 V85.0XXA@Driver of special construction vehicle injured in traf, init
 V85.0XXD@Driver of special construction vehicle injured in traf, subs
 V85.0XXS@Driver of special construct vehicle injured in traf, sequela
@@ -2665,6 +2748,7 @@ V85.7XXS@Person outsd special construct vehicle inj nontraf, sequela
 V85.9XXA@Occup of special construction vehicle injured nontraf, init
 V85.9XXD@Occup of special construction vehicle injured nontraf, subs
 V85.9XXS@Occup of special construct vehicle injured nontraf, sequela
+#
 V86.01XA@Driver of amblnc/fire eng injured in traffic accident, init
 V86.01XD@Driver of amblnc/fire eng injured in traffic accident, subs
 V86.01XS@Driver of amblnc/fire eng injured in traf, sequela
@@ -2800,6 +2884,7 @@ V86.94XS@Occup of military vehicle injured nontraf, sequela
 V86.99XA@Occup of sp off-rd mv injured in nontraffic accident, init
 V86.99XD@Occup of sp off-rd mv injured in nontraffic accident, subs
 V86.99XS@Occup of sp off-rd mv injured nontraf, sequela
+#
 V87.0XXA@Person injured in clsn betw car and 2/3-whl pwr veh, init
 V87.0XXD@Person injured in clsn betw car and 2/3-whl pwr veh, subs
 V87.0XXS@Person inj in clsn betw car and 2/3-whl pwr veh, sequela
@@ -2830,6 +2915,7 @@ V87.8XXS@Person injured in oth nonclsn trnsp acc w mtr veh, sequela
 V87.9XXA@Person injured in oth transport acc involving non-mv, init
 V87.9XXD@Person injured in oth transport acc involving non-mv, subs
 V87.9XXS@Person injured in oth transport acc w non-mv, sequela
+#
 V88.0XXA@Person inj in clsn betw car and 2/3-whl mv, nontraf, init
 V88.0XXD@Person inj in clsn betw car and 2/3-whl mv, nontraf, subs
 V88.0XXS@Person inj in clsn betw car and 2/3-whl mv, nontraf, sequela
@@ -2860,6 +2946,7 @@ V88.8XXS@Person inj in oth nonclsn trnsp acc w mtr veh, nontraf, sqla
 V88.9XXA@Person injured in oth transport acc w non-mv, nontraf, init
 V88.9XXD@Person injured in oth transport acc w non-mv, nontraf, subs
 V88.9XXS@Person injured in oth trnsp acc w non-mv, nontraf, sequela
+#
 V89.0XXA@Person injured in unsp motor-vehicle accident, nontraf, init
 V89.0XXD@Person injured in unsp motor-vehicle accident, nontraf, subs
 V89.0XXS@Person injured in unsp motor-vehicle acc, nontraf, sequela
@@ -2875,6 +2962,7 @@ V89.3XXS@Person inj in unsp nonmotor-vehicle acc, traffic, sequela
 V89.9XXA@Person injured in unspecified vehicle accident, init encntr
 V89.9XXD@Person injured in unspecified vehicle accident, subs encntr
 V89.9XXS@Person injured in unspecified vehicle accident, sequela
+#
 V90.00XA@Drown due to merchant ship overturning, init
 V90.00XD@Drown due to merchant ship overturning, subs
 V90.00XS@Drown due to merchant ship overturning, sequela
@@ -3019,6 +3107,7 @@ V90.88XS@Drown due to oth accident to unpowr wtrcrft, sequela
 V90.89XA@Drown due to oth accident to unsp watercraft, init
 V90.89XD@Drown due to oth accident to unsp watercraft, subs
 V90.89XS@Drown due to oth accident to unsp watercraft, sequela
+#
 V91.00XA@Burn due to merchant ship on fire, initial encounter
 V91.00XD@Burn due to merchant ship on fire, subsequent encounter
 V91.00XS@Burn due to merchant ship on fire, sequela
@@ -3160,6 +3249,7 @@ V91.88XS@Oth injury due to oth accident to unpowr wtrcrft, sequela
 V91.89XA@Oth injury due to oth accident to unsp watercraft, init
 V91.89XD@Oth injury due to oth accident to unsp watercraft, subs
 V91.89XS@Oth injury due to other accident to unsp watercraft, sequela
+#
 V92.00XA@Drowning and submersion due to fall off merchant ship, init
 V92.00XD@Drowning and submersion due to fall off merchant ship, subs
 V92.00XS@Drown due to fall off merchant ship, sequela
@@ -3244,6 +3334,7 @@ V92.28XS@Drown due to being washed ovrbrd from unpowr wtrcrft, sqla
 V92.29XA@Drown due to being washed overboard from unsp wtrcrft, init
 V92.29XD@Drown due to being washed overboard from unsp wtrcrft, subs
 V92.29XS@Drown due to being washed ovrbrd from unsp wtrcrft, sequela
+#
 V93.00XA@Burn due to localized fire on board merchant vessel, init
 V93.00XD@Burn due to localized fire on board merchant vessel, subs
 V93.00XS@Burn due to localized fire on board merchant vessel, sequela
@@ -3412,6 +3503,7 @@ V93.88XS@Oth injury due to oth acc on board unpowr wtrcrft, sequela
 V93.89XA@Oth injury due to oth accident on board unsp wtrcrft, init
 V93.89XD@Oth injury due to oth accident on board unsp wtrcrft, subs
 V93.89XS@Oth injury due to oth acc on board unsp wtrcrft, sequela
+#
 V94.0XXA@Hitting obj/botm of body of wtr d/t fall from wtrcrft, init
 V94.0XXD@Hitting obj/botm of body of wtr d/t fall from wtrcrft, subs
 V94.0XXS@Hitting obj/botm of body of wtr d/t fall from wtrcrft, sqla
@@ -3451,6 +3543,7 @@ V94.89XS@Other water transport accident, sequela
 V94.9XXA@Unspecified water transport accident, initial encounter
 V94.9XXD@Unspecified water transport accident, subsequent encounter
 V94.9XXS@Unspecified water transport accident, sequela
+#
 V95.00XA@Unsp helicopter accident injuring occupant, init encntr
 V95.00XD@Unsp helicopter accident injuring occupant, subs encntr
 V95.00XS@Unspecified helicopter accident injuring occupant, sequela
@@ -3562,6 +3655,7 @@ V95.8XXS@Other powered aircraft accidents injuring occupant, sequela
 V95.9XXA@Unspecified aircraft accident injuring occupant, init encntr
 V95.9XXD@Unspecified aircraft accident injuring occupant, subs encntr
 V95.9XXS@Unspecified aircraft accident injuring occupant, sequela
+#
 V96.00XA@Unspecified balloon accident injuring occupant, init encntr
 V96.00XD@Unspecified balloon accident injuring occupant, subs encntr
 V96.00XS@Unspecified balloon accident injuring occupant, sequela
@@ -3631,6 +3725,7 @@ V96.8XXS@Oth nonpowered-aircraft accidents injuring occupant, sequela
 V96.9XXA@Unsp nonpowered-aircraft accident injuring occupant, init
 V96.9XXD@Unsp nonpowered-aircraft accident injuring occupant, subs
 V96.9XXS@Unsp nonpowered-aircraft accident injuring occupant, sequela
+#
 V97.0XXA@Occupant of aircraft injured in oth air transport acc, init
 V97.0XXD@Occupant of aircraft injured in oth air transport acc, subs
 V97.0XXS@Occupant of aircraft injured in oth air trnsp acc, sequela
@@ -3670,6 +3765,7 @@ V97.818S@Oth air transport accident w military aircraft, sequela
 V97.89XA@Oth air transport accidents, not elsewhere classified, init
 V97.89XD@Oth air transport accidents, not elsewhere classified, subs
 V97.89XS@Oth air transport accidents, NEC, sequela
+#
 V98.0XXA@Accident to, on or involving cable-car, not on rails, init
 V98.0XXD@Accident to, on or involving cable-car, not on rails, subs
 V98.0XXS@Accident to, on or w cable-car, not on rails, sequela
@@ -3686,8 +3782,10 @@ V98.8XXA@Other specified transport accidents, initial encounter
 V98.8XXD@Other specified transport accidents, subsequent encounter
 V98.8XXS@Other specified transport accidents, sequela
 V99.XXXA@Unspecified transport accident, initial encounter
+#
 V99.XXXD@Unspecified transport accident, subsequent encounter
 V99.XXXS@Unspecified transport accident, sequela
+#
 W00.0XXA@Fall on same level due to ice and snow, initial encounter
 W00.0XXD@Fall on same level due to ice and snow, subsequent encounter
 W00.0XXS@Fall on same level due to ice and snow, sequela
@@ -3700,6 +3798,7 @@ W00.2XXS@Oth fall from one level to another due to ice and snow, sqla
 W00.9XXA@Unspecified fall due to ice and snow, initial encounter
 W00.9XXD@Unspecified fall due to ice and snow, subsequent encounter
 W00.9XXS@Unspecified fall due to ice and snow, sequela
+#
 W01.0XXA@Fall same lev from slip/trip w/o strike against object, init
 W01.0XXD@Fall same lev from slip/trip w/o strike against object, subs
 W01.0XXS@Fall same lev from slip/trip w/o strike agnst object, sqla
@@ -3724,12 +3823,15 @@ W01.190S@Fall same lev from slip/trip w strike agnst furniture, sqla
 W01.198A@Fall same lev from slip/trip w strike agnst oth object, init
 W01.198D@Fall same lev from slip/trip w strike agnst oth object, subs
 W01.198S@Fall same lev from slip/trip w strike agnst oth object, sqla
+#
 W03.XXXA@Oth fall same lev due to collision w another person, init
 W03.XXXD@Oth fall same lev due to collision w another person, subs
 W03.XXXS@Oth fall same lev due to collision w another person, sequela
+#
 W04.XXXA@Fall while being carried or supported by oth persons, init
 W04.XXXD@Fall while being carried or supported by oth persons, subs
 W04.XXXS@Fall while being carried or supported by oth persons, sqla
+#
 W05.0XXA@Fall from non-moving wheelchair, initial encounter
 W05.0XXD@Fall from non-moving wheelchair, subsequent encounter
 W05.0XXS@Fall from non-moving wheelchair, sequela
@@ -3739,15 +3841,19 @@ W05.1XXS@Fall from non-moving nonmotorized scooter, sequela
 W05.2XXA@Fall from non-moving motorized mobility scooter, init encntr
 W05.2XXD@Fall from non-moving motorized mobility scooter, subs encntr
 W05.2XXS@Fall from non-moving motorized mobility scooter, sequela
+#
 W06.XXXA@Fall from bed, initial encounter
 W06.XXXD@Fall from bed, subsequent encounter
 W06.XXXS@Fall from bed, sequela
+#
 W07.XXXA@Fall from chair, initial encounter
 W07.XXXD@Fall from chair, subsequent encounter
 W07.XXXS@Fall from chair, sequela
+#
 W08.XXXA@Fall from other furniture, initial encounter
 W08.XXXD@Fall from other furniture, subsequent encounter
 W08.XXXS@Fall from other furniture, sequela
+#
 W09.0XXA@Fall on or from playground slide, initial encounter
 W09.0XXD@Fall on or from playground slide, subsequent encounter
 W09.0XXS@Fall on or from playground slide, sequela
@@ -3760,6 +3866,7 @@ W09.2XXS@Fall on or from jungle gym, sequela
 W09.8XXA@Fall on or from other playground equipment, init encntr
 W09.8XXD@Fall on or from other playground equipment, subs encntr
 W09.8XXS@Fall on or from other playground equipment, sequela
+#
 W10.0XXA@Fall (on)(from) escalator, initial encounter
 W10.0XXD@Fall (on)(from) escalator, subsequent encounter
 W10.0XXS@Fall (on)(from) escalator, sequela
@@ -3775,12 +3882,14 @@ W10.8XXS@Fall (on) (from) other stairs and steps, sequela
 W10.9XXA@Fall (on) (from) unspecified stairs and steps, init encntr
 W10.9XXD@Fall (on) (from) unspecified stairs and steps, subs encntr
 W10.9XXS@Fall (on) (from) unspecified stairs and steps, sequela
+#
 W11.XXXA@Fall on and from ladder, initial encounter
 W11.XXXD@Fall on and from ladder, subsequent encounter
 W11.XXXS@Fall on and from ladder, sequela
 W12.XXXA@Fall on and from scaffolding, initial encounter
 W12.XXXD@Fall on and from scaffolding, subsequent encounter
 W12.XXXS@Fall on and from scaffolding, sequela
+#
 W13.0XXA@Fall from, out of or through balcony, initial encounter
 W13.0XXD@Fall from, out of or through balcony, subsequent encounter
 W13.0XXS@Fall from, out of or through balcony, sequela
@@ -3802,12 +3911,15 @@ W13.8XXS@Fall from, out of or through oth bldg, sequela
 W13.9XXA@Fall from, out of or through bldg, not otherwise spcf, init
 W13.9XXD@Fall from, out of or through bldg, not otherwise spcf, subs
 W13.9XXS@Fall from, out of or through bldg, not otherwise spcf, sqla
+#
 W14.XXXA@Fall from tree, initial encounter
 W14.XXXD@Fall from tree, subsequent encounter
 W14.XXXS@Fall from tree, sequela
+#
 W15.XXXA@Fall from cliff, initial encounter
 W15.XXXD@Fall from cliff, subsequent encounter
 W15.XXXS@Fall from cliff, sequela
+#
 W16.011A@Fall into swimming pool striking surfc causing drown, init
 W16.011D@Fall into swimming pool striking surfc causing drown, subs
 W16.011S@Fall into swimming pool strk surfc causing drown, sequela
@@ -3946,6 +4058,7 @@ W16.91XS@Jumping or diving into unsp water causing drown, sequela
 W16.92XA@Jumping or diving into unsp water causing oth injury, init
 W16.92XD@Jumping or diving into unsp water causing oth injury, subs
 W16.92XS@Jump/div into unsp water causing oth injury, sequela
+#
 W17.0XXA@Fall into well, initial encounter
 W17.0XXD@Fall into well, subsequent encounter
 W17.0XXS@Fall into well, sequela
@@ -3970,6 +4083,7 @@ W17.82XS@Fall from (out of) grocery cart, sequela
 W17.89XA@Other fall from one level to another, initial encounter
 W17.89XD@Other fall from one level to another, subsequent encounter
 W17.89XS@Other fall from one level to another, sequela
+#
 W18.00XA@Striking against unsp object w subsequent fall, init encntr
 W18.00XD@Striking against unsp object w subsequent fall, subs encntr
 W18.00XS@Striking against unsp object with subsequent fall, sequela
@@ -4015,9 +4129,11 @@ W18.43XS@Slip/trip w/o fall d/t step from one level to another, sqla
 W18.49XA@Oth slipping, tripping and stumbling w/o falling, init
 W18.49XD@Oth slipping, tripping and stumbling w/o falling, subs
 W18.49XS@Other slipping, tripping and stumbling w/o falling, sequela
+#
 W19.XXXA@Unspecified fall, initial encounter
 W19.XXXD@Unspecified fall, subsequent encounter
 W19.XXXS@Unspecified fall, sequela
+#
 W20.0XXA@Struck by falling object in cave-in, initial encounter
 W20.0XXD@Struck by falling object in cave-in, subsequent encounter
 W20.0XXS@Struck by falling object in cave-in, sequela
@@ -4027,6 +4143,7 @@ W20.1XXS@Struck by object due to collapse of building, sequela
 W20.8XXA@Oth cause of strike by thrown, projected or fall obj, init
 W20.8XXD@Oth cause of strike by thrown, projected or fall obj, subs
 W20.8XXS@Oth cause of strike by thrown, projected or fall obj, sqla
+#
 W21.00XA@Struck by hit or thrown ball, unspecified type, init encntr
 W21.00XD@Struck by hit or thrown ball, unspecified type, subs encntr
 W21.00XS@Struck by hit or thrown ball, unspecified type, sequela
@@ -4099,6 +4216,7 @@ W21.89XS@Striking against or struck by oth sports equipment, sequela
 W21.9XXA@Striking against or struck by unsp sports equipment, init
 W21.9XXD@Striking against or struck by unsp sports equipment, subs
 W21.9XXS@Striking against or struck by unsp sports equipment, sequela
+#
 W22.01XA@Walked into wall, initial encounter
 W22.01XD@Walked into wall, subsequent encounter
 W22.01XS@Walked into wall, sequela
@@ -4132,27 +4250,32 @@ W22.19XS@Striking against or struck by oth automobile airbag, sequela
 W22.8XXA@Striking against or struck by other objects, init encntr
 W22.8XXD@Striking against or struck by other objects, subs encntr
 W22.8XXS@Striking against or struck by other objects, sequela
+#
 W23.0XXA@Caught, crush, jammed, or pinched betw moving objects, init
 W23.0XXD@Caught, crush, jammed, or pinched betw moving objects, subs
 W23.0XXS@Caught, crush, jammed, or pinched betw moving obj, sequela
 W23.1XXA@Caught, crush, jammed, or pinched betw stationry obj, init
 W23.1XXD@Caught, crush, jammed, or pinched betw stationry obj, subs
 W23.1XXS@Caught, crush, jammed, or pinched betw stationry obj, sqla
+#
 W24.0XXA@Contact w lifting devices, not elsewhere classified, init
 W24.0XXD@Contact w lifting devices, not elsewhere classified, subs
 W24.0XXS@Contact w lifting devices, not elsewhere classified, sequela
 W24.1XXA@Contact w transmission devices, NEC, init
 W24.1XXD@Contact w transmission devices, NEC, subs
 W24.1XXS@Contact w transmission devices, NEC, sequela
+#
 W25.XXXA@Contact with sharp glass, initial encounter
 W25.XXXD@Contact with sharp glass, subsequent encounter
 W25.XXXS@Contact with sharp glass, sequela
+#
 W26.0XXA@Contact with knife, initial encounter
 W26.0XXD@Contact with knife, subsequent encounter
 W26.0XXS@Contact with knife, sequela
 W26.1XXA@Contact with sword or dagger, initial encounter
 W26.1XXD@Contact with sword or dagger, subsequent encounter
 W26.1XXS@Contact with sword or dagger, sequela
+#
 W27.0XXA@Contact with workbench tool, initial encounter
 W27.0XXD@Contact with workbench tool, subsequent encounter
 W27.0XXS@Contact with workbench tool, sequela
@@ -4174,9 +4297,11 @@ W27.5XXS@Contact with paper-cutter, sequela
 W27.8XXA@Contact with other nonpowered hand tool, initial encounter
 W27.8XXD@Contact with other nonpowered hand tool, subs encntr
 W27.8XXS@Contact with other nonpowered hand tool, sequela
+#
 W28.XXXA@Contact with powered lawn mower, initial encounter
 W28.XXXD@Contact with powered lawn mower, subsequent encounter
 W28.XXXS@Contact with powered lawn mower, sequela
+#
 W29.0XXA@Contact with powered kitchen appliance, initial encounter
 W29.0XXD@Contact with powered kitchen appliance, subsequent encounter
 W29.0XXS@Contact with powered kitchen appliance, sequela
@@ -4195,6 +4320,7 @@ W29.4XXS@Contact with nail gun, sequela
 W29.8XXA@Cntct w oth power power hand tools and household mach, init
 W29.8XXD@Cntct w oth power power hand tools and household mach, subs
 W29.8XXS@Cntct w oth power power hand tools and household mach, sqla
+#
 W30.0XXA@Contact with combine harvester, initial encounter
 W30.0XXD@Contact with combine harvester, subsequent encounter
 W30.0XXS@Contact with combine harvester, sequela
@@ -4216,6 +4342,7 @@ W30.89XS@Contact with other specified agricultural machinery, sequela
 W30.9XXA@Contact with unspecified agricultural machinery, init encntr
 W30.9XXD@Contact with unspecified agricultural machinery, subs encntr
 W30.9XXS@Contact with unspecified agricultural machinery, sequela
+#
 W31.0XXA@Contact w mining and earth-drilling machinery, init encntr
 W31.0XXD@Contact w mining and earth-drilling machinery, subs encntr
 W31.0XXS@Contact with mining and earth-drilling machinery, sequela
@@ -4243,12 +4370,14 @@ W31.89XS@Contact with other specified machinery, sequela
 W31.9XXA@Contact with unspecified machinery, initial encounter
 W31.9XXD@Contact with unspecified machinery, subsequent encounter
 W31.9XXS@Contact with unspecified machinery, sequela
+#
 W32.0XXA@Accidental handgun discharge, initial encounter
 W32.0XXD@Accidental handgun discharge, subsequent encounter
 W32.0XXS@Accidental handgun discharge, sequela
 W32.1XXA@Accidental handgun malfunction, initial encounter
 W32.1XXD@Accidental handgun malfunction, subsequent encounter
 W32.1XXS@Accidental handgun malfunction, sequela
+#
 W33.00XA@Accidental discharge of unsp larger firearm, init encntr
 W33.00XD@Accidental discharge of unsp larger firearm, subs encntr
 W33.00XS@Accidental discharge of unspecified larger firearm, sequela
@@ -4279,6 +4408,7 @@ W33.13XS@Accidental malfunction of machine gun, sequela
 W33.19XA@Accidental malfunction of other larger firearm, init encntr
 W33.19XD@Accidental malfunction of other larger firearm, subs encntr
 W33.19XS@Accidental malfunction of other larger firearm, sequela
+#
 W34.00XA@Accidental discharge from unsp firearms or gun, init encntr
 W34.00XD@Accidental discharge from unsp firearms or gun, subs encntr
 W34.00XS@Accidental discharge from unsp firearms or gun, sequela
@@ -4309,9 +4439,11 @@ W34.118S@Accidental malfunction of gas, air or sprng-op gun, sequela
 W34.19XA@Accidental malfunction from oth firearms, init encntr
 W34.19XD@Accidental malfunction from oth firearms, subs encntr
 W34.19XS@Accidental malfunction from oth firearms, sequela
+#
 W35.XXXA@Explosion and rupture of boiler, initial encounter
 W35.XXXD@Explosion and rupture of boiler, subsequent encounter
 W35.XXXS@Explosion and rupture of boiler, sequela
+#
 W36.1XXA@Explosion and rupture of aerosol can, initial encounter
 W36.1XXD@Explosion and rupture of aerosol can, subsequent encounter
 W36.1XXS@Explosion and rupture of aerosol can, sequela
@@ -4327,18 +4459,22 @@ W36.8XXS@Explosion and rupture of other gas cylinder, sequela
 W36.9XXA@Explosion and rupture of unsp gas cylinder, init encntr
 W36.9XXD@Explosion and rupture of unsp gas cylinder, subs encntr
 W36.9XXS@Explosion and rupture of unspecified gas cylinder, sequela
+#
 W37.0XXA@Explosion of bicycle tire, initial encounter
 W37.0XXD@Explosion of bicycle tire, subsequent encounter
 W37.0XXS@Explosion of bicycle tire, sequela
 W37.8XXA@Explosn and rupture of pressurized tire, pipe or hose, init
 W37.8XXD@Explosn and rupture of pressurized tire, pipe or hose, subs
 W37.8XXS@Explosn and rupt of pressurized tire, pipe or hose, sequela
+#
 W38.XXXA@Explosion and rupture of oth pressurized devices, init
 W38.XXXD@Explosion and rupture of oth pressurized devices, subs
 W38.XXXS@Explosion and rupture of oth pressurized devices, sequela
+#
 W39.XXXA@Discharge of firework, initial encounter
 W39.XXXD@Discharge of firework, subsequent encounter
 W39.XXXS@Discharge of firework, sequela
+#
 W40.0XXA@Explosion of blasting material, initial encounter
 W40.0XXD@Explosion of blasting material, subsequent encounter
 W40.0XXS@Explosion of blasting material, sequela
@@ -4351,12 +4487,14 @@ W40.8XXS@Explosion of other specified explosive materials, sequela
 W40.9XXA@Explosion of unspecified explosive materials, init encntr
 W40.9XXD@Explosion of unspecified explosive materials, subs encntr
 W40.9XXS@Explosion of unspecified explosive materials, sequela
+#
 W42.0XXA@Exposure to supersonic waves, initial encounter
 W42.0XXD@Exposure to supersonic waves, subsequent encounter
 W42.0XXS@Exposure to supersonic waves, sequela
 W42.9XXA@Exposure to other noise, initial encounter
 W42.9XXD@Exposure to other noise, subsequent encounter
 W42.9XXS@Exposure to other noise, sequela
+#
 W45.0XXA@Nail entering through skin, initial encounter
 W45.0XXD@Nail entering through skin, subsequent encounter
 W45.0XXS@Nail entering through skin, sequela
@@ -4369,12 +4507,14 @@ W45.2XXS@Lid of can entering through skin, sequela
 W45.8XXA@Oth foreign body or object entering through skin, init
 W45.8XXD@Oth foreign body or object entering through skin, subs
 W45.8XXS@Other foreign body or object entering through skin, sequela
+#
 W46.0XXA@Contact with hypodermic needle, initial encounter
 W46.0XXD@Contact with hypodermic needle, subsequent encounter
 W46.0XXS@Contact with hypodermic needle, sequela
 W46.1XXA@Contact with contaminated hypodermic needle, init encntr
 W46.1XXD@Contact with contaminated hypodermic needle, subs encntr
 W46.1XXS@Contact with contaminated hypodermic needle, sequela
+#
 W49.01XA@Hair causing external constriction, initial encounter
 W49.01XD@Hair causing external constriction, subsequent encounter
 W49.01XS@Hair causing external constriction, sequela
@@ -4393,6 +4533,7 @@ W49.09XS@Other specified item causing external constriction, sequela
 W49.9XXA@Exposure to other inanimate mechanical forces, init encntr
 W49.9XXD@Exposure to other inanimate mechanical forces, subs encntr
 W49.9XXS@Exposure to other inanimate mechanical forces, sequela
+#
 W50.0XXA@Accidental hit or strike by another person, init encntr
 W50.0XXD@Accidental hit or strike by another person, subs encntr
 W50.0XXS@Accidental hit or strike by another person, sequela
@@ -4408,12 +4549,15 @@ W50.3XXS@Accidental bite by another person, sequela
 W50.4XXA@Accidental scratch by another person, initial encounter
 W50.4XXD@Accidental scratch by another person, subsequent encounter
 W50.4XXS@Accidental scratch by another person, sequela
+#
 W51.XXXA@Accidental strike or bumped into by another person, init
 W51.XXXD@Accidental strike or bumped into by another person, subs
 W51.XXXS@Accidental strike or bumped into by another person, sequela
+#
 W52.XXXA@Crushd/pushd/stepd on by crowd or human stampede, init
 W52.XXXD@Crushd/pushd/stepd on by crowd or human stampede, subs
 W52.XXXS@Crushd/pushd/stepd on by crowd or human stampede, sequela
+#
 W53.01XA@Bitten by mouse, initial encounter
 W53.01XD@Bitten by mouse, subsequent encounter
 W53.01XS@Bitten by mouse, sequela
@@ -4438,6 +4582,7 @@ W53.81XS@Bitten by other rodent, sequela
 W53.89XA@Other contact with other rodent, initial encounter
 W53.89XD@Other contact with other rodent, subsequent encounter
 W53.89XS@Other contact with other rodent, sequela
+#
 W54.0XXA@Bitten by dog, initial encounter
 W54.0XXD@Bitten by dog, subsequent encounter
 W54.0XXS@Bitten by dog, sequela
@@ -4445,7 +4590,8 @@ W54.1XXA@Struck by dog, initial encounter
 W54.1XXD@Struck by dog, subsequent encounter
 W54.1XXS@Struck by dog, sequela
 W54.8XXA@Other contact with dog, initial encounter
-W54.8XXD@Other contact with dog, subsequent encounter
+W54.8XXD@Other contact with dog, subsequent 
+#encounter
 W54.8XXS@Other contact with dog, sequela
 W55.01XA@Bitten by cat, initial encounter
 W55.01XD@Bitten by cat, subsequent encounter
@@ -4510,6 +4656,7 @@ W55.82XS@Struck by other mammals, sequela
 W55.89XA@Other contact with other mammals, initial encounter
 W55.89XD@Other contact with other mammals, subsequent encounter
 W55.89XS@Other contact with other mammals, sequela
+#
 W56.01XA@Bitten by dolphin, initial encounter
 W56.01XD@Bitten by dolphin, subsequent encounter
 W56.01XS@Bitten by dolphin, sequela
@@ -4573,9 +4720,11 @@ W56.82XS@Struck by other nonvenomous marine animals, sequela
 W56.89XA@Oth contact with oth nonvenomous marine animals, init encntr
 W56.89XD@Oth contact with oth nonvenomous marine animals, subs encntr
 W56.89XS@Other contact with other nonvenomous marine animals, sequela
+#
 W57.XXXA@Bit/stung by nonvenom insect & oth nonvenom arthropods, init
 W57.XXXD@Bit/stung by nonvenom insect & oth nonvenom arthropods, subs
 W57.XXXS@Bit/stung by nonvenom insect & oth nonvenom arthropods, sqla
+#
 W58.01XA@Bitten by alligator, initial encounter
 W58.01XD@Bitten by alligator, subsequent encounter
 W58.01XS@Bitten by alligator, sequela
@@ -4600,6 +4749,7 @@ W58.13XS@Crushed by crocodile, sequela
 W58.19XA@Other contact with crocodile, initial encounter
 W58.19XD@Other contact with crocodile, subsequent encounter
 W58.19XS@Other contact with crocodile, sequela
+#
 W59.01XA@Bitten by nonvenomous lizards, initial encounter
 W59.01XD@Bitten by nonvenomous lizards, subsequent encounter
 W59.01XS@Bitten by nonvenomous lizards, sequela
@@ -4642,9 +4792,11 @@ W59.83XS@Crushed by other nonvenomous reptiles, sequela
 W59.89XA@Other contact with other nonvenomous reptiles, init encntr
 W59.89XD@Other contact with other nonvenomous reptiles, subs encntr
 W59.89XS@Other contact with other nonvenomous reptiles, sequela
+#
 W60.XXXA@Cntct w nonvenom plant thorns & spines & sharp leaves, init
 W60.XXXD@Cntct w nonvenom plant thorns & spines & sharp leaves, subs
 W60.XXXS@Cntct w nonvenom plant thorns & spines & sharp leaves, sqla
+#
 W61.01XA@Bitten by parrot, initial encounter
 W61.01XD@Bitten by parrot, subsequent encounter
 W61.01XS@Bitten by parrot, sequela
@@ -4717,6 +4869,7 @@ W61.92XS@Struck by other birds, sequela
 W61.99XA@Other contact with other birds, initial encounter
 W61.99XD@Other contact with other birds, subsequent encounter
 W61.99XS@Other contact with other birds, sequela
+#
 W62.0XXA@Contact with nonvenomous frogs, initial encounter
 W62.0XXD@Contact with nonvenomous frogs, subsequent encounter
 W62.0XXS@Contact with nonvenomous frogs, sequela
@@ -4726,27 +4879,35 @@ W62.1XXS@Contact with nonvenomous toads, sequela
 W62.9XXA@Contact with other nonvenomous amphibians, initial encounter
 W62.9XXD@Contact with other nonvenomous amphibians, subs encntr
 W62.9XXS@Contact with other nonvenomous amphibians, sequela
+#
 W64.XXXA@Exposure to other animate mechanical forces, init encntr
 W64.XXXD@Exposure to other animate mechanical forces, subs encntr
 W64.XXXS@Exposure to other animate mechanical forces, sequela
+#
 W65.XXXA@Accidental drowning and submersion while in bath-tub, init
 W65.XXXD@Accidental drowning and submersion while in bath-tub, subs
 W65.XXXS@Accidental drown while in bath-tub, sequela
+#
 W67.XXXA@Accidental drown while in swimming-pool, init
 W67.XXXD@Accidental drown while in swimming-pool, subs
 W67.XXXS@Accidental drown while in swimming-pool, sequela
+#
 W69.XXXA@Accidental drown while in natural water, init
 W69.XXXD@Accidental drown while in natural water, subs
 W69.XXXS@Accidental drown while in natural water, sequela
+#
 W73.XXXA@Oth cause of accidental non-transport drown, init
 W73.XXXD@Oth cause of accidental non-transport drown, subs
 W73.XXXS@Oth cause of accidental non-transport drown, sequela
+#
 W74.XXXA@Unsp cause of accidental drowning and submersion, init
 W74.XXXD@Unsp cause of accidental drowning and submersion, subs
 W74.XXXS@Unsp cause of accidental drowning and submersion, sequela
+#
 W85.XXXA@Exposure to electric transmission lines, initial encounter
 W85.XXXD@Exposure to electric transmission lines, subs encntr
 W85.XXXS@Exposure to electric transmission lines, sequela
+#
 W86.0XXA@Exposure to domestic wiring and appliances, init encntr
 W86.0XXD@Exposure to domestic wiring and appliances, subs encntr
 W86.0XXS@Exposure to domestic wiring and appliances, sequela
@@ -4756,6 +4917,7 @@ W86.1XXS@Expsr to industr wiring, appliances & electrical mach, sqla
 W86.8XXA@Exposure to other electric current, initial encounter
 W86.8XXD@Exposure to other electric current, subsequent encounter
 W86.8XXS@Exposure to other electric current, sequela
+#
 W88.0XXA@Exposure to X-rays, initial encounter
 W88.0XXD@Exposure to X-rays, subsequent encounter
 W88.0XXS@Exposure to X-rays, sequela
@@ -4777,6 +4939,7 @@ W89.8XXS@Expsr to oth man-made visible and ultraviolet light, sequela
 W89.9XXA@Expsr to unsp man-made visible and ultraviolet light, init
 W89.9XXD@Expsr to unsp man-made visible and ultraviolet light, subs
 W89.9XXS@Expsr to unsp man-made visible and ultraviolet light, sqla
+#
 W90.0XXA@Exposure to radiofrequency, initial encounter
 W90.0XXD@Exposure to radiofrequency, subsequent encounter
 W90.0XXS@Exposure to radiofrequency, sequela
@@ -4789,9 +4952,11 @@ W90.2XXS@Exposure to laser radiation, sequela
 W90.8XXA@Exposure to other nonionizing radiation, initial encounter
 W90.8XXD@Exposure to other nonionizing radiation, subs encntr
 W90.8XXS@Exposure to other nonionizing radiation, sequela
+#
 W92.XXXA@Exposure to excessive heat of man-made origin, init encntr
 W92.XXXD@Exposure to excessive heat of man-made origin, subs encntr
 W92.XXXS@Exposure to excessive heat of man-made origin, sequela
+#
 W93.01XA@Contact with dry ice, initial encounter
 W93.01XD@Contact with dry ice, subsequent encounter
 W93.01XS@Contact with dry ice, sequela
@@ -4810,6 +4975,7 @@ W93.2XXS@Prolonged exposure in deep freeze unit or refrig, sequela
 W93.8XXA@Exposure to oth excessive cold of man-made origin, init
 W93.8XXD@Exposure to oth excessive cold of man-made origin, subs
 W93.8XXS@Exposure to other excessive cold of man-made origin, sequela
+#
 W94.0XXA@Exposure to prolonged high air pressure, initial encounter
 W94.0XXD@Exposure to prolonged high air pressure, subs encntr
 W94.0XXS@Exposure to prolonged high air pressure, sequela
@@ -4840,9 +5006,11 @@ W94.32XS@Expsr to high air pressr from rapid descent in water, sqla
 W94.39XA@Expsr to oth rapid changes in air pressr dur descent, init
 W94.39XD@Expsr to oth rapid changes in air pressr dur descent, subs
 W94.39XS@Expsr to oth rapid changes in air pressr dur descent, sqla
+#
 W99.XXXA@Exposure to oth man-made environmental factors, init encntr
 W99.XXXD@Exposure to oth man-made environmental factors, subs encntr
 W99.XXXS@Exposure to other man-made environmental factors, sequela
+#
 X00.0XXA@Exposure to flames in uncontrolled fire in bldg, init
 X00.0XXD@Exposure to flames in uncontrolled fire in bldg, subs
 X00.0XXS@Exposure to flames in uncontrolled fire in bldg, sequela
@@ -4864,6 +5032,7 @@ X00.5XXS@Jump from burning bldg in uncontrolled fire, sequela
 X00.8XXA@Oth exposure to uncontrolled fire in bldg, init
 X00.8XXD@Oth exposure to uncontrolled fire in bldg, subs
 X00.8XXS@Oth exposure to uncontrolled fire in bldg, sequela
+#
 X01.0XXA@Exposure to flames in uncontrolled fire, not in bldg, init
 X01.0XXD@Exposure to flames in uncontrolled fire, not in bldg, subs
 X01.0XXS@Exposure to flames in uncntrld fire, not in bldg, sequela
@@ -4879,6 +5048,7 @@ X01.4XXS@Hit by object due to uncontrolled fire, not in bldg, sequela
 X01.8XXA@Oth exposure to uncontrolled fire, not in bldg, init
 X01.8XXD@Oth exposure to uncontrolled fire, not in bldg, subs
 X01.8XXS@Oth exposure to uncontrolled fire, not in bldg, sequela
+#
 X02.0XXA@Exposure to flames in controlled fire in bldg, init
 X02.0XXD@Exposure to flames in controlled fire in bldg, subs
 X02.0XXS@Exposure to flames in controlled fire in bldg, sequela
@@ -4900,6 +5070,7 @@ X02.5XXS@Jump from burning bldg in controlled fire, sequela
 X02.8XXA@Oth exposure to controlled fire in bldg, init
 X02.8XXD@Oth exposure to controlled fire in bldg, subs
 X02.8XXS@Oth exposure to controlled fire in bldg, sequela
+#
 X03.0XXA@Exposure to flames in controlled fire, not in bldg, init
 X03.0XXD@Exposure to flames in controlled fire, not in bldg, subs
 X03.0XXS@Exposure to flames in controlled fire, not in bldg, sequela
@@ -4915,12 +5086,15 @@ X03.4XXS@Hit by object due to controlled fire, not in bldg, sequela
 X03.8XXA@Oth exposure to controlled fire, not in bldg, init
 X03.8XXD@Oth exposure to controlled fire, not in bldg, subs
 X03.8XXS@Oth exposure to controlled fire, not in bldg, sequela
+#
 X04.XXXA@Exposure to ignition of highly flammable material, init
 X04.XXXD@Exposure to ignition of highly flammable material, subs
 X04.XXXS@Exposure to ignition of highly flammable material, sequela
+#
 X05.XXXA@Exposure to ignition or melting of nightwear, init encntr
 X05.XXXD@Exposure to ignition or melting of nightwear, subs encntr
 X05.XXXS@Exposure to ignition or melting of nightwear, sequela
+#
 X06.0XXA@Exposure to ignition of plastic jewelry, initial encounter
 X06.0XXD@Exposure to ignition of plastic jewelry, subs encntr
 X06.0XXS@Exposure to ignition of plastic jewelry, sequela
@@ -4933,6 +5107,7 @@ X06.2XXS@Exposure to ignition of other clothing and apparel, sequela
 X06.3XXA@Exposure to melting of oth clothing and apparel, init encntr
 X06.3XXD@Exposure to melting of oth clothing and apparel, subs encntr
 X06.3XXS@Exposure to melting of other clothing and apparel, sequela
+#
 X08.00XA@Exposure to bed fire due to unsp burning material, init
 X08.00XD@Exposure to bed fire due to unsp burning material, subs
 X08.00XS@Exposure to bed fire due to unsp burning material, sequela
@@ -4963,6 +5138,7 @@ X08.29XS@Expsr to oth furniture fire due to oth burn material, sqla
 X08.8XXA@Exposure to oth smoke, fire and flames, init encntr
 X08.8XXD@Exposure to oth smoke, fire and flames, subs encntr
 X08.8XXS@Exposure to other specified smoke, fire and flames, sequela
+#
 X10.0XXA@Contact with hot drinks, initial encounter
 X10.0XXD@Contact with hot drinks, subsequent encounter
 X10.0XXS@Contact with hot drinks, sequela
@@ -4972,6 +5148,7 @@ X10.1XXS@Contact with hot food, sequela
 X10.2XXA@Contact with fats and cooking oils, initial encounter
 X10.2XXD@Contact with fats and cooking oils, subsequent encounter
 X10.2XXS@Contact with fats and cooking oils, sequela
+#
 X11.0XXA@Contact with hot water in bath or tub, initial encounter
 X11.0XXD@Contact with hot water in bath or tub, subsequent encounter
 X11.0XXS@Contact with hot water in bath or tub, sequela
@@ -4981,21 +5158,25 @@ X11.1XXS@Contact with running hot water, sequela
 X11.8XXA@Contact with other hot tap-water, initial encounter
 X11.8XXD@Contact with other hot tap-water, subsequent encounter
 X11.8XXS@Contact with other hot tap-water, sequela
+#
 X12.XXXA@Contact with other hot fluids, initial encounter
 X12.XXXD@Contact with other hot fluids, subsequent encounter
 X12.XXXS@Contact with other hot fluids, sequela
+#
 X13.0XXA@Inhalation of steam and other hot vapors, initial encounter
 X13.0XXD@Inhalation of steam and other hot vapors, subs encntr
 X13.0XXS@Inhalation of steam and other hot vapors, sequela
 X13.1XXA@Other contact with steam and other hot vapors, init encntr
 X13.1XXD@Other contact with steam and other hot vapors, subs encntr
 X13.1XXS@Other contact with steam and other hot vapors, sequela
+#
 X14.0XXA@Inhalation of hot air and gases, initial encounter
 X14.0XXD@Inhalation of hot air and gases, subsequent encounter
 X14.0XXS@Inhalation of hot air and gases, sequela
 X14.1XXA@Other contact with hot air and other hot gases, init encntr
 X14.1XXD@Other contact with hot air and other hot gases, subs encntr
 X14.1XXS@Other contact with hot air and other hot gases, sequela
+#
 X15.0XXA@Contact with hot stove (kitchen), initial encounter
 X15.0XXD@Contact with hot stove (kitchen), subsequent encounter
 X15.0XXS@Contact with hot stove (kitchen), sequela
@@ -5011,39 +5192,50 @@ X15.3XXS@Contact with hot saucepan or skillet, sequela
 X15.8XXA@Contact with other hot household appliances, init encntr
 X15.8XXD@Contact with other hot household appliances, subs encntr
 X15.8XXS@Contact with other hot household appliances, sequela
+#
 X16.XXXA@Contact w hot heating appliances, radiators and pipes, init
 X16.XXXD@Contact w hot heating appliances, radiators and pipes, subs
 X16.XXXS@Cntct w hot heating appliances, radiators and pipes, sequela
+#
 X17.XXXA@Contact with hot engines, machinery and tools, init encntr
 X17.XXXD@Contact with hot engines, machinery and tools, subs encntr
 X17.XXXS@Contact with hot engines, machinery and tools, sequela
+#
 X18.XXXA@Contact with other hot metals, initial encounter
 X18.XXXD@Contact with other hot metals, subsequent encounter
 X18.XXXS@Contact with other hot metals, sequela
+#
 X19.XXXA@Contact with other heat and hot substances, init encntr
 X19.XXXD@Contact with other heat and hot substances, subs encntr
 X19.XXXS@Contact with other heat and hot substances, sequela
+#
 X30.XXXA@Exposure to excessive natural heat, initial encounter
 X30.XXXD@Exposure to excessive natural heat, subsequent encounter
 X30.XXXS@Exposure to excessive natural heat, sequela
+#
 X31.XXXA@Exposure to excessive natural cold, initial encounter
 X31.XXXD@Exposure to excessive natural cold, subsequent encounter
 X31.XXXS@Exposure to excessive natural cold, sequela
+#
 X32.XXXA@Exposure to sunlight, initial encounter
 X32.XXXD@Exposure to sunlight, subsequent encounter
 X32.XXXS@Exposure to sunlight, sequela
+#
 X34.XXXA@Earthquake, initial encounter
 X34.XXXD@Earthquake, subsequent encounter
 X34.XXXS@Earthquake, sequela
+#
 X35.XXXA@Volcanic eruption, initial encounter
 X35.XXXD@Volcanic eruption, subsequent encounter
 X35.XXXS@Volcanic eruption, sequela
+#
 X36.0XXA@Collapse of dam or man-made struct cause earth movmnt, init
 X36.0XXD@Collapse of dam or man-made struct cause earth movmnt, subs
 X36.0XXS@Collapse of dam or man-made struct cause earth movmnt, sqla
 X36.1XXA@Avalanche, landslide, or mudslide, initial encounter
 X36.1XXD@Avalanche, landslide, or mudslide, subsequent encounter
 X36.1XXS@Avalanche, landslide, or mudslide, sequela
+#
 X37.0XXA@Hurricane, initial encounter
 X37.0XXD@Hurricane, subsequent encounter
 X37.0XXS@Hurricane, sequela
@@ -5071,9 +5263,11 @@ X37.8XXS@Other cataclysmic storms, sequela
 X37.9XXA@Unspecified cataclysmic storm, initial encounter
 X37.9XXD@Unspecified cataclysmic storm, subsequent encounter
 X37.9XXS@Unspecified cataclysmic storm, sequela
+#
 X38.XXXA@Flood, initial encounter
 X38.XXXD@Flood, subsequent encounter
 X38.XXXS@Flood, sequela
+#
 X39.01XA@Exposure to radon, initial encounter
 X39.01XD@Exposure to radon, subsequent encounter
 X39.01XS@Exposure to radon, sequela
@@ -5083,12 +5277,15 @@ X39.08XS@Exposure to other natural radiation, sequela
 X39.8XXA@Other exposure to forces of nature, initial encounter
 X39.8XXD@Other exposure to forces of nature, subsequent encounter
 X39.8XXS@Other exposure to forces of nature, sequela
+#
 X52.XXXA@Prolonged stay in weightless environment, initial encounter
 X52.XXXD@Prolonged stay in weightless environment, subs encntr
 X52.XXXS@Prolonged stay in weightless environment, sequela
+#
 X58.XXXA@Exposure to other specified factors, initial encounter
 X58.XXXD@Exposure to other specified factors, subsequent encounter
 X58.XXXS@Exposure to other specified factors, sequela
+#
 X71.0XXA@Intentional self-harm by drown while in bathtub, init
 X71.0XXD@Intentional self-harm by drown while in bathtub, subs
 X71.0XXS@Intentional self-harm by drown while in bathtub, sequela
@@ -5107,9 +5304,11 @@ X71.8XXS@Oth intentional self-harm by drown, sequela
 X71.9XXA@Intentional self-harm by drowning and submersion, unsp, init
 X71.9XXD@Intentional self-harm by drowning and submersion, unsp, subs
 X71.9XXS@Intentional self-harm by drown, unsp, sequela
+#
 X72.XXXA@Intentional self-harm by handgun discharge, init encntr
 X72.XXXD@Intentional self-harm by handgun discharge, subs encntr
 X72.XXXS@Intentional self-harm by handgun discharge, sequela
+#
 X73.0XXA@Intentional self-harm by shotgun discharge, init encntr
 X73.0XXD@Intentional self-harm by shotgun discharge, subs encntr
 X73.0XXS@Intentional self-harm by shotgun discharge, sequela
@@ -5125,6 +5324,7 @@ X73.8XXS@Self-harm by oth larger firearm discharge, sequela
 X73.9XXA@Intentional self-harm by unsp larger firearm discharge, init
 X73.9XXD@Intentional self-harm by unsp larger firearm discharge, subs
 X73.9XXS@Self-harm by unsp larger firearm discharge, sequela
+#
 X74.01XA@Intentional self-harm by airgun, initial encounter
 X74.01XD@Intentional self-harm by airgun, subsequent encounter
 X74.01XS@Intentional self-harm by airgun, sequela
@@ -5140,12 +5340,15 @@ X74.8XXS@Intentional self-harm by other firearm discharge, sequela
 X74.9XXA@Intentional self-harm by unsp firearm discharge, init encntr
 X74.9XXD@Intentional self-harm by unsp firearm discharge, subs encntr
 X74.9XXS@Intentional self-harm by unsp firearm discharge, sequela
+#
 X75.XXXA@Intentional self-harm by explosive material, init encntr
 X75.XXXD@Intentional self-harm by explosive material, subs encntr
 X75.XXXS@Intentional self-harm by explosive material, sequela
+#
 X76.XXXA@Intentional self-harm by smoke, fire and flames, init encntr
 X76.XXXD@Intentional self-harm by smoke, fire and flames, subs encntr
 X76.XXXS@Intentional self-harm by smoke, fire and flames, sequela
+#
 X77.0XXA@Intentional self-harm by steam or hot vapors, init encntr
 X77.0XXD@Intentional self-harm by steam or hot vapors, subs encntr
 X77.0XXS@Intentional self-harm by steam or hot vapors, sequela
@@ -5164,6 +5367,7 @@ X77.8XXS@Intentional self-harm by other hot objects, sequela
 X77.9XXA@Intentional self-harm by unsp hot objects, init encntr
 X77.9XXD@Intentional self-harm by unsp hot objects, subs encntr
 X77.9XXS@Intentional self-harm by unspecified hot objects, sequela
+#
 X78.0XXA@Intentional self-harm by sharp glass, initial encounter
 X78.0XXD@Intentional self-harm by sharp glass, subsequent encounter
 X78.0XXS@Intentional self-harm by sharp glass, sequela
@@ -5179,12 +5383,15 @@ X78.8XXS@Intentional self-harm by other sharp object, sequela
 X78.9XXA@Intentional self-harm by unsp sharp object, init encntr
 X78.9XXD@Intentional self-harm by unsp sharp object, subs encntr
 X78.9XXS@Intentional self-harm by unspecified sharp object, sequela
+#
 X79.XXXA@Intentional self-harm by blunt object, initial encounter
 X79.XXXD@Intentional self-harm by blunt object, subsequent encounter
 X79.XXXS@Intentional self-harm by blunt object, sequela
+#
 X80.XXXA@Intentional self-harm by jumping from a high place, init
 X80.XXXD@Intentional self-harm by jumping from a high place, subs
 X80.XXXS@Intentional self-harm by jumping from a high place, sequela
+#
 X81.0XXA@Self-harm by jumping or lying in front of mtr veh, init
 X81.0XXD@Self-harm by jumping or lying in front of mtr veh, subs
 X81.0XXS@Self-harm by jumping or lying in front of mtr veh, sequela
@@ -5194,6 +5401,7 @@ X81.1XXS@Slf-hrm by jumping or lying in front of train, sequela
 X81.8XXA@Slf-hrm by jumping or lying in front of moving object, init
 X81.8XXD@Slf-hrm by jumping or lying in front of moving object, subs
 X81.8XXS@Slf-hrm by jump or lying in front of moving object, sequela
+#
 X82.0XXA@Intentional collision of motor vehicle w mtr veh, init
 X82.0XXD@Intentional collision of motor vehicle w mtr veh, subs
 X82.0XXS@Intentional collision of motor vehicle w mtr veh, sequela
@@ -5206,6 +5414,7 @@ X82.2XXS@Intentional collision of motor vehicle with tree, sequela
 X82.8XXA@Oth intentional self-harm by crashing of motor vehicle, init
 X82.8XXD@Oth intentional self-harm by crashing of motor vehicle, subs
 X82.8XXS@Oth self-harm by crashing of motor vehicle, sequela
+#
 X83.0XXA@Intentional self-harm by crashing of aircraft, init encntr
 X83.0XXD@Intentional self-harm by crashing of aircraft, subs encntr
 X83.0XXS@Intentional self-harm by crashing of aircraft, sequela
@@ -5218,6 +5427,7 @@ X83.2XXS@Self-harm by exposure to extremes of cold, sequela
 X83.8XXA@Intentional self-harm by other specified means, init encntr
 X83.8XXD@Intentional self-harm by other specified means, subs encntr
 X83.8XXS@Intentional self-harm by other specified means, sequela
+#
 X92.0XXA@Assault by drowning and submersion while in bathtub, init
 X92.0XXD@Assault by drowning and submersion while in bathtub, subs
 X92.0XXS@Assault by drowning and submersion while in bathtub, sequela
@@ -5236,9 +5446,11 @@ X92.8XXS@Other assault by drowning and submersion, sequela
 X92.9XXA@Assault by drowning and submersion, unspecified, init encntr
 X92.9XXD@Assault by drowning and submersion, unspecified, subs encntr
 X92.9XXS@Assault by drowning and submersion, unspecified, sequela
+#
 X93.XXXA@Assault by handgun discharge, initial encounter
 X93.XXXD@Assault by handgun discharge, subsequent encounter
 X93.XXXS@Assault by handgun discharge, sequela
+#
 X94.0XXA@Assault by shotgun, initial encounter
 X94.0XXD@Assault by shotgun, subsequent encounter
 X94.0XXS@Assault by shotgun, sequela
@@ -5254,6 +5466,7 @@ X94.8XXS@Assault by other larger firearm discharge, sequela
 X94.9XXA@Assault by unspecified larger firearm discharge, init encntr
 X94.9XXD@Assault by unspecified larger firearm discharge, subs encntr
 X94.9XXS@Assault by unspecified larger firearm discharge, sequela
+#
 X95.01XA@Assault by airgun discharge, initial encounter
 X95.01XD@Assault by airgun discharge, subsequent encounter
 X95.01XS@Assault by airgun discharge, sequela
@@ -5269,6 +5482,7 @@ X95.8XXS@Assault by other firearm discharge, sequela
 X95.9XXA@Assault by unspecified firearm discharge, initial encounter
 X95.9XXD@Assault by unspecified firearm discharge, subs encntr
 X95.9XXS@Assault by unspecified firearm discharge, sequela
+#
 X96.0XXA@Assault by antipersonnel bomb, initial encounter
 X96.0XXD@Assault by antipersonnel bomb, subsequent encounter
 X96.0XXS@Assault by antipersonnel bomb, sequela
@@ -5290,9 +5504,11 @@ X96.8XXS@Assault by other specified explosive, sequela
 X96.9XXA@Assault by unspecified explosive, initial encounter
 X96.9XXD@Assault by unspecified explosive, subsequent encounter
 X96.9XXS@Assault by unspecified explosive, sequela
+#
 X97.XXXA@Assault by smoke, fire and flames, initial encounter
 X97.XXXD@Assault by smoke, fire and flames, subsequent encounter
 X97.XXXS@Assault by smoke, fire and flames, sequela
+#
 X98.0XXA@Assault by steam or hot vapors, initial encounter
 X98.0XXD@Assault by steam or hot vapors, subsequent encounter
 X98.0XXS@Assault by steam or hot vapors, sequela
@@ -5311,6 +5527,7 @@ X98.8XXS@Assault by other hot objects, sequela
 X98.9XXA@Assault by unspecified hot objects, initial encounter
 X98.9XXD@Assault by unspecified hot objects, subsequent encounter
 X98.9XXS@Assault by unspecified hot objects, sequela
+#
 X99.0XXA@Assault by sharp glass, initial encounter
 X99.0XXD@Assault by sharp glass, subsequent encounter
 X99.0XXS@Assault by sharp glass, sequela
@@ -5326,12 +5543,15 @@ X99.8XXS@Assault by other sharp object, sequela
 X99.9XXA@Assault by unspecified sharp object, initial encounter
 X99.9XXD@Assault by unspecified sharp object, subsequent encounter
 X99.9XXS@Assault by unspecified sharp object, sequela
+#
 Y00.XXXA@Assault by blunt object, initial encounter
 Y00.XXXD@Assault by blunt object, subsequent encounter
 Y00.XXXS@Assault by blunt object, sequela
+#
 Y01.XXXA@Assault by pushing from high place, initial encounter
 Y01.XXXD@Assault by pushing from high place, subsequent encounter
 Y01.XXXS@Assault by pushing from high place, sequela
+#
 Y02.0XXA@Assault by push/place victim in front of motor vehicle, init
 Y02.0XXD@Assault by push/place victim in front of motor vehicle, subs
 Y02.0XXS@Assault by push/place victim in front of mtr veh, sequela
@@ -5347,6 +5567,7 @@ Y03.0XXS@Assault by being hit or run over by motor vehicle, sequela
 Y03.8XXA@Other assault by crashing of motor vehicle, init encntr
 Y03.8XXD@Other assault by crashing of motor vehicle, subs encntr
 Y03.8XXS@Other assault by crashing of motor vehicle, sequela
+#
 Y04.0XXA@Assault by unarmed brawl or fight, initial encounter
 Y04.0XXD@Assault by unarmed brawl or fight, subsequent encounter
 Y04.0XXS@Assault by unarmed brawl or fight, sequela
@@ -5359,6 +5580,7 @@ Y04.2XXS@Asslt by strike agnst or bumped into by another person, sqla
 Y04.8XXA@Assault by other bodily force, initial encounter
 Y04.8XXD@Assault by other bodily force, subsequent encounter
 Y04.8XXS@Assault by other bodily force, sequela
+#
 Y07.01@Husband, perpetrator of maltreatment and neglect
 Y07.02@Wife, perpetrator of maltreatment and neglect
 Y07.03@Male partner, perpetrator of maltreatment and neglect
@@ -5392,6 +5614,7 @@ Y07.529@Unsp healthcare provider, perp of maltreat and neglect
 Y07.53@Teacher or instructor, perpetrator of maltreat and neglect
 Y07.59@Oth non-family member, perpetrator of maltreat and neglect
 Y07.9@Unspecified perpetrator of maltreatment and neglect
+#
 Y08.01XA@Assault by strike by hockey stick, initial encounter
 Y08.01XD@Assault by strike by hockey stick, subsequent encounter
 Y08.01XS@Assault by strike by hockey stick, sequela
@@ -5407,7 +5630,9 @@ Y08.81XS@Assault by crashing of aircraft, sequela
 Y08.89XA@Assault by other specified means, initial encounter
 Y08.89XD@Assault by other specified means, subsequent encounter
 Y08.89XS@Assault by other specified means, sequela
+#
 Y09.@Assault by unspecified means
+#
 Y21.0XXA@Drown while in bathtub, undetermined intent, init
 Y21.0XXD@Drown while in bathtub, undetermined intent, subs
 Y21.0XXS@Drown while in bathtub, undetermined intent, sequela
@@ -5429,9 +5654,11 @@ Y21.8XXS@Other drowning and submersion, undetermined intent, sequela
 Y21.9XXA@Unsp drowning and submersion, undetermined intent, init
 Y21.9XXD@Unsp drowning and submersion, undetermined intent, subs
 Y21.9XXS@Unsp drowning and submersion, undetermined intent, sequela
+#
 Y22.XXXA@Handgun discharge, undetermined intent, initial encounter
 Y22.XXXD@Handgun discharge, undetermined intent, subsequent encounter
 Y22.XXXS@Handgun discharge, undetermined intent, sequela
+#
 Y23.0XXA@Shotgun discharge, undetermined intent, initial encounter
 Y23.0XXD@Shotgun discharge, undetermined intent, subsequent encounter
 Y23.0XXS@Shotgun discharge, undetermined intent, sequela
@@ -5450,6 +5677,7 @@ Y23.8XXS@Other larger firearm discharge, undetermined intent, sequela
 Y23.9XXA@Unsp larger firearm discharge, undetermined intent, init
 Y23.9XXD@Unsp larger firearm discharge, undetermined intent, subs
 Y23.9XXS@Unsp larger firearm discharge, undetermined intent, sequela
+#
 Y24.0XXA@Airgun discharge, undetermined intent, initial encounter
 Y24.0XXD@Airgun discharge, undetermined intent, subsequent encounter
 Y24.0XXS@Airgun discharge, undetermined intent, sequela
@@ -5459,12 +5687,15 @@ Y24.8XXS@Other firearm discharge, undetermined intent, sequela
 Y24.9XXA@Unsp firearm discharge, undetermined intent, init encntr
 Y24.9XXD@Unsp firearm discharge, undetermined intent, subs encntr
 Y24.9XXS@Unspecified firearm discharge, undetermined intent, sequela
+#
 Y25.XXXA@Contact w explosive material, undetermined intent, init
 Y25.XXXD@Contact w explosive material, undetermined intent, subs
 Y25.XXXS@Contact w explosive material, undetermined intent, sequela
+#
 Y26.XXXA@Exposure to smoke, fire and flames, undet intent, init
 Y26.XXXD@Exposure to smoke, fire and flames, undet intent, subs
 Y26.XXXS@Exposure to smoke, fire and flames, undet intent, sequela
+#
 Y27.0XXA@Contact w steam and hot vapors, undetermined intent, init
 Y27.0XXD@Contact w steam and hot vapors, undetermined intent, subs
 Y27.0XXS@Contact w steam and hot vapors, undetermined intent, sequela
@@ -5483,6 +5714,7 @@ Y27.8XXS@Contact with other hot objects, undetermined intent, sequela
 Y27.9XXA@Contact w unsp hot objects, undetermined intent, init encntr
 Y27.9XXD@Contact w unsp hot objects, undetermined intent, subs encntr
 Y27.9XXS@Contact with unsp hot objects, undetermined intent, sequela
+#
 Y28.0XXA@Contact with sharp glass, undetermined intent, init encntr
 Y28.0XXD@Contact with sharp glass, undetermined intent, subs encntr
 Y28.0XXS@Contact with sharp glass, undetermined intent, sequela
@@ -5498,21 +5730,27 @@ Y28.8XXS@Contact with oth sharp object, undetermined intent, sequela
 Y28.9XXA@Contact w unsp sharp object, undetermined intent, init
 Y28.9XXD@Contact w unsp sharp object, undetermined intent, subs
 Y28.9XXS@Contact with unsp sharp object, undetermined intent, sequela
+#
 Y29.XXXA@Contact with blunt object, undetermined intent, init encntr
 Y29.XXXD@Contact with blunt object, undetermined intent, subs encntr
 Y29.XXXS@Contact with blunt object, undetermined intent, sequela
+#
 Y30.XXXA@Fall, jump or pushed from a high place, undet intent, init
 Y30.XXXD@Fall, jump or pushed from a high place, undet intent, subs
 Y30.XXXS@Fall, jump or pushed from a high place, undet intent, sqla
+#
 Y31.XXXA@Fall/lying/running bef/into moving obj, undet intent, init
 Y31.XXXD@Fall/lying/running bef/into moving obj, undet intent, subs
 Y31.XXXS@Fall/lying/running bef/into moving obj, undet intent, sqla
+#
 Y32.XXXA@Crashing of motor vehicle, undetermined intent, init encntr
 Y32.XXXD@Crashing of motor vehicle, undetermined intent, subs encntr
 Y32.XXXS@Crashing of motor vehicle, undetermined intent, sequela
+#
 Y33.XXXA@Other specified events, undetermined intent, init encntr
 Y33.XXXD@Other specified events, undetermined intent, subs encntr
 Y33.XXXS@Other specified events, undetermined intent, sequela
+#
 Y35.001A@Lgl intervnt w unsp firearm disch, law enforc offl inj, init
 Y35.001D@Lgl intervnt w unsp firearm disch, law enforc offl inj, subs
 Y35.001S@Lgl intervnt w unsp firearm disch, law enforc offl inj, sqla
@@ -5711,6 +5949,7 @@ Y35.92XS@Legal intervention, means unsp, bystander injured, sequela
 Y35.93XA@Legal intervention, means unsp, suspect injured, init encntr
 Y35.93XD@Legal intervention, means unsp, suspect injured, subs encntr
 Y35.93XS@Legal intervention, means unsp, suspect injured, sequela
+#
 Y36.000A@War op involving explosion of unsp marine weapon, milt, init
 Y36.000D@War op involving explosion of unsp marine weapon, milt, subs
 Y36.000S@War op w explosn of unsp marine weapon, milt, sequela
@@ -6002,6 +6241,7 @@ Y36.91XS@War operations involving unsp weapon of mass dest, sequela
 Y36.92XA@War operations involving friendly fire, initial encounter
 Y36.92XD@War operations involving friendly fire, subsequent encounter
 Y36.92XS@War operations involving friendly fire, sequela
+#
 Y37.000A@Milt op involving explosn of unsp marine weapon, milt, init
 Y37.000D@Milt op involving explosn of unsp marine weapon, milt, subs
 Y37.000S@Milt op w explosn of unsp marine weapon, milt, sequela
@@ -6269,6 +6509,7 @@ Y37.91XS@Milt op involving unsp weapon of mass destruction, sequela
 Y37.92XA@Military operations involving friendly fire, init encntr
 Y37.92XD@Military operations involving friendly fire, subs encntr
 Y37.92XS@Military operations involving friendly fire, sequela
+#
 Y38.0X1A@Terorsm w explosn of marine weap, publ sfty offcl inj, init
 Y38.0X1D@Terorsm w explosn of marine weap, publ sfty offcl inj, subs
 Y38.0X1S@Terorsm w explosn of marine weap, publ sfty offcl inj, sqla
@@ -6365,6 +6606,7 @@ Y38.9X1S@Terrorism, sec effects, publ sfty offcl injured, sequela
 Y38.9X2A@Terrorism, secondary effects, civilian injured, init encntr
 Y38.9X2D@Terrorism, secondary effects, civilian injured, subs encntr
 Y38.9X2S@Terrorism, secondary effects, civilian injured, sequela
+#
 Y62.0@Failure of sterile precautions during surgical operation
 Y62.1@Failure of sterile precautions during infusn/transfusn
 Y62.2@Fail of steril precaut dur kidney dialysis and oth perfusion
@@ -6374,6 +6616,7 @@ Y62.5@Failure of sterile precautions during heart catheterization
 Y62.6@Failure of steril precaut during aspirat, pnctr and oth cath
 Y62.8@Failure of steril precaut during oth surg and medical care
 Y62.9@Failure of steril precaut during unsp surg and medical care
+#
 Y63.0@Excess amount of bld or oth fluid given dur tranfs or infusn
 Y63.1@Incorrect dilution of fluid used during infusion
 Y63.2@Overdose of radiation given during therapy
@@ -6383,10 +6626,12 @@ Y63.5@Inappropriate temperature in local application and packing
 Y63.6@Undrdose & nonadmin of necess drug, medicament or biolg sub
 Y63.8@Failure in dosage during other surgical and medical care
 Y63.9@Failure in dosage during unsp surgical and medical care
+#
 Y64.0@Contaminated med/biolog sub, transfused or infused
 Y64.1@Contaminated med/biolog sub, injected or used for immuniz
 Y64.8@Contaminated med/biolog sub administered by oth means
 Y64.9@Contaminated med/biolog sub administered by unsp means
+#
 Y65.0@Mismatched blood in transfusion
 Y65.1@Wrong fluid used in infusion
 Y65.2@Failure in suture or ligature during surgical operation
@@ -6396,70 +6641,86 @@ Y65.51@Performance of wrong procedure (op) on correct patient
 Y65.52@Perform of proc (op) on patient not scheduled for surgery
 Y65.53@Perform of correct procedure (op) on wrong side or body part
 Y65.8@Oth misadventures during surgical and medical care
+#
 Y66.@Nonadministration of surgical and medical care
+#
 Y69.@Unspecified misadventure during surgical and medical care
+#
 Y70.0@Diagnostic and monitoring anesth devices assoc w incdt
 Y70.1@Therapeutic and rehab anesth devices assoc w incdt
 Y70.2@Prosth/oth implnt/mtrls anesthesiology devices assoc w incdt
 Y70.3@Surgical instrumnt, matrl and anesth devices assoc w incdt
 Y70.8@Miscellaneous anesthesiology devices assoc w incdt, NEC
+#
 Y71.0@Diagnostic and monitoring cardiovasc devices assoc w incdt
 Y71.1@Therapeutic and rehab cardiovasc devices assoc w incdt
 Y71.2@Prosth/oth implnt/mtrls cardiovascular devices assoc w incdt
 Y71.3@Surg instrumnt, matrl and cardiovasc devices assoc w incdt
 Y71.8@Miscellaneous cardiovascular devices assoc w incdt, NEC
+#
 Y72.0@Diagnostic and monitoring otorhino devices assoc w incdt
 Y72.1@Therapeutic and rehab otorhino devices assoc w incdt
 Y72.2@Prosth/oth implnt/mtrls otorhino devices assoc w incdt
 Y72.3@Surgical instrumnt, matrl and otorhino devices assoc w incdt
 Y72.8@Miscellaneous otorhino devices assoc w incdt, NEC
+#
 Y73.0@Dx and monitor gastroent and urology devices assoc w incdt
 Y73.1@Theraputc and rehab gastroent and urology dev assoc w incdt
 Y73.2@Prosth/oth implnt/mtrls gastroent and urol dev assoc w incdt
 Y73.3@Surg instrumnt, matrl & gastroent and urol dev assoc w incdt
 Y73.8@Misc gastroent and urology devices assoc w incdt, NEC
+#
 Y74.0@Dx and monitoring gen hosp/persnl-use devices assoc w incdt
 Y74.1@Theraputc and rehab gen hosp/persnl-use dev assoc w incdt
 Y74.2@Prosth/oth implnt, matrl & hosp/persnl-use dev assoc w incdt
 Y74.3@Surg instrumnt,matrl & gen hosp/persnl-use dev assoc w incdt
 Y74.8@Miscellaneous gen hosp/persnl-use devices assoc w incdt, NEC
+#
 Y75.0@Diagnostic and monitoring neurological devices assoc w incdt
 Y75.1@Therapeutic and rehab neurological devices assoc w incdt
 Y75.2@Prosth/oth implants, matrl and neuro devices assoc w incdt
 Y75.3@Surgical instrumnt, matrl and neuro devices assoc w incdt
 Y75.8@Miscellaneous neurological devices assoc w incdt, NEC
+#
 Y76.0@Diagnostic and monitoring ob/gyn devices assoc w incdt
 Y76.1@Therapeutic and rehab ob/gyn devices assoc w incdt
 Y76.2@Prosth/oth implnt/mtrls ob/gyn devices assoc w incdt
 Y76.3@Surgical instrumnt, matrl and ob/gyn devices assoc w incdt
 Y76.8@Miscellaneous ob/gyn devices assoc w incdt, NEC
+#
 Y77.0@Diagnostic and monitoring ophthalmic devices assoc w incdt
 Y77.1@Therapeutic and rehab ophthalmic devices assoc w incdt
 Y77.2@Prosth/oth implnt/mtrls ophthalmic devices assoc w incdt
 Y77.3@Surgical instrumnt, materials and opth devices assoc w incdt
 Y77.8@Miscellaneous ophthalmic devices assoc w incdt, NEC
+#
 Y78.0@Diagnostic and monitoring radiological devices assoc w incdt
 Y78.1@Therapeutic and rehab radiological devices assoc w incdt
 Y78.2@Prosth/oth implnt/mtrls radiological devices assoc w incdt
 Y78.3@Surgical instrumnt, matrl and radiolog devices assoc w incdt
 Y78.8@Miscellaneous radiological devices assoc w incdt, NEC
+#
 Y79.0@Diagnostic and monitoring orthopedic devices assoc w incdt
 Y79.1@Therapeutic and rehab orthopedic devices assoc w incdt
 Y79.2@Prosth/oth implnt/mtrls orthopedic devices assoc w incdt
 Y79.3@Surgical instrumnt, materials and orth devices assoc w incdt
 Y79.8@Miscellaneous orthopedic devices assoc w incdt, NEC
+#
 Y80.0@Dx and monitoring physical medicine devices assoc w incdt
 Y80.1@Theraputc and rehab physical medicine devices assoc w incdt
 Y80.2@Prosth/oth implnt/mtrls physical med devices assoc w incdt
 Y80.3@Surg instrumnt, matrl and physcl med devices assoc w incdt
 Y80.8@Miscellaneous physical medicine devices assoc w incdt, NEC
+#
 Y81.0@Dx and monitoring gen/plast-surg devices assoc w incdt
 Y81.1@Therapeutic and rehab gen/plast-surg devices assoc w incdt
 Y81.2@Prosth/oth implnt/mtrls gen/plast-surg devices assoc w incdt
 Y81.3@Surg instrumnt, matrl and gen/plast-surg dev assoc w incdt
 Y81.8@Miscellaneous gen/plast-surg devices assoc w incdt, NEC
+#
 Y82.8@Other medical devices associated with adverse incidents
 Y82.9@Unsp medical devices associated with adverse incidents
+#
 Y83.0@Txplt of whole organ cause abn react/compl, w/o misadvnt
 Y83.1@Implnt of artif int dev cause abn react/compl, w/o misadvnt
 Y83.2@Anastomos,bypass or grft cause abn react/compl, w/o misadvnt
@@ -6469,6 +6730,7 @@ Y83.5@Amputation of limb(s) cause abn react/compl, w/o misadvnt
 Y83.6@Remov org (total) cause abn react/compl, w/o misadvnt
 Y83.8@Oth surgical procedures cause abn react/compl, w/o misadvnt
 Y83.9@Surgical proc, unsp cause abn react/compl, w/o misadvnt
+#
 Y84.0@Cardiac catheterization cause abn react/compl, w/o misadvnt
 Y84.1@Kidney dialysis cause abn react/compl, w/o misadvnt
 Y84.2@Radiolog proc/radiothrpy cause abn react/compl, w/o misadvnt
@@ -6479,6 +6741,7 @@ Y84.6@Urinary catheterization cause abn react/compl, w/o misadvnt
 Y84.7@Blood-sampling cause abn react/compl, w/o misadvnt
 Y84.8@Oth medical procedures cause abn react/compl, w/o misadvnt
 Y84.9@Medical procedure, unsp cause abn react/compl, w/o misadvnt
+#
 Y90.0@Blood alcohol level of less than 20 mg/100 ml
 Y90.1@Blood alcohol level of 20-39 mg/100 ml
 Y90.2@Blood alcohol level of 40-59 mg/100 ml
@@ -6489,6 +6752,7 @@ Y90.6@Blood alcohol level of 120-199 mg/100 ml
 Y90.7@Blood alcohol level of 200-239 mg/100 ml
 Y90.8@Blood alcohol level of 240 mg/100 ml or more
 Y90.9@Presence of alcohol in blood, level not specified
+#
 Y93.01@Activity, walking, marching and hiking
 Y93.02@Activity, running
 Y93.11@Activity, swimming
@@ -6595,7 +6859,9 @@ Y93.83@Activity, rough housing and horseplay
 Y93.84@Activity, sleeping
 Y93.89@Activity, other specified
 Y93.9@Activity, unspecified
+#
 Y95.@Nosocomial condition
+#
 Y99.0@Civilian activity done for income or pay
 Y99.1@Military activity
 Y99.2@Volunteer activity

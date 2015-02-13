@@ -3,18 +3,23 @@ R00.1@Bradycardia, unspecified
 R00.2@Palpitations
 R00.8@Other abnormalities of heart beat
 R00.9@Unspecified abnormalities of heart beat
+#
 R01.0@Benign and innocent cardiac murmurs
 R01.1@Cardiac murmur, unspecified
 R01.2@Other cardiac sounds
+#
 R03.0@Elevated blood-pressure reading, w/o diagnosis of htn
 R03.1@Nonspecific low blood-pressure reading
+#
 R04.0@Epistaxis
 R04.1@Hemorrhage from throat
 R04.2@Hemoptysis
 R04.81@Acute idiopathic pulmonary hemorrhage in infants
 R04.89@Hemorrhage from other sites in respiratory passages
 R04.9@Hemorrhage from respiratory passages, unspecified
+#
 R05.@Cough
+#
 R06.00@Dyspnea, unspecified
 R06.01@Orthopnea
 R06.02@Shortness of breath
@@ -31,6 +36,7 @@ R06.82@Tachypnea, not elsewhere classified
 R06.83@Snoring
 R06.89@Other abnormalities of breathing
 R06.9@Unspecified abnormalities of breathing
+#
 R07.0@Pain in throat
 R07.1@Chest pain on breathing
 R07.2@Precordial pain
@@ -38,6 +44,7 @@ R07.81@Pleurodynia
 R07.82@Intercostal pain
 R07.89@Other chest pain
 R07.9@Chest pain, unspecified
+#
 R09.01@Asphyxia
 R09.02@Hypoxemia
 R09.1@Pleurisy
@@ -46,6 +53,7 @@ R09.3@Abnormal sputum
 R09.81@Nasal congestion
 R09.82@Postnasal drip
 R09.89@Oth symptoms and signs involving the circ and resp systems
+#
 R10.0@Acute abdomen
 R10.10@Upper abdominal pain, unspecified
 R10.11@Right upper quadrant pain
@@ -75,6 +83,7 @@ R10.829@Rebound abdominal tenderness, unspecified site
 R10.83@Colic
 R10.84@Generalized abdominal pain
 R10.9@Unspecified abdominal pain
+#
 R11.0@Nausea
 R11.10@Vomiting, unspecified
 R11.11@Vomiting without nausea
@@ -82,7 +91,9 @@ R11.12@Projectile vomiting
 R11.13@Vomiting of fecal matter
 R11.14@Bilious vomiting
 R11.2@Nausea with vomiting, unspecified
+#
 R12.@Heartburn
+#
 R13.0@Aphagia
 R13.10@Dysphagia, unspecified
 R13.11@Dysphagia, oral phase
@@ -90,20 +101,26 @@ R13.12@Dysphagia, oropharyngeal phase
 R13.13@Dysphagia, pharyngeal phase
 R13.14@Dysphagia, pharyngoesophageal phase
 R13.19@Other dysphagia
+#
 R14.0@Abdominal distension (gaseous)
 R14.1@Gas pain
 R14.2@Eructation
 R14.3@Flatulence
+#
 R15.0@Incomplete defecation
 R15.1@Fecal smearing
 R15.2@Fecal urgency
 R15.9@Full incontinence of feces
+#
 R16.0@Hepatomegaly, not elsewhere classified
 R16.1@Splenomegaly, not elsewhere classified
 R16.2@Hepatomegaly with splenomegaly, not elsewhere classified
+#
 R17.@Unspecified jaundice
+#
 R18.0@Malignant ascites
 R18.8@Other ascites
+#
 R19.00@Intra-abd and pelvic swelling, mass and lump, unsp site
 R19.01@Right upper quadrant abdominal swelling, mass and lump
 R19.02@Left upper quadrant abdominal swelling, mass and lump
@@ -130,13 +147,16 @@ R19.5@Other fecal abnormalities
 R19.6@Halitosis
 R19.7@Diarrhea, unspecified
 R19.8@Oth symptoms and signs involving the dgstv sys and abdomen
+#
 R20.0@Anesthesia of skin
 R20.1@Hypoesthesia of skin
 R20.2@Paresthesia of skin
 R20.3@Hyperesthesia
 R20.8@Other disturbances of skin sensation
 R20.9@Unspecified disturbances of skin sensation
+#
 R21.@Rash and other nonspecific skin eruption
+#
 R22.0@Localized swelling, mass and lump, head
 R22.1@Localized swelling, mass and lump, neck
 R22.2@Localized swelling, mass and lump, trunk
@@ -149,6 +169,7 @@ R22.41@Localized swelling, mass and lump, right lower limb
 R22.42@Localized swelling, mass and lump, left lower limb
 R22.43@Localized swelling, mass and lump, lower limb, bilateral
 R22.9@Localized swelling, mass and lump, unspecified
+#
 R23.0@Cyanosis
 R23.1@Pallor
 R23.2@Flushing
@@ -156,21 +177,25 @@ R23.3@Spontaneous ecchymoses
 R23.4@Changes in skin texture
 R23.8@Other skin changes
 R23.9@Unspecified skin changes
+#
 R25.0@Abnormal head movements
 R25.1@Tremor, unspecified
 R25.2@Cramp and spasm
 R25.3@Fasciculation
 R25.8@Other abnormal involuntary movements
 R25.9@Unspecified abnormal involuntary movements
+#
 R26.0@Ataxic gait
 R26.1@Paralytic gait
 R26.2@Difficulty in walking, not elsewhere classified
 R26.81@Unsteadiness on feet
 R26.89@Other abnormalities of gait and mobility
 R26.9@Unspecified abnormalities of gait and mobility
+#
 R27.0@Ataxia, unspecified
 R27.8@Other lack of coordination
 R27.9@Unspecified lack of coordination
+#
 R29.0@Tetany
 R29.1@Meningismus
 R29.2@Abnormal reflex
@@ -185,25 +210,34 @@ R29.891@Ocular torticollis
 R29.898@Oth symptoms and signs involving the musculoskeletal system
 R29.90@Unspecified symptoms and signs involving the nervous system
 R29.91@Unsp symptoms and signs involving the musculoskeletal system
+#
 R30.0@Dysuria
 R30.1@Vesical tenesmus
 R30.9@Painful micturition, unspecified
+#
 R31.0@Gross hematuria
 R31.1@Benign essential microscopic hematuria
 R31.2@Other microscopic hematuria
 R31.9@Hematuria, unspecified
+#
 R32.@Unspecified urinary incontinence
+#
 R33.0@Drug induced retention of urine
 R33.8@Other retention of urine
 R33.9@Retention of urine, unspecified
+#
 R34.@Anuria and oliguria
+#
 R35.0@Frequency of micturition
 R35.1@Nocturia
 R35.8@Other polyuria
+#
 R36.0@Urethral discharge without blood
 R36.1@Hematospermia
 R36.9@Urethral discharge, unspecified
+#
 R37.@Sexual dysfunction, unspecified
+#
 R39.0@Extravasation of urine
 R39.11@Hesitancy of micturition
 R39.12@Poor urinary stream
@@ -216,6 +250,7 @@ R39.2@Extrarenal uremia
 R39.81@Functional urinary incontinence
 R39.89@Other symptoms and signs involving the genitourinary system
 R39.9@Unsp symptoms and signs involving the genitourinary system
+#
 R40.0@Somnolence
 R40.1@Stupor
 R40.20@Unspecified coma
@@ -300,6 +335,7 @@ R40.243@Glasgow coma scale score 3-8
 R40.244@Oth coma,w/o Glasgow coma scale score,or w/part score report
 R40.3@Persistent vegetative state
 R40.4@Transient alteration of awareness
+#
 R41.0@Disorientation, unspecified
 R41.1@Anterograde amnesia
 R41.2@Retrograde amnesia
@@ -314,16 +350,20 @@ R41.842@Visuospatial deficit
 R41.843@Psychomotor deficit
 R41.844@Frontal lobe and executive function deficit
 R41.89@Oth symptoms and signs w cognitive functions and awareness
+#
 R42.@Dizziness and giddiness
+#
 R43.0@Anosmia
 R43.1@Parosmia
 R43.2@Parageusia
 R43.8@Other disturbances of smell and taste
 R43.9@Unspecified disturbances of smell and taste
+#
 R44.0@Auditory hallucinations
 R44.1@Visual hallucinations
 R44.2@Other hallucinations
 R44.3@Hallucinations, unspecified
+#
 R45.0@Nervousness
 R45.1@Restlessness and agitation
 R45.2@Unhappiness
@@ -340,6 +380,7 @@ R45.851@Suicidal ideations
 R45.86@Emotional lability
 R45.87@Impulsiveness
 R45.89@Other symptoms and signs involving emotional state
+#
 R47.01@Aphasia
 R47.02@Dysphasia
 R47.1@Dysarthria and anarthria
@@ -347,56 +388,72 @@ R47.81@Slurred speech
 R47.82@Fluency disorder in conditions classified elsewhere
 R47.89@Other speech disturbances
 R47.9@Unspecified speech disturbances
+#
 R48.0@Dyslexia and alexia
 R48.1@Agnosia
 R48.2@Apraxia
 R48.3@Visual agnosia
 R48.8@Other symbolic dysfunctions
 R48.9@Unspecified symbolic dysfunctions
+#
 R49.0@Dysphonia
 R49.1@Aphonia
 R49.21@Hypernasality
 R49.22@Hyponasality
 R49.8@Other voice and resonance disorders
 R49.9@Unspecified voice and resonance disorder
+#
 R50.2@Drug induced fever
 R50.81@Fever presenting with conditions classified elsewhere
 R50.82@Postprocedural fever
 R50.83@Postvaccination fever
 R50.84@Febrile nonhemolytic transfusion reaction
 R50.9@Fever, unspecified
+#
 R51.@Headache
+#
 R52.@Pain, unspecified
+#
 R53.0@Neoplastic (malignant) related fatigue
 R53.1@Weakness
 R53.2@Functional quadriplegia
 R53.81@Other malaise
 R53.82@Chronic fatigue, unspecified
 R53.83@Other fatigue
+#
 R54.@Age-related physical debility
+#
 R55.@Syncope and collapse
+#
 R56.00@Simple febrile convulsions
 R56.01@Complex febrile convulsions
 R56.1@Post traumatic seizures
 R56.9@Unspecified convulsions
+#
 R57.0@Cardiogenic shock
 R57.1@Hypovolemic shock
 R57.8@Other shock
 R57.9@Shock, unspecified
+#
 R58.@Hemorrhage, not elsewhere classified
+#
 R59.0@Localized enlarged lymph nodes
 R59.1@Generalized enlarged lymph nodes
 R59.9@Enlarged lymph nodes, unspecified
+#
 R60.0@Localized edema
 R60.1@Generalized edema
 R60.9@Edema, unspecified
+#
 R61.@Generalized hyperhidrosis
+#
 R62.0@Delayed milestone in childhood
 R62.50@Unsp lack of expected normal physiol dev in childhood
 R62.51@Failure to thrive (child)
 R62.52@Short stature (child)
 R62.59@Oth lack of expected normal physiol development in childhood
 R62.7@Adult failure to thrive
+#
 R63.0@Anorexia
 R63.1@Polydipsia
 R63.2@Polyphagia
@@ -405,11 +462,14 @@ R63.4@Abnormal weight loss
 R63.5@Abnormal weight gain
 R63.6@Underweight
 R63.8@Other symptoms and signs concerning food and fluid intake
+#
 R64.@Cachexia
+#
 R65.10@SIRS of non-infectious origin w/o acute organ dysfunction
 R65.11@SIRS of non-infectious origin w acute organ dysfunction
 R65.20@Severe sepsis without septic shock
 R65.21@Severe sepsis with septic shock
+#
 R68.0@Hypothermia, not associated w low environmental temperature
 R68.11@Excessive crying of infant (baby)
 R68.12@Fussy infant (baby)
@@ -420,28 +480,36 @@ R68.81@Early satiety
 R68.82@Decreased libido
 R68.83@Chills (without fever)
 R68.84@Jaw pain
+#
 R70.0@Elevated erythrocyte sedimentation rate
 R70.1@Abnormal plasma viscosity
+#
 R71.0@Precipitous drop in hematocrit
 R71.8@Other abnormality of red blood cells
+#
 R73.01@Impaired fasting glucose
 R73.02@Impaired glucose tolerance (oral)
 R73.09@Other abnormal glucose
 R73.9@Hyperglycemia, unspecified
+#
 R74.0@Nonspec elev of levels of transamns & lactic acid dehydrgnse
 R74.8@Abnormal levels of other serum enzymes
 R74.9@Abnormal serum enzyme level, unspecified
+#
 R75.@Inconclusive laboratory evidence of human immunodef virus
+#
 R76.0@Raised antibody titer
 R76.11@Nonspecific reaction to skin test w/o active tuberculosis
 R76.12@Nonspec reaction to gamma intrfrn respns w/o actv tubrclosis
 R76.8@Other specified abnormal immunological findings in serum
 R76.9@Abnormal immunological finding in serum, unspecified
+#
 R77.0@Abnormality of albumin
 R77.1@Abnormality of globulin
 R77.2@Abnormality of alphafetoprotein
 R77.8@Other specified abnormalities of plasma proteins
 R77.9@Abnormality of plasma protein, unspecified
+#
 R78.0@Finding of alcohol in blood
 R78.1@Finding of opiate drug in blood
 R78.2@Finding of cocaine in blood
@@ -454,19 +522,23 @@ R78.79@Finding of abnormal level of heavy metals in blood
 R78.81@Bacteremia
 R78.89@Finding of oth substances, not normally found in blood
 R78.9@Finding of unsp substance, not normally found in blood
+#
 R79.0@Abnormal level of blood mineral
 R79.1@Abnormal coagulation profile
 R79.81@Abnormal blood-gas level
 R79.82@Elevated C-reactive protein (CRP)
 R79.89@Other specified abnormal findings of blood chemistry
 R79.9@Abnormal finding of blood chemistry, unspecified
+#
 R80.0@Isolated proteinuria
 R80.1@Persistent proteinuria, unspecified
 R80.2@Orthostatic proteinuria, unspecified
 R80.3@Bence Jones proteinuria
 R80.8@Other proteinuria
 R80.9@Proteinuria, unspecified
+#
 R81.@Glycosuria
+#
 R82.0@Chyluria
 R82.1@Myoglobinuria
 R82.2@Biliuria
@@ -479,6 +551,7 @@ R82.8@Abnormal findings on cytolog and histolog exam of urine
 R82.90@Unspecified abnormal findings in urine
 R82.91@Other chromoabnormalities of urine
 R82.99@Other abnormal findings in urine
+#
 R83.0@Abnormal level of enzymes in cerebrospinal fluid
 R83.1@Abnormal level of hormones in cerebrospinal fluid
 R83.2@Abn lev drug/meds/biol subst in cerebrospinal fluid
@@ -488,6 +561,7 @@ R83.5@Abnormal microbiological findings in cerebrospinal fluid
 R83.6@Abnormal cytological findings in cerebrospinal fluid
 R83.8@Other abnormal findings in cerebrospinal fluid
 R83.9@Unspecified abnormal finding in cerebrospinal fluid
+#
 R84.0@Abnormal level of enzymes in specimens from resp org/thrx
 R84.1@Abnormal level of hormones in specimens from resp org/thrx
 R84.2@Abn lev drug/meds/biol subst in specimens from resp org/thrx
@@ -498,6 +572,7 @@ R84.6@Abnormal cytolog findings in specimens from resp org/thrx
 R84.7@Abnormal histolog findings in specimens from resp org/thrx
 R84.8@Oth abnormal findings in specimens from resp org/thrx
 R84.9@Unsp abnormal finding in specimens from resp org/thrx
+#
 R85.0@Abn lev enzymes in specimens from dgstv org/abd cav
 R85.1@Abn lev hormones in specimens from dgstv org/abd cav
 R85.2@Abn lev drug/meds/biol subst in specmn fr dgstv org/abd cav
@@ -519,6 +594,7 @@ R85.81@Anal high risk human papillomavirus (HPV) DNA test positive
 R85.82@Anal low risk human papillomavirus (HPV) DNA test positive
 R85.89@Oth abnormal findings in specimens from dgstv org/abd cav
 R85.9@Unsp abnormal finding in specimens from dgstv org/abd cav
+#
 R86.0@Abn lev enzymes in specimens from male genital organs
 R86.1@Abn lev hormones in specimens from male genital organs
 R86.2@Abn lev drug/meds/biol subst in specmn from male gntl organs
@@ -529,6 +605,7 @@ R86.6@Abnormal cytolog findings in specmn from male genital organs
 R86.7@Abn histolog findings in specmn from male genital organs
 R86.8@Oth abnormal findings in specimens from male genital organs
 R86.9@Unsp abnormal finding in specimens from male genital organs
+#
 R87.0@Abn lev enzymes in specimens from female genital organs
 R87.1@Abn lev hormones in specimens from female genital organs
 R87.2@Abn lev drug/meds/biol subst in specmn from fem gntl organs
@@ -560,8 +637,10 @@ R87.820@Cervical low risk HPV DNA test positive
 R87.821@Vaginal low risk HPV DNA test positive
 R87.89@Oth abnormal findings in specmn from female genital organs
 R87.9@Unsp abnormal finding in specmn from female genital organs
+#
 R88.0@Cloudy (hemodialysis) (peritoneal) dialysis effluent
 R88.8@Abnormal findings in other body fluids and substances
+#
 R89.0@Abnormal level of enzymes in specimens from oth org/tiss
 R89.1@Abnormal level of hormones in specimens from oth org/tiss
 R89.2@Abn lev drug/meds/biol subst in specimens from oth org/tiss
@@ -572,16 +651,20 @@ R89.6@Abnormal cytological findings in specimens from oth org/tiss
 R89.7@Abnormal histolog findings in specimens from oth org/tiss
 R89.8@Oth abnormal findings in specimens from oth org/tiss
 R89.9@Unsp abnormal finding in specimens from oth org/tiss
+#
 R90.0@Intcrn space-occupying lesion found on dx imaging of cnsl
 R90.81@Abnormal echoencephalogram
 R90.82@White matter disease, unspecified
 R90.89@Oth abnormal findings on diagnostic imaging of cnsl
+#
 R91.1@Solitary pulmonary nodule
 R91.8@Other nonspecific abnormal finding of lung field
+#
 R92.0@Mammographic microcalcification found on dx imaging of brst
 R92.1@Mammographic calcifcn found on diagnostic imaging of breast
 R92.2@Inconclusive mammogram
 R92.8@Oth abn and inconclusive findings on dx imaging of breast
+#
 R93.0@Abnormal findings on dx imaging of skull and head, NEC
 R93.1@Abnormal findings on dx imaging of heart and cor circ
 R93.2@Abnormal findings on dx imaging of liver and biliary tract
@@ -592,6 +675,7 @@ R93.6@Abnormal findings on diagnostic imaging of limbs
 R93.7@Abnormal findings on diagnostic imaging of prt ms sys
 R93.8@Abnormal findings on diagnostic imaging of body structures
 R93.9@Dx imaging inconclusive due to excess body fat of patient
+#
 R94.01@Abnormal electroencephalogram [EEG]
 R94.02@Abnormal brain scan
 R94.09@Abnormal results of function studies of cnsl
@@ -615,6 +699,7 @@ R94.5@Abnormal results of liver function studies
 R94.6@Abnormal results of thyroid function studies
 R94.7@Abnormal results of other endocrine function studies
 R94.8@Abnormal results of function studies of organs and systems
+#
 R97.0@Elevated carcinoembryonic antigen [CEA]
 R97.1@Elevated cancer antigen 125 [CA 125]
 R97.2@Elevated prostate specific antigen [PSA]

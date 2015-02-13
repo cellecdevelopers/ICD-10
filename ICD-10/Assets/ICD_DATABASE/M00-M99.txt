@@ -95,6 +95,7 @@ M00.879@Arthritis due to other bacteria, unspecified ankle and foot
 M00.88@Arthritis due to other bacteria, vertebrae
 M00.89@Polyarthritis due to other bacteria
 M00.9@Pyogenic arthritis, unspecified
+#
 M01.X0@Dir infct of unsp joint in infec/parastc dis classd elswhr
 M01.X11@Direct infct of r shldr in infec/parastc dis classd elswhr
 M01.X12@Direct infct of l shldr in infec/parastc dis classd elswhr
@@ -119,6 +120,7 @@ M01.X72@Dir infct of left ank/ft in infec/parastc dis classd elswhr
 M01.X79@Dir infct of unsp ank/ft in infec/parastc dis classd elswhr
 M01.X8@Direct infct of verteb in infec/parastc dis classd elswhr
 M01.X9@Dir infct of mult joints in infec/parastc dis classd elswhr
+#
 M02.00@Arthropathy following intestinal bypass, unspecified site
 M02.011@Arthropathy following intestinal bypass, right shoulder
 M02.012@Arthropathy following intestinal bypass, left shoulder
@@ -240,6 +242,7 @@ M02.879@Other reactive arthropathies, unspecified ankle and foot
 M02.88@Other reactive arthropathies, vertebrae
 M02.89@Other reactive arthropathies, multiple sites
 M02.9@Reactive arthropathy, unspecified
+#
 M05.00@Felty's syndrome, unspecified site
 M05.011@Felty's syndrome, right shoulder
 M05.012@Felty's syndrome, left shoulder
@@ -448,6 +451,7 @@ M05.872@Oth rheumatoid arthritis w rheumatoid factor of left ank/ft
 M05.879@Oth rheumatoid arthritis w rheumatoid factor of unsp ank/ft
 M05.89@Oth rheumatoid arthritis w rheumatoid factor mult site
 M05.9@Rheumatoid arthritis with rheumatoid factor, unspecified
+#
 M06.00@Rheumatoid arthritis without rheumatoid factor, unsp site
 M06.011@Rheumatoid arthritis w/o rheumatoid factor, right shoulder
 M06.012@Rheumatoid arthritis w/o rheumatoid factor, left shoulder
@@ -547,6 +551,7 @@ M06.879@Oth rheumatoid arthritis, unspecified ankle and foot
 M06.88@Other specified rheumatoid arthritis, vertebrae
 M06.89@Other specified rheumatoid arthritis, multiple sites
 M06.9@Rheumatoid arthritis, unspecified
+#
 M07.60@Enteropathic arthropathies, unspecified site
 M07.611@Enteropathic arthropathies, right shoulder
 M07.612@Enteropathic arthropathies, left shoulder
@@ -571,6 +576,7 @@ M07.672@Enteropathic arthropathies, left ankle and foot
 M07.679@Enteropathic arthropathies, unspecified ankle and foot
 M07.68@Enteropathic arthropathies, vertebrae
 M07.69@Enteropathic arthropathies, multiple sites
+#
 M08.00@Unsp juvenile rheumatoid arthritis of unspecified site
 M08.011@Unspecified juvenile rheumatoid arthritis, right shoulder
 M08.012@Unspecified juvenile rheumatoid arthritis, left shoulder
@@ -692,6 +698,7 @@ M08.972@Juvenile arthritis, unspecified, left ankle and foot
 M08.979@Juvenile arthritis, unspecified, unspecified ankle and foot
 M08.98@Juvenile arthritis, unspecified, vertebrae
 M08.99@Juvenile arthritis, unspecified, multiple sites
+#
 M1A.00X0@Idiopathic chronic gout, unspecified site, without tophus
 M1A.00X1@Idiopathic chronic gout, unspecified site, with tophus
 M1A.0110@Idiopathic chronic gout, right shoulder, without tophus
@@ -934,6 +941,7 @@ M1A.49X0@Other secondary chronic gout, multiple sites, without tophus
 M1A.49X1@Other secondary chronic gout, multiple sites, with tophus
 M1A.9XX0@Chronic gout, unspecified, without tophus (tophi)
 M1A.9XX1@Chronic gout, unspecified, with tophus (tophi)
+#
 M10.00@Idiopathic gout, unspecified site
 M10.011@Idiopathic gout, right shoulder
 M10.012@Idiopathic gout, left shoulder
@@ -1055,6 +1063,7 @@ M10.479@Other secondary gout, unspecified ankle and foot
 M10.48@Other secondary gout, vertebrae
 M10.49@Other secondary gout, multiple sites
 M10.9@Gout, unspecified
+#
 M11.00@Hydroxyapatite deposition disease, unspecified site
 M11.011@Hydroxyapatite deposition disease, right shoulder
 M11.012@Hydroxyapatite deposition disease, left shoulder
@@ -1152,6 +1161,7 @@ M11.879@Oth crystal arthropathies, unspecified ankle and foot
 M11.88@Other specified crystal arthropathies, vertebrae
 M11.89@Other specified crystal arthropathies, multiple sites
 M11.9@Crystal arthropathy, unspecified
+#
 M12.00@Chronic postrheumatic arthropathy, unspecified site
 M12.011@Chronic postrheumatic arthropathy [Jaccoud], right shoulder
 M12.012@Chronic postrheumatic arthropathy [Jaccoud], left shoulder
@@ -1321,6 +1331,7 @@ M12.879@Oth specific arthropathies, NEC, unsp ankle and foot
 M12.88@Oth specific arthropathies, NEC, vertebrae
 M12.89@Oth specific arthropathies, NEC, multiple sites
 M12.9@Arthropathy, unspecified
+#
 M13.0@Polyarthritis, unspecified
 M13.10@Monoarthritis, not elsewhere classified, unspecified site
 M13.111@Monoarthritis, not elsewhere classified, right shoulder
@@ -1368,6 +1379,7 @@ M13.872@Other specified arthritis, left ankle and foot
 M13.879@Other specified arthritis, unspecified ankle and foot
 M13.88@Other specified arthritis, other site
 M13.89@Other specified arthritis, multiple sites
+#
 M14.60@Charcot's joint, unspecified site
 M14.611@Charcot's joint, right shoulder
 M14.612@Charcot's joint, left shoulder
@@ -1416,6 +1428,7 @@ M14.872@Arthropathies in oth diseases classd elswhr, left ank/ft
 M14.879@Arthropathies in oth diseases classd elswhr, unsp ank/ft
 M14.88@Arthropathies in oth diseases classd elswhr, vertebrae
 M14.89@Arthropathies in oth diseases classd elswhr, multiple sites
+#
 M15.0@Primary generalized (osteo)arthritis
 M15.1@Heberden's nodes (with arthropathy)
 M15.2@Bouchard's nodes (with arthropathy)
@@ -1423,6 +1436,7 @@ M15.3@Secondary multiple arthritis
 M15.4@Erosive (osteo)arthritis
 M15.8@Other polyosteoarthritis
 M15.9@Polyosteoarthritis, unspecified
+#
 M16.0@Bilateral primary osteoarthritis of hip
 M16.10@Unilateral primary osteoarthritis, unspecified hip
 M16.11@Unilateral primary osteoarthritis, right hip
@@ -1438,6 +1452,7 @@ M16.52@Unilateral post-traumatic osteoarthritis, left hip
 M16.6@Other bilateral secondary osteoarthritis of hip
 M16.7@Other unilateral secondary osteoarthritis of hip
 M16.9@Osteoarthritis of hip, unspecified
+#
 M17.0@Bilateral primary osteoarthritis of knee
 M17.10@Unilateral primary osteoarthritis, unspecified knee
 M17.11@Unilateral primary osteoarthritis, right knee
@@ -1449,6 +1464,7 @@ M17.32@Unilateral post-traumatic osteoarthritis, left knee
 M17.4@Other bilateral secondary osteoarthritis of knee
 M17.5@Other unilateral secondary osteoarthritis of knee
 M17.9@Osteoarthritis of knee, unspecified
+#
 M18.0@Bilateral primary osteoarth of first carpometacarp joints
 M18.10@Unil prim osteoarth of first carpometacarp joint, unsp hand
 M18.11@Unil primary osteoarth of first carpometacarp joint, r hand
@@ -1462,6 +1478,7 @@ M18.50@Oth unil sec osteoarth of 1st carpometacarp joint, unsp hand
 M18.51@Oth unil sec osteoarth of first carpometacarp joint, r hand
 M18.52@Oth unil sec osteoarth of first carpometacarp joint, l hand
 M18.9@Osteoarthritis of first carpometacarpal joint, unspecified
+#
 M19.011@Primary osteoarthritis, right shoulder
 M19.012@Primary osteoarthritis, left shoulder
 M19.019@Primary osteoarthritis, unspecified shoulder
@@ -1511,6 +1528,7 @@ M19.90@Unspecified osteoarthritis, unspecified site
 M19.91@Primary osteoarthritis, unspecified site
 M19.92@Post-traumatic osteoarthritis, unspecified site
 M19.93@Secondary osteoarthritis, unspecified site
+#
 M20.001@Unspecified deformity of right finger(s)
 M20.002@Unspecified deformity of left finger(s)
 M20.009@Unspecified deformity of unspecified finger(s)
@@ -1544,6 +1562,7 @@ M20.5X9@Other deformities of toe(s) (acquired), unspecified foot
 M20.60@Acquired deformities of toe(s), unsp, unspecified foot
 M20.61@Acquired deformities of toe(s), unspecified, right foot
 M20.62@Acquired deformities of toe(s), unspecified, left foot
+#
 M21.00@Valgus deformity, not elsewhere classified, unspecified site
 M21.021@Valgus deformity, not elsewhere classified, right elbow
 M21.022@Valgus deformity, not elsewhere classified, left elbow
@@ -1662,6 +1681,7 @@ M21.959@Unspecified acquired deformity of unspecified thigh
 M21.961@Unspecified acquired deformity of right lower leg
 M21.962@Unspecified acquired deformity of left lower leg
 M21.969@Unspecified acquired deformity of unspecified lower leg
+#
 M22.00@Recurrent dislocation of patella, unspecified knee
 M22.01@Recurrent dislocation of patella, right knee
 M22.02@Recurrent dislocation of patella, left knee
@@ -1683,6 +1703,7 @@ M22.8X9@Other disorders of patella, unspecified knee
 M22.90@Unspecified disorder of patella, unspecified knee
 M22.91@Unspecified disorder of patella, right knee
 M22.92@Unspecified disorder of patella, left knee
+#
 M23.000@Cystic meniscus, unspecified lateral meniscus, right knee
 M23.001@Cystic meniscus, unspecified lateral meniscus, left knee
 M23.002@Cystic meniscus, unsp lateral meniscus, unspecified knee
@@ -1794,6 +1815,7 @@ M23.8X9@Other internal derangements of unspecified knee
 M23.90@Unspecified internal derangement of unspecified knee
 M23.91@Unspecified internal derangement of right knee
 M23.92@Unspecified internal derangement of left knee
+#
 M24.00@Loose body in unspecified joint
 M24.011@Loose body in right shoulder
 M24.012@Loose body in left shoulder
@@ -1992,6 +2014,7 @@ M24.874@Oth specific joint derangements of right foot, NEC
 M24.875@Oth specific joint derangements left foot, NEC
 M24.876@Oth specific joint derangements of unsp foot, NEC
 M24.9@Joint derangement, unspecified
+#
 M25.00@Hemarthrosis, unspecified joint
 M25.011@Hemarthrosis, right shoulder
 M25.012@Hemarthrosis, left shoulder
@@ -2211,6 +2234,7 @@ M25.871@Other specified joint disorders, right ankle and foot
 M25.872@Other specified joint disorders, left ankle and foot
 M25.879@Other specified joint disorders, unspecified ankle and foot
 M25.9@Joint disorder, unspecified
+#
 M26.00@Unspecified anomaly of jaw size
 M26.01@Maxillary hyperplasia
 M26.02@Maxillary hypoplasia
@@ -2269,6 +2293,7 @@ M26.81@Anterior soft tissue impingement
 M26.82@Posterior soft tissue impingement
 M26.89@Other dentofacial anomalies
 M26.9@Dentofacial anomaly, unspecified
+#
 M27.0@Developmental disorders of jaws
 M27.1@Giant cell granuloma, central
 M27.2@Inflammatory conditions of jaws
@@ -2285,11 +2310,13 @@ M27.63@Post-osseointegration mechanical failure of dental implant
 M27.69@Other endosseous dental implant failure
 M27.8@Other specified diseases of jaws
 M27.9@Disease of jaws, unspecified
+#
 M30.0@Polyarteritis nodosa
 M30.1@Polyarteritis with lung involvement [Churg-Strauss]
 M30.2@Juvenile polyarteritis
 M30.3@Mucocutaneous lymph node syndrome [Kawasaki]
 M30.8@Other conditions related to polyarteritis nodosa
+#
 M31.0@Hypersensitivity angiitis
 M31.1@Thrombotic microangiopathy
 M31.2@Lethal midline granuloma
@@ -2301,6 +2328,7 @@ M31.6@Other giant cell arteritis
 M31.7@Microscopic polyangiitis
 M31.8@Other specified necrotizing vasculopathies
 M31.9@Necrotizing vasculopathy, unspecified
+#
 M32.0@Drug-induced systemic lupus erythematosus
 M32.10@Systemic lupus erythematosus, organ or system involv unsp
 M32.11@Endocarditis in systemic lupus erythematosus
@@ -2311,6 +2339,7 @@ M32.15@Tubulo-interstitial neuropath in sys lupus erythematosus
 M32.19@Oth organ or system involv in systemic lupus erythematosus
 M32.8@Other forms of systemic lupus erythematosus
 M32.9@Systemic lupus erythematosus, unspecified
+#
 M33.00@Juvenile dermatopolymyositis, organ involvement unspecified
 M33.01@Juvenile dermatopolymyositis with respiratory involvement
 M33.02@Juvenile dermatopolymyositis with myopathy
@@ -2327,6 +2356,7 @@ M33.90@Dermatopolymyositis, unsp, organ involvement unspecified
 M33.91@Dermatopolymyositis, unsp with respiratory involvement
 M33.92@Dermatopolymyositis, unspecified with myopathy
 M33.99@Dermatopolymyositis, unsp with other organ involvement
+#
 M34.0@Progressive systemic sclerosis
 M34.1@CR(E)ST syndrome
 M34.2@Systemic sclerosis induced by drug and chemical
@@ -2335,6 +2365,7 @@ M34.82@Systemic sclerosis with myopathy
 M34.83@Systemic sclerosis with polyneuropathy
 M34.89@Other systemic sclerosis
 M34.9@Systemic sclerosis, unspecified
+#
 M35.00@Sicca syndrome, unspecified
 M35.01@Sicca syndrome with keratoconjunctivitis
 M35.02@Sicca syndrome with lung involvement
@@ -2350,12 +2381,14 @@ M35.6@Relapsing panniculitis [Weber-Christian]
 M35.7@Hypermobility syndrome
 M35.8@Other specified systemic involvement of connective tissue
 M35.9@Systemic involvement of connective tissue, unspecified
+#
 M36.0@Dermato(poly)myositis in neoplastic disease
 M36.1@Arthropathy in neoplastic disease
 M36.2@Hemophilic arthropathy
 M36.3@Arthropathy in other blood disorders
 M36.4@Arthropathy in hypersensitivity reactions classd elswhr
 M36.8@Systemic disord of conn tiss in oth diseases classd elswhr
+#
 M40.00@Postural kyphosis, site unspecified
 M40.03@Postural kyphosis, cervicothoracic region
 M40.04@Postural kyphosis, thoracic region
@@ -2387,6 +2420,7 @@ M40.50@Lordosis, unspecified, site unspecified
 M40.55@Lordosis, unspecified, thoracolumbar region
 M40.56@Lordosis, unspecified, lumbar region
 M40.57@Lordosis, unspecified, lumbosacral region
+#
 M41.00@Infantile idiopathic scoliosis, site unspecified
 M41.02@Infantile idiopathic scoliosis, cervical region
 M41.03@Infantile idiopathic scoliosis, cervicothoracic region
@@ -2442,6 +2476,7 @@ M41.85@Other forms of scoliosis, thoracolumbar region
 M41.86@Other forms of scoliosis, lumbar region
 M41.87@Other forms of scoliosis, lumbosacral region
 M41.9@Scoliosis, unspecified
+#
 M42.00@Juvenile osteochondrosis of spine, site unspecified
 M42.01@Juvenile osteochondrosis of spine, occipt-atlan-ax region
 M42.02@Juvenile osteochondrosis of spine, cervical region
@@ -2463,6 +2498,7 @@ M42.17@Adult osteochondrosis of spine, lumbosacral region
 M42.18@Adult osteochondrosis of spine, sacr/sacrocygl region
 M42.19@Adult osteochondrosis of spine, multiple sites in spine
 M42.9@Spinal osteochondrosis, unspecified
+#
 M43.00@Spondylolysis, site unspecified
 M43.01@Spondylolysis, occipito-atlanto-axial region
 M43.02@Spondylolysis, cervical region
@@ -2523,6 +2559,7 @@ M45.6@Ankylosing spondylitis lumbar region
 M45.7@Ankylosing spondylitis of lumbosacral region
 M45.8@Ankylosing spondylitis sacral and sacrococcygeal region
 M45.9@Ankylosing spondylitis of unspecified sites in spine
+#
 M46.00@Spinal enthesopathy, site unspecified
 M46.01@Spinal enthesopathy, occipito-atlanto-axial region
 M46.02@Spinal enthesopathy, cervical region
@@ -2593,6 +2630,7 @@ M46.96@Unspecified inflammatory spondylopathy, lumbar region
 M46.97@Unspecified inflammatory spondylopathy, lumbosacral region
 M46.98@Unsp inflammatory spondylopathy, sacr/sacrocygl region
 M46.99@Unsp inflammatory spondylopathy, multiple sites in spine
+#
 M47.011@Anterior spinal artery comprsn synd, occipt-atlan-ax region
 M47.012@Anterior spinal artery comprsn syndromes, cervical region
 M47.013@Anterior spinal artery comprsn syndromes, cervicothor region
@@ -2640,6 +2678,7 @@ M47.897@Other spondylosis, lumbosacral region
 M47.898@Other spondylosis, sacral and sacrococcygeal region
 M47.899@Other spondylosis, site unspecified
 M47.9@Spondylosis, unspecified
+#
 M48.00@Spinal stenosis, site unspecified
 M48.01@Spinal stenosis, occipito-atlanto-axial region
 M48.02@Spinal stenosis, cervical region
@@ -2758,6 +2797,7 @@ M48.8X7@Other specified spondylopathies, lumbosacral region
 M48.8X8@Oth spondylopathies, sacral and sacrococcygeal region
 M48.8X9@Other specified spondylopathies, site unspecified
 M48.9@Spondylopathy, unspecified
+#
 M49.80@Spondylopathy in diseases classified elsewhere, site unsp
 M49.81@Spond in diseases classd elswhr, occipt-atlan-ax region
 M49.82@Spondylopathy in diseases classd elswhr, cervical region
@@ -2768,6 +2808,7 @@ M49.86@Spondylopathy in diseases classd elswhr, lumbar region
 M49.87@Spondylopathy in diseases classd elswhr, lumbosacral region
 M49.88@Spond in diseases classd elswhr, sacr/sacrocygl region
 M49.89@Spond in diseases classd elswhr, multiple sites in spine
+#
 M50.00@Cervical disc disorder with myelopathy, unsp cervical region
 M50.01@Cervical disc disorder w myelopathy, occipt-atlan-ax region
 M50.02@Cervical disc disorder with myelopathy, mid-cervical region
@@ -2792,6 +2833,7 @@ M50.90@Cervical disc disorder, unsp, unspecified cervical region
 M50.91@Cervical disc disorder, unsp, occipito-atlanto-axial region
 M50.92@Cervical disc disorder, unspecified, mid-cervical region
 M50.93@Cervical disc disorder, unspecified, cervicothoracic region
+#
 M51.04@Intervertebral disc disorders w myelopathy, thoracic region
 M51.05@Intvrt disc disorders w myelopathy, thoracolumbar region
 M51.06@Intervertebral disc disorders with myelopathy, lumbar region
@@ -2817,6 +2859,7 @@ M51.85@Other intervertebral disc disorders, thoracolumbar region
 M51.86@Other intervertebral disc disorders, lumbar region
 M51.87@Other intervertebral disc disorders, lumbosacral region
 M51.9@Unsp thoracic, thoracolum and lumbosacr intvrt disc disorder
+#
 M53.0@Cervicocranial syndrome
 M53.1@Cervicobrachial syndrome
 M53.2X1@Spinal instabilities, occipito-atlanto-axial region
@@ -2839,6 +2882,7 @@ M53.86@Other specified dorsopathies, lumbar region
 M53.87@Other specified dorsopathies, lumbosacral region
 M53.88@Oth dorsopathies, sacral and sacrococcygeal region
 M53.9@Dorsopathy, unspecified
+#
 M54.00@Panniculitis affecting regions of neck and back, site unsp
 M54.01@Panniculitis aff regions of neck/bk, occipt-atlan-ax region
 M54.02@Panniculitis affecting regions of neck/bk, cervical region
@@ -2870,6 +2914,7 @@ M54.6@Pain in thoracic spine
 M54.81@Occipital neuralgia
 M54.89@Other dorsalgia
 M54.9@Dorsalgia, unspecified
+#
 M60.000@Infective myositis, unspecified right arm
 M60.001@Infective myositis, unspecified left arm
 M60.002@Infective myositis, unspecified arm
@@ -2981,6 +3026,7 @@ M60.879@Other myositis, unspecified ankle and foot
 M60.88@Other myositis, other site
 M60.89@Other myositis, multiple sites
 M60.9@Myositis, unspecified
+#
 M61.00@Myositis ossificans traumatica, unspecified site
 M61.011@Myositis ossificans traumatica, right shoulder
 M61.012@Myositis ossificans traumatica, left shoulder
@@ -3135,6 +3181,7 @@ M61.579@Other ossification of muscle, unspecified ankle and foot
 M61.58@Other ossification of muscle, other site
 M61.59@Other ossification of muscle, multiple sites
 M61.9@Calcification and ossification of muscle, unspecified
+#
 M62.00@Separation of muscle (nontraumatic), unspecified site
 M62.011@Separation of muscle (nontraumatic), right shoulder
 M62.012@Separation of muscle (nontraumatic), left shoulder
@@ -3260,6 +3307,7 @@ M62.831@Muscle spasm of calf
 M62.838@Other muscle spasm
 M62.89@Other specified disorders of muscle
 M62.9@Disorder of muscle, unspecified
+#
 M63.80@Disorders of muscle in diseases classd elswhr, unsp site
 M63.811@Disorders of muscle in diseases classd elswhr, r shoulder
 M63.812@Disorders of muscle in diseases classd elswhr, left shoulder
@@ -3284,6 +3332,7 @@ M63.872@Disorders of muscle in diseases classd elswhr, left ank/ft
 M63.879@Disorders of muscle in diseases classd elswhr, unsp ank/ft
 M63.88@Disorders of muscle in diseases classd elswhr, oth site
 M63.89@Disord of muscle in diseases classd elswhr, multiple sites
+#
 M65.00@Abscess of tendon sheath, unspecified site
 M65.011@Abscess of tendon sheath, right shoulder
 M65.012@Abscess of tendon sheath, left shoulder
@@ -3394,6 +3443,7 @@ M65.879@Other synovitis and tenosynovitis, unsp ankle and foot
 M65.88@Other synovitis and tenosynovitis, other site
 M65.89@Other synovitis and tenosynovitis, multiple sites
 M65.9@Synovitis and tenosynovitis, unspecified
+#
 M66.0@Rupture of popliteal cyst
 M66.10@Rupture of synovium, unspecified joint
 M66.111@Rupture of synovium, right shoulder
@@ -3497,6 +3547,7 @@ M66.879@Spontaneous rupture of other tendons, unsp ankle and foot
 M66.88@Spontaneous rupture of other tendons, other
 M66.89@Spontaneous rupture of other tendons, multiple sites
 M66.9@Spontaneous rupture of unspecified tendon
+#
 M67.00@Short Achilles tendon (acquired), unspecified ankle
 M67.01@Short Achilles tendon (acquired), right ankle
 M67.02@Short Achilles tendon (acquired), left ankle
@@ -3637,6 +3688,7 @@ M67.972@Unsp disorder of synovium and tendon, left ankle and foot
 M67.979@Unsp disorder of synovium and tendon, unsp ankle and foot
 M67.98@Unspecified disorder of synovium and tendon, other site
 M67.99@Unspecified disorder of synovium and tendon, multiple sites
+#
 M70.031@Crepitant synovitis (acute) (chronic), right wrist
 M70.032@Crepitant synovitis (acute) (chronic), left wrist
 M70.039@Crepitant synovitis (acute) (chronic), unspecified wrist
@@ -3712,6 +3764,7 @@ M70.972@Unsp soft tissue disord related to use/pressure, left ank/ft
 M70.979@Unsp soft tissue disord related to use/pressure, unsp ank/ft
 M70.98@Unsp soft tissue disorder related to use/pressure oth
 M70.99@Unsp soft tissue disord related to use/pressure mult sites
+#
 M71.00@Abscess of bursa, unspecified site
 M71.011@Abscess of bursa, right shoulder
 M71.012@Abscess of bursa, left shoulder
@@ -3850,6 +3903,7 @@ M71.879@Other specified bursopathies, unspecified ankle and foot
 M71.88@Other specified bursopathies, other site
 M71.89@Other specified bursopathies, multiple sites
 M71.9@Bursopathy, unspecified
+#
 M72.0@Palmar fascial fibromatosis [Dupuytren]
 M72.1@Knuckle pads
 M72.2@Plantar fascial fibromatosis
@@ -3857,6 +3911,7 @@ M72.4@Pseudosarcomatous fibromatosis
 M72.6@Necrotizing fasciitis
 M72.8@Other fibroblastic disorders
 M72.9@Fibroblastic disorder, unspecified
+#
 M75.00@Adhesive capsulitis of unspecified shoulder
 M75.01@Adhesive capsulitis of right shoulder
 M75.02@Adhesive capsulitis of left shoulder
@@ -3887,6 +3942,7 @@ M75.82@Other shoulder lesions, left shoulder
 M75.90@Shoulder lesion, unspecified, unspecified shoulder
 M75.91@Shoulder lesion, unspecified, right shoulder
 M75.92@Shoulder lesion, unspecified, left shoulder
+#
 M76.00@Gluteal tendinitis, unspecified hip
 M76.01@Gluteal tendinitis, right hip
 M76.02@Gluteal tendinitis, left hip
@@ -3921,6 +3977,7 @@ M76.891@Oth enthesopathies of right lower limb, excluding foot
 M76.892@Oth enthesopathies of left lower limb, excluding foot
 M76.899@Oth enthesopathies of unspecified lower limb, excluding foot
 M76.9@Unspecified enthesopathy, lower limb, excluding foot
+#
 M77.00@Medial epicondylitis, unspecified elbow
 M77.01@Medial epicondylitis, right elbow
 M77.02@Medial epicondylitis, left elbow
@@ -3941,6 +3998,7 @@ M77.51@Other enthesopathy of right foot
 M77.52@Other enthesopathy of left foot
 M77.8@Other enthesopathies, not elsewhere classified
 M77.9@Enthesopathy, unspecified
+#
 M79.0@Rheumatism, unspecified
 M79.1@Myalgia
 M79.2@Neuralgia and neuritis, unspecified
@@ -3990,6 +4048,7 @@ M79.A9@Nontraumatic compartment syndrome of other sites
 M79.81@Nontraumatic hematoma of soft tissue
 M79.89@Other specified soft tissue disorders
 M79.9@Soft tissue disorder, unspecified
+#
 M80.00XA@Age-rel osteopor w current path fracture, unsp site, init
 M80.00XD@Age-rel osteopor w crnt path fx, unsp site, 7thD
 M80.00XG@Age-rel osteopor w crnt path fx, unsp site, 7thG
@@ -4266,9 +4325,11 @@ M80.88XG@Oth osteopor w crnt path fx, verteb, 7thG
 M80.88XK@Oth osteopor w crnt path fx, verteb, subs for fx w nonunion
 M80.88XP@Oth osteopor w crnt path fx, verteb, subs for fx w malunion
 M80.88XS@Oth osteopor w current path fracture, vertebra(e), sequela
+#
 M81.0@Age-related osteoporosis w/o current pathological fracture
 M81.6@Localized osteoporosis [Lequesne]
 M81.8@Other osteoporosis without current pathological fracture
+#
 M83.0@Puerperal osteomalacia
 M83.1@Senile osteomalacia
 M83.2@Adult osteomalacia due to malabsorption
@@ -4277,6 +4338,7 @@ M83.4@Aluminum bone disease
 M83.5@Other drug-induced osteomalacia in adults
 M83.8@Other adult osteomalacia
 M83.9@Adult osteomalacia, unspecified
+#
 M84.30XA@Stress fracture, unspecified site, init encntr for fracture
 M84.30XD@Stress fracture, unsp site, subs for fx w routn heal
 M84.30XG@Stress fracture, unsp site, subs for fx w delay heal
@@ -5145,6 +5207,7 @@ M84.872@Other disorders of continuity of bone, left ankle and foot
 M84.879@Other disorders of continuity of bone, unsp ankle and foot
 M84.88@Other disorders of continuity of bone, other site
 M84.9@Disorder of continuity of bone, unspecified
+#
 M85.00@Fibrous dysplasia (monostotic), unspecified site
 M85.011@Fibrous dysplasia (monostotic), right shoulder
 M85.012@Fibrous dysplasia (monostotic), left shoulder
@@ -5314,6 +5377,7 @@ M85.879@Oth disrd of bone density and structure, unsp ankle and foot
 M85.88@Oth disrd of bone density and structure, other site
 M85.89@Oth disrd of bone density and structure, multiple sites
 M85.9@Disorder of bone density and structure, unspecified
+#
 M86.00@Acute hematogenous osteomyelitis, unspecified site
 M86.011@Acute hematogenous osteomyelitis, right shoulder
 M86.012@Acute hematogenous osteomyelitis, left shoulder
@@ -5493,6 +5557,7 @@ M86.8X7@Other osteomyelitis, ankle and foot
 M86.8X8@Other osteomyelitis, other site
 M86.8X9@Other osteomyelitis, unspecified sites
 M86.9@Osteomyelitis, unspecified
+#
 M87.00@Idiopathic aseptic necrosis of unspecified bone
 M87.011@Idiopathic aseptic necrosis of right shoulder
 M87.012@Idiopathic aseptic necrosis of left shoulder
@@ -5710,6 +5775,7 @@ M87.879@Other osteonecrosis, unspecified toe(s)
 M87.88@Other osteonecrosis, other site
 M87.89@Other osteonecrosis, multiple sites
 M87.9@Osteonecrosis, unspecified
+#
 M88.0@Osteitis deformans of skull
 M88.1@Osteitis deformans of vertebrae
 M88.811@Osteitis deformans of right shoulder
@@ -5736,6 +5802,7 @@ M88.879@Osteitis deformans of unspecified ankle and foot
 M88.88@Osteitis deformans of other bones
 M88.89@Osteitis deformans of multiple sites
 M88.9@Osteitis deformans of unspecified bone
+#
 M89.00@Algoneurodystrophy, unspecified site
 M89.011@Algoneurodystrophy, right shoulder
 M89.012@Algoneurodystrophy, left shoulder
@@ -5958,6 +6025,7 @@ M89.8X7@Other specified disorders of bone, ankle and foot
 M89.8X8@Other specified disorders of bone, other site
 M89.8X9@Other specified disorders of bone, unspecified site
 M89.9@Disorder of bone, unspecified
+#
 M90.50@Osteonecrosis in diseases classified elsewhere, unsp site
 M90.511@Osteonecrosis in diseases classd elswhr, right shoulder
 M90.512@Osteonecrosis in diseases classd elswhr, left shoulder
@@ -6030,6 +6098,7 @@ M90.872@Osteopathy in diseases classd elswhr, left ankle and foot
 M90.879@Osteopathy in diseases classd elswhr, unsp ankle and foot
 M90.88@Osteopathy in diseases classified elsewhere, other site
 M90.89@Osteopathy in diseases classified elsewhere, multiple sites
+#
 M91.0@Juvenile osteochondrosis of pelvis
 M91.10@Juvenile osteochondrosis of head of femur, unspecified leg
 M91.11@Juvenile osteochondrosis of head of femur, right leg
@@ -6049,6 +6118,7 @@ M91.82@Other juvenile osteochondrosis of hip and pelvis, left leg
 M91.90@Juvenile osteochondrosis of hip and pelvis, unsp, unsp leg
 M91.91@Juvenile osteochondrosis of hip and pelvis, unsp, right leg
 M91.92@Juvenile osteochondrosis of hip and pelvis, unsp, left leg
+#
 M92.00@Juvenile osteochondrosis of humerus, unspecified arm
 M92.01@Juvenile osteochondrosis of humerus, right arm
 M92.02@Juvenile osteochondrosis of humerus, left arm
@@ -6084,6 +6154,7 @@ M92.71@Juvenile osteochondrosis of metatarsus, right foot
 M92.72@Juvenile osteochondrosis of metatarsus, left foot
 M92.8@Other specified juvenile osteochondrosis
 M92.9@Juvenile osteochondrosis, unspecified
+#
 M93.001@Unsp slipped upper femoral epiphysis, right hip
 M93.002@Unsp slipped upper femoral epiphysis, left hip
 M93.003@Unsp slipped upper femoral epiphysis, unsp hip
@@ -6169,6 +6240,7 @@ M93.972@Osteochondropathy, unspecified, left ankle and foot
 M93.979@Osteochondropathy, unspecified, unspecified ankle and foot
 M93.98@Osteochondropathy, unspecified other
 M93.99@Osteochondropathy, unspecified multiple sites
+#
 M94.0@Chondrocostal junction syndrome [Tietze]
 M94.1@Relapsing polychondritis
 M94.20@Chondromalacia, unspecified site
@@ -6209,6 +6281,7 @@ M94.8X7@Other specified disorders of cartilage, ankle and foot
 M94.8X8@Other specified disorders of cartilage, other site
 M94.8X9@Other specified disorders of cartilage, unspecified sites
 M94.9@Disorder of cartilage, unspecified
+#
 M95.0@Acquired deformity of nose
 M95.10@Cauliflower ear, unspecified ear
 M95.11@Cauliflower ear, right ear
@@ -6219,6 +6292,7 @@ M95.4@Acquired deformity of chest and rib
 M95.5@Acquired deformity of pelvis
 M95.8@Oth acquired deformities of musculoskeletal system
 M95.9@Acquired deformity of musculoskeletal system, unspecified
+#
 M96.0@Pseudarthrosis after fusion or arthrodesis
 M96.1@Postlaminectomy syndrome, not elsewhere classified
 M96.2@Postradiation kyphosis
@@ -6246,6 +6320,7 @@ M96.821@Acc pnctr & lac of a ms structure during oth procedure
 M96.830@Postproc hemor/hemtom of a ms structure fol a ms sys proc
 M96.831@Postproc hemor/hemtom of a ms structure fol oth procedure
 M96.89@Oth intraop and postproc comp and disorders of the ms sys
+#
 M99.00@Segmental and somatic dysfunction of head region
 M99.01@Segmental and somatic dysfunction of cervical region
 M99.02@Segmental and somatic dysfunction of thoracic region

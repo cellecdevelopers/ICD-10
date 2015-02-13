@@ -286,6 +286,7 @@ S00.96XS@Insect bite (nonvenomous) of unsp part of head, sequela
 S00.97XA@Other superficial bite of unsp part of head, init encntr
 S00.97XD@Other superficial bite of unsp part of head, subs encntr
 S00.97XS@Other superficial bite of unspecified part of head, sequela
+#
 S01.00XA@Unspecified open wound of scalp, initial encounter
 S01.00XD@Unspecified open wound of scalp, subsequent encounter
 S01.00XS@Unspecified open wound of scalp, sequela
@@ -556,6 +557,7 @@ S01.94XS@Puncture wound w foreign body of unsp part of head, sequela
 S01.95XA@Open bite of unspecified part of head, initial encounter
 S01.95XD@Open bite of unspecified part of head, subsequent encounter
 S01.95XS@Open bite of unspecified part of head, sequela
+#
 S02.0XXA@Fracture of vault of skull, init encntr for closed fracture
 S02.0XXB@Fracture of vault of skull, init encntr for open fracture
 S02.0XXD@Fracture of vault of skull, subs for fx w routn heal
@@ -748,6 +750,7 @@ S02.92XD@Unsp fracture of facial bones, subs for fx w routn heal
 S02.92XG@Unsp fracture of facial bones, subs for fx w delay heal
 S02.92XK@Unsp fracture of facial bones, subs for fx w nonunion
 S02.92XS@Unspecified fracture of facial bones, sequela
+#
 S03.0XXA@Dislocation of jaw, initial encounter
 S03.0XXD@Dislocation of jaw, subsequent encounter
 S03.0XXS@Dislocation of jaw, sequela
@@ -766,6 +769,7 @@ S03.8XXS@Sprain of joints and ligaments of oth parts of head, sequela
 S03.9XXA@Sprain of joints and ligaments of unsp parts of head, init
 S03.9XXD@Sprain of joints and ligaments of unsp parts of head, subs
 S03.9XXS@Sprain of joints and ligaments of unsp parts of head, sqla
+#
 S04.011A@Injury of optic nerve, right eye, initial encounter
 S04.011D@Injury of optic nerve, right eye, subsequent encounter
 S04.011S@Injury of optic nerve, right eye, sequela
@@ -880,6 +884,7 @@ S04.899S@Injury of other cranial nerves, unspecified side, sequela
 S04.9XXA@Injury of unspecified cranial nerve, initial encounter
 S04.9XXD@Injury of unspecified cranial nerve, subsequent encounter
 S04.9XXS@Injury of unspecified cranial nerve, sequela
+#
 S05.00XA@Inj conjunctiva and corneal abrasion w/o fb, unsp eye, init
 S05.00XD@Inj conjunctiva and corneal abrasion w/o fb, unsp eye, subs
 S05.00XS@Inj conjunctiva and corneal abras w/o fb, unsp eye, sequela
@@ -970,6 +975,7 @@ S05.91XS@Unspecified injury of right eye and orbit, sequela
 S05.92XA@Unspecified injury of left eye and orbit, initial encounter
 S05.92XD@Unspecified injury of left eye and orbit, subs encntr
 S05.92XS@Unspecified injury of left eye and orbit, sequela
+#
 S06.0X0A@Concussion without loss of consciousness, initial encounter
 S06.0X0D@Concussion without loss of consciousness, subs encntr
 S06.0X0S@Concussion without loss of consciousness, sequela
@@ -1540,6 +1546,7 @@ S06.9X8S@Unsp intcrn inj w LOC w death d/t oth cause bf consc, sqla
 S06.9X9A@Unsp intracranial injury w LOC of unsp duration, init
 S06.9X9D@Unsp intracranial injury w LOC of unsp duration, subs
 S06.9X9S@Unsp intracranial injury w LOC of unsp duration, sequela
+#
 S07.0XXA@Crushing injury of face, initial encounter
 S07.0XXD@Crushing injury of face, subsequent encounter
 S07.0XXS@Crushing injury of face, sequela
@@ -1552,6 +1559,7 @@ S07.8XXS@Crushing injury of other parts of head, sequela
 S07.9XXA@Crushing injury of head, part unspecified, initial encounter
 S07.9XXD@Crushing injury of head, part unspecified, subs encntr
 S07.9XXS@Crushing injury of head, part unspecified, sequela
+#
 S08.0XXA@Avulsion of scalp, initial encounter
 S08.0XXD@Avulsion of scalp, subsequent encounter
 S08.0XXS@Avulsion of scalp, sequela
@@ -1582,6 +1590,7 @@ S08.812S@Partial traumatic amputation of nose, sequela
 S08.89XA@Traumatic amputation of other parts of head, init encntr
 S08.89XD@Traumatic amputation of other parts of head, subs encntr
 S08.89XS@Traumatic amputation of other parts of head, sequela
+#
 S09.0XXA@Injury of blood vessels of head, NEC, init
 S09.0XXD@Injury of blood vessels of head, NEC, subs
 S09.0XXS@Injury of blood vessels of head, NEC, sequela
@@ -1651,6 +1660,7 @@ S09.92XS@Unspecified injury of nose, sequela
 S09.93XA@Unspecified injury of face, initial encounter
 S09.93XD@Unspecified injury of face, subsequent encounter
 S09.93XS@Unspecified injury of face, sequela
+#
 S10.0XXA@Contusion of throat, initial encounter
 S10.0XXD@Contusion of throat, subsequent encounter
 S10.0XXS@Contusion of throat, sequela
@@ -1723,6 +1733,7 @@ S10.96XS@Insect bite of unspecified part of neck, sequela
 S10.97XA@Other superficial bite of unsp part of neck, init encntr
 S10.97XD@Other superficial bite of unsp part of neck, subs encntr
 S10.97XS@Other superficial bite of unspecified part of neck, sequela
+#
 S11.011A@Laceration without foreign body of larynx, initial encounter
 S11.011D@Laceration without foreign body of larynx, subs encntr
 S11.011S@Laceration without foreign body of larynx, sequela
@@ -1852,6 +1863,7 @@ S11.94XS@Puncture wound w foreign body of unsp part of neck, sequela
 S11.95XA@Open bite of unspecified part of neck, initial encounter
 S11.95XD@Open bite of unspecified part of neck, subsequent encounter
 S11.95XS@Open bite of unspecified part of neck, sequela
+#
 S12.000A@Unsp disp fx of first cervical vertebra, init for clos fx
 S12.000B@Unsp disp fx of first cervical vertebra, init for opn fx
 S12.000D@Unsp disp fx of first cervcal vert, subs for fx w routn heal
@@ -2272,6 +2284,7 @@ S12.8XXS@Fracture of other parts of neck, sequela
 S12.9XXA@Fracture of neck, unspecified, initial encounter
 S12.9XXD@Fracture of neck, unspecified, subsequent encounter
 S12.9XXS@Fracture of neck, unspecified, sequela
+#
 S13.0XXA@Traumatic rupture of cervical intervertebral disc, init
 S13.0XXD@Traumatic rupture of cervical intervertebral disc, subs
 S13.0XXS@Traumatic rupture of cervical intervertebral disc, sequela
@@ -2347,6 +2360,7 @@ S13.8XXS@Sprain of joints and ligaments of oth parts of neck, sequela
 S13.9XXA@Sprain of joints and ligaments of unsp parts of neck, init
 S13.9XXD@Sprain of joints and ligaments of unsp parts of neck, subs
 S13.9XXS@Sprain of joints and ligaments of unsp parts of neck, sqla
+#
 S14.0XXA@Concussion and edema of cervical spinal cord, init encntr
 S14.0XXD@Concussion and edema of cervical spinal cord, subs encntr
 S14.0XXS@Concussion and edema of cervical spinal cord, sequela
@@ -2530,6 +2544,7 @@ S14.8XXS@Injury of other specified nerves of neck, sequela
 S14.9XXA@Injury of unspecified nerves of neck, initial encounter
 S14.9XXD@Injury of unspecified nerves of neck, subsequent encounter
 S14.9XXS@Injury of unspecified nerves of neck, sequela
+#
 S15.001A@Unspecified injury of right carotid artery, init encntr
 S15.001D@Unspecified injury of right carotid artery, subs encntr
 S15.001S@Unspecified injury of right carotid artery, sequela
@@ -2680,6 +2695,7 @@ S15.8XXS@Injury of oth blood vessels at neck level, sequela
 S15.9XXA@Injury of unsp blood vessel at neck level, init encntr
 S15.9XXD@Injury of unsp blood vessel at neck level, subs encntr
 S15.9XXS@Injury of unspecified blood vessel at neck level, sequela
+#
 S16.1XXA@Strain of muscle, fascia and tendon at neck level, init
 S16.1XXD@Strain of muscle, fascia and tendon at neck level, subs
 S16.1XXS@Strain of muscle, fascia and tendon at neck level, sequela
@@ -2692,6 +2708,7 @@ S16.8XXS@Inj muscle, fascia and tendon at neck level, sequela
 S16.9XXA@Unsp injury of muscle, fascia and tendon at neck level, init
 S16.9XXD@Unsp injury of muscle, fascia and tendon at neck level, subs
 S16.9XXS@Unsp injury of musc/fasc/tend at neck level, sequela
+#
 S17.0XXA@Crushing injury of larynx and trachea, initial encounter
 S17.0XXD@Crushing injury of larynx and trachea, subsequent encounter
 S17.0XXS@Crushing injury of larynx and trachea, sequela
@@ -2701,6 +2718,7 @@ S17.8XXS@Crushing injury of other specified parts of neck, sequela
 S17.9XXA@Crushing injury of neck, part unspecified, initial encounter
 S17.9XXD@Crushing injury of neck, part unspecified, subs encntr
 S17.9XXS@Crushing injury of neck, part unspecified, sequela
+#
 S19.80XA@Oth injuries of unspecified part of neck, init encntr
 S19.80XD@Oth injuries of unspecified part of neck, subs encntr
 S19.80XS@Oth injuries of unspecified part of neck, sequela
@@ -2725,6 +2743,7 @@ S19.89XS@Oth injuries of other specified part of neck, sequela
 S19.9XXA@Unspecified injury of neck, initial encounter
 S19.9XXD@Unspecified injury of neck, subsequent encounter
 S19.9XXS@Unspecified injury of neck, sequela
+#
 S20.00XA@Contusion of breast, unspecified breast, initial encounter
 S20.00XD@Contusion of breast, unspecified breast, subs encntr
 S20.00XS@Contusion of breast, unspecified breast, sequela
@@ -2965,6 +2984,7 @@ S20.96XS@Insect bite (nonvenomous) of unsp parts of thorax, sequela
 S20.97XA@Other superficial bite of unsp parts of thorax, init encntr
 S20.97XD@Other superficial bite of unsp parts of thorax, subs encntr
 S20.97XS@Other superficial bite of unsp parts of thorax, sequela
+#
 S21.001A@Unspecified open wound of right breast, initial encounter
 S21.001D@Unspecified open wound of right breast, subsequent encounter
 S21.001S@Unspecified open wound of right breast, sequela
@@ -3253,6 +3273,7 @@ S21.94XS@Pnctr w foreign body of unsp part of thorax, sequela
 S21.95XA@Open bite of unspecified part of thorax, initial encounter
 S21.95XD@Open bite of unspecified part of thorax, subs encntr
 S21.95XS@Open bite of unspecified part of thorax, sequela
+#
 S22.000A@Wedge compression fracture of unsp thoracic vertebra, init
 S22.000B@Wedge comprsn fx unsp thor vertebra, init for opn fx
 S22.000D@Wedge comprsn fx unsp thor vert, subs for fx w routn heal
@@ -3607,6 +3628,7 @@ S22.9XXD@Fracture of bony thorax, part unsp, subs for fx w routn heal
 S22.9XXG@Fracture of bony thorax, part unsp, subs for fx w delay heal
 S22.9XXK@Fracture of bony thorax, part unsp, subs for fx w nonunion
 S22.9XXS@Fracture of bony thorax, part unspecified, sequela
+#
 S23.0XXA@Traumatic rupture of thoracic intervertebral disc, init
 S23.0XXD@Traumatic rupture of thoracic intervertebral disc, subs
 S23.0XXS@Traumatic rupture of thoracic intervertebral disc, sequela
@@ -3718,6 +3740,7 @@ S23.8XXS@Sprain of other specified parts of thorax, sequela
 S23.9XXA@Sprain of unspecified parts of thorax, initial encounter
 S23.9XXD@Sprain of unspecified parts of thorax, subsequent encounter
 S23.9XXS@Sprain of unspecified parts of thorax, sequela
+#
 S24.0XXA@Concussion and edema of thoracic spinal cord, init encntr
 S24.0XXD@Concussion and edema of thoracic spinal cord, subs encntr
 S24.0XXS@Concussion and edema of thoracic spinal cord, sequela
@@ -3811,6 +3834,7 @@ S24.8XXS@Injury of other specified nerves of thorax, sequela
 S24.9XXA@Injury of unspecified nerve of thorax, initial encounter
 S24.9XXD@Injury of unspecified nerve of thorax, subsequent encounter
 S24.9XXS@Injury of unspecified nerve of thorax, sequela
+#
 S25.00XA@Unspecified injury of thoracic aorta, initial encounter
 S25.00XD@Unspecified injury of thoracic aorta, subsequent encounter
 S25.00XS@Unspecified injury of thoracic aorta, sequela
@@ -4006,6 +4030,7 @@ S25.91XS@Laceration of unspecified blood vessel of thorax, sequela
 S25.99XA@Oth injury of unsp blood vessel of thorax, init encntr
 S25.99XD@Oth injury of unsp blood vessel of thorax, subs encntr
 S25.99XS@Oth injury of unspecified blood vessel of thorax, sequela
+#
 S26.00XA@Unsp injury of heart with hemopericardium, init encntr
 S26.00XD@Unsp injury of heart with hemopericardium, subs encntr
 S26.00XS@Unspecified injury of heart with hemopericardium, sequela
@@ -4048,6 +4073,7 @@ S26.92XS@Laceration of heart, unsp w or w/o hemopericardium, sequela
 S26.99XA@Inj heart, unsp w or w/o hemopericardium, init encntr
 S26.99XD@Inj heart, unsp w or w/o hemopericardium, subs encntr
 S26.99XS@Oth injury of heart, unsp w or w/o hemopericardium, sequela
+#
 S27.0XXA@Traumatic pneumothorax, initial encounter
 S27.0XXD@Traumatic pneumothorax, subsequent encounter
 S27.0XXS@Traumatic pneumothorax, sequela
@@ -4210,6 +4236,7 @@ S27.899S@Unspecified injury of oth intrathoracic organs, sequela
 S27.9XXA@Injury of unspecified intrathoracic organ, initial encounter
 S27.9XXD@Injury of unspecified intrathoracic organ, subs encntr
 S27.9XXS@Injury of unspecified intrathoracic organ, sequela
+#
 S28.0XXA@Crushed chest, initial encounter
 S28.0XXD@Crushed chest, subsequent encounter
 S28.0XXS@Crushed chest, sequela
@@ -4234,6 +4261,7 @@ S28.222S@Partial traumatic amputation of left breast, sequela
 S28.229A@Partial traumatic amputation of unsp breast, init encntr
 S28.229D@Partial traumatic amputation of unsp breast, subs encntr
 S28.229S@Partial traumatic amputation of unspecified breast, sequela
+#
 S29.001A@Unsp injury of msl/tnd of front wall of thorax, init
 S29.001D@Unsp injury of msl/tnd of front wall of thorax, subs
 S29.001S@Unsp injury of msl/tnd of front wall of thorax, sequela
@@ -4276,6 +4304,7 @@ S29.8XXS@Other specified injuries of thorax, sequela
 S29.9XXA@Unspecified injury of thorax, initial encounter
 S29.9XXD@Unspecified injury of thorax, subsequent encounter
 S29.9XXS@Unspecified injury of thorax, sequela
+#
 S30.0XXA@Contusion of lower back and pelvis, initial encounter
 S30.0XXD@Contusion of lower back and pelvis, subsequent encounter
 S30.0XXS@Contusion of lower back and pelvis, sequela
@@ -4465,6 +4494,7 @@ S30.97XS@Unsp superfic inj unsp extrn genital organs, female, sequela
 S30.98XA@Unspecified superficial injury of anus, initial encounter
 S30.98XD@Unspecified superficial injury of anus, subsequent encounter
 S30.98XS@Unspecified superficial injury of anus, sequela
+#
 S31.000A@Unsp opn wnd low back and pelv w/o penet retroperiton, init
 S31.000D@Unsp opn wnd low back and pelv w/o penet retroperiton, subs
 S31.000S@Unsp opn wnd low back and pelv w/o penet retroperiton, sqla
@@ -4915,6 +4945,7 @@ S31.835S@Open bite of anus, sequela
 S31.839A@Unspecified open wound of anus, initial encounter
 S31.839D@Unspecified open wound of anus, subsequent encounter
 S31.839S@Unspecified open wound of anus, sequela
+#
 S32.000A@Wedge compression fracture of unsp lumbar vertebra, init
 S32.000B@Wedge comprsn fracture of unsp lum vertebra, init for opn fx
 S32.000D@Wedge comprsn fx unsp lum vertebra, subs for fx w routn heal
@@ -5761,6 +5792,7 @@ S32.9XXD@Fx unsp parts of lumbosacr spin & pelv, 7thD
 S32.9XXG@Fx unsp parts of lumbosacr spin & pelv, 7thG
 S32.9XXK@Fx unsp parts of lumbosacr spin & pelv, 7thK
 S32.9XXS@Fx unsp parts of lumbosacral spine & pelvis, sequela
+#
 S33.0XXA@Traumatic rupture of lumbar intervertebral disc, init encntr
 S33.0XXD@Traumatic rupture of lumbar intervertebral disc, subs encntr
 S33.0XXS@Traumatic rupture of lumbar intervertebral disc, sequela
@@ -5818,6 +5850,7 @@ S33.8XXS@Sprain of other parts of lumbar spine and pelvis, sequela
 S33.9XXA@Sprain of unsp parts of lumbar spine and pelvis, init encntr
 S33.9XXD@Sprain of unsp parts of lumbar spine and pelvis, subs encntr
 S33.9XXS@Sprain of unsp parts of lumbar spine and pelvis, sequela
+#
 S34.01XA@Concussion and edema of lumbar spinal cord, init encntr
 S34.01XD@Concussion and edema of lumbar spinal cord, subs encntr
 S34.01XS@Concussion and edema of lumbar spinal cord, sequela
@@ -5911,6 +5944,7 @@ S34.8XXS@Inj nerves at abdomen, low back and pelvis level, sequela
 S34.9XXA@Inj unsp nerves at abdomen, low back and pelvis level, init
 S34.9XXD@Inj unsp nerves at abdomen, low back and pelvis level, subs
 S34.9XXS@Inj unsp nerves at abd, low back and pelvis level, sequela
+#
 S35.00XA@Unspecified injury of abdominal aorta, initial encounter
 S35.00XD@Unspecified injury of abdominal aorta, subsequent encounter
 S35.00XS@Unspecified injury of abdominal aorta, sequela
@@ -6133,6 +6167,7 @@ S35.91XS@Lacerat unsp bld vess at abd, low back and pelv level, sqla
 S35.99XA@Inj unsp blood vess at abd, low back and pelvis level, init
 S35.99XD@Inj unsp blood vess at abd, low back and pelvis level, subs
 S35.99XS@Inj unsp blood vess at abd, low back and pelvis level, sqla
+#
 S36.00XA@Unspecified injury of spleen, initial encounter
 S36.00XD@Unspecified injury of spleen, subsequent encounter
 S36.00XS@Unspecified injury of spleen, sequela
@@ -6469,6 +6504,7 @@ S36.93XS@Laceration of unspecified intra-abdominal organ, sequela
 S36.99XA@Other injury of unsp intra-abdominal organ, init encntr
 S36.99XD@Other injury of unsp intra-abdominal organ, subs encntr
 S36.99XS@Other injury of unspecified intra-abdominal organ, sequela
+#
 S37.001A@Unspecified injury of right kidney, initial encounter
 S37.001D@Unspecified injury of right kidney, subsequent encounter
 S37.001S@Unspecified injury of right kidney, sequela
@@ -6718,6 +6754,7 @@ S37.93XS@Laceration of unspecified urinary and pelvic organ, sequela
 S37.99XA@Other injury of unsp urinary and pelvic organ, init encntr
 S37.99XD@Other injury of unsp urinary and pelvic organ, subs encntr
 S37.99XS@Other injury of unsp urinary and pelvic organ, sequela
+#
 S38.001A@Crushing injury of unsp external genital organs, male, init
 S38.001D@Crushing injury of unsp external genital organs, male, subs
 S38.001S@Crushing inj unsp external genital organs, male, sequela
@@ -6757,6 +6794,7 @@ S38.232S@Partial traumatic amputation of scrotum and testis, sequela
 S38.3XXA@Transection (partial) of abdomen, initial encounter
 S38.3XXD@Transection (partial) of abdomen, subsequent encounter
 S38.3XXS@Transection (partial) of abdomen, sequela
+#
 S39.001A@Unsp injury of muscle, fascia and tendon of abdomen, init
 S39.001D@Unsp injury of muscle, fascia and tendon of abdomen, subs
 S39.001S@Unsp injury of muscle, fascia and tendon of abdomen, sequela
@@ -6820,6 +6858,7 @@ S39.93XS@Unspecified injury of pelvis, sequela
 S39.94XA@Unspecified injury of external genitals, initial encounter
 S39.94XD@Unspecified injury of external genitals, subs encntr
 S39.94XS@Unspecified injury of external genitals, sequela
+#
 S40.011A@Contusion of right shoulder, initial encounter
 S40.011D@Contusion of right shoulder, subsequent encounter
 S40.011S@Contusion of right shoulder, sequela
@@ -6964,6 +7003,7 @@ S40.922S@Unspecified superficial injury of left upper arm, sequela
 S40.929A@Unsp superficial injury of unsp upper arm, init encntr
 S40.929D@Unsp superficial injury of unsp upper arm, subs encntr
 S40.929S@Unsp superficial injury of unspecified upper arm, sequela
+#
 S41.001A@Unspecified open wound of right shoulder, initial encounter
 S41.001D@Unspecified open wound of right shoulder, subs encntr
 S41.001S@Unspecified open wound of right shoulder, sequela
@@ -7072,6 +7112,7 @@ S41.152S@Open bite of left upper arm, sequela
 S41.159A@Open bite of unspecified upper arm, initial encounter
 S41.159D@Open bite of unspecified upper arm, subsequent encounter
 S41.159S@Open bite of unspecified upper arm, sequela
+#
 S42.001A@Fracture of unsp part of right clavicle, init for clos fx
 S42.001B@Fracture of unsp part of right clavicle, init for opn fx
 S42.001D@Fx unsp part of r clavicle, subs for fx w routn heal
@@ -8470,6 +8511,7 @@ S42.92XG@Fx l shoulder girdle, part unsp, subs for fx w delay heal
 S42.92XK@Fx l shoulder girdle, part unsp, subs for fx w nonunion
 S42.92XP@Fx l shoulder girdle, part unsp, subs for fx w malunion
 S42.92XS@Fracture of left shoulder girdle, part unspecified, sequela
+#
 S43.001A@Unspecified subluxation of right shoulder joint, init encntr
 S43.001D@Unspecified subluxation of right shoulder joint, subs encntr
 S43.001S@Unspecified subluxation of right shoulder joint, sequela
@@ -8803,6 +8845,7 @@ S43.91XS@Sprain of unsp parts of right shoulder girdle, sequela
 S43.92XA@Sprain of unsp parts of left shoulder girdle, init encntr
 S43.92XD@Sprain of unsp parts of left shoulder girdle, subs encntr
 S43.92XS@Sprain of unspecified parts of left shoulder girdle, sequela
+#
 S44.00XA@Injury of ulnar nerve at upper arm level, unsp arm, init
 S44.00XD@Injury of ulnar nerve at upper arm level, unsp arm, subs
 S44.00XS@Injury of ulnar nerve at upper arm level, unsp arm, sequela
@@ -8875,6 +8918,7 @@ S44.91XS@Injury of unsp nerve at shldr/up arm, right arm, sequela
 S44.92XA@Injury of unsp nerve at shldr/up arm, left arm, init
 S44.92XD@Injury of unsp nerve at shldr/up arm, left arm, subs
 S44.92XS@Injury of unsp nerve at shldr/up arm, left arm, sequela
+#
 S45.001A@Unsp injury of axillary artery, right side, init encntr
 S45.001D@Unsp injury of axillary artery, right side, subs encntr
 S45.001S@Unspecified injury of axillary artery, right side, sequela
@@ -9037,6 +9081,7 @@ S45.992S@Inj unsp blood vessel at shldr/up arm, left arm, sequela
 S45.999A@Inj unsp blood vessel at shldr/up arm, unsp arm, init
 S45.999D@Inj unsp blood vessel at shldr/up arm, unsp arm, subs
 S45.999S@Inj unsp blood vessel at shldr/up arm, unsp arm, sequela
+#
 S46.001A@Unsp inj musc/tend the rotator cuff of r shoulder, init
 S46.001D@Unsp inj musc/tend the rotator cuff of r shoulder, subs
 S46.001S@Unsp inj musc/tend the rotator cuff of r shoulder, sequela
@@ -9253,6 +9298,7 @@ S46.992S@Inj unsp musc/fasc/tend at shldr/up arm, left arm, sequela
 S46.999A@Inj unsp musc/fasc/tend at shldr/up arm, unsp arm, init
 S46.999D@Inj unsp musc/fasc/tend at shldr/up arm, unsp arm, subs
 S46.999S@Inj unsp musc/fasc/tend at shldr/up arm, unsp arm, sequela
+#
 S47.1XXA@Crushing injury of right shoulder and upper arm, init encntr
 S47.1XXD@Crushing injury of right shoulder and upper arm, subs encntr
 S47.1XXS@Crushing injury of right shoulder and upper arm, sequela
@@ -9262,6 +9308,7 @@ S47.2XXS@Crushing injury of left shoulder and upper arm, sequela
 S47.9XXA@Crushing injury of shoulder and upper arm, unsp arm, init
 S47.9XXD@Crushing injury of shoulder and upper arm, unsp arm, subs
 S47.9XXS@Crushing injury of shoulder and upper arm, unsp arm, sequela
+#
 S48.011A@Complete traumatic amputation at right shoulder joint, init
 S48.011D@Complete traumatic amputation at right shoulder joint, subs
 S48.011S@Complete traumatic amputation at r shoulder jt, sequela
@@ -9316,6 +9363,7 @@ S48.922S@Partial traum amp of left shldr/up arm, level unsp, sequela
 S48.929A@Partial traumatic amp of unsp shldr/up arm, level unsp, init
 S48.929D@Partial traumatic amp of unsp shldr/up arm, level unsp, subs
 S48.929S@Partial traum amp of unsp shldr/up arm, level unsp, sequela
+#
 S49.001A@Unsp physeal fx upper end of humerus, right arm, init
 S49.001D@Unsp physl fx upr end humer, r arm, subs for fx w routn heal
 S49.001G@Unsp physl fx upr end humer, r arm, subs for fx w delay heal
@@ -9550,6 +9598,7 @@ S49.91XS@Unspecified injury of right shoulder and upper arm, sequela
 S49.92XA@Unsp injury of left shoulder and upper arm, init encntr
 S49.92XD@Unsp injury of left shoulder and upper arm, subs encntr
 S49.92XS@Unspecified injury of left shoulder and upper arm, sequela
+#
 S50.00XA@Contusion of unspecified elbow, initial encounter
 S50.00XD@Contusion of unspecified elbow, subsequent encounter
 S50.00XS@Contusion of unspecified elbow, sequela
@@ -9694,6 +9743,7 @@ S50.912S@Unspecified superficial injury of left forearm, sequela
 S50.919A@Unsp superficial injury of unspecified forearm, init encntr
 S50.919D@Unsp superficial injury of unspecified forearm, subs encntr
 S50.919S@Unsp superficial injury of unspecified forearm, sequela
+#
 S51.001A@Unspecified open wound of right elbow, initial encounter
 S51.001D@Unspecified open wound of right elbow, subsequent encounter
 S51.001S@Unspecified open wound of right elbow, sequela
@@ -9802,6 +9852,7 @@ S51.852S@Open bite of left forearm, sequela
 S51.859A@Open bite of unspecified forearm, initial encounter
 S51.859D@Open bite of unspecified forearm, subsequent encounter
 S51.859S@Open bite of unspecified forearm, sequela
+#
 S52.001A@Unsp fracture of upper end of right ulna, init for clos fx
 S52.001B@Unsp fx upper end of right ulna, init for opn fx type I/2
 S52.001C@Unsp fx upper end of right ulna, init for opn fx type 3A/B/C
@@ -12598,6 +12649,7 @@ S52.92XP@Unsp fracture of left forearm, subs for clos fx w malunion
 S52.92XQ@Unsp fx l forearm, subs for opn fx type I/2 w malunion
 S52.92XR@Unsp fx l forearm, subs for opn fx type 3A/B/C w malunion
 S52.92XS@Unspecified fracture of left forearm, sequela
+#
 S53.001A@Unspecified subluxation of right radial head, init encntr
 S53.001D@Unspecified subluxation of right radial head, subs encntr
 S53.001S@Unspecified subluxation of right radial head, sequela
@@ -12859,6 +12911,7 @@ S53.492S@Other sprain of left elbow, sequela
 S53.499A@Other sprain of unspecified elbow, initial encounter
 S53.499D@Other sprain of unspecified elbow, subsequent encounter
 S53.499S@Other sprain of unspecified elbow, sequela
+#
 S54.00XA@Injury of ulnar nerve at forearm level, unsp arm, init
 S54.00XD@Injury of ulnar nerve at forearm level, unsp arm, subs
 S54.00XS@Injury of ulnar nerve at forearm level, unsp arm, sequela
@@ -12913,6 +12966,7 @@ S54.91XS@Injury of unsp nerve at forearm level, right arm, sequela
 S54.92XA@Injury of unsp nerve at forearm level, left arm, init encntr
 S54.92XD@Injury of unsp nerve at forearm level, left arm, subs encntr
 S54.92XS@Injury of unsp nerve at forearm level, left arm, sequela
+#
 S55.001A@Unsp injury of ulnar artery at forarm lv, right arm, init
 S55.001D@Unsp injury of ulnar artery at forarm lv, right arm, subs
 S55.001S@Unsp injury of ulnar artery at forarm lv, right arm, sequela
@@ -13048,6 +13102,7 @@ S55.992S@Inj unsp blood vessel at forearm level, left arm, sequela
 S55.999A@Inj unsp blood vessel at forearm level, unsp arm, init
 S55.999D@Inj unsp blood vessel at forearm level, unsp arm, subs
 S55.999S@Inj unsp blood vessel at forearm level, unsp arm, sequela
+#
 S56.001A@Unsp inj flexor musc/fasc/tend r thm at forarm lv, init
 S56.001D@Unsp inj flexor musc/fasc/tend r thm at forarm lv, subs
 S56.001S@Unsp inj flexor musc/fasc/tend r thm at forarm lv, sequela
@@ -13480,6 +13535,7 @@ S56.992S@Inj unsp musc/fasc/tend at forearm level, left arm, sequela
 S56.999A@Inj unsp musc/fasc/tend at forearm level, unsp arm, init
 S56.999D@Inj unsp musc/fasc/tend at forearm level, unsp arm, subs
 S56.999S@Inj unsp musc/fasc/tend at forearm level, unsp arm, sequela
+#
 S57.00XA@Crushing injury of unspecified elbow, initial encounter
 S57.00XD@Crushing injury of unspecified elbow, subsequent encounter
 S57.00XS@Crushing injury of unspecified elbow, sequela
@@ -13498,6 +13554,7 @@ S57.81XS@Crushing injury of right forearm, sequela
 S57.82XA@Crushing injury of left forearm, initial encounter
 S57.82XD@Crushing injury of left forearm, subsequent encounter
 S57.82XS@Crushing injury of left forearm, sequela
+#
 S58.011A@Complete traumatic amp at elbow level, right arm, init
 S58.011D@Complete traumatic amp at elbow level, right arm, subs
 S58.011S@Complete traumatic amp at elbow level, right arm, sequela
@@ -13552,6 +13609,7 @@ S58.922S@Partial traumatic amp of l forearm, level unsp, sequela
 S58.929A@Partial traumatic amp of unsp forearm, level unsp, init
 S58.929D@Partial traumatic amp of unsp forearm, level unsp, subs
 S58.929S@Partial traumatic amp of unsp forearm, level unsp, sequela
+#
 S59.001A@Unsp physeal fracture of lower end of ulna, right arm, init
 S59.001D@Unsp physl fx low end ulna, r arm, subs for fx w routn heal
 S59.001G@Unsp physl fx low end ulna, r arm, subs for fx w delay heal
@@ -13912,6 +13970,7 @@ S59.912S@Unspecified injury of left forearm, sequela
 S59.919A@Unspecified injury of unspecified forearm, initial encounter
 S59.919D@Unspecified injury of unspecified forearm, subs encntr
 S59.919S@Unspecified injury of unspecified forearm, sequela
+#
 S60.00XA@Contusion of unsp finger without damage to nail, init encntr
 S60.00XD@Contusion of unsp finger without damage to nail, subs encntr
 S60.00XS@Contusion of unsp finger without damage to nail, sequela
@@ -14434,6 +14493,7 @@ S60.948S@Unspecified superficial injury of other finger, sequela
 S60.949A@Unsp superficial injury of unspecified finger, init encntr
 S60.949D@Unsp superficial injury of unspecified finger, subs encntr
 S60.949S@Unsp superficial injury of unspecified finger, sequela
+#
 S61.001A@Unsp open wound of right thumb w/o damage to nail, init
 S61.001D@Unsp open wound of right thumb w/o damage to nail, subs
 S61.001S@Unsp open wound of right thumb w/o damage to nail, sequela
@@ -15010,6 +15070,7 @@ S61.552S@Open bite of left wrist, sequela
 S61.559A@Open bite of unspecified wrist, initial encounter
 S61.559D@Open bite of unspecified wrist, subsequent encounter
 S61.559S@Open bite of unspecified wrist, sequela
+#
 S62.001A@Unsp fracture of navicular bone of right wrist, init
 S62.001B@Unsp fx navicular bone of right wrist, init for opn fx
 S62.001D@Unsp fx navicular bone of r wrist, subs for fx w routn heal
@@ -16921,6 +16982,7 @@ S62.92XG@Unsp fracture of left wrs/hnd, subs for fx w delay heal
 S62.92XK@Unsp fracture of left wrist and hand, subs for fx w nonunion
 S62.92XP@Unsp fracture of left wrist and hand, subs for fx w malunion
 S62.92XS@Unspecified fracture of left wrist and hand, sequela
+#
 S63.001A@Unspecified subluxation of right wrist and hand, init encntr
 S63.001D@Unspecified subluxation of right wrist and hand, subs encntr
 S63.001S@Unspecified subluxation of right wrist and hand, sequela
@@ -17878,6 +17940,7 @@ S63.91XS@Sprain of unspecified part of right wrist and hand, sequela
 S63.92XA@Sprain of unsp part of left wrist and hand, init encntr
 S63.92XD@Sprain of unsp part of left wrist and hand, subs encntr
 S63.92XS@Sprain of unspecified part of left wrist and hand, sequela
+#
 S64.00XA@Injury of ulnar nerve at wrs/hnd lv of unsp arm, init
 S64.00XD@Injury of ulnar nerve at wrs/hnd lv of unsp arm, subs
 S64.00XS@Injury of ulnar nerve at wrs/hnd lv of unsp arm, sequela
@@ -17962,6 +18025,7 @@ S64.91XS@Injury of unsp nerve at wrs/hnd lv of right arm, sequela
 S64.92XA@Injury of unsp nerve at wrs/hnd lv of left arm, init
 S64.92XD@Injury of unsp nerve at wrs/hnd lv of left arm, subs
 S64.92XS@Injury of unsp nerve at wrs/hnd lv of left arm, sequela
+#
 S65.001A@Unsp injury of ulnar artery at wrs/hnd lv of right arm, init
 S65.001D@Unsp injury of ulnar artery at wrs/hnd lv of right arm, subs
 S65.001S@Unsp injury of ulnar art at wrs/hnd lv of right arm, sequela
@@ -18241,6 +18305,7 @@ S65.992S@Inj unsp blood vessel at wrist and hand of left arm, sequela
 S65.999A@Inj unsp blood vessel at wrist and hand of unsp arm, init
 S65.999D@Inj unsp blood vessel at wrist and hand of unsp arm, subs
 S65.999S@Inj unsp blood vessel at wrist and hand of unsp arm, sequela
+#
 S66.001A@Unsp inj long flxr musc/fasc/tend r thm at wrs/hnd lv, init
 S66.001D@Unsp inj long flxr musc/fasc/tend r thm at wrs/hnd lv, subs
 S66.001S@Unsp inj long flxr musc/fasc/tend r thm at wrs/hnd lv, sqla
@@ -18781,6 +18846,7 @@ S66.992S@Inj unsp musc/fasc/tend at wrs/hnd lv, left hand, sequela
 S66.999A@Inj unsp musc/fasc/tend at wrs/hnd lv, unsp hand, init
 S66.999D@Inj unsp musc/fasc/tend at wrs/hnd lv, unsp hand, subs
 S66.999S@Inj unsp musc/fasc/tend at wrs/hnd lv, unsp hand, sequela
+#
 S67.00XA@Crushing injury of unspecified thumb, initial encounter
 S67.00XD@Crushing injury of unspecified thumb, subsequent encounter
 S67.00XS@Crushing injury of unspecified thumb, sequela
@@ -18856,6 +18922,7 @@ S67.91XS@Crush inj unsp part(s) of r wrist, hand and fingers, sequela
 S67.92XA@Crushing inj unsp part(s) of l wrist, hand and fingers, init
 S67.92XD@Crushing inj unsp part(s) of l wrist, hand and fingers, subs
 S67.92XS@Crush inj unsp part(s) of l wrist, hand and fingers, sequela
+#
 S68.011A@Complete traumatic MCP amputation of right thumb, init
 S68.011D@Complete traumatic MCP amputation of right thumb, subs
 S68.011S@Complete traumatic MCP amputation of right thumb, sequela
@@ -19048,6 +19115,7 @@ S68.722S@Partial traumatic transmetcrpl amp of left hand, sequela
 S68.729A@Partial traumatic transmetcrpl amputation of unsp hand, init
 S68.729D@Partial traumatic transmetcrpl amputation of unsp hand, subs
 S68.729S@Partial traumatic transmetcrpl amp of unsp hand, sequela
+#
 S69.80XA@Oth injuries of unsp wrist, hand and finger(s), init encntr
 S69.80XD@Oth injuries of unsp wrist, hand and finger(s), subs encntr
 S69.80XS@Oth injuries of unsp wrist, hand and finger(s), sequela
@@ -19066,6 +19134,7 @@ S69.91XS@Unsp injury of right wrist, hand and finger(s), sequela
 S69.92XA@Unsp injury of left wrist, hand and finger(s), init encntr
 S69.92XD@Unsp injury of left wrist, hand and finger(s), subs encntr
 S69.92XS@Unsp injury of left wrist, hand and finger(s), sequela
+#
 S70.00XA@Contusion of unspecified hip, initial encounter
 S70.00XD@Contusion of unspecified hip, subsequent encounter
 S70.00XS@Contusion of unspecified hip, sequela
@@ -19210,6 +19279,7 @@ S70.922S@Unspecified superficial injury of left thigh, sequela
 S70.929A@Unsp superficial injury of unspecified thigh, init encntr
 S70.929D@Unsp superficial injury of unspecified thigh, subs encntr
 S70.929S@Unspecified superficial injury of unspecified thigh, sequela
+#
 S71.001A@Unspecified open wound, right hip, initial encounter
 S71.001D@Unspecified open wound, right hip, subsequent encounter
 S71.001S@Unspecified open wound, right hip, sequela
@@ -19318,6 +19388,7 @@ S71.152S@Open bite, left thigh, sequela
 S71.159A@Open bite, unspecified thigh, initial encounter
 S71.159D@Open bite, unspecified thigh, subsequent encounter
 S71.159S@Open bite, unspecified thigh, sequela
+#
 S72.001A@Fracture of unsp part of neck of right femur, init
 S72.001B@Fx unsp part of neck of r femur, init for opn fx type I/2
 S72.001C@Fx unsp part of neck of r femur, init for opn fx type 3A/B/C
@@ -21784,6 +21855,7 @@ S72.92XP@Unsp fracture of left femur, subs for clos fx w malunion
 S72.92XQ@Unsp fx left femur, subs for opn fx type I/2 w malunion
 S72.92XR@Unsp fx left femur, subs for opn fx type 3A/B/C w malunion
 S72.92XS@Unspecified fracture of left femur, sequela
+#
 S73.001A@Unspecified subluxation of right hip, initial encounter
 S73.001D@Unspecified subluxation of right hip, subsequent encounter
 S73.001S@Unspecified subluxation of right hip, sequela
@@ -21910,6 +21982,7 @@ S73.192S@Other sprain of left hip, sequela
 S73.199A@Other sprain of unspecified hip, initial encounter
 S73.199D@Other sprain of unspecified hip, subsequent encounter
 S73.199S@Other sprain of unspecified hip, sequela
+#
 S74.00XA@Injury of sciatic nrv at hip and thigh level, unsp leg, init
 S74.00XD@Injury of sciatic nrv at hip and thigh level, unsp leg, subs
 S74.00XS@Injury of sciatic nrv at hip and thi lev, unsp leg, sequela
@@ -21955,6 +22028,7 @@ S74.91XS@Injury of unsp nerve at hip and thi lev, right leg, sequela
 S74.92XA@Injury of unsp nerve at hip and thigh level, left leg, init
 S74.92XD@Injury of unsp nerve at hip and thigh level, left leg, subs
 S74.92XS@Injury of unsp nerve at hip and thi lev, left leg, sequela
+#
 S75.001A@Unspecified injury of femoral artery, right leg, init encntr
 S75.001D@Unspecified injury of femoral artery, right leg, subs encntr
 S75.001S@Unspecified injury of femoral artery, right leg, sequela
@@ -22117,6 +22191,7 @@ S75.992S@Inj unsp blood vess at hip and thi lev, left leg, sequela
 S75.999A@Inj unsp blood vessel at hip and thigh level, unsp leg, init
 S75.999D@Inj unsp blood vessel at hip and thigh level, unsp leg, subs
 S75.999S@Inj unsp blood vess at hip and thi lev, unsp leg, sequela
+#
 S76.001A@Unsp injury of muscle, fascia and tendon of right hip, init
 S76.001D@Unsp injury of muscle, fascia and tendon of right hip, subs
 S76.001S@Unsp injury of musc/fasc/tend right hip, sequela
@@ -22333,6 +22408,7 @@ S76.992S@Inj unsp musc/fasc/tend at thigh level, left thigh, sequela
 S76.999A@Inj unsp musc/fasc/tend at thigh level, unsp thigh, init
 S76.999D@Inj unsp musc/fasc/tend at thigh level, unsp thigh, subs
 S76.999S@Inj unsp musc/fasc/tend at thigh level, unsp thigh, sequela
+#
 S77.00XA@Crushing injury of unspecified hip, initial encounter
 S77.00XD@Crushing injury of unspecified hip, subsequent encounter
 S77.00XS@Crushing injury of unspecified hip, sequela
@@ -22360,6 +22436,7 @@ S77.21XS@Crushing injury of right hip with thigh, sequela
 S77.22XA@Crushing injury of left hip with thigh, initial encounter
 S77.22XD@Crushing injury of left hip with thigh, subsequent encounter
 S77.22XS@Crushing injury of left hip with thigh, sequela
+#
 S78.011A@Complete traumatic amputation at right hip joint, init
 S78.011D@Complete traumatic amputation at right hip joint, subs
 S78.011S@Complete traumatic amputation at right hip joint, sequela
@@ -22414,6 +22491,7 @@ S78.922S@Partial traum amp of left hip and thigh, level unsp, sequela
 S78.929A@Partial traum amp of unsp hip and thigh, level unsp, init
 S78.929D@Partial traum amp of unsp hip and thigh, level unsp, subs
 S78.929S@Partial traum amp of unsp hip and thigh, level unsp, sequela
+#
 S79.001A@Unsp physeal fracture of upper end of right femur, init
 S79.001D@Unsp physl fx upper end of r femur, subs for fx w routn heal
 S79.001G@Unsp physl fx upper end of r femur, subs for fx w delay heal
@@ -22612,6 +22690,7 @@ S79.922S@Unspecified injury of left thigh, sequela
 S79.929A@Unspecified injury of unspecified thigh, initial encounter
 S79.929D@Unspecified injury of unspecified thigh, subs encntr
 S79.929S@Unspecified injury of unspecified thigh, sequela
+#
 S80.00XA@Contusion of unspecified knee, initial encounter
 S80.00XD@Contusion of unspecified knee, subsequent encounter
 S80.00XS@Contusion of unspecified knee, sequela
@@ -22756,6 +22835,7 @@ S80.922S@Unspecified superficial injury of left lower leg, sequela
 S80.929A@Unsp superficial injury of unsp lower leg, init encntr
 S80.929D@Unsp superficial injury of unsp lower leg, subs encntr
 S80.929S@Unsp superficial injury of unspecified lower leg, sequela
+#
 S81.001A@Unspecified open wound, right knee, initial encounter
 S81.001D@Unspecified open wound, right knee, subsequent encounter
 S81.001S@Unspecified open wound, right knee, sequela
@@ -22864,6 +22944,7 @@ S81.852S@Open bite, left lower leg, sequela
 S81.859A@Open bite, unspecified lower leg, initial encounter
 S81.859D@Open bite, unspecified lower leg, subsequent encounter
 S81.859S@Open bite, unspecified lower leg, sequela
+#
 S82.001A@Unsp fracture of right patella, init for clos fx
 S82.001B@Unsp fracture of right patella, init for opn fx type I/2
 S82.001C@Unsp fracture of right patella, init for opn fx type 3A/B/C
@@ -25960,6 +26041,7 @@ S82.92XP@Unsp fracture of left lower leg, subs for clos fx w malunion
 S82.92XQ@Unsp fx l low leg, subs for opn fx type I/2 w malunion
 S82.92XR@Unsp fx l low leg, subs for opn fx type 3A/B/C w malunion
 S82.92XS@Unspecified fracture of left lower leg, sequela
+#
 S83.001A@Unspecified subluxation of right patella, initial encounter
 S83.001D@Unspecified subluxation of right patella, subs encntr
 S83.001S@Unspecified subluxation of right patella, sequela
@@ -26311,6 +26393,7 @@ S83.91XS@Sprain of unspecified site of right knee, sequela
 S83.92XA@Sprain of unspecified site of left knee, initial encounter
 S83.92XD@Sprain of unspecified site of left knee, subs encntr
 S83.92XS@Sprain of unspecified site of left knee, sequela
+#
 S84.00XA@Injury of tibial nerve at lower leg level, unsp leg, init
 S84.00XD@Injury of tibial nerve at lower leg level, unsp leg, subs
 S84.00XS@Injury of tibial nerve at lower leg level, unsp leg, sequela
@@ -26356,6 +26439,7 @@ S84.91XS@Injury of unsp nerve at lower leg level, right leg, sequela
 S84.92XA@Injury of unsp nerve at lower leg level, left leg, init
 S84.92XD@Injury of unsp nerve at lower leg level, left leg, subs
 S84.92XS@Injury of unsp nerve at lower leg level, left leg, sequela
+#
 S85.001A@Unsp injury of popliteal artery, right leg, init encntr
 S85.001D@Unsp injury of popliteal artery, right leg, subs encntr
 S85.001S@Unspecified injury of popliteal artery, right leg, sequela
@@ -26626,6 +26710,7 @@ S85.992S@Inj unsp blood vessel at lower leg level, left leg, sequela
 S85.999A@Inj unsp blood vessel at lower leg level, unsp leg, init
 S85.999D@Inj unsp blood vessel at lower leg level, unsp leg, subs
 S85.999S@Inj unsp blood vessel at lower leg level, unsp leg, sequela
+#
 S86.001A@Unspecified injury of right Achilles tendon, init encntr
 S86.001D@Unspecified injury of right Achilles tendon, subs encntr
 S86.001S@Unspecified injury of right Achilles tendon, sequela
@@ -26842,6 +26927,7 @@ S86.992S@Inj unsp musc/tend at lower leg level, left leg, sequela
 S86.999A@Inj unsp musc/tend at lower leg level, unsp leg, init
 S86.999D@Inj unsp musc/tend at lower leg level, unsp leg, subs
 S86.999S@Inj unsp musc/tend at lower leg level, unsp leg, sequela
+#
 S87.00XA@Crushing injury of unspecified knee, initial encounter
 S87.00XD@Crushing injury of unspecified knee, subsequent encounter
 S87.00XS@Crushing injury of unspecified knee, sequela
@@ -26860,6 +26946,7 @@ S87.81XS@Crushing injury of right lower leg, sequela
 S87.82XA@Crushing injury of left lower leg, initial encounter
 S87.82XD@Crushing injury of left lower leg, subsequent encounter
 S87.82XS@Crushing injury of left lower leg, sequela
+#
 S88.011A@Complete traumatic amputation at knee level, r low leg, init
 S88.011D@Complete traumatic amputation at knee level, r low leg, subs
 S88.011S@Complete traumatic amp at knee level, r low leg, sequela
@@ -26914,6 +27001,7 @@ S88.922S@Partial traumatic amp of l low leg, level unsp, sequela
 S88.929A@Partial traumatic amp of unsp lower leg, level unsp, init
 S88.929D@Partial traumatic amp of unsp lower leg, level unsp, subs
 S88.929S@Partial traumatic amp of unsp lower leg, level unsp, sequela
+#
 S89.001A@Unsp physeal fracture of upper end of right tibia, init
 S89.001D@Unsp physl fx upper end of r tibia, subs for fx w routn heal
 S89.001G@Unsp physl fx upper end of r tibia, subs for fx w delay heal
@@ -27292,6 +27380,7 @@ S89.91XS@Unspecified injury of right lower leg, sequela
 S89.92XA@Unspecified injury of left lower leg, initial encounter
 S89.92XD@Unspecified injury of left lower leg, subsequent encounter
 S89.92XS@Unspecified injury of left lower leg, sequela
+#
 S90.00XA@Contusion of unspecified ankle, initial encounter
 S90.00XD@Contusion of unspecified ankle, subsequent encounter
 S90.00XS@Contusion of unspecified ankle, sequela
@@ -27598,6 +27687,7 @@ S90.935S@Unsp superficial injury of left lesser toe(s), sequela
 S90.936A@Unsp superficial injury of unsp lesser toe(s), init encntr
 S90.936D@Unsp superficial injury of unsp lesser toe(s), subs encntr
 S90.936S@Unsp superficial injury of unsp lesser toe(s), sequela
+#
 S91.001A@Unspecified open wound, right ankle, initial encounter
 S91.001D@Unspecified open wound, right ankle, subsequent encounter
 S91.001S@Unspecified open wound, right ankle, sequela
@@ -27958,6 +28048,7 @@ S91.352S@Open bite, left foot, sequela
 S91.359A@Open bite, unspecified foot, initial encounter
 S91.359D@Open bite, unspecified foot, subsequent encounter
 S91.359S@Open bite, unspecified foot, sequela
+#
 S92.001A@Unsp fracture of right calcaneus, init for clos fx
 S92.001B@Unsp fracture of right calcaneus, init for opn fx
 S92.001D@Unsp fracture of right calcaneus, subs for fx w routn heal
@@ -29323,6 +29414,7 @@ S92.919G@Unsp fracture of unsp toe(s), subs for fx w delay heal
 S92.919K@Unsp fracture of unsp toe(s), subs for fx w nonunion
 S92.919P@Unsp fracture of unsp toe(s), subs for fx w malunion
 S92.919S@Unspecified fracture of unspecified toe(s), sequela
+#
 S93.01XA@Subluxation of right ankle joint, initial encounter
 S93.01XD@Subluxation of right ankle joint, subsequent encounter
 S93.01XS@Subluxation of right ankle joint, sequela
@@ -29659,6 +29751,7 @@ S93.692S@Other sprain of left foot, sequela
 S93.699A@Other sprain of unspecified foot, initial encounter
 S93.699D@Other sprain of unspecified foot, subsequent encounter
 S93.699S@Other sprain of unspecified foot, sequela
+#
 S94.00XA@Injury of lateral plantar nerve, unsp leg, init encntr
 S94.00XD@Injury of lateral plantar nerve, unsp leg, subs encntr
 S94.00XS@Injury of lateral plantar nerve, unspecified leg, sequela
@@ -29713,6 +29806,7 @@ S94.91XS@Injury of unsp nerve at ank/ft level, right leg, sequela
 S94.92XA@Injury of unsp nerve at ankle and foot level, left leg, init
 S94.92XD@Injury of unsp nerve at ankle and foot level, left leg, subs
 S94.92XS@Injury of unsp nerve at ank/ft level, left leg, sequela
+#
 S95.001A@Unsp injury of dorsal artery of right foot, init encntr
 S95.001D@Unsp injury of dorsal artery of right foot, subs encntr
 S95.001S@Unspecified injury of dorsal artery of right foot, sequela
@@ -29848,6 +29942,7 @@ S95.992S@Inj unsp blood vessel at ank/ft level, left leg, sequela
 S95.999A@Inj unsp blood vessel at ank/ft level, unsp leg, init
 S95.999D@Inj unsp blood vessel at ank/ft level, unsp leg, subs
 S95.999S@Inj unsp blood vessel at ank/ft level, unsp leg, sequela
+#
 S96.001A@Unsp inj msl/tnd lng flxr msl toe at ank/ft lev, r ft, init
 S96.001D@Unsp inj msl/tnd lng flxr msl toe at ank/ft lev, r ft, subs
 S96.001S@Unsp inj msl/tnd lng flxr msl toe at ank/ft lev, r ft, sqla
@@ -30028,6 +30123,7 @@ S96.992S@Inj unsp msl/tnd at ankle and foot level, left foot, sequela
 S96.999A@Inj unsp msl/tnd at ankle and foot level, unsp foot, init
 S96.999D@Inj unsp msl/tnd at ankle and foot level, unsp foot, subs
 S96.999S@Inj unsp msl/tnd at ankle and foot level, unsp foot, sequela
+#
 S97.00XA@Crushing injury of unspecified ankle, initial encounter
 S97.00XD@Crushing injury of unspecified ankle, subsequent encounter
 S97.00XS@Crushing injury of unspecified ankle, sequela
@@ -30073,6 +30169,7 @@ S97.81XS@Crushing injury of right foot, sequela
 S97.82XA@Crushing injury of left foot, initial encounter
 S97.82XD@Crushing injury of left foot, subsequent encounter
 S97.82XS@Crushing injury of left foot, sequela
+#
 S98.011A@Complete traumatic amp of right foot at ankle level, init
 S98.011D@Complete traumatic amp of right foot at ankle level, subs
 S98.011S@Complete traumatic amp of right foot at ankle level, sequela
@@ -30181,6 +30278,7 @@ S98.922S@Partial traumatic amp of left foot, level unsp, sequela
 S98.929A@Partial traumatic amputation of unsp foot, level unsp, init
 S98.929D@Partial traumatic amputation of unsp foot, level unsp, subs
 S98.929S@Partial traumatic amp of unsp foot, level unsp, sequela
+#
 S99.811A@Other specified injuries of right ankle, initial encounter
 S99.811D@Other specified injuries of right ankle, subs encntr
 S99.811S@Other specified injuries of right ankle, sequela
@@ -30217,6 +30315,7 @@ S99.922S@Unspecified injury of left foot, sequela
 S99.929A@Unspecified injury of unspecified foot, initial encounter
 S99.929D@Unspecified injury of unspecified foot, subsequent encounter
 S99.929S@Unspecified injury of unspecified foot, sequela
+#
 T15.00XA@Foreign body in cornea, unspecified eye, initial encounter
 T15.00XD@Foreign body in cornea, unspecified eye, subs encntr
 T15.00XS@Foreign body in cornea, unspecified eye, sequela
@@ -30253,6 +30352,7 @@ T15.91XS@Foreign body on external eye, part unsp, right eye, sequela
 T15.92XA@Foreign body on external eye, part unsp, left eye, init
 T15.92XD@Foreign body on external eye, part unsp, left eye, subs
 T15.92XS@Foreign body on external eye, part unsp, left eye, sequela
+#
 T16.1XXA@Foreign body in right ear, initial encounter
 T16.1XXD@Foreign body in right ear, subsequent encounter
 T16.1XXS@Foreign body in right ear, sequela
@@ -30262,6 +30362,7 @@ T16.2XXS@Foreign body in left ear, sequela
 T16.9XXA@Foreign body in ear, unspecified ear, initial encounter
 T16.9XXD@Foreign body in ear, unspecified ear, subsequent encounter
 T16.9XXS@Foreign body in ear, unspecified ear, sequela
+#
 T17.0XXA@Foreign body in nasal sinus, initial encounter
 T17.0XXD@Foreign body in nasal sinus, subsequent encounter
 T17.0XXS@Foreign body in nasal sinus, sequela
@@ -30412,6 +30513,7 @@ T17.990S@Oth forn obj in resp tract, part unsp in cause asphyx, sqla
 T17.998A@Oth forn object in resp tract, part unsp cause oth inj, init
 T17.998D@Oth forn object in resp tract, part unsp cause oth inj, subs
 T17.998S@Oth forn object in resp tract, part unsp cause oth inj, sqla
+#
 T18.0XXA@Foreign body in mouth, initial encounter
 T18.0XXD@Foreign body in mouth, subsequent encounter
 T18.0XXS@Foreign body in mouth, sequela
@@ -30457,6 +30559,7 @@ T18.8XXS@Foreign body in other parts of alimentary tract, sequela
 T18.9XXA@Foreign body of alimentary tract, part unsp, init encntr
 T18.9XXD@Foreign body of alimentary tract, part unsp, subs encntr
 T18.9XXS@Foreign body of alimentary tract, part unspecified, sequela
+#
 T19.0XXA@Foreign body in urethra, initial encounter
 T19.0XXD@Foreign body in urethra, subsequent encounter
 T19.0XXS@Foreign body in urethra, sequela
@@ -30478,6 +30581,7 @@ T19.8XXS@Foreign body in other parts of genitourinary tract, sequela
 T19.9XXA@Foreign body in genitourinary tract, part unsp, init encntr
 T19.9XXD@Foreign body in genitourinary tract, part unsp, subs encntr
 T19.9XXS@Foreign body in genitourinary tract, part unsp, sequela
+#
 T20.00XA@Burn of unsp degree of head, face, and neck, unsp site, init
 T20.00XD@Burn of unsp degree of head, face, and neck, unsp site, subs
 T20.00XS@Burn unsp degree of head, face, and neck, unsp site, sequela
@@ -30742,6 +30846,7 @@ T20.77XS@Corrosion of third degree of neck, sequela
 T20.79XA@Corrosion of 3rd deg mu sites of head, face, and neck, init
 T20.79XD@Corrosion of 3rd deg mu sites of head, face, and neck, subs
 T20.79XS@Corros 3rd deg mu sites of head, face, and neck, sequela
+#
 T21.00XA@Burn of unsp degree of trunk, unspecified site, init encntr
 T21.00XD@Burn of unsp degree of trunk, unspecified site, subs encntr
 T21.00XS@Burn of unsp degree of trunk, unspecified site, sequela
@@ -30958,6 +31063,7 @@ T21.77XS@Corrosion of third degree of female genital region, sequela
 T21.79XA@Corrosion of third degree of oth site of trunk, init encntr
 T21.79XD@Corrosion of third degree of oth site of trunk, subs encntr
 T21.79XS@Corrosion of third degree of other site of trunk, sequela
+#
 T22.00XA@Burn unsp deg of shldr/up lmb, ex wrs/hnd, unsp site, init
 T22.00XD@Burn unsp deg of shldr/up lmb, ex wrs/hnd, unsp site, subs
 T22.00XS@Burn unsp deg of shldr/up lmb, ex wrs/hnd, unsp site, sqla
@@ -31486,6 +31592,7 @@ T22.792S@Corros 3rd deg mu site of l shldr/up lmb, ex wrs/hnd, sqla
 T22.799A@Corros 3rd deg mu sites of shldr/up lmb, ex wrs/hnd, init
 T22.799D@Corros 3rd deg mu sites of shldr/up lmb, ex wrs/hnd, subs
 T22.799S@Corros 3rd deg mu sites of shldr/up lmb, ex wrs/hnd, sqla
+#
 T23.001A@Burn of unsp degree of right hand, unsp site, init encntr
 T23.001D@Burn of unsp degree of right hand, unsp site, subs encntr
 T23.001S@Burn of unsp degree of right hand, unspecified site, sequela
@@ -32134,6 +32241,7 @@ T23.792S@Corrosion of 3rd deg mu sites of left wrs/hnd, sequela
 T23.799A@Corrosion of 3rd deg mu sites of unsp wrist and hand, init
 T23.799D@Corrosion of 3rd deg mu sites of unsp wrist and hand, subs
 T23.799S@Corrosion of 3rd deg mu sites of unsp wrs/hnd, sequela
+#
 T24.001A@Burn unsp deg of unsp site right lower limb, ex ank/ft, init
 T24.001D@Burn unsp deg of unsp site right lower limb, ex ank/ft, subs
 T24.001S@Burn unsp deg of unsp site right lower limb, ex ank/ft, sqla
@@ -32494,6 +32602,7 @@ T24.792S@Corros 3rd deg mu sites of left lower limb, ex ank/ft, sqla
 T24.799A@Corros 3rd deg mu sites of unsp lower limb, ex ank/ft, init
 T24.799D@Corros 3rd deg mu sites of unsp lower limb, ex ank/ft, subs
 T24.799S@Corros 3rd deg mu sites of unsp lower limb, ex ank/ft, sqla
+#
 T25.011A@Burn of unspecified degree of right ankle, initial encounter
 T25.011D@Burn of unspecified degree of right ankle, subs encntr
 T25.011S@Burn of unspecified degree of right ankle, sequela
@@ -32782,6 +32891,7 @@ T25.792S@Corrosion of 3rd deg mu sites of left ank/ft, sequela
 T25.799A@Corrosion of 3rd deg mu sites of unsp ankle and foot, init
 T25.799D@Corrosion of 3rd deg mu sites of unsp ankle and foot, subs
 T25.799S@Corrosion of 3rd deg mu sites of unsp ank/ft, sequela
+#
 T26.00XA@Burn of unspecified eyelid and periocular area, init encntr
 T26.00XD@Burn of unspecified eyelid and periocular area, subs encntr
 T26.00XS@Burn of unspecified eyelid and periocular area, sequela
@@ -32872,6 +32982,7 @@ T26.91XS@Corrosion of right eye and adnexa, part unspecified, sequela
 T26.92XA@Corrosion of left eye and adnexa, part unsp, init encntr
 T26.92XD@Corrosion of left eye and adnexa, part unsp, subs encntr
 T26.92XS@Corrosion of left eye and adnexa, part unspecified, sequela
+#
 T27.0XXA@Burn of larynx and trachea, initial encounter
 T27.0XXD@Burn of larynx and trachea, subsequent encounter
 T27.0XXS@Burn of larynx and trachea, sequela
@@ -32896,6 +33007,7 @@ T27.6XXS@Corrosion of other parts of respiratory tract, sequela
 T27.7XXA@Corrosion of respiratory tract, part unsp, init encntr
 T27.7XXD@Corrosion of respiratory tract, part unsp, subs encntr
 T27.7XXS@Corrosion of respiratory tract, part unspecified, sequela
+#
 T28.0XXA@Burn of mouth and pharynx, initial encounter
 T28.0XXD@Burn of mouth and pharynx, subsequent encounter
 T28.0XXS@Burn of mouth and pharynx, sequela
@@ -32950,8 +33062,10 @@ T28.919S@Corrosions of unspecified ear drum, sequela
 T28.99XA@Corrosions of other internal organs, initial encounter
 T28.99XD@Corrosions of other internal organs, subsequent encounter
 T28.99XS@Corrosions of other internal organs, sequela
+#
 T30.0@Burn of unspecified body region, unspecified degree
 T30.4@Corrosion of unspecified body region, unspecified degree
+#
 T31.0@Burns involving less than 10% of body surface
 T31.10@Burns of 10-19% of body surfc w 0% to 9% third degree burns
 T31.11@Burns of 10-19% of body surface w 10-19% third degree burns
@@ -33007,6 +33121,7 @@ T31.96@Burns of 90%/more of body surfc w 60-69% third degree burns
 T31.97@Burns of 90%/more of body surfc w 70-79% third degree burns
 T31.98@Burns of 90%/more of body surfc w 80-89% third degree burns
 T31.99@Burns of 90%/more of body surfc w 90%/more third deg burns
+#
 T32.0@Corrosions involving less than 10% of body surface
 T32.10@Corros 10-19% of body surface w 0% to 9% third degree corros
 T32.11@Corros 10-19% of body surface w 10-19% third degree corros
@@ -33062,6 +33177,7 @@ T32.96@Corros 90%/more of body surface w 60-69% third degree corros
 T32.97@Corros 90%/more of body surface w 70-79% third degree corros
 T32.98@Corros 90%/more of body surface w 80-89% third degree corros
 T32.99@Corros 90%/more of body surfc w 90%/more third degree corros
+#
 T33.011A@Superficial frostbite of right ear, initial encounter
 T33.011D@Superficial frostbite of right ear, subsequent encounter
 T33.011S@Superficial frostbite of right ear, sequela
@@ -33173,6 +33289,7 @@ T33.90XS@Superficial frostbite of unspecified sites, sequela
 T33.99XA@Superficial frostbite of other sites, initial encounter
 T33.99XD@Superficial frostbite of other sites, subsequent encounter
 T33.99XS@Superficial frostbite of other sites, sequela
+#
 T34.011A@Frostbite with tissue necrosis of right ear, init encntr
 T34.011D@Frostbite with tissue necrosis of right ear, subs encntr
 T34.011S@Frostbite with tissue necrosis of right ear, sequela
@@ -33284,6 +33401,7 @@ T34.90XS@Frostbite with tissue necrosis of unspecified sites, sequela
 T34.99XA@Frostbite with tissue necrosis of other sites, init encntr
 T34.99XD@Frostbite with tissue necrosis of other sites, subs encntr
 T34.99XS@Frostbite with tissue necrosis of other sites, sequela
+#
 T36.0X1A@Poisoning by penicillins, accidental (unintentional), init
 T36.0X1D@Poisoning by penicillins, accidental (unintentional), subs
 T36.0X1S@Poisoning by penicillins, accidental, sequela
@@ -33464,6 +33582,7 @@ T36.95XS@Adverse effect of unspecified systemic antibiotic, sequela
 T36.96XA@Underdosing of unspecified systemic antibiotic, init encntr
 T36.96XD@Underdosing of unspecified systemic antibiotic, subs encntr
 T36.96XS@Underdosing of unspecified systemic antibiotic, sequela
+#
 T37.0X1A@Poisoning by sulfonamides, accidental (unintentional), init
 T37.0X1D@Poisoning by sulfonamides, accidental (unintentional), subs
 T37.0X1S@Poisoning by sulfonamides, accidental, sequela
@@ -33608,6 +33727,7 @@ T37.95XS@Advrs effect of unsp sys anti-infect and antiparasitic, sqla
 T37.96XA@Underdosing of unsp systemic anti-infect/parasit, init
 T37.96XD@Underdosing of unsp systemic anti-infect/parasit, subs
 T37.96XS@Underdosing of unsp systemic anti-infect/parasit, sequela
+#
 T38.0X1A@Poisoning by glucocort/synth analog, accidental, init
 T38.0X1D@Poisoning by glucocort/synth analog, accidental, subs
 T38.0X1S@Poisoning by glucocort/synth analog, accidental, sequela
@@ -33842,6 +33962,7 @@ T38.995S@Adverse effect of other hormone antagonists, sequela
 T38.996A@Underdosing of other hormone antagonists, initial encounter
 T38.996D@Underdosing of other hormone antagonists, subs encntr
 T38.996S@Underdosing of other hormone antagonists, sequela
+#
 T39.011A@Poisoning by aspirin, accidental (unintentional), init
 T39.011D@Poisoning by aspirin, accidental (unintentional), subs
 T39.011S@Poisoning by aspirin, accidental (unintentional), sequela
@@ -34004,6 +34125,7 @@ T39.95XS@Advrs effect of unsp nonopi analgs/antipyr/antirheu, sequela
 T39.96XA@Underdosing of unsp nonopi analgs/antipyr/antirheu, init
 T39.96XD@Underdosing of unsp nonopi analgs/antipyr/antirheu, subs
 T39.96XS@Underdosing of unsp nonopi analgs/antipyr/antirheu, sequela
+#
 T40.0X1A@Poisoning by opium, accidental (unintentional), init encntr
 T40.0X1D@Poisoning by opium, accidental (unintentional), subs encntr
 T40.0X1S@Poisoning by opium, accidental (unintentional), sequela
@@ -34214,6 +34336,7 @@ T40.995S@Adverse effect of other psychodysleptics, sequela
 T40.996A@Underdosing of other psychodysleptics, initial encounter
 T40.996D@Underdosing of other psychodysleptics, subsequent encounter
 T40.996S@Underdosing of other psychodysleptics, sequela
+#
 T41.0X1A@Poisoning by inhaled anesthetics, accidental, init
 T41.0X1D@Poisoning by inhaled anesthetics, accidental, subs
 T41.0X1S@Poisoning by inhaled anesthetics, accidental, sequela
@@ -34340,6 +34463,7 @@ T41.5X5S@Adverse effect of therapeutic gases, sequela
 T41.5X6A@Underdosing of therapeutic gases, initial encounter
 T41.5X6D@Underdosing of therapeutic gases, subsequent encounter
 T41.5X6S@Underdosing of therapeutic gases, sequela
+#
 T42.0X1A@Poisoning by hydantoin derivatives, accidental, init
 T42.0X1D@Poisoning by hydantoin derivatives, accidental, subs
 T42.0X1S@Poisoning by hydantoin derivatives, accidental, sequela
@@ -34502,6 +34626,7 @@ T42.8X5S@Advrs effect of antiparkns drug/centr musc-tone depr, sqla
 T42.8X6A@Underdosing of antiparkns drug/centr muscle-tone depr, init
 T42.8X6D@Underdosing of antiparkns drug/centr muscle-tone depr, subs
 T42.8X6S@Underdosing of antiparkns drug/centr musc-tone depr, sequela
+#
 T43.011A@Poisoning by tricyclic antidepressants, accidental, init
 T43.011D@Poisoning by tricyclic antidepressants, accidental, subs
 T43.011S@Poisoning by tricyclic antidepressants, accidental, sequela
@@ -34826,6 +34951,7 @@ T43.95XS@Adverse effect of unspecified psychotropic drug, sequela
 T43.96XA@Underdosing of unspecified psychotropic drug, init encntr
 T43.96XD@Underdosing of unspecified psychotropic drug, subs encntr
 T43.96XS@Underdosing of unspecified psychotropic drug, sequela
+#
 T44.0X1A@Poisoning by anticholin agents, accidental, init
 T44.0X1D@Poisoning by anticholin agents, accidental, subs
 T44.0X1S@Poisoning by anticholin agents, accidental, sequela
@@ -35024,6 +35150,7 @@ T44.995S@Adverse effect of drug aff the autonm nervous sys, sequela
 T44.996A@Underdosing of drug aff the autonomic nervous system, init
 T44.996D@Underdosing of drug aff the autonomic nervous system, subs
 T44.996S@Underdosing of drug aff the autonomic nervous sys, sequela
+#
 T45.0X1A@Poisoning by antiallerg/antiemetic, accidental, init
 T45.0X1D@Poisoning by antiallerg/antiemetic, accidental, subs
 T45.0X1S@Poisoning by antiallerg/antiemetic, accidental, sequela
@@ -35276,6 +35403,7 @@ T45.95XS@Adverse effect of unsp prim sys and hematolog agent, sequela
 T45.96XA@Undrdose of unsp prim systemic and hematolog agent, init
 T45.96XD@Undrdose of unsp prim systemic and hematolog agent, subs
 T45.96XS@Undrdose of unsp prim systemic and hematolog agent, sequela
+#
 T46.0X1A@Poisoning by cardi-stim glycos/drug simlar act, acc, init
 T46.0X1D@Poisoning by cardi-stim glycos/drug simlar act, acc, subs
 T46.0X1S@Poisn by cardi-stim glycos/drug simlar act, acc, sequela
@@ -35474,6 +35602,7 @@ T46.995S@Adverse effect of agents aff the cardiovascular sys, sequela
 T46.996A@Underdosing of agents aff the cardiovascular sys, init
 T46.996D@Underdosing of agents aff the cardiovascular sys, subs
 T46.996S@Underdosing of agents aff the cardiovascular sys, sequela
+#
 T47.0X1A@Poisoning by histamine H2-receptor blockers, acc, init
 T47.0X1D@Poisoning by histamine H2-receptor blockers, acc, subs
 T47.0X1S@Poisoning by histamine H2-receptor blockers, acc, sequela
@@ -35654,6 +35783,7 @@ T47.95XS@Adverse effect of unsp agents aff the GI sys, sequela
 T47.96XA@Underdosing of unsp agents aff the GI sys, init
 T47.96XD@Underdosing of unsp agents aff the GI sys, subs
 T47.96XS@Underdosing of unsp agents aff the GI sys, sequela
+#
 T48.0X1A@Poisoning by oxytocic drugs, accidental, init
 T48.0X1D@Poisoning by oxytocic drugs, accidental, subs
 T48.0X1S@Poisoning by oxytocic drugs, accidental, sequela
@@ -35834,6 +35964,7 @@ T48.995S@Advrs effect of agents prim acting on the resp sys, sequela
 T48.996A@Underdosing of agents primarily acting on the resp sys, init
 T48.996D@Underdosing of agents primarily acting on the resp sys, subs
 T48.996S@Undrdose of agents primarily acting on the resp sys, sequela
+#
 T49.0X1A@Poisoning by local antifung/infect/inflamm drugs, acc, init
 T49.0X1D@Poisoning by local antifung/infect/inflamm drugs, acc, subs
 T49.0X1S@Poisn by local antifung/infect/inflamm drugs, acc, sequela
@@ -36014,6 +36145,7 @@ T49.95XS@Adverse effect of unspecified topical agent, sequela
 T49.96XA@Underdosing of unspecified topical agent, initial encounter
 T49.96XD@Underdosing of unspecified topical agent, subs encntr
 T49.96XS@Underdosing of unspecified topical agent, sequela
+#
 T50.0X1A@Poisoning by mineralocorticoids and their antag, acc, init
 T50.0X1D@Poisoning by mineralocorticoids and their antag, acc, subs
 T50.0X1S@Poisoning by mineralocorticoids and antag, acc, sequela
@@ -36338,6 +36470,7 @@ T50.995S@Adverse effect of drug/meds/biol subst, sequela
 T50.996A@Underdosing of drug/meds/biol subst, init
 T50.996D@Underdosing of drug/meds/biol subst, subs
 T50.996S@Underdosing of drug/meds/biol subst, sequela
+#
 T51.0X1A@Toxic effect of ethanol, accidental (unintentional), init
 T51.0X1D@Toxic effect of ethanol, accidental (unintentional), subs
 T51.0X1S@Toxic effect of ethanol, accidental (unintentional), sequela
@@ -36410,6 +36543,7 @@ T51.93XS@Toxic effect of unspecified alcohol, assault, sequela
 T51.94XA@Toxic effect of unsp alcohol, undetermined, init encntr
 T51.94XD@Toxic effect of unsp alcohol, undetermined, subs encntr
 T51.94XS@Toxic effect of unspecified alcohol, undetermined, sequela
+#
 T52.0X1A@Toxic effect of petroleum products, accidental, init
 T52.0X1D@Toxic effect of petroleum products, accidental, subs
 T52.0X1S@Toxic effect of petroleum products, accidental, sequela
@@ -36494,6 +36628,7 @@ T52.93XS@Toxic effect of unsp organic solvent, assault, sequela
 T52.94XA@Toxic effect of unsp organic solvent, undetermined, init
 T52.94XD@Toxic effect of unsp organic solvent, undetermined, subs
 T52.94XS@Toxic effect of unsp organic solvent, undetermined, sequela
+#
 T53.0X1A@Toxic effect of carbon tetrachloride, accidental, init
 T53.0X1D@Toxic effect of carbon tetrachloride, accidental, subs
 T53.0X1S@Toxic effect of carbon tetrachloride, accidental, sequela
@@ -36602,6 +36737,7 @@ T53.93XS@Tox eff of unsp halgn deriv of aromat hydrocrb, asslt, sqla
 T53.94XA@Tox eff of unsp halgn deriv of aromat hydrocrb, undet, init
 T53.94XD@Tox eff of unsp halgn deriv of aromat hydrocrb, undet, subs
 T53.94XS@Tox eff of unsp halgn deriv of aromat hydrocrb, undet, sqla
+#
 T54.0X1A@Toxic effect of phenol and phenol homologues, acc, init
 T54.0X1D@Toxic effect of phenol and phenol homologues, acc, subs
 T54.0X1S@Toxic effect of phenol and phenol homologues, acc, sequela
@@ -36662,6 +36798,7 @@ T54.93XS@Toxic effect of unsp corrosive substance, assault, sequela
 T54.94XA@Toxic effect of unsp corrosive substance, undetermined, init
 T54.94XD@Toxic effect of unsp corrosive substance, undetermined, subs
 T54.94XS@Toxic effect of unsp corrosive substance, undet, sequela
+#
 T55.0X1A@Toxic effect of soaps, accidental (unintentional), init
 T55.0X1D@Toxic effect of soaps, accidental (unintentional), subs
 T55.0X1S@Toxic effect of soaps, accidental (unintentional), sequela
@@ -36686,6 +36823,7 @@ T55.1X3S@Toxic effect of detergents, assault, sequela
 T55.1X4A@Toxic effect of detergents, undetermined, initial encounter
 T55.1X4D@Toxic effect of detergents, undetermined, subs encntr
 T55.1X4S@Toxic effect of detergents, undetermined, sequela
+#
 T56.0X1A@Toxic effect of lead and its compounds, accidental, init
 T56.0X1D@Toxic effect of lead and its compounds, accidental, subs
 T56.0X1S@Toxic effect of lead and its compounds, accidental, sequela
@@ -36818,6 +36956,7 @@ T56.93XS@Toxic effect of unspecified metal, assault, sequela
 T56.94XA@Toxic effect of unspecified metal, undetermined, init encntr
 T56.94XD@Toxic effect of unspecified metal, undetermined, subs encntr
 T56.94XS@Toxic effect of unspecified metal, undetermined, sequela
+#
 T57.0X1A@Toxic effect of arsenic and its compounds, accidental, init
 T57.0X1D@Toxic effect of arsenic and its compounds, accidental, subs
 T57.0X1S@Toxic effect of arsenic and its compounds, acc, sequela
@@ -36890,6 +37029,7 @@ T57.93XS@Toxic effect of unsp inorganic substance, assault, sequela
 T57.94XA@Toxic effect of unsp inorganic substance, undetermined, init
 T57.94XD@Toxic effect of unsp inorganic substance, undetermined, subs
 T57.94XS@Toxic effect of unsp inorganic substance, undet, sequela
+#
 T58.01XA@Toxic effect of carb monx from mtr veh exhaust, acc, init
 T58.01XD@Toxic effect of carb monx from mtr veh exhaust, acc, subs
 T58.01XS@Toxic effect of carb monx from mtr veh exhaust, acc, sqla
@@ -36950,6 +37090,7 @@ T58.93XS@Toxic effect of carb monx from unsp source, assault, sequela
 T58.94XA@Toxic effect of carb monx from unsp source, undet, init
 T58.94XD@Toxic effect of carb monx from unsp source, undet, subs
 T58.94XS@Toxic effect of carb monx from unsp source, undet, sequela
+#
 T59.0X1A@Toxic effect of nitrogen oxides, accidental, init
 T59.0X1D@Toxic effect of nitrogen oxides, accidental, subs
 T59.0X1S@Toxic effect of nitrogen oxides, accidental, sequela
@@ -37082,6 +37223,7 @@ T59.93XS@Toxic effect of unsp gases, fumes and vapors, asslt, sequela
 T59.94XA@Toxic effect of unsp gases, fumes and vapors, undet, init
 T59.94XD@Toxic effect of unsp gases, fumes and vapors, undet, subs
 T59.94XS@Toxic effect of unsp gases, fumes and vapors, undet, sequela
+#
 T60.0X1A@Toxic effect of organophos and carbamate insect, acc, init
 T60.0X1D@Toxic effect of organophos and carbamate insect, acc, subs
 T60.0X1S@Toxic effect of organophos and carbamate insect, acc, sqla
@@ -37166,6 +37308,7 @@ T60.93XS@Toxic effect of unspecified pesticide, assault, sequela
 T60.94XA@Toxic effect of unsp pesticide, undetermined, init encntr
 T60.94XD@Toxic effect of unsp pesticide, undetermined, subs encntr
 T60.94XS@Toxic effect of unspecified pesticide, undetermined, sequela
+#
 T61.01XA@Ciguatera fish poisoning, accidental (unintentional), init
 T61.01XD@Ciguatera fish poisoning, accidental (unintentional), subs
 T61.01XS@Ciguatera fish poisoning, accidental, sequela
@@ -37238,6 +37381,7 @@ T61.93XS@Toxic effect of unspecified seafood, assault, sequela
 T61.94XA@Toxic effect of unsp seafood, undetermined, init encntr
 T61.94XD@Toxic effect of unsp seafood, undetermined, subs encntr
 T61.94XS@Toxic effect of unspecified seafood, undetermined, sequela
+#
 T62.0X1A@Toxic effect of ingested mushrooms, accidental, init
 T62.0X1D@Toxic effect of ingested mushrooms, accidental, subs
 T62.0X1S@Toxic effect of ingested mushrooms, accidental, sequela
@@ -37298,6 +37442,7 @@ T62.93XS@Toxic effect of unsp noxious sub eaten as food, asslt, sqla
 T62.94XA@Toxic effect of unsp noxious sub eaten as food, undet, init
 T62.94XD@Toxic effect of unsp noxious sub eaten as food, undet, subs
 T62.94XS@Toxic effect of unsp noxious sub eaten as food, undet, sqla
+#
 T63.001A@Toxic effect of unsp snake venom, accidental, init
 T63.001D@Toxic effect of unsp snake venom, accidental, subs
 T63.001S@Toxic effect of unsp snake venom, accidental, sequela
@@ -37754,6 +37899,7 @@ T63.93XS@Toxic effect of contact w unsp venom animal, asslt, sequela
 T63.94XA@Toxic effect of contact w unsp venomous animal, undet, init
 T63.94XD@Toxic effect of contact w unsp venomous animal, undet, subs
 T63.94XS@Toxic effect of contact w unsp venom animal, undet, sequela
+#
 T64.01XA@Toxic effect of aflatoxin, accidental (unintentional), init
 T64.01XD@Toxic effect of aflatoxin, accidental (unintentional), subs
 T64.01XS@Toxic effect of aflatoxin, accidental, sequela
@@ -37778,6 +37924,7 @@ T64.83XS@Toxic effect of mycotoxin food contamnt, assault, sequela
 T64.84XA@Toxic effect of mycotoxin food contamnt, undetermined, init
 T64.84XD@Toxic effect of mycotoxin food contamnt, undetermined, subs
 T64.84XS@Toxic effect of mycotoxin food contamnt, undet, sequela
+#
 T65.0X1A@Toxic effect of cyanides, accidental (unintentional), init
 T65.0X1D@Toxic effect of cyanides, accidental (unintentional), subs
 T65.0X1S@Toxic effect of cyanides, accidental, sequela
@@ -37946,9 +38093,11 @@ T65.93XS@Toxic effect of unspecified substance, assault, sequela
 T65.94XA@Toxic effect of unsp substance, undetermined, init encntr
 T65.94XD@Toxic effect of unsp substance, undetermined, subs encntr
 T65.94XS@Toxic effect of unspecified substance, undetermined, sequela
+#
 T66.XXXA@Radiation sickness, unspecified, initial encounter
 T66.XXXD@Radiation sickness, unspecified, subsequent encounter
 T66.XXXS@Radiation sickness, unspecified, sequela
+#
 T67.0XXA@Heatstroke and sunstroke, initial encounter
 T67.0XXD@Heatstroke and sunstroke, subsequent encounter
 T67.0XXS@Heatstroke and sunstroke, sequela
@@ -37979,9 +38128,11 @@ T67.8XXS@Other effects of heat and light, sequela
 T67.9XXA@Effect of heat and light, unspecified, initial encounter
 T67.9XXD@Effect of heat and light, unspecified, subsequent encounter
 T67.9XXS@Effect of heat and light, unspecified, sequela
+#
 T68.XXXA@Hypothermia, initial encounter
 T68.XXXD@Hypothermia, subsequent encounter
 T68.XXXS@Hypothermia, sequela
+#
 T69.011A@Immersion hand, right hand, initial encounter
 T69.011D@Immersion hand, right hand, subsequent encounter
 T69.011S@Immersion hand, right hand, sequela
@@ -38009,6 +38160,7 @@ T69.8XXS@Other specified effects of reduced temperature, sequela
 T69.9XXA@Effect of reduced temperature, unspecified, init encntr
 T69.9XXD@Effect of reduced temperature, unspecified, subs encntr
 T69.9XXS@Effect of reduced temperature, unspecified, sequela
+#
 T70.0XXA@Otitic barotrauma, initial encounter
 T70.0XXD@Otitic barotrauma, subsequent encounter
 T70.0XXS@Otitic barotrauma, sequela
@@ -38033,6 +38185,7 @@ T70.8XXS@Other effects of air pressure and water pressure, sequela
 T70.9XXA@Effect of air pressure and water pressure, unsp, init encntr
 T70.9XXD@Effect of air pressure and water pressure, unsp, subs encntr
 T70.9XXS@Effect of air pressure and water pressure, unsp, sequela
+#
 T71.111A@Asphyx due to smothering under pillow, accidental, init
 T71.111D@Asphyx due to smothering under pillow, accidental, subs
 T71.111S@Asphyx due to smothering under pillow, accidental, sequela
@@ -38150,6 +38303,7 @@ T71.29XS@Asphyx due to being trap in oth low oxygen environment, sqla
 T71.9XXA@Asphyxiation due to unspecified cause, initial encounter
 T71.9XXD@Asphyxiation due to unspecified cause, subsequent encounter
 T71.9XXS@Asphyxiation due to unspecified cause, sequela
+#
 T73.0XXA@Starvation, initial encounter
 T73.0XXD@Starvation, subsequent encounter
 T73.0XXS@Starvation, sequela
@@ -38168,6 +38322,7 @@ T73.8XXS@Other effects of deprivation, sequela
 T73.9XXA@Effect of deprivation, unspecified, initial encounter
 T73.9XXD@Effect of deprivation, unspecified, subsequent encounter
 T73.9XXS@Effect of deprivation, unspecified, sequela
+#
 T74.01XA@Adult neglect or abandonment, confirmed, initial encounter
 T74.01XD@Adult neglect or abandonment, confirmed, subs encntr
 T74.01XS@Adult neglect or abandonment, confirmed, sequela
@@ -38201,6 +38356,7 @@ T74.91XS@Unspecified adult maltreatment, confirmed, sequela
 T74.92XA@Unspecified child maltreatment, confirmed, initial encounter
 T74.92XD@Unspecified child maltreatment, confirmed, subs encntr
 T74.92XS@Unspecified child maltreatment, confirmed, sequela
+#
 T75.00XA@Unspecified effects of lightning, initial encounter
 T75.00XD@Unspecified effects of lightning, subsequent encounter
 T75.00XS@Unspecified effects of lightning, sequela
@@ -38243,6 +38399,7 @@ T75.82XS@Effects of weightlessness, sequela
 T75.89XA@Other specified effects of external causes, init encntr
 T75.89XD@Other specified effects of external causes, subs encntr
 T75.89XS@Other specified effects of external causes, sequela
+#
 T76.01XA@Adult neglect or abandonment, suspected, initial encounter
 T76.01XD@Adult neglect or abandonment, suspected, subs encntr
 T76.01XS@Adult neglect or abandonment, suspected, sequela
@@ -38273,6 +38430,7 @@ T76.91XS@Unspecified adult maltreatment, suspected, sequela
 T76.92XA@Unspecified child maltreatment, suspected, initial encounter
 T76.92XD@Unspecified child maltreatment, suspected, subs encntr
 T76.92XS@Unspecified child maltreatment, suspected, sequela
+#
 T78.00XA@Anaphylactic reaction due to unspecified food, init encntr
 T78.00XD@Anaphylactic reaction due to unspecified food, subs encntr
 T78.00XS@Anaphylactic reaction due to unspecified food, sequela
@@ -38324,6 +38482,7 @@ T78.49XS@Other allergy, sequela
 T78.8XXA@Other adverse effects, not elsewhere classified, init encntr
 T78.8XXD@Other adverse effects, not elsewhere classified, subs encntr
 T78.8XXS@Other adverse effects, not elsewhere classified, sequela
+#
 T79.0XXA@Air embolism (traumatic), initial encounter
 T79.0XXD@Air embolism (traumatic), subsequent encounter
 T79.0XXS@Air embolism (traumatic), sequela
@@ -38378,6 +38537,7 @@ T79.8XXS@Other early complications of trauma, sequela
 T79.9XXA@Unspecified early complication of trauma, initial encounter
 T79.9XXD@Unspecified early complication of trauma, subs encntr
 T79.9XXS@Unspecified early complication of trauma, sequela
+#
 T80.0XXA@Air embolism fol infusion, tranfs and theraputc inject, init
 T80.0XXD@Air embolism fol infusion, tranfs and theraputc inject, subs
 T80.0XXS@Air emblsm fol infusn, tranfs and theraputc inject, sequela
@@ -38489,6 +38649,7 @@ T80.919S@Hemolytic transfs react, unsp incompat, unsp ac/delay, sqla
 T80.92XA@Unspecified transfusion reaction, initial encounter
 T80.92XD@Unspecified transfusion reaction, subsequent encounter
 T80.92XS@Unspecified transfusion reaction, sequela
+#
 T81.10XA@Postprocedural shock unspecified, initial encounter
 T81.10XD@Postprocedural shock unspecified, subsequent encounter
 T81.10XS@Postprocedural shock unspecified, sequela
@@ -38705,6 +38866,7 @@ T81.89XS@Oth complications of procedures, NEC, sequela
 T81.9XXA@Unspecified complication of procedure, initial encounter
 T81.9XXD@Unspecified complication of procedure, subsequent encounter
 T81.9XXS@Unspecified complication of procedure, sequela
+#
 T82.01XA@Breakdown (mechanical) of heart valve prosthesis, init
 T82.01XD@Breakdown (mechanical) of heart valve prosthesis, subs
 T82.01XS@Breakdown (mechanical) of heart valve prosthesis, sequela
@@ -38996,6 +39158,7 @@ T82.898S@Oth complication of vascular prosth dev/grft, sequela
 T82.9XXA@Unsp comp of cardiac and vascular prosth dev/grft, init
 T82.9XXD@Unsp comp of cardiac and vascular prosth dev/grft, subs
 T82.9XXS@Unsp comp of cardiac and vascular prosth dev/grft, sequela
+#
 T83.010A@Breakdown (mechanical) of cystostomy catheter, init encntr
 T83.010D@Breakdown (mechanical) of cystostomy catheter, subs encntr
 T83.010S@Breakdown (mechanical) of cystostomy catheter, sequela
@@ -39140,6 +39303,7 @@ T83.89XS@Oth complication of genitourinary prosth dev/grft, sequela
 T83.9XXA@Unsp complication of genitourinary prosth dev/grft, init
 T83.9XXD@Unsp complication of genitourinary prosth dev/grft, subs
 T83.9XXS@Unsp complication of genitourinary prosth dev/grft, sequela
+#
 T84.010A@Broken internal right hip prosthesis, initial encounter
 T84.010D@Broken internal right hip prosthesis, subsequent encounter
 T84.010S@Broken internal right hip prosthesis, sequela
@@ -39515,6 +39679,7 @@ T84.89XS@Oth comp of internal orthopedic prosth dev/grft, sequela
 T84.9XXA@Unsp comp of internal orthopedic prosth dev/grft, init
 T84.9XXD@Unsp comp of internal orthopedic prosth dev/grft, subs
 T84.9XXS@Unsp comp of internal orthopedic prosth dev/grft, sequela
+#
 T85.01XA@Breakdown of ventricular intracranial shunt, init
 T85.01XD@Breakdown of ventricular intracranial shunt, subs
 T85.01XS@Breakdown of ventricular intracranial shunt, sequela
@@ -39740,6 +39905,7 @@ T85.89XS@Oth complication of internal prosth dev/grft, NEC, sequela
 T85.9XXA@Unsp complication of internal prosth dev/grft, init
 T85.9XXD@Unsp complication of internal prosth dev/grft, subs
 T85.9XXS@Unsp complication of internal prosth dev/grft, sequela
+#
 T86.00@Unspecified complication of bone marrow transplant
 T86.01@Bone marrow transplant rejection
 T86.02@Bone marrow transplant failure
@@ -39802,6 +39968,7 @@ T86.91@Unspecified transplanted organ and tissue rejection
 T86.92@Unspecified transplanted organ and tissue failure
 T86.93@Unspecified transplanted organ and tissue infection
 T86.99@Other complications of unsp transplanted organ and tissue
+#
 T87.0X1@Complications of reattached (part of) right upper extremity
 T87.0X2@Complications of reattached (part of) left upper extremity
 T87.0X9@Complications of reattached (part of) unsp upper extremity
@@ -39827,6 +39994,7 @@ T87.54@Necrosis of amputation stump, left lower extremity
 T87.81@Dehiscence of amputation stump
 T87.89@Other complications of amputation stump
 T87.9@Unspecified complications of amputation stump
+#
 T88.0XXA@Infection following immunization, initial encounter
 T88.0XXD@Infection following immunization, subsequent encounter
 T88.0XXS@Infection following immunization, sequela

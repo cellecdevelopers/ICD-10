@@ -3,14 +3,17 @@ O00.1@Tubal pregnancy
 O00.2@Ovarian pregnancy
 O00.8@Other ectopic pregnancy
 O00.9@Ectopic pregnancy, unspecified
+#
 O01.0@Classical hydatidiform mole
 O01.1@Incomplete and partial hydatidiform mole
 O01.9@Hydatidiform mole, unspecified
+#
 O02.0@Blighted ovum and nonhydatidiform mole
 O02.1@Missed abortion
 O02.81@Inapprop chg quantitav hCG in early pregnancy
 O02.89@Other abnormal products of conception
 O02.9@Abnormal product of conception, unspecified
+#
 O03.0@Genitl trct and pelvic infection fol incmpl spon abortion
 O03.1@Delayed or excessive hemor following incmpl spon abortion
 O03.2@Embolism following incomplete spontaneous abortion
@@ -39,6 +42,7 @@ O03.87@Sepsis following complete or unsp spontaneous abortion
 O03.88@Urinary tract infection fol complete or unsp spon abortion
 O03.89@Complete or unsp spontaneous abortion with oth complications
 O03.9@Complete or unsp spontaneous abortion without complication
+#
 O04.5@Genitl trct and pelvic infct fol (induced) term of pregnancy
 O04.6@Delayed or excess hemor fol (induced) term of pregnancy
 O04.7@Embolism following (induced) termination of pregnancy
@@ -52,6 +56,7 @@ O04.86@Cardiac arrest following (induced) termination of pregnancy
 O04.87@Sepsis following (induced) termination of pregnancy
 O04.88@Urinary tract infection fol (induced) term of pregnancy
 O04.89@(Induced) termination of pregnancy with other complications
+#
 O07.0@Genitl trct and pelvic infct fol failed attempt term of preg
 O07.1@Delayed or excess hemor fol failed attempt term of pregnancy
 O07.2@Embolism following failed attempted termination of pregnancy
@@ -66,6 +71,7 @@ O07.37@Sepsis following failed attempted termination of pregnancy
 O07.38@Urinary tract infection fol failed attempt term of pregnancy
 O07.39@Failed attempted termination of pregnancy w oth comp
 O07.4@Failed attempted termination of pregnancy w/o complication
+#
 O08.0@Genitl trct and pelvic infct fol ectopic and molar pregnancy
 O08.1@Delayed or excess hemor fol ectopic and molar pregnancy
 O08.2@Embolism following ectopic and molar pregnancy
@@ -79,6 +85,7 @@ O08.82@Sepsis following ectopic and molar pregnancy
 O08.83@Urinary tract infection fol an ectopic and molar pregnancy
 O08.89@Other complications following an ectopic and molar pregnancy
 O08.9@Unsp complication following an ectopic and molar pregnancy
+#
 O09.00@Suprvsn of preg w history of infertility, unsp trimester
 O09.01@Suprvsn of preg w history of infertility, first trimester
 O09.02@Suprvsn of preg w history of infertility, second trimester
@@ -139,6 +146,7 @@ O09.90@Supervision of high risk pregnancy, unsp, unsp trimester
 O09.91@Supervision of high risk pregnancy, unsp, first trimester
 O09.92@Supervision of high risk pregnancy, unsp, second trimester
 O09.93@Supervision of high risk pregnancy, unsp, third trimester
+#
 O10.011@Pre-existing essential htn comp pregnancy, first trimester
 O10.012@Pre-existing essential htn comp pregnancy, second trimester
 O10.013@Pre-existing essential htn comp pregnancy, third trimester
@@ -175,10 +183,12 @@ O10.913@Unsp pre-existing htn comp pregnancy, third trimester
 O10.919@Unsp pre-existing htn comp pregnancy, unsp trimester
 O10.92@Unsp pre-existing hypertension complicating childbirth
 O10.93@Unsp pre-existing hypertension complicating the puerperium
+#
 O11.1@Pre-existing hypertension w pre-eclampsia, first trimester
 O11.2@Pre-existing hypertension w pre-eclampsia, second trimester
 O11.3@Pre-existing hypertension w pre-eclampsia, third trimester
 O11.9@Pre-existing hypertension with pre-eclampsia, unsp trimester
+#
 O12.00@Gestational edema, unspecified trimester
 O12.01@Gestational edema, first trimester
 O12.02@Gestational edema, second trimester
@@ -191,10 +201,12 @@ O12.20@Gestational edema with proteinuria, unspecified trimester
 O12.21@Gestational edema with proteinuria, first trimester
 O12.22@Gestational edema with proteinuria, second trimester
 O12.23@Gestational edema with proteinuria, third trimester
+#
 O13.1@Gestational htn w/o significant proteinuria, first trimester
 O13.2@Gestatnl htn w/o significant proteinuria, second trimester
 O13.3@Gestational htn w/o significant proteinuria, third trimester
 O13.9@Gestational htn w/o significant proteinuria, unsp trimester
+#
 O14.00@Mild to moderate pre-eclampsia, unspecified trimester
 O14.02@Mild to moderate pre-eclampsia, second trimester
 O14.03@Mild to moderate pre-eclampsia, third trimester
@@ -207,24 +219,29 @@ O14.23@HELLP syndrome (HELLP), third trimester
 O14.90@Unspecified pre-eclampsia, unspecified trimester
 O14.92@Unspecified pre-eclampsia, second trimester
 O14.93@Unspecified pre-eclampsia, third trimester
+#
 O15.00@Eclampsia in pregnancy, unspecified trimester
 O15.02@Eclampsia in pregnancy, second trimester
 O15.03@Eclampsia in pregnancy, third trimester
 O15.1@Eclampsia in labor
 O15.2@Eclampsia in the puerperium
 O15.9@Eclampsia, unspecified as to time period
+#
 O16.1@Unspecified maternal hypertension, first trimester
 O16.2@Unspecified maternal hypertension, second trimester
 O16.3@Unspecified maternal hypertension, third trimester
 O16.9@Unspecified maternal hypertension, unspecified trimester
+#
 O20.0@Threatened abortion
 O20.8@Other hemorrhage in early pregnancy
 O20.9@Hemorrhage in early pregnancy, unspecified
+#
 O21.0@Mild hyperemesis gravidarum
 O21.1@Hyperemesis gravidarum with metabolic disturbance
 O21.2@Late vomiting of pregnancy
 O21.8@Other vomiting complicating pregnancy
 O21.9@Vomiting of pregnancy, unspecified
+#
 O22.00@Varicose veins of low extrm in pregnancy, unsp trimester
 O22.01@Varicose veins of low extrm in pregnancy, first trimester
 O22.02@Varicose veins of low extrm in pregnancy, second trimester
@@ -257,6 +274,7 @@ O22.90@Venous complication in pregnancy, unsp, unsp trimester
 O22.91@Venous complication in pregnancy, unsp, first trimester
 O22.92@Venous complication in pregnancy, unsp, second trimester
 O22.93@Venous complication in pregnancy, unsp, third trimester
+#
 O23.00@Infections of kidney in pregnancy, unspecified trimester
 O23.01@Infections of kidney in pregnancy, first trimester
 O23.02@Infections of kidney in pregnancy, second trimester
@@ -293,6 +311,7 @@ O23.90@Unsp GU tract infection in pregnancy, unsp trimester
 O23.91@Unsp GU tract infection in pregnancy, first trimester
 O23.92@Unsp GU tract infection in pregnancy, second trimester
 O23.93@Unsp GU tract infection in pregnancy, third trimester
+#
 O24.011@Pre-existing diabetes, type 1, in pregnancy, first trimester
 O24.012@Pre-exist diabetes, type 1, in pregnancy, second trimester
 O24.013@Pre-existing diabetes, type 1, in pregnancy, third trimester
@@ -332,12 +351,14 @@ O24.913@Unspecified diabetes mellitus in pregnancy, third trimester
 O24.919@Unsp diabetes mellitus in pregnancy, unspecified trimester
 O24.92@Unspecified diabetes mellitus in childbirth
 O24.93@Unspecified diabetes mellitus in the puerperium
+#
 O25.10@Malnutrition in pregnancy, unspecified trimester
 O25.11@Malnutrition in pregnancy, first trimester
 O25.12@Malnutrition in pregnancy, second trimester
 O25.13@Malnutrition in pregnancy, third trimester
 O25.2@Malnutrition in childbirth
 O25.3@Malnutrition in the puerperium
+#
 O26.00@Excessive weight gain in pregnancy, unspecified trimester
 O26.01@Excessive weight gain in pregnancy, first trimester
 O26.02@Excessive weight gain in pregnancy, second trimester
@@ -406,6 +427,7 @@ O26.90@Pregnancy related conditions, unsp, unspecified trimester
 O26.91@Pregnancy related conditions, unspecified, first trimester
 O26.92@Pregnancy related conditions, unspecified, second trimester
 O26.93@Pregnancy related conditions, unspecified, third trimester
+#
 O28.0@Abnormal hematolog finding on antenatal screening of mother
 O28.1@Abnormal biochemical finding on antenat screening of mother
 O28.2@Abnormal cytolog finding on antenatal screening of mother
@@ -414,6 +436,7 @@ O28.4@Abnormal radiolog finding on antenatal screening of mother
 O28.5@Abn chromsoml and genetic find on antenat screen of mother
 O28.8@Other abnormal findings on antenatal screening of mother
 O28.9@Unsp abnormal findings on antenatal screening of mother
+#
 O29.011@Aspirat pneumonitis due to anesth during preg, first tri
 O29.012@Aspirat pneumonitis due to anesth during preg, second tri
 O29.013@Aspirat pneumonitis due to anesth during preg, third tri
@@ -470,6 +493,7 @@ O29.90@Unsp comp of anesthesia during pregnancy, unsp trimester
 O29.91@Unsp comp of anesthesia during pregnancy, first trimester
 O29.92@Unsp comp of anesthesia during pregnancy, second trimester
 O29.93@Unsp comp of anesthesia during pregnancy, third trimester
+#
 O30.001@Twin preg, unsp num plcnta & amnio sacs, first trimester
 O30.002@Twin preg, unsp num plcnta & amnio sacs, second trimester
 O30.003@Twin preg, unsp num plcnta & amnio sacs, third trimester
@@ -546,6 +570,7 @@ O30.90@Multiple gestation, unspecified, unspecified trimester
 O30.91@Multiple gestation, unspecified, first trimester
 O30.92@Multiple gestation, unspecified, second trimester
 O30.93@Multiple gestation, unspecified, third trimester
+#
 O31.00X0@Papyraceous fetus, unsp trimester, not applicable or unsp
 O31.00X1@Papyraceous fetus, unspecified trimester, fetus 1
 O31.00X2@Papyraceous fetus, unspecified trimester, fetus 2
@@ -686,6 +711,7 @@ O31.8X93@Oth comp specific to multiple gest, unsp trimester, fetus 3
 O31.8X94@Oth comp specific to multiple gest, unsp trimester, fetus 4
 O31.8X95@Oth comp specific to multiple gest, unsp trimester, fetus 5
 O31.8X99@Oth comp specific to multiple gestation, unsp trimester, oth
+#
 O32.0XX0@Maternal care for unstable lie, not applicable or unsp
 O32.0XX1@Maternal care for unstable lie, fetus 1
 O32.0XX2@Maternal care for unstable lie, fetus 2
@@ -742,6 +768,7 @@ O32.9XX3@Maternal care for malpresentation of fetus, unsp, fetus 3
 O32.9XX4@Maternal care for malpresentation of fetus, unsp, fetus 4
 O32.9XX5@Maternal care for malpresentation of fetus, unsp, fetus 5
 O32.9XX9@Maternal care for malpresentation of fetus, unsp, oth fetus
+#
 O33.0@Matern care for disproprtn d/t deformity of matern pelv bone
 O33.1@Matern care for disproprtn d/t generally contracted pelvis
 O33.2@Maternal care for disproprtn due to inlet contrctn of pelvis
@@ -776,6 +803,7 @@ O33.6XX9@Maternal care for disproprtn due to hydrocephalic fetus, oth
 O33.7@Maternal care for disproportion due to oth fetal deformities
 O33.8@Maternal care for disproportion of other origin
 O33.9@Maternal care for disproportion, unspecified
+#
 O34.00@Maternal care for unsp congen malform of uterus, unsp tri
 O34.01@Maternal care for unsp congen malform of uterus, first tri
 O34.02@Maternal care for unsp congen malform of uterus, second tri
@@ -826,6 +854,7 @@ O34.90@Maternal care for abnlt of pelvic organ, unsp, unsp tri
 O34.91@Maternal care for abnlt of pelvic organ, unsp, first tri
 O34.92@Maternal care for abnlt of pelvic organ, unsp, second tri
 O34.93@Maternal care for abnlt of pelvic organ, unsp, third tri
+#
 O35.0XX0@Maternal care for (suspected) cnsl malform in fetus, unsp
 O35.0XX1@Maternal care for (suspected) cnsl malform in fetus, fetus 1
 O35.0XX2@Maternal care for (suspected) cnsl malform in fetus, fetus 2
@@ -896,6 +925,7 @@ O35.9XX3@Maternal care for fetal abnlt and damage, unsp, fetus 3
 O35.9XX4@Maternal care for fetal abnlt and damage, unsp, fetus 4
 O35.9XX5@Maternal care for fetal abnlt and damage, unsp, fetus 5
 O35.9XX9@Maternal care for fetal abnormality and damage, unsp, oth
+#
 O36.0110@Maternal care for anti-D antibodies, first trimester, unsp
 O36.0111@Maternal care for anti-D antibodies, first tri, fetus 1
 O36.0112@Maternal care for anti-D antibodies, first tri, fetus 2
@@ -1267,6 +1297,7 @@ O36.93X3@Maternal care for fetal problem, unsp, third tri, fetus 3
 O36.93X4@Maternal care for fetal problem, unsp, third tri, fetus 4
 O36.93X5@Maternal care for fetal problem, unsp, third tri, fetus 5
 O36.93X9@Maternal care for fetal problem, unsp, third trimester, oth
+#
 O40.1XX0@Polyhydramnios, first trimester, not applicable or unsp
 O40.1XX1@Polyhydramnios, first trimester, fetus 1
 O40.1XX2@Polyhydramnios, first trimester, fetus 2
@@ -1295,6 +1326,7 @@ O40.9XX3@Polyhydramnios, unspecified trimester, fetus 3
 O40.9XX4@Polyhydramnios, unspecified trimester, fetus 4
 O40.9XX5@Polyhydramnios, unspecified trimester, fetus 5
 O40.9XX9@Polyhydramnios, unspecified trimester, other fetus
+#
 O41.00X0@Oligohydramnios, unsp trimester, not applicable or unsp
 O41.00X1@Oligohydramnios, unspecified trimester, fetus 1
 O41.00X2@Oligohydramnios, unspecified trimester, fetus 2
@@ -1463,6 +1495,7 @@ O41.93X3@Disord of amnio fluid and membrns, unsp, third tri, fetus 3
 O41.93X4@Disord of amnio fluid and membrns, unsp, third tri, fetus 4
 O41.93X5@Disord of amnio fluid and membrns, unsp, third tri, fetus 5
 O41.93X9@Disorder of amniotic fluid and membrns, unsp, third tri, oth
+#
 O42.00@Prem ROM, onset labor w/n 24 hr of rupt, unsp weeks of gest
 O42.011@Pretrm prem ROM, onset labor w/n 24 hours of rupt, first tri
 O42.012@Pretrm prem ROM, onset labor w/n 24 hours of rupt, 2nd tri
@@ -1481,6 +1514,7 @@ O42.912@Pretrm prem ROM, unsp time betw rupt and onset labr, 2nd tri
 O42.913@Pretrm prem ROM, unsp time betw rupt and onst labr, 3rd tri
 O42.919@Pretrm prem ROM, unsp time betw rupt and onst labr, unsp tri
 O42.92@Full-term prem ROM, unsp time betw rupture and onset labor
+#
 O43.011@Fetomaternal placental transfusion syndrome, first trimester
 O43.012@Fetomaternal placental transfuse syndrome, second trimester
 O43.013@Fetomaternal placental transfusion syndrome, third trimester
@@ -1529,6 +1563,7 @@ O43.90@Unspecified placental disorder, unspecified trimester
 O43.91@Unspecified placental disorder, first trimester
 O43.92@Unspecified placental disorder, second trimester
 O43.93@Unspecified placental disorder, third trimester
+#
 O44.00@Placenta previa specified as w/o hemorrhage, unsp trimester
 O44.01@Placenta previa specified as w/o hemorrhage, first trimester
 O44.02@Placenta previa specified as w/o hemor, second trimester
@@ -1537,6 +1572,7 @@ O44.10@Placenta previa with hemorrhage, unspecified trimester
 O44.11@Placenta previa with hemorrhage, first trimester
 O44.12@Placenta previa with hemorrhage, second trimester
 O44.13@Placenta previa with hemorrhage, third trimester
+#
 O45.001@Prem separtn of placenta w coag defect, unsp, first tri
 O45.002@Prem separtn of placenta w coag defect, unsp, second tri
 O45.003@Prem separtn of placenta w coag defect, unsp, third tri
@@ -1561,6 +1597,7 @@ O45.90@Premature separation of placenta, unsp, unsp trimester
 O45.91@Premature separation of placenta, unsp, first trimester
 O45.92@Premature separation of placenta, unsp, second trimester
 O45.93@Premature separation of placenta, unsp, third trimester
+#
 O46.001@Antepartum hemorrhage w coag defect, unsp, first trimester
 O46.002@Antepartum hemorrhage w coag defect, unsp, second trimester
 O46.003@Antepartum hemorrhage w coag defect, unsp, third trimester
@@ -1585,13 +1622,16 @@ O46.90@Antepartum hemorrhage, unspecified, unspecified trimester
 O46.91@Antepartum hemorrhage, unspecified, first trimester
 O46.92@Antepartum hemorrhage, unspecified, second trimester
 O46.93@Antepartum hemorrhage, unspecified, third trimester
+#
 O47.00@False labor before 37 completed weeks of gest, unsp tri
 O47.02@False labor before 37 completed weeks of gest, second tri
 O47.03@False labor before 37 completed weeks of gest, third tri
 O47.1@False labor at or after 37 completed weeks of gestation
 O47.9@False labor, unspecified
+#
 O48.0@Post-term pregnancy
 O48.1@Prolonged pregnancy
+#
 O60.00@Preterm labor without delivery, unspecified trimester
 O60.02@Preterm labor without delivery, second trimester
 O60.03@Preterm labor without delivery, third trimester
@@ -1644,10 +1684,12 @@ O60.23X3@Term delivery with preterm labor, third trimester, fetus 3
 O60.23X4@Term delivery with preterm labor, third trimester, fetus 4
 O60.23X5@Term delivery with preterm labor, third trimester, fetus 5
 O60.23X9@Term delivery with preterm labor, third trimester, oth fetus
+#
 O61.0@Failed medical induction of labor
 O61.1@Failed instrumental induction of labor
 O61.8@Other failed induction of labor
 O61.9@Failed induction of labor, unspecified
+#
 O62.0@Primary inadequate contractions
 O62.1@Secondary uterine inertia
 O62.2@Other uterine inertia
@@ -1655,10 +1697,12 @@ O62.3@Precipitate labor
 O62.4@Hypertonic, incoordinate, and prolonged uterine contractions
 O62.8@Other abnormalities of forces of labor
 O62.9@Abnormality of forces of labor, unspecified
+#
 O63.0@Prolonged first stage (of labor)
 O63.1@Prolonged second stage (of labor)
 O63.2@Delayed delivery of second twin, triplet, etc.
 O63.9@Long labor, unspecified
+#
 O64.0XX0@Obstructed labor due to incmpl rotation of fetal head, unsp
 O64.0XX1@Obst labor due to incmpl rotation of fetal head, fetus 1
 O64.0XX2@Obst labor due to incmpl rotation of fetal head, fetus 2
@@ -1715,6 +1759,7 @@ O64.9XX3@Obstructed labor due to malpos and malpresent, unsp, fetus 3
 O64.9XX4@Obstructed labor due to malpos and malpresent, unsp, fetus 4
 O64.9XX5@Obstructed labor due to malpos and malpresent, unsp, fetus 5
 O64.9XX9@Obstructed labor due to malpos and malpresent, unsp, oth
+#
 O65.0@Obstructed labor due to deformed pelvis
 O65.1@Obstructed labor due to generally contracted pelvis
 O65.2@Obstructed labor due to pelvic inlet contraction
@@ -1723,6 +1768,7 @@ O65.4@Obstructed labor due to fetopelvic disproportion, unsp
 O65.5@Obstructed labor due to abnlt of maternal pelvic organs
 O65.8@Obstructed labor due to other maternal pelvic abnormalities
 O65.9@Obstructed labor due to maternal pelvic abnormality, unsp
+#
 O66.0@Obstructed labor due to shoulder dystocia
 O66.1@Obstructed labor due to locked twins
 O66.2@Obstructed labor due to unusually large fetus
@@ -1733,10 +1779,13 @@ O66.5@Attempted application of vacuum extractor and forceps
 O66.6@Obstructed labor due to other multiple fetuses
 O66.8@Other specified obstructed labor
 O66.9@Obstructed labor, unspecified
+#
 O67.0@Intrapartum hemorrhage with coagulation defect
 O67.8@Other intrapartum hemorrhage
 O67.9@Intrapartum hemorrhage, unspecified
+#
 O68.@Labor and delivery comp by abnlt of fetal acid-base balance
+#
 O69.0XX0@Labor and delivery complicated by prolapse of cord, unsp
 O69.0XX1@Labor and delivery complicated by prolapse of cord, fetus 1
 O69.0XX2@Labor and delivery complicated by prolapse of cord, fetus 2
@@ -1807,12 +1856,14 @@ O69.9XX3@Labor and delivery complicated by cord comp, unsp, fetus 3
 O69.9XX4@Labor and delivery complicated by cord comp, unsp, fetus 4
 O69.9XX5@Labor and delivery complicated by cord comp, unsp, fetus 5
 O69.9XX9@Labor and delivery complicated by cord comp, unsp, oth
+#
 O70.0@First degree perineal laceration during delivery
 O70.1@Second degree perineal laceration during delivery
 O70.2@Third degree perineal laceration during delivery
 O70.3@Fourth degree perineal laceration during delivery
 O70.4@Anal sphincter tear comp del, not assoc w third degree lac
 O70.9@Perineal laceration during delivery, unspecified
+#
 O71.00@Rupture of uterus before onset of labor, unsp trimester
 O71.02@Rupture of uterus before onset of labor, second trimester
 O71.03@Rupture of uterus before onset of labor, third trimester
@@ -1827,12 +1878,15 @@ O71.81@Laceration of uterus, not elsewhere classified
 O71.82@Other specified trauma to perineum and vulva
 O71.89@Other specified obstetric trauma
 O71.9@Obstetric trauma, unspecified
+#
 O72.0@Third-stage hemorrhage
 O72.1@Other immediate postpartum hemorrhage
 O72.2@Delayed and secondary postpartum hemorrhage
 O72.3@Postpartum coagulation defects
+#
 O73.0@Retained placenta without hemorrhage
 O73.1@Retained portions of placenta and membranes, w/o hemorrhage
+#
 O74.0@Aspirat pneumonitis due to anesth during labor and delivery
 O74.1@Oth pulmonary comp of anesthesia during labor and delivery
 O74.2@Cardiac comp of anesthesia during labor and delivery
@@ -1843,6 +1897,7 @@ O74.6@Oth comp of spinal and epidural anesth during labor and del
 O74.7@Failed or difficult intubation for anesth dur labor and del
 O74.8@Other complications of anesthesia during labor and delivery
 O74.9@Complication of anesthesia during labor and delivery, unsp
+#
 O75.0@Maternal distress during labor and delivery
 O75.1@Shock during or following labor and delivery
 O75.2@Pyrexia during labor, not elsewhere classified
@@ -1853,14 +1908,20 @@ O75.81@Maternal exhaustion complicating labor and delivery
 O75.82@Onset labor 37-39 weeks, w del by (planned) cesarean section
 O75.89@Other specified complications of labor and delivery
 O75.9@Complication of labor and delivery, unspecified
+#
 O76.@Abnlt in fetal heart rate and rhythm comp labor and delivery
+#
 O77.0@Labor and delivery complicated by meconium in amniotic fluid
 O77.1@Fetal stress in labor or delivery due to drug administration
 O77.8@Labor and delivery comp by oth evidence of fetal stress
 O77.9@Labor and delivery complicated by fetal stress, unspecified
+#
 O80.@Encounter for full-term uncomplicated delivery
+#
 O82.@Encounter for cesarean delivery without indication
+#
 O85.@Puerperal sepsis
+#
 O86.0@Infection of obstetric surgical wound
 O86.11@Cervicitis following delivery
 O86.12@Endometritis following delivery
@@ -1873,6 +1934,7 @@ O86.29@Other urinary tract infection following delivery
 O86.4@Pyrexia of unknown origin following delivery
 O86.81@Puerperal septic thrombophlebitis
 O86.89@Other specified puerperal infections
+#
 O87.0@Superficial thrombophlebitis in the puerperium
 O87.1@Deep phlebothrombosis in the puerperium
 O87.2@Hemorrhoids in the puerperium
@@ -1880,6 +1942,7 @@ O87.3@Cerebral venous thrombosis in the puerperium
 O87.4@Varicose veins of lower extremity in the puerperium
 O87.8@Other venous complications in the puerperium
 O87.9@Venous complication in the puerperium, unspecified
+#
 O88.011@Air embolism in pregnancy, first trimester
 O88.012@Air embolism in pregnancy, second trimester
 O88.013@Air embolism in pregnancy, third trimester
@@ -1910,6 +1973,7 @@ O88.813@Other embolism in pregnancy, third trimester
 O88.819@Other embolism in pregnancy, unspecified trimester
 O88.82@Other embolism in childbirth
 O88.83@Other embolism in the puerperium
+#
 O89.01@Aspiration pneumonitis due to anesth during the puerperium
 O89.09@Oth pulmonary comp of anesthesia during the puerperium
 O89.1@Cardiac complications of anesthesia during the puerperium
@@ -1920,6 +1984,7 @@ O89.5@Oth comp of spinal and epidural anesth during the puerperium
 O89.6@Failed or difficult intubation for anesth during the puerp
 O89.8@Other complications of anesthesia during the puerperium
 O89.9@Complication of anesthesia during the puerperium, unsp
+#
 O90.0@Disruption of cesarean delivery wound
 O90.1@Disruption of perineal obstetric wound
 O90.2@Hematoma of obstetric wound
@@ -1930,6 +1995,7 @@ O90.6@Postpartum mood disturbance
 O90.81@Anemia of the puerperium
 O90.89@Oth complications of the puerperium, NEC
 O90.9@Complication of the puerperium, unspecified
+#
 O91.011@Infection of nipple associated w pregnancy, first trimester
 O91.012@Infection of nipple associated w pregnancy, second trimester
 O91.013@Infection of nipple associated w pregnancy, third trimester
@@ -1948,6 +2014,7 @@ O91.213@Nonpurulent mastitis associated w pregnancy, third trimester
 O91.219@Nonpurulent mastitis associated w pregnancy, unsp trimester
 O91.22@Nonpurulent mastitis associated with the puerperium
 O91.23@Nonpurulent mastitis associated with lactation
+#
 O92.011@Retracted nipple associated with pregnancy, first trimester
 O92.012@Retracted nipple associated with pregnancy, second trimester
 O92.013@Retracted nipple associated with pregnancy, third trimester
@@ -1968,7 +2035,9 @@ O92.5@Suppressed lactation
 O92.6@Galactorrhea
 O92.70@Unspecified disorders of lactation
 O92.79@Other disorders of lactation
+#
 O94.@Sequelae of comp of pregnancy, chldbrth, and the puerperium
+#
 O98.011@Tuberculosis complicating pregnancy, first trimester
 O98.012@Tuberculosis complicating pregnancy, second trimester
 O98.013@Tuberculosis complicating pregnancy, third trimester
@@ -2029,6 +2098,7 @@ O98.913@Unsp maternal infec/parastc disease comp preg, third tri
 O98.919@Unsp maternal infec/parastc disease comp preg, unsp tri
 O98.92@Unsp maternal infec/parastc disease complicating childbirth
 O98.93@Unsp maternal infec/parastc disease comp the puerperium
+#
 O99.011@Anemia complicating pregnancy, first trimester
 O99.012@Anemia complicating pregnancy, second trimester
 O99.013@Anemia complicating pregnancy, third trimester
@@ -2123,6 +2193,7 @@ O99.843@Bariatric surgery status comp pregnancy, third trimester
 O99.844@Bariatric surgery status complicating childbirth
 O99.845@Bariatric surgery status complicating the puerperium
 O99.89@Oth diseases and conditions compl preg/chldbrth
+#
 O9A.111@Malignant neoplasm complicating pregnancy, first trimester
 O9A.112@Malignant neoplasm complicating pregnancy, second trimester
 O9A.113@Malignant neoplasm complicating pregnancy, third trimester
