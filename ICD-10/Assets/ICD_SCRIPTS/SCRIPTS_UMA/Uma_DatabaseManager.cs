@@ -11,7 +11,6 @@ public class Uma_DatabaseManager : MonoBehaviour {
 	public TextAsset uma_ElementHeadings_Database;
 	public TextAsset[] uma_ElementsAZ_Database;
 	List<string> uma_Headings_List = new List<string>();
-	List<string> uma_SubHeadings_List = new List<string>();
 	List<string>[] uma_ElementsHeading_List;
 	List<string>[] uma_ElementAZ_List;
 	List<string> subElementsHeadings;

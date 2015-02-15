@@ -50,6 +50,8 @@
      <Compile Include="Assets\ICD_SCRIPTS\SCRIPTS_SRI\Sri_SwitchButton.cs" />
      <Compile Include="Assets\ICD_SCRIPTS\SCRIPTS_UMA\Uma_DatabaseManager.cs" />
      <Compile Include="Assets\ICD_SCRIPTS\SCRIPTS_UMA\Uma_GameManager.cs" />
+     <Compile Include="Assets\ICD_SCRIPTS\SCRIPTS_UMA\Uma_GameTime.cs" />
+     <Compile Include="Assets\Uma_Game_Answer_Script.cs" />
      <Compile Include="Assets\Uma_Game_Button_Script.cs" />
      <None Include="Assets\ICD_DATABASE\0-A00-Z99-ELEMENT HEADINGS.txt" />
      <None Include="Assets\ICD_DATABASE\S00-T88.txt" />
