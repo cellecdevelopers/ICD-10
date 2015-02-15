@@ -1,10 +1,31 @@
-$PROJDIR/ICD-10/Temp/
- $PROJDIR/ICD-10/Library/
- $PROJDIR/ICD-10/Obj/
- 
- *.csproj
- *.unityproj
- *.sln
- *.user
- *.userprefs
- *.DS_store
+# =============== #
+# Unity generated #
+# =============== #
+ICD-10/Temp/
+ICD-10/Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ICD-10/ExportedObj/
+ICD-10/obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
