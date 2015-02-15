@@ -1,6 +1,6 @@
-$PROJDIR/Temp/
- $PROJDIR/Library/
- $PROJDIR/Obj/
+$PROJDIR/ICD-10/Temp/
+ $PROJDIR/ICD-10/Library/
+ $PROJDIR/ICD-10/Obj/
  
  *.csproj
  *.unityproj
