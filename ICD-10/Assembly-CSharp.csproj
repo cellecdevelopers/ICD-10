@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{B5C34743-335C-5B8A-70B4-C0E6F1D690C8}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_1;UNITY_4_6;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_IL2CPP;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;UNITY5_SCRIPTING_IN_UNITY4;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_PRO_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\ICD_SCRIPTS\SCRIPTS_SRI\Sri_PlayButton.cs" />
+     <Compile Include="Assets\ICD_SCRIPTS\SCRIPTS_SRI\Sri_SwitchButton.cs" />
+     <Compile Include="Assets\ICD_SCRIPTS\SCRIPTS_UMA\Uma_DatabaseManager.cs" />
+     <Compile Include="Assets\ICD_SCRIPTS\SCRIPTS_UMA\Uma_GameManager.cs" />
+     <Compile Include="Assets\Uma_Game_Button_Script.cs" />
+     <None Include="Assets\ICD_DATABASE\0-A00-Z99-ELEMENT HEADINGS.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88.txt" />
+     <None Include="Assets\ICD_DATABASE\D50-D89.txt" />
+     <None Include="Assets\ICD_DATABASE\G00-G99.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\T15-T19.txt" />
+     <None Include="Assets\ICD_DATABASE\K00-K95.txt" />
+     <None Include="Assets\ICD_DATABASE\0-A00-Z99-SUBHEADINGS.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\S70-S79.txt" />
+     <None Include="Assets\ICD_DATABASE\L00-L99.txt" />
+     <None Include="Assets\ICD_DATABASE\J00-J99.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\S30-S39.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\T33-T34.txt" />
+     <None Include="Assets\ICD_DATABASE\C00-D49.txt" />
+     <None Include="Assets\ICD_DATABASE\H60-H95.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\T36-T50.txt" />
+     <None Include="Assets\ICD_DATABASE\I00-I99.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\T30-T32.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\T79-T79.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\S00-S09.txt" />
+     <None Include="Assets\ICD_DATABASE\R00-R99.txt" />
+     <None Include="Assets\ICD_DATABASE\O00-O9A.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\S90-S99.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\S50-S59.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\T66-T78.txt" />
+     <None Include="Assets\ICD_DATABASE\F01-F99.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\T26-T28.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\S60-S69.txt" />
+     <None Include="Assets\ICD_DATABASE\Q00-Q99.txt" />
+     <None Include="Assets\ICD_DATABASE\H00-H59.txt" />
+     <None Include="Assets\ICD_DATABASE\E00-E89.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\T80-T88.txt" />
+     <None Include="Assets\ICD_DATABASE\N00-N99.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\S40-S49.txt" />
+     <None Include="Assets\ICD_DATABASE\M00-M99.txt" />
+     <None Include="Assets\ICD_DATABASE\A00-Z99-HEADINGS.txt" />
+     <None Include="Assets\ICD_DATABASE\P00-P96.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\S20-S29.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\T51-T65.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\S80-S89.txt" />
+     <None Include="Assets\ICD_DATABASE\A00-B99.txt" />
+     <None Include="Assets\ICD_DATABASE\Z00-Z99.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\S10-S19.txt" />
+     <None Include="Assets\ICD_DATABASE\V00-Y99.txt" />
+     <None Include="Assets\ICD_DATABASE\S00-T88\T20-T25.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
