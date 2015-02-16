@@ -88,21 +88,30 @@ public class Uma_GameManager : MonoBehaviour {
 	{
 		int i = 0;
 
-		while(i<3)
+		do
 		{
-			if(fiftyFunction(uma_AnswerTexts[Random.Range(0,uma_AnswerTexts.Length)].transform.parent.GetComponent<Uma_Game_Answer_Script>()))
+			int rand = GetRandomText();
+			print(i.ToString()+" Random- "+rand.ToString());
+			if(fiftyFunction(uma_AnswerTexts[rand].transform.parent.GetComponent<Uma_Game_Answer_Script>()))
 			{
+			
 				i++;
 			}
 		}
-		
+		while(i<2);
 	}
 	#endregion
+
+	int GetRandomText()
+	{
+		int rand = Random.Range(0,uma_AnswerTexts.Length);
+		return rand;
+	}
 
 	#region fiftyCheckFunction
 	bool fiftyFunction(Uma_Game_Answer_Script wrongAnswer)
 	{
-		if(!wrongAnswer.Answer)
+		if(!wrongAnswer.Answer&&wrongAnswer.gameObject.activeSelf==true)
 		{
 			wrongAnswer.gameObject.SetActive(false);
 			return true;

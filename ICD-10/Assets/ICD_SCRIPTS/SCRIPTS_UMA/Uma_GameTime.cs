@@ -59,7 +59,6 @@ public class Uma_GameTime : MonoBehaviour {
 		PlayerPrefs.SetString(PlayerPrefs.GetString("Mode")+"_"+"TotalTime",totalTime_String);
 		GameOverScreen.SetActive(true);
 		Game.SetActive(false);
-		print("GameOver");
 	}
 	#endregion
 

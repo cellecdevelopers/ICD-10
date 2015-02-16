@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class Uma_Game_Button_Script : MonoBehaviour {
@@ -10,6 +11,10 @@ public class Uma_Game_Button_Script : MonoBehaviour {
 		uma_currentActiveObject.SetActive(false);
 	}
 
+	public void Disable()
+	{
+		GetComponent<Button>().interactable = false;
+	}
 	public void RestartButtonFunction()
 	{
 		Application.LoadLevel(Application.loadedLevel);
