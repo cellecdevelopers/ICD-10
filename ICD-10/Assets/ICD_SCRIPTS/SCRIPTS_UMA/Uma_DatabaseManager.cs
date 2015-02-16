@@ -34,9 +34,9 @@ public class Uma_DatabaseManager : MonoBehaviour {
 			uma_ElementAZ_List[i] = Regex.Split(uma_ElementsAZ_Database[i].text,"\r\n#\r\n").ToList();
 		}
 
-		print(DatabaseGetHeadings(2));
-		print(string.Join("\n",DatabaseGetGroupHeading(1,2).ToArray()));
-		print(string.Join("\n",DatabaseGetElementHeadings(2).ToArray()));
+		//print(DatabaseGetHeadings(2));
+		//print(string.Join("\n",DatabaseGetGroupHeading(1,2).ToArray()));
+		//print(string.Join("\n",DatabaseGetElementHeadings(2).ToArray()));
 	}
 	#endregion
 

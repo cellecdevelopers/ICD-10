@@ -90,6 +90,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7506ef102fa021941bc8e1b44983f3a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  uma_QuestionText: {fileID: 0}
+  uma_AnswerTexts:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  uma_questionNumber: {fileID: 0}
 --- !u!114 &11420186
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -105,7 +112,8 @@ MonoBehaviour:
     type: 3}
   uma_SubHeadings_Database: {fileID: 4900000, guid: 9a5501d142bb0844a8689cc0814b8042,
     type: 3}
-  uma_ElementHeadings_Database: {fileID: 0}
+  uma_ElementHeadings_Database: {fileID: 4900000, guid: b056d2004f7c7dd4ebb3375056cb026b,
+    type: 3}
   uma_ElementsAZ_Database:
   - {fileID: 4900000, guid: f41d3a9e493daf943ab4cf0e51c3c8a8, type: 3}
   - {fileID: 4900000, guid: e3ebbb237eb1c054bb3e75bc62bdaf63, type: 3}
@@ -146,12 +154,6 @@ MonoBehaviour:
   - {fileID: 4900000, guid: 58e39a2bb66647b4c83e31b4be625434, type: 3}
   - {fileID: 4900000, guid: df099d5f7d307c742b35f1c0ced12e94, type: 3}
   - {fileID: 4900000, guid: 87652d0f512c7ef4cbe55fe67c8d223a, type: 3}
-  uma_Headings_List: []
-  uma_SubHeadings_List: []
-  uma_returnPosition: 0
-  uma_ReturnValues: []
-  subheadCount: []
-  subElementCount: []
 --- !u!124 &12420186
 Behaviour:
   m_ObjectHideFlags: 1

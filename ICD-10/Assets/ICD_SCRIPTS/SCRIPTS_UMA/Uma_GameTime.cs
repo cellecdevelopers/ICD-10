@@ -2,40 +2,40 @@
 using UnityEngine.UI;
 using System.Collections;
 
-public class Uma_GamTime : MonoBehaviour {
+public class Uma_GameTime : MonoBehaviour {
 
 	#region Data Declarations
 	public GameObject GameOverScreen;
 	public GameObject Game;
+	public TextMesh timeText;
 	public bool Doit =false;
-	int startTime;
 	float time;
 	public float timeSpeed;
-	public int TimeStart;
+	public float startTime;
 	#endregion
 
 	#region StartFunction
 	void Start()
 	{
-		if(PlayerPrefs.GetInt(PlayerPrefs.GetString("Mode")+"_"+"LevelNumber")<=11)
-			startTime = TimeStart - (PlayerPrefs.GetInt(PlayerPrefs.GetString("Mode")+"_"+"LevelNumber")-1) * 5;
 		time = 0;
 	}
 	#endregion
 
 	#region UpdateFunction
-	void Update()
+	void FixedUpdate()
 	{
-		int diff = startTime - Mathf.FloorToInt(time);
-		if(Doit&&diff >= -1&&Time.timeScale == 1.0f)
+		float diff = startTime - time;
+		int diffText = Mathf.FloorToInt(diff);
+		if(Doit&&diff > -1&&Time.timeScale == 1.0f&&renderer.sharedMaterial.mainTextureOffset.x <1.01f)
 		{
 			time = time + timeSpeed;
-			GetComponent<Text>().text = diff.ToString();
-
+			if(diffText>=0)
+			timeText.text = diffText.ToString();
+			renderer.sharedMaterial.mainTextureOffset = new Vector2(1-(diff/startTime),0);
 			if(diff < 0)
 			{
 				Doit = false;
-				CloseThis();
+				//CloseThis();
 			}
 		}
 		
@@ -48,11 +48,11 @@ public class Uma_GamTime : MonoBehaviour {
 		float totalTime = 0;
 		for(int i =0;i<PlayerPrefs.GetInt(PlayerPrefs.GetString("Mode")+"_"+"LevelNumber");i++)
 		{
-			totalTime = totalTime + TimeStart - (PlayerPrefs.GetInt(PlayerPrefs.GetString("Mode")+"_"+"LevelNumber")-1) * 5;
+			totalTime = totalTime + startTime - (PlayerPrefs.GetInt(PlayerPrefs.GetString("Mode")+"_"+"LevelNumber")-1) * 5;
 		}
-//		int hours =0;
+		//	int hours =0;
 		int minutes=0,seconds=0;;
-	//	hours = Mathf.FloorToInt(totalTime/360.0f);
+		//	hours = Mathf.FloorToInt(totalTime/360.0f);
 		minutes = Mathf.FloorToInt(totalTime/60.0f);
 		seconds = Mathf.FloorToInt(totalTime%60.0f);
 		string totalTime_String = string.Format("{0:00}m:{1:00}s",minutes,seconds);
